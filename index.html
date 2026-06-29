@@ -5,38 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal</title>
     <link rel="stylesheet" href="css/styles.css">
-    <!-- Links para fontes ou ícones podem ser adicionados aqui no futuro -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    <!-- 1. TOPO E NAVEGAÇÃO -->
     <header>
-        <div class="logo-container">
-            <!-- Espaço para o brasão ou logótipo oficial -->
-            <img src="img/logo.png" alt="Brasão Oficial da Igreja" class="logo-img">
-            <div class="logo-text">
-                <h1>Igreja Vétero Católica de Jerusalém</h1>
-                <p>Portugal</p>
+        <div class="container header-flex">
+            <div class="logo-container">
+                <img src="img/logo.png" alt="Brasão Oficial da Igreja" class="logo-img">
+                <div class="logo-text">
+                    <h1>Igreja Vétero Católica de Jerusalém</h1>
+                    <p>Portugal</p>
+                </div>
             </div>
+            
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">Início</a></li>
+                    <li><a href="quem-somos.html">A Nossa Fé & História</a></li>
+                    <li><a href="comunidades.html">Comunidades & Horários</a></li>
+                    <li><a href="ordem-domingues.html">Vida Espiritual</a></li>
+                    <li><a href="associacao.html">Associação</a></li>
+                    <li><a href="agenda.html">Agenda</a></li>
+                    <li><a href="faq.html">FAQ & Contactos</a></li>
+                </ul>
+            </nav>
         </div>
-        
-        <nav>
-            <ul>
-                <li><a href="index.html" class="active">Início</a></li>
-                <li><a href="quem-somos.html">A Nossa Fé e História</a></li>
-                <li><a href="comunidades.html">Comunidades e Horários</a></li>
-                <li><a href="ordem-domingues.html">Vida Espiritual e Ordens</a></li>
-                <li><a href="associacao.html">Associação Entre Caminhos</a></li>
-                <li><a href="agenda.html">Agenda e Tradições</a></li>
-                <li><a href="faq.html">FAQ e Contactos</a></li>
-            </ul>
-        </nav>
     </header>
 
-    <!-- 2. BANNER PRINCIPAL (HERO SECTION) -->
     <section class="hero-banner">
         <div class="hero-content">
-            <h2>Primeira Igreja Apostólica Vétero Católica de Jerusalém</h2>
+            <h2>Primeira Igreja Apostólica<br>Vétero Católica de Jerusalém</h2>
             <p class="motto">"Na Tua Misericórdia"</p>
             <p class="sub-motto">Sob a Direção Espiritual de Dom Carlos Fonseca, Arcebispo Primaz</p>
             <a href="comunidades.html" class="btn-primary">Ver Horários das Missas</a>
@@ -44,7 +45,6 @@
     </section>
 
     <main>
-        <!-- 3. NOTA DE CLARIFICAÇÃO INSTITUCIONAL -->
         <section class="clarification-note">
             <div class="container">
                 <h3>Nota de Clarificação Institucional</h3>
@@ -53,7 +53,6 @@
             </div>
         </section>
 
-        <!-- 4. ACESSO RÁPIDO ÀS COMUNIDADES -->
         <section class="communities-preview">
             <div class="container">
                 <div class="section-title">
@@ -62,7 +61,6 @@
                 </div>
                 
                 <div class="grid-communities">
-                    <!-- Cartão Lourosa -->
                     <div class="community-card">
                         <div class="card-image" style="background-image: url('img/capela-almas.jpg');"></div>
                         <div class="card-content">
@@ -73,7 +71,6 @@
                         </div>
                     </div>
 
-                    <!-- Cartão Fátima -->
                     <div class="community-card">
                         <div class="card-image" style="background-image: url('img/oratorio-padre-pio.jpg');"></div>
                         <div class="card-content">
@@ -87,20 +84,23 @@
             </div>
         </section>
 
-        <!-- 5. PRÓXIMOS EVENTOS E DESTAQUES -->
         <section class="highlights">
             <div class="container">
                 <h3>Destaques da Comunidade</h3>
                 <div class="highlights-container">
                     <div class="highlight-item">
-                        <span class="date-badge">Maio</span>
+                        <div class="date-badge">
+                            <span class="month">Maio</span>
+                        </div>
                         <div class="highlight-text">
                             <h4>Grandes Festas da Capela das Almas</h4>
                             <p>Celebrações anuais em honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima, incluindo a tradicional Bênção dos Coletes Motard e procissão.</p>
                         </div>
                     </div>
                     <div class="highlight-item">
-                        <span class="date-badge">Dez</span>
+                        <div class="date-badge">
+                            <span class="month">Dez</span>
+                        </div>
                         <div class="highlight-text">
                             <h4>Peregrinação Diocesana a Fátima</h4>
                             <p>A nossa grande peregrinação anual de inverno, unindo todas as frentes pastorais e fiéis num ato solene de consagração e oração.</p>
@@ -114,7 +114,6 @@
         </section>
     </main>
 
-    <!-- 6. RODAPÉ (FOOTER) -->
     <footer>
         <div class="container footer-grid">
             <div class="footer-about">
