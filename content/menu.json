@@ -40,31 +40,31 @@
     },
     {
       "label": "A Nossa Fé & História",
-      "href": "quem-somos.html"
+      "href": "/page.html#quem-somos"
     },
     {
       "label": "Comunidades & Horários",
-      "href": "comunidades.html"
+      "href": "/page.html#comunidades"
     },
     {
       "label": "O Nosso Clero",
-      "href": "clero.html"
+      "href": "/page.html#clero"
     },
     {
       "label": "Vida Espiritual",
-      "href": "ordem-dominicana.html"
+      "href": "/page.html#ordem-dominicana"
     },
     {
       "label": "Associação",
-      "href": "associacao.html"
+      "href": "/page.html#associacao"
     },
     {
       "label": "Agenda",
-      "href": "agenda.html"
+      "href": "/page.html#agenda"
     },
     {
       "label": "FAQ & Contactos",
-      "href": "faq.html"
+      "href": "/page.html#faq"
     }
   ]
 }
