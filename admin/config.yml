@@ -112,3 +112,13 @@ collections:
             fields:
               - { label: "Label", name: "label", widget: "string" }
               - { label: "Link", name: "href", widget: "string" }
+
+  # PAGES (Markdown)
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    extension: "md"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
