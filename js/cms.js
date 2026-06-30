@@ -54,9 +54,10 @@ async function loadSettings() {
 // -----------------------------
 async function loadHomePage() {
     const { frontmatter, body } = await getMarkdown('/content/home.md');
+    const motto = frontmatter.hero_motto || '';
 
     document.getElementById('hero-title').innerHTML = frontmatter.hero_title || '';
-    document.getElementById('hero-motto').textContent = frontmatter.hero_motto || '';
+    document.getElementById('hero-motto').textContent = `"${motto}"`;
     document.getElementById('hero-subtitle').textContent = frontmatter.hero_subtitle || '';
     document.getElementById('hero-button').textContent = frontmatter.hero_button_text || '';
     document.getElementById('hero-button').href = frontmatter.hero_button_link || '#';
