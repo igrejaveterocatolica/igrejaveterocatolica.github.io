@@ -1,38 +1,4 @@
 {
-  "items": [
-    {
-      "label": "Início",
-      "href": "index.html"
-    },
-    {
-      "label": "A Nossa Fé & História",
-      "href": "quem-somos.html"
-    },
-    {
-      "label": "Comunidades & Horários",
-      "href": "comunidades.html"
-    },
-    {
-      "label": "O Nosso Clero",
-      "href": "clero.html"
-    },
-    {
-      "label": "Vida Espiritual",
-      "href": "ordem-domingues.html"
-    },
-    {
-      "label": "Associação",
-      "href": "associacao.html"
-    },
-    {
-      "label": "Agenda",
-      "href": "agenda.html"
-    },
-    {
-      "label": "FAQ & Contactos",
-      "href": "faq.html"
-    }
-  ],
   "": [
     {
       "label": "Início",
