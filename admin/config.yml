@@ -53,8 +53,8 @@ collections:
         name: "menu"
         file: "content/menu.json"
         fields:
-          - label: "Items"
-            name: "items"
+          - label: "Menu"
+            name: ""
             widget: "list"
             fields:
               - { label: "Label", name: "label", widget: "string" }
