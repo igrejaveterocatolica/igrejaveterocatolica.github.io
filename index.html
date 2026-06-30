@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal</title>
+    <title id="site-title"></title>
+
     <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,23 +15,16 @@
     <header>
         <div class="container header-flex">
             <div class="logo-container">
-                <img src="img/logo.png" alt="Brasão Oficial da Igreja" class="logo-img">
+                <img id="site-logo" class="logo-img" alt="">
                 <div class="logo-text">
-                    <h1>Igreja Vétero Católica de Jerusalém</h1>
-                    <p>Portugal</p>
+                    <h1 id="header-title"></h1>
+                    <p id="header-subtitle"></p>
                 </div>
             </div>
             
             <nav>
-                <ul>
-                    <li><a href="index.html" class="active">Início</a></li>
-                    <li><a href="quem-somos.html">A Nossa Fé & História</a></li>
-                    <li><a href="comunidades.html">Comunidades & Horários</a></li>
-                    <li><a href="clero.html">O Nosso Clero</a></li>
-                    <li><a href="ordem-domingues.html">Vida Espiritual</a></li>
-                    <li><a href="associacao.html">Associação</a></li>
-                    <li><a href="agenda.html">Agenda</a></li>
-                    <li><a href="faq.html">FAQ & Contactos</a></li>
+                <ul id="nav-menu">
+                    <!-- CMS will inject menu items -->
                 </ul>
             </nav>
         </div>
@@ -38,78 +32,42 @@
 
     <section class="hero-banner">
         <div class="hero-glass-container">
-            <h2>Primeira Igreja Apostólica<br>Vétero Católica de Jerusalém</h2>
-            <p class="motto">"Na Tua Misericórdia"</p>
-            <p class="sub-motto">Sob a Direção Espiritual de Dom Carlos Fonseca, Arcebispo Primaz</p>
-            <a href="comunidades.html" class="btn-primary">Ver Horários das Missas</a>
+            <h2 id="hero-title"></h2>
+            <p class="motto" id="hero-motto"></p>
+            <p class="sub-motto" id="hero-subtitle"></p>
+            <a id="hero-button" class="btn-primary"></a>
         </div>
     </section>
 
     <main>
         <section class="clarification-note">
             <div class="container">
-                <h3>Nota de Clarificação Institucional</h3>
-                <p>A <strong>Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal</strong> constitui o ramo legítimo e oficial em território português da <em>Igreja Apostólica Vétero Católica do Brasil Fidelitas</em>. Pautamo-nos pela transparência jurídica, canónica e espiritual.</p>
-                <p>Para evitar equívocos junto dos fiéis e da opinião pública, esclarecemos formalmente que <strong>não possuímos qualquer ligação administrativa, jurídica ou espiritual</strong> com outras entidades homónimas ou que utilizem denominações semelhantes atualmente registadas ou a operar em Portugal.</p>
+                <h3 id="clarification-title"></h3>
+                <div id="clarification-body"></div>
             </div>
         </section>
 
         <section class="communities-preview">
             <div class="container">
                 <div class="section-title">
-                    <h3>As Nossas Comunidades</h3>
-                    <p>Encontre o local de culto mais próximo de si e junte-se a nós em oração.</p>
+                    <h3 id="communities-title"></h3>
+                    <p id="communities-subtitle"></p>
                 </div>
                 
-                <div class="grid-communities">
-                    <div class="community-card">
-                        <div class="card-image" style="background-image: url('img/capela-almas.jpg');"></div>
-                        <div class="card-content">
-                            <h4>Capela das Almas</h4>
-                            <p class="location">📍 Lourosa, Santa Maria da Feira</p>
-                            <p class="description">A nossa principal comunidade local, com celebrações regulares, devoções marianas e uma vida comunitária ativa gerida em proximidade com os fiéis.</p>
-                            <a href="comunidades.html#lourosa" class="btn-secondary">Horários e Localização</a>
-                        </div>
-                    </div>
-
-                    <div class="community-card">
-                        <div class="card-image" style="background-image: url('img/oratorio-padre-pio.jpg');"></div>
-                        <div class="card-content">
-                            <h4>Oratório Padre Pio</h4>
-                            <p class="location">📍 Fátima</p>
-                            <p class="description">Um espaço de profunda espiritualidade dedicado a São Pio de Pietrelcina, acolhendo celebrações ocasionais e momentos de recolhimento no coração do Altar do Mundo.</p>
-                            <a href="comunidades.html#fatima" class="btn-secondary">Saber Mais</a>
-                        </div>
-                    </div>
+                <div class="grid-communities" id="communities-grid">
+                    <!-- CMS will inject community cards -->
                 </div>
             </div>
         </section>
 
         <section class="highlights">
             <div class="container">
-                <h3>Destaques da Comunidade</h3>
-                <div class="highlights-container">
-                    <div class="highlight-item">
-                        <div class="date-badge">
-                            <span class="month">Maio</span>
-                        </div>
-                        <div class="highlight-text">
-                            <h4>Grandes Festas da Capela das Almas</h4>
-                            <p>Celebrações anuais em honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima, incluindo a tradicional Bênção dos Coletes Motard e procissão.</p>
-                        </div>
-                    </div>
-                    <div class="highlight-item">
-                        <div class="date-badge">
-                            <span class="month">Dez</span>
-                        </div>
-                        <div class="highlight-text">
-                            <h4>Peregrinação Anual a Fátima</h4>
-                            <p>A nossa grande peregrinação anual de inverno, unindo todas as frentes pastorais e fiéis num ato solene de consagração e oração.</p>
-                        </div>
-                    </div>
+                <h3 id="highlights-title"></h3>
+                <div class="highlights-container" id="highlights-container">
+                    <!-- CMS will inject highlight items -->
                 </div>
                 <div class="center-btn">
-                    <a href="agenda.html" class="btn-link">Ver Agenda Completa →</a>
+                    <a id="highlights-button" class="btn-link"></a>
                 </div>
             </div>
         </section>
@@ -118,29 +76,27 @@
     <footer>
         <div class="container footer-grid">
             <div class="footer-about">
-                <h5>Igreja Vétero Católica de Jerusalém</h5>
-                <p>Uma comunidade católica de portas abertas, mantendo a tradição apostólica com uma pastoral de acolhimento e misericórdia.</p>
+                <h5 id="footer-title"></h5>
+                <p id="footer-description"></p>
             </div>
             <div class="footer-links">
-                <h5>Acessos Rápidos</h5>
-                <ul>
-                    <li><a href="quem-somos.html#sucessao">Sucessão Apostólica</a></li>
-                    <li><a href="ordem-domingues.html">Ordem Terceira de S. Domingos</a></li>
-                    <li><a href="associacao.html">Associação Entre Caminhos</a></li>
-                    <li><a href="faq.html">Perguntas Frequentes</a></li>
-                </ul>
+                <h5 id="footer-links-title"></h5>
+                <ul id="footer-links-list"></ul>
             </div>
             <div class="footer-contact">
-                <h5>Contactos Rápidos</h5>
-                <p>📧 primeiraigrejavcjerusalempt@gmail.com</p>
-                <p>📍 Capela das Almas - Lourosa, Portugal</p>
+                <h5 id="footer-contact-title"></h5>
+                <p id="footer-email"></p>
+                <p id="footer-location"></p>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2026 Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal. Todos os direitos reservados.</p>
-            <p class="civil-note">A gestão civil e patrimonial dos espaços é assegurada pela Associação Entre Caminhos.</p>
+            <p id="footer-copyright"></p>
+            <p id="footer-civil-note" class="civil-note"></p>
         </div>
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/cms.js"></script>
 
 </body>
 </html>

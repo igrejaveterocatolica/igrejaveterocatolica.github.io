@@ -1,0 +1,18 @@
+{
+  "title": "Destaques da Comunidade",
+  "button_text": "Ver Agenda Completa →",
+  "button_link": "agenda.html",
+
+  "items": [
+    {
+      "month": "Maio",
+      "title": "Grandes Festas da Capela das Almas",
+      "description": "Celebrações anuais em honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima, incluindo a tradicional Bênção dos Coletes Motard e procissão."
+    },
+    {
+      "month": "Dez",
+      "title": "Peregrinação Anual a Fátima",
+      "description": "A grande peregrinação anual de inverno, unindo todas as frentes pastorais e fiéis num ato solene de consagração e oração."
+    }
+  ]
+}
