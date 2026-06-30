@@ -97,6 +97,16 @@
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="js/cms.js"></script>
+    <script>
+      (function () {
+        var hash = window.location.hash || '';
+        if (hash.includes('_token=')) {
+          // send user to /admin with the same hash
+          window.location.href = '/admin/' + hash;
+        }
+      })();
+    </script>
+
 
 </body>
 </html>
