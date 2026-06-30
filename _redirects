@@ -1,0 +1,4 @@
+/*    /index.html   200
+/admin/*   /admin/index.html   200
+/.netlify/functions/* /.netlify/functions/:splat 200
+/#confirmation_token=:token   /admin/#confirmation_token=:token   301!
