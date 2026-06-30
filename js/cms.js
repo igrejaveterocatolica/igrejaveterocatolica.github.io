@@ -69,12 +69,15 @@ async function loadHomePage() {
 // Load Menu (JSON)
 // -----------------------------
 async function loadMenu() {
-    const items = await getJSON('/content/menu.json');
-    const nav = document.getElementById('nav-menu');
+  const data = await getJSON("/content/menu.json");
 
-    nav.innerHTML = items.map(item => `
-        <li><a href="${item.href}">${item.label}</a></li>
-    `).join('');
+  // CMS stores the list under the empty key ""
+  const items = data[""];
+
+  const nav = document.getElementById("nav-menu");
+  nav.innerHTML = items
+    .map(item => `<li><a href="${item.href}">${item.label}</a></li>`)
+    .join("");
 }
 
 // -----------------------------
