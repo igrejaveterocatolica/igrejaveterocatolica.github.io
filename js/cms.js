@@ -134,6 +134,19 @@ async function loadFooterLinks() {
 }
 
 // -----------------------------
+// Universal MD Page Loader
+// -----------------------------
+async function loadPage(pageName) {
+  const path = `/content/pages/${pageName}.md`;
+
+  const { frontmatter, body } = await getMarkdown(path);
+
+  document.getElementById("page-title").textContent = frontmatter.title;
+  document.getElementById("page-body").innerHTML = marked.parse(body);
+}
+
+
+// -----------------------------
 // Init
 // -----------------------------
 loadSettings();
