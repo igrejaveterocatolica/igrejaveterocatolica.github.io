@@ -1,9 +1,9 @@
 ---
 hero_title: Primeira Igreja Apostólica<br>Vétero Católica de Jerusalém
-hero_motto: Na Tua Misericórdia
+hero_motto: '"Na Tua Misericórdia"'
 hero_subtitle: Sob a Direção Espiritual de Dom Carlos Fonseca, Arcebispo Primaz
 hero_button_text: Ver Horários das Missas
-hero_button_link: comunidades.html
+hero_button_link: pages.html#comunidades
 clarification_title: Nota de Clarificação Institucional
 ---
 
