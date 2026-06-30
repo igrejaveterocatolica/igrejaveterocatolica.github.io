@@ -1,5 +1,4 @@
-/*    /index.html   200
 /admin/*   /admin/index.html   200
-
 /#confirmation_token=:token   /admin/#confirmation_token=:token   301!
 /#recovery_token=:token       /admin/#recovery_token=:token       301!
+/#invite_token=:token         /admin/#invite_token=:token         301!
