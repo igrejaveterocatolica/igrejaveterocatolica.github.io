@@ -149,11 +149,21 @@ async function loadPage(slug) {
   try {
     const res = await fetch(path);
 
+    // If the page does not exist → load 404.md
     if (!res.ok) {
-      // Fallback to 404.md
-      return loadPage("404");
+      if (slug !== "404") {
+        return loadPage("404");
+      }
+
+      // If even 404.md fails → hard fallback
+      document.getElementById("page-title").textContent = "Página não encontrada";
+      document.getElementById("page-body").innerHTML = `
+        <p>A página solicitada não existe.</p>
+      `;
+      return;
     }
 
+    // Only read text if response is OK
     const raw = await res.text();
     const { frontmatter, body } = getMarkdownFromRaw(raw);
 
@@ -163,7 +173,7 @@ async function loadPage(slug) {
     document.getElementById("page-body").innerHTML = marked.parse(body);
 
   } catch (err) {
-    // If even 404.md fails
+    // Network or unexpected error
     document.getElementById("page-title").textContent = "Erro ao carregar";
     document.getElementById("page-body").innerHTML = `
       <center><p>Não foi possível carregar esta página.</p></center>
