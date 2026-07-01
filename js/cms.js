@@ -108,7 +108,8 @@ async function loadHighlights() {
     const highlights = await getJSON('/content/highlights.json');
     const container = document.getElementById('highlights-container');
 
-    container.innerHTML = highlights.map(h => `
+    // Render highlight items
+    container.innerHTML = (highlights.items || []).map(h => `
         <div class="highlight-item">
             <div class="date-badge">
                 <span class="month">${h.month}</span>
@@ -120,10 +121,12 @@ async function loadHighlights() {
         </div>
     `).join('');
 
+    // Render metadata
     document.getElementById('highlights-title').textContent = highlights.title || '';
     document.getElementById('highlights-button').textContent = highlights.button_text || '';
     document.getElementById('highlights-button').href = highlights.button_link || '#';
 }
+
 
 // -----------------------------
 // Load Footer Links (JSON)
