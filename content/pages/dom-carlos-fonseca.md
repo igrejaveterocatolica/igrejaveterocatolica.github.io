@@ -2,17 +2,17 @@
 slug: dom-carlos-fonseca
 title: Dom Carlos Fonseca
 ---
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div class="clero-header">
     <img src="./img/dom-carlos-fonseca.png" width="160" style="border-radius: 6px;">
     <div>
         <h3 style="margin: 0;">Arcebispo Primaz e Patriarca IV</h3>
     </div>
 </div>
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+<div class="clero-columns">
 
 <!-- BIOGRAFIA -->
-<div style="flex: 1;">
+<div class="clero-column">
 
 ### Biografia
 
@@ -35,7 +35,7 @@ Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley �
 <br><br>
 
 <!-- HERÁLDICA -->
-<div style="flex: 1;">
+<div class="clero-column">
 
 ### Heráldica
 
