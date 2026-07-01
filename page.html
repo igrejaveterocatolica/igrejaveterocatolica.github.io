@@ -80,6 +80,18 @@
       loadPage(pageName);
     </script>
 
+    <script>
+      function loadFromHash() {
+        const pageName = window.location.hash.replace("#", "") || "home";
+        loadPage(pageName);
+      }
+    
+      // Load on first page load
+      loadFromHash();
+    
+      // Load again when clicking links that change the hash
+      window.addEventListener("hashchange", loadFromHash);
+    </script>
 
 
 </body>
