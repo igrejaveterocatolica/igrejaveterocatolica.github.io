@@ -186,7 +186,13 @@ function showHardFallback() {
 // Init
 // -----------------------------
 loadSettings();
-loadHomePage();
+const slug = window.location.pathname.replace('/', '') || 'home';
+
+if (slug === '' || slug === 'home') {
+    loadHomePage();
+} else {
+    loadPage(slug);
+}
 loadMenu();
 loadCommunities();
 loadHighlights();
