@@ -14,7 +14,7 @@ title: O Nosso Clero
 
 ## Biografia
 
-**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom José Silva. É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obra que dá continuidade à primeira e procura alertar consciências para os problemas sociais do quotidiano bem como o porquê de se procurar o Divino, e depois nos afastarmos de Deus.
+**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom José Silva. É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obra que dá continuidade à primeira e procura alertar consciências para os problemas sociais do quotidiano bem como o porquê de se procurar o Divino, e depois nos afastarmos de Deus. <br><br>
 
 ---
 
@@ -33,7 +33,7 @@ O escudo combina **verde** e **vermelho**, cores nacionais que evocam raízes e 
 - **4.º quartel:** coroa de espinhos em negro atravessada por três cravos de prata — referência à Paixão e ao amor redentor. <br>
 
 **Elementos exteriores**  
-Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e listel de prata com verso vermelho contendo o lema **Na Tua Misericórdia**.
+Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e listel de prata com verso vermelho contendo o lema **Na Tua Misericórdia**. <br><br>
 
 ---
 
