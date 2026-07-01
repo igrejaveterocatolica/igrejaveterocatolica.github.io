@@ -41,7 +41,7 @@ Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley �
 ### Heráldica
 
 <img src="./img/brasao-dom-carlos-fonseca.jpg" width="260" style="border-radius: 6px;"><br>
-*Brasão de Dom Carlos Fonseca — Arcebispo Primaz e Patriarca IV.*
+*Brasão de Dom Carlos Fonseca — Arcebispo Primaz e Patriarca IV.* <br><br>
 
 **Lema:** *Na Tua Misericórdia*
 
