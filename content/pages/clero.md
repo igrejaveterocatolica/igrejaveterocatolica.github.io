@@ -16,7 +16,7 @@ title: O Nosso Clero
 <br><br>
 
 <div class="clero-header">
-    <img src="./img/dom-armando-vilela.jpg" width="160" style="border-radius: 6px;">
+    <img src="./img/dom-armando-vilela.png" width="160" style="border-radius: 6px;">
     <img src="./img/brasao-dom-armando-vilela.png" height="160" style="border-radius: 6px;">
     <div>
         <h2 style="margin: 0;">Dom Armando dos Santos Vilela</h2>
@@ -27,7 +27,7 @@ title: O Nosso Clero
 <br><br>
 
 <div class="clero-header">
-    <img src="./img/dom-jose-reis.jpg" width="160" style="border-radius: 6px;">
+    <img src="./img/dom-jose-reis.png" width="160" style="border-radius: 6px;">
     <div>
         <h2 style="margin: 0;">Dom José Reis</h2>
         <h3 style="margin: 0;">Bispo Auxiliar</h3>
