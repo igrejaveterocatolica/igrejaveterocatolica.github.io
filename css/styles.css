@@ -563,3 +563,8 @@ footer h5 {
     }
 }
 
+.clero-header {
+    justify-content: flex-start !important;
+    text-align: left !important;
+}
+
