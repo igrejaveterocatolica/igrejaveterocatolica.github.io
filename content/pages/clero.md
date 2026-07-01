@@ -1,5 +1,5 @@
 ---
-title: clero
+title: O Nosso Clero
 ---
 # Dom Carlos Fonseca
 ## Arcebispo Primaz e Patriarca IV
