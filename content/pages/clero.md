@@ -18,11 +18,13 @@ title: O Nosso Clero
 
 ---
 
-## Brasão
+## Heráldica
 
 <img src="./img/brasao-dom-carlos-fonseca.jpg" width="300" /><br>
 
-**Legenda:** Brasão de Dom Carlos Fonseca — Arcebispo Primaz e Patriarca IV. Lema: **Na Tua Misericórdia**.
+Brasão de Dom Carlos Fonseca - Arcebispo Primaz e Patriarca IV. 
+
+Lema: **Na Tua Misericórdia**.
 
 O escudo combina **verde** e **vermelho**, cores nacionais que evocam raízes e identidade. Ao centro, uma **cruz de ouro** organiza a composição e simboliza Cristo como eixo do ministério pastoral.
 
