@@ -1,4 +1,5 @@
 ---
+slug: quem-somos
 title: A Nossa Fé & História
 ---
 ## A Sé de Utrecht e os Seus Privilégios Históricos
