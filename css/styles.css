@@ -498,3 +498,18 @@ footer h5 {
         gap: 15px;
     }
 }
+
+/* Ajuste do bloco do clero em mobile */
+@media (max-width: 768px) {
+    .clero-header {
+        flex-direction: column !important;
+        text-align: center;
+        gap: 15px !important;
+    }
+
+    .clero-header img {
+        width: 140px !important;
+        height: auto !important;
+    }
+}
+
