@@ -36,7 +36,9 @@ A presença vétero‑católica no Brasil iniciou‑se com a comunidade polaca d
 * Conflitos sobre templos e autoridade culminaram no misterioso incêndio da igreja vétero‑católica em 6 de janeiro de 1934. <br><br><br><br>
 
 ## Os Fidelitas do Brasil e a Sucessão Apostólica
-Os Fidelitas do Brasil consideram‑se herdeiros diretos dessa missão polaca. Mantêm fidelidade à doutrina tradicional e aproximaram‑se da União de Scranton, união conservadora que também se separou de Utrecht devido ao progressivismo desta. <br><br>
+Os Fidelitas do Brasil são herdeiros legítimos dessa missão polaca. Mantêm fidelidade à doutrina tradicional e reaproximaram‑se da União de Scranton. <br><br>
+
+Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pela Nordic Catholic Church que se separaram da União de Utretch nos anos 2000 devido à ordenação de mulheres e casamentos de uniões do mesmo sexo. Os Fidelitas têm uma relação próxima com a União de Scranton, tendo formalizado um pedido de adesão e estando neste momento a aguardar a aceitação. <br><br>
 
 O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
