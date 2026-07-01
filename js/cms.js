@@ -96,18 +96,38 @@ async function loadCommunities() {
     const communities = (await getJSON('/content/communities.json'))[""];
     const grid = document.getElementById('communities-grid');
 
-    grid.innerHTML = communities.map(c => `
-        <div class="community-card">
-            <div class="card-image" style="background-image: url('${c.image}')"></div>
-            <div class="card-content">
-                <h4>${c.title}</h4>
-                <p class="location">${c.location}</p>
-                <p class="description">${c.description}</p>
-                <a href="${c.link}" class="btn-secondary">${c.button}</a>
+    grid.innerHTML = communities.map(c => {
+        const hasLink = c.link && c.link.trim() !== "";
+        const hasButton = c.button && c.button.trim() !== "";
+
+        let buttonEl = "";
+
+        if (hasLink && hasButton) {
+            // Normal case: both exist
+            buttonEl = `<a href="${c.link}" class="btn-secondary">${c.button}</a>`;
+        } else if (hasLink && !hasButton) {
+            // Link exists, button text missing → use placeholder
+            buttonEl = `<a href="${c.link}" class="btn-secondary">Saber Mais</a>`;
+        } else if (!hasLink && hasButton) {
+            // Button text exists, but no link → render non-clickable element
+            buttonEl = `<span class="btn-secondary">${c.button}</span>`;
+        }
+        // If both missing → buttonEl stays ""
+
+        return `
+            <div class="community-card">
+                <div class="card-image" style="background-image: url('${c.image}')"></div>
+                <div class="card-content">
+                    <h4>${c.title}</h4>
+                    <p class="location">${c.location}</p>
+                    <p class="description">${c.description}</p>
+                    ${buttonEl}
+                </div>
             </div>
-        </div>
-    `).join('');
+        `;
+    }).join('');
 }
+
 
 // -----------------------------
 // Load Highlights (JSON)
