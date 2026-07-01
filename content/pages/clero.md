@@ -39,11 +39,17 @@ Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e liste
 
 ## Sucessão Apostólica
 
-A sucessão apostólica de Dom Carlos Fonseca integra duas matrizes históricas: a **linha antioquena** (remontando a São Pedro, Apóstolo) e as **linhas Vétero‑Católicas / Old Catholic** que se desenvolveram a partir do século XIX. Essas tradições convergem em cadeias de consagração que ligam as origens apostólicas às consagrações contemporâneas na América e no Brasil. <br>
+A sucessão apostólica de Dom Carlos Fonseca é composta por **duas linhas principais**:
 
-**Traço histórico essencial**  
-- **Linha antioquena antiga:** São Pedro → sucessores do patriarcado de Antioquia até figuras modernas que mantêm a tradição oriental.  
-- **Linha Old Catholic / Vétero‑Católica:** desenvolveu‑se a partir de consagrações independentes (séculos XIX–XX), com nomes-chave como Mar Ignatius Peter III, Mar Julius I e Joseph René Vilatte, que transmitiram a sucessão para a América e outras regiões, e que chega a sua beatitude Dom Paulus Nunes, Patriarca da Igreja Vétero Católica Fidelitas do Brasil e Exterior via Dom Arnold Matthew (linha Old Roman / Vétero Romana). <br>
+- **Linha Vilatte**  
+  - Origem: Linha Síria "Jacobita" (Patriarcado de Antióquia).  
+  - Transmissão ocidental: Dom Joseph René Vilatte.
+
+- **Linha Matthew**  
+  - Origem: Vétero‑Católica / Old Catholic.
+  - Desenvolvimento: Vétero‑Romana / Old Roman.
+  - Transmissão: Dom Arnold Harris Matthew.
+ <br> <br>
 
 **Resumo:**  
 Joseph René Vilatte → George A. McGuire → Jas. F. A. Lashley → Wanderley Gonçalves de Almeida → Rafael Linueza Peres → José Carlos Teodoro → Paulo Pereira → Paulus Nunes → Maurizio Raimundo → José Silva → **Carlos Fonseca** → Armando Vilela.
