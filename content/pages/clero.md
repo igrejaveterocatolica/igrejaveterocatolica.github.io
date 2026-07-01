@@ -15,7 +15,7 @@ title: O Nosso Clero
 
 ## Brasão
 
-<img src="./img/brasao-dom-carlos-fonseca.jpg" width="300" />
+<img src="./img/brasao-dom-carlos-fonseca.jpg" width="300" /><br>
 
 **Legenda:** Brasão de Dom Carlos Fonseca — Arcebispo Primaz e Patriarca IV. Lema: **Na Tua Misericórdia**.
 
