@@ -2,8 +2,13 @@
 slug: clero
 title: O Nosso Clero
 ---
-# Dom Carlos Fonseca
-## Arcebispo Primaz e Patriarca IV
+<div style="display: flex; align-items: center; gap: 20px;">
+    <img src="./img/dom-carlos-fonseca.png" width="180" style="border-radius: 6px;">
+    <div>
+        <h1 style="margin: 0;">Dom Carlos Fonseca</h1>
+        <h3 style="margin: 0;">Arcebispo Primaz e Patriarca IV</h3>
+    </div>
+</div>
 
 ---
 
