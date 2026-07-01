@@ -33,6 +33,8 @@ Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley �
 
 </div>
 
+<br><br>
+
 <!-- HERÁLDICA -->
 <div style="flex: 1;">
 
