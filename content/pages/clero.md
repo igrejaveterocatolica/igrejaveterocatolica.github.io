@@ -9,13 +9,14 @@ title: O Nosso Clero
 
 ## Biografia
 
-**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por sua beatitude Dom Paulus Nunes, Patriarca da Igreja Vétero Católica Fidelitas do Brasil e Exterior. É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obra que dá continuidade à primeira e procura alertar consciências para os problemas sociais do quotidiano bem como o porquê de se procurar o Divino, e depois nos afastarmos de Deus.
+**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom José Silva. É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obra que dá continuidade à primeira e procura alertar consciências para os problemas sociais do quotidiano bem como o porquê de se procurar o Divino, e depois nos afastarmos de Deus.
 
 ---
 
 ## Brasão
 
 <img src="./img/brasao-dom-carlos-fonseca.jpg" width="300" />
+
 **Legenda:** Brasão de Dom Carlos Fonseca — Arcebispo Primaz e Patriarca IV. Lema: **Na Tua Misericórdia**.
 
 O escudo combina **verde** e **vermelho**, cores nacionais que evocam raízes e identidade. Ao centro, uma **cruz de ouro** organiza a composição e simboliza Cristo como eixo do ministério pastoral.
