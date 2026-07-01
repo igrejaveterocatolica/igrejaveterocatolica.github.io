@@ -513,3 +513,53 @@ footer h5 {
     }
 }
 
+/* Cabeçalho pequeno do clero */
+.clero-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap; /* evita quebra mesmo em desktop */
+}
+
+.clero-header img {
+    max-width: 160px;
+    width: 100%;
+    height: auto;
+}
+
+/* Colunas principais (biografia + heráldica) */
+.clero-columns {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    flex-wrap: wrap; /* permite reorganizar em mobile */
+}
+
+.clero-column {
+    flex: 1;
+    min-width: 280px; /* evita colunas demasiado estreitas */
+}
+
+@media (max-width: 768px) {
+
+    .clero-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+
+    .clero-header img {
+        width: 140px;
+    }
+
+    .clero-columns {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .clero-column {
+        width: 100%;
+    }
+}
+
