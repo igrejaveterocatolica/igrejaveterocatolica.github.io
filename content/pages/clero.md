@@ -17,7 +17,7 @@ title: O Nosso Clero
 
 <div class="clero-header">
     <img src="./img/dom-armando-vilela.jpg" width="160" style="border-radius: 6px;">
-    <img src="./img/brasao-dom-armando-vilela.jpg" height="160" style="border-radius: 6px;">
+    <img src="./img/brasao-dom-armando-vilela.png" height="160" style="border-radius: 6px;">
     <div>
         <h2 style="margin: 0;">Dom Armando dos Santos Vilela</h2>
         <h3 style="margin: 0;">Bispo Auxiliar e Chanceler</h3>
