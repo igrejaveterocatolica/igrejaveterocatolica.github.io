@@ -56,4 +56,4 @@ A sucessão apostólica de Dom Carlos Fonseca é composta por **duas linhas prin
  <br> <br>
 
 **Resumo:**  
-Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes**, *Patriarca dos Vétero Católicos Fidelitas do Brasil e Exterior* → Dom Maurizio Raimundo → Dom José Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
+Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes**, *Patriarca dos Vétero Católicos Fidelitas do Brasil e Exterior* → Dom Maurizio Raimundo → Dom José Silva → **Dom Carlos Fonseca** → Dom Armando Vilela. <br><br><br><br>
