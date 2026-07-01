@@ -1,4 +1,5 @@
 ---
+slug: clero
 title: O Nosso Clero
 ---
 # Dom Carlos Fonseca
