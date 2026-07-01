@@ -8,7 +8,7 @@ title: O Nosso Clero
         <h1 style="margin: 0;">Dom Carlos Fonseca</h1>
         <h3 style="margin: 0;">Arcebispo Primaz e Patriarca IV</h3>
     </div>
-</div>
+</div><br><br>
 
 ---
 
