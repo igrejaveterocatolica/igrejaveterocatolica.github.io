@@ -85,7 +85,7 @@ async function loadMenu() {
 // Load Communities (JSON)
 // -----------------------------
 async function loadCommunities() {
-    const communities = await getJSON('/content/communities.json');
+    const communities = (await getJSON('/content/communities.json'))[""];
     const grid = document.getElementById('communities-grid');
 
     grid.innerHTML = communities.map(c => `
