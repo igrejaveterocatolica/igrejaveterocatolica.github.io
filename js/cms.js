@@ -190,8 +190,8 @@ const slug = window.location.pathname.replace('/', '') || 'home';
 // If homepage
 if (slug === '' || slug === 'index.html' || slug === 'home') {
     loadHomePage();
+    loadCommunities();
+    loadHighlights();
 }
 loadMenu();
-loadCommunities();
-loadHighlights();
 loadFooterLinks();
