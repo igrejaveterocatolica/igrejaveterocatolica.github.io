@@ -1,7 +1,7 @@
 {
   "title": "Destaques da Comunidade",
   "button_text": "Ver Agenda Completa →",
-  "button_link": "agenda.html",
+  "button_link": "page.html#agenda",
 
   "items": [
     {
