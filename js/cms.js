@@ -146,11 +146,31 @@ async function loadFooterLinks() {
 async function loadPage(slug) {
   const path = `/content/pages/${slug}.md`;
 
-  const { frontmatter, body } = await getMarkdown(path);
+  try {
+    const res = await fetch(path);
 
-  document.getElementById("page-title").textContent = frontmatter.title;
-  document.getElementById("page-body").innerHTML = marked.parse(body);
+    if (!res.ok) {
+      // Fallback to 404.md
+      return loadPage("404");
+    }
+
+    const raw = await res.text();
+    const { frontmatter, body } = getMarkdownFromRaw(raw);
+
+    document.getElementById("page-title").textContent =
+      frontmatter.title || slug;
+
+    document.getElementById("page-body").innerHTML = marked.parse(body);
+
+  } catch (err) {
+    // If even 404.md fails
+    document.getElementById("page-title").textContent = "Erro ao carregar";
+    document.getElementById("page-body").innerHTML = `
+      <p>Não foi possível carregar esta página.</p>
+    `;
+  }
 }
+
 
 
 // -----------------------------
