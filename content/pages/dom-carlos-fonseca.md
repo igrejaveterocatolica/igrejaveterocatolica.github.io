@@ -1,4 +1,5 @@
 ---
+slug: dom-carlos-fonseca
 title: Dom Carlos Fonseca
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
