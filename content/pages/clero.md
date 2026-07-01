@@ -26,13 +26,15 @@ Brasão de Dom Carlos Fonseca - Arcebispo Primaz e Patriarca IV.
 
 Lema: **Na Tua Misericórdia**.
 
-O escudo combina **verde** e **vermelho**, cores nacionais que evocam raízes e identidade. Ao centro, uma **cruz de ouro** organiza a composição e simboliza Cristo como eixo do ministério pastoral.
+O escudo combina **verde** e **vermelho**, cores nacionais que evocam raízes e identidade. 
+
+Ao centro, uma **cruz de ouro** organiza a composição e simboliza Cristo como eixo do ministério pastoral. <br><br>
 
 **Leitura dos quartéis**  
-- **1.º quartel:** mariograma marista de prata com arco de doze estrelas — origem espiritual e consagração filial à Imaculada Conceição.  
-- **2.º quartel:** cena de Cristo a lavar os pés, em prata — ministério entendido como serviço e humildade.  
-- **3.º quartel:** Livro dos Evangelhos em vermelho com cruz latina de ouro — centralidade da Palavra e compromisso evangelizador.  
-- **4.º quartel:** coroa de espinhos em negro atravessada por três cravos de prata — referência à Paixão e ao amor redentor. <br>
+- **1.º quartel:** mariograma marista de prata com arco de doze estrelas - origem espiritual e consagração filial à Imaculada Conceição.  
+- **2.º quartel:** cena de Cristo a lavar os pés, em prata - ministério entendido como serviço e humildade.  
+- **3.º quartel:** Livro dos Evangelhos em vermelho com cruz latina de ouro - centralidade da Palavra e compromisso evangelizador.  
+- **4.º quartel:** coroa de espinhos em negro atravessada por três cravos de prata - referência à Paixão e ao amor redentor. <br><br>
 
 **Elementos exteriores**  
 Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e listel de prata com verso vermelho contendo o lema **Na Tua Misericórdia**. <br><br>
@@ -54,4 +56,4 @@ A sucessão apostólica de Dom Carlos Fonseca é composta por **duas linhas prin
  <br> <br>
 
 **Resumo:**  
-Joseph René Vilatte → George A. McGuire → Jas. F. A. Lashley → Wanderley Gonçalves de Almeida → Rafael Linueza Peres → José Carlos Teodoro → Paulo Pereira → Paulus Nunes → Maurizio Raimundo → José Silva → **Carlos Fonseca** → Armando Vilela.
+Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes**, *Patriarca dos Vétero Católicos Fidelitas do Brasil e Exterior* → Dom Maurizio Raimundo → Dom José Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
