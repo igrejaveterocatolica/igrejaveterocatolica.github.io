@@ -53,8 +53,8 @@ A nossa identidade teológica é o **Ultrajectinismo**: rejeitamos a infalibilid
 ## Disciplina e Prática Pastoral
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
 
-* **Celibato opcional** para clérigos.
-* **Comunhão para divorciados recasados**, mediante discernimento pastoral. <br><br><br><br>
+* **Celibato opcional** para os clérigos, reconhecendo que o celibato permanece uma prática virtuosa e uma fonte de graça para os sacerdotes que livremente o abraçam.
+* **Comunhão para divorciados recasados**, mediante discernimento pastoral aos casais que apresentem uma vida cristã madura e desejem receber o Sacramento. <br><br><br><br>
 
 ## Conclusão
 
