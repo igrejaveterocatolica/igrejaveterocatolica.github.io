@@ -54,10 +54,10 @@ A nossa identidade teológica é o **Ultrajectinismo**: rejeitamos a infalibilid
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
 
 * **Celibato opcional** para clérigos.
-* **Comunhão para divorciados recasados**, mediante discernimento pastoral.
+* **Comunhão para divorciados recasados**, mediante discernimento pastoral. <br><br><br><br>
 
 ## Conclusão
 
-Rejeitamos as inovações que violam o depósito da fé. Da mesma forma que os nossos antecessores se opuseram aos desvios do seu tempo, manifestamos hoje uma profunda discordância com as recentes tendências progressivistas e anti-tradicionais adotadas por Roma nos últimos anos, as quais descaracterizam a herança litúrgica e moral tradicional do catolicismo.
+Rejeitamos as inovações que violam o depósito da fé. Da mesma forma que os nossos antecessores se opuseram aos desvios do seu tempo, manifestamos hoje uma profunda discordância com as recentes tendências progressivistas e anti-tradicionais adotadas por Roma nos últimos anos, as quais descaracterizam a herança litúrgica e moral tradicional do catolicismo. <br><br>
 
-Mantemo-nos, assim, como um farol de continuidade da Igreja de sempre: católicos na doutrina, apostólicos na sucessão, tradicionais na fé.
+Mantemo-nos, assim, como um farol de continuidade da Igreja de sempre: católicos na doutrina, apostólicos na sucessão, tradicionais na fé. <br><br>
