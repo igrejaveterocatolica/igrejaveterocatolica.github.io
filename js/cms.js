@@ -166,7 +166,7 @@ async function loadPage(slug) {
     // If even 404.md fails
     document.getElementById("page-title").textContent = "Erro ao carregar";
     document.getElementById("page-body").innerHTML = `
-      <p>Não foi possível carregar esta página.</p>
+      <center><p>Não foi possível carregar esta página.</p></center>
     `;
   }
 }
