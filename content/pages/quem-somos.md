@@ -12,9 +12,9 @@ Mais tarde, em **1520**, o Papa Leão X promulgou a bula *Debitum Pastoralis*, q
 ## O Conflito com Roma e o Cisma de 1723
 No início do século XVIII, Roma suspendeu secretamente o Arcebispo de Utrecht, Petrus Codde, acusado de simpatias jansenistas. O capítulo recusou‑se a aceitar a suspensão, argumentando que: <br><br>
 
-1. Violava os privilégios históricos concedidos pelos Papas;
-2. A sé não estava vacante, pois Codde nunca fora validamente deposto;
-3. Roma não tinha autoridade para impor um administrador externo. <br><br>
+* Violava os privilégios históricos concedidos pelos Papas;
+* A sé não estava vacante, pois Codde nunca fora validamente deposto;
+* Roma não tinha autoridade para impor um administrador externo. <br><br>
 
 Quando Codde faleceu, o capítulo exerceu o seu direito de 1145 e elegeu Cornelius Steenhoven como novo arcebispo em **1723**, sem solicitar confirmação à Santa Sé. A sua consagração por Dom Varlet consumou o cisma de Utrecht, dando origem à Igreja de Utrecht independente, que preservou a sucessão apostólica e a doutrina católica tradicional. <br><br><br><br>
 
@@ -31,9 +31,9 @@ Décadas depois, Utrecht confirmou essa tendência ao ordenar mulheres e celebra
 ## A Igreja Antigo‑Católica no Brasil (1932–1934)
 A presença vétero‑católica no Brasil iniciou‑se com a comunidade polaca de Ponta Grossa, liderada pelo padre Teophilo Bartnicki. Entre 1932 e 1934: <br><br>
 
-1. A missão antigo‑católica tornou‑se referência espiritual para imigrantes polacos;
-2. Enfrentou forte oposição do bispo romano Dom Antônio Mazzarotto, que promovia a romanização;
-3. Conflitos sobre templos e autoridade culminaram no incêndio da igreja antigo‑católica em 6 de janeiro de 1934. <br><br><br><br>
+* A missão vétero‑católica tornou‑se referência espiritual para imigrantes polacos;
+* Enfrentou forte oposição do bispo romano Dom Antônio Mazzarotto, que promovia a romanização;
+* Conflitos sobre templos e autoridade culminaram no misterioso incêndio da igreja vétero‑católica em 6 de janeiro de 1934. <br><br><br><br>
 
 ## Os Fidelitas do Brasil e a Sucessão Apostólica
 Os Fidelitas do Brasil consideram‑se herdeiros diretos dessa missão polaca. Mantêm fidelidade à doutrina tradicional e aproximaram‑se da União de Scranton, união conservadora que também se separou de Utrecht devido ao progressivismo desta. <br><br>
@@ -43,16 +43,16 @@ O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólic
 ## A Igreja Católica de Jerusalém em Portugal
 Em Portugal, a Igreja Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. É desta linhagem que deriva: <br><br>
 
-1. A sucessão apostólica; 
-2. O <a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a> para o território português. <br><br>
+* A sucessão apostólica; 
+* O <a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a> para o território português. <br><br>
 
 A nossa identidade teológica é o **Ultrajectinismo**: rejeitamos a infalibilidade papal, mas preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria, devoções com forte implantação entre o povo Português desde tempos imemoriais. <br><br>
 
 ## Disciplina e Prática Pastoral
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
 
-1. **Celibato opcional** para clérigos.
-2. **Comunhão para divorciados recasados**, mediante discernimento pastoral.
+* **Celibato opcional** para clérigos.
+* **Comunhão para divorciados recasados**, mediante discernimento pastoral.
 
 ## Conclusão
 
