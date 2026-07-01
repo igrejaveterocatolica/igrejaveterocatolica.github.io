@@ -28,7 +28,7 @@ A sucessão apostólica integra duas linhas principais: <br><br>
 - **Linha Matthew** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Dom Arnold Harris Matthew. <br><br>
 
 **Resumo da linha:**  
-Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes** → Dom Maurizio Raimundo → Dom José Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
+Dom Joseph René Vilatte → Dom George A. McGuire → Dom Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes**, *Patriarca dos Vétero Católicos Fidelitas e de Jerusalém no Brasil e Exterior* → Dom Maurizio Raimundo → Dom José Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
 
 </div>
 
