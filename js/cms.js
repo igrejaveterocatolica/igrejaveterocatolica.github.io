@@ -140,8 +140,8 @@ async function loadFooterLinks() {
 // -----------------------------
 // Universal MD Page Loader
 // -----------------------------
-async function loadPage(pageName) {
-  const path = `/content/pages/${pageName}.md`;
+async function loadPage(slug) {
+  const path = `/content/pages/${slug}.md`;
 
   const { frontmatter, body } = await getMarkdown(path);
 
