@@ -148,14 +148,17 @@ async function loadPage(slug) {
 
   try {
     const res = await fetch(path);
+    const raw = await res.text();
 
-    // If fetch succeeded but file is missing (rare case)
-    if (!res.ok) {
+    // Detect GitHub Pages 404 HTML
+    const isHTML = raw.trim().startsWith("<!DOCTYPE") ||
+                   raw.trim().startsWith("<html");
+
+    if (isHTML) {
       if (slug !== "404") return loadPage("404");
       return showHardFallback();
     }
 
-    const raw = await res.text();
     const { frontmatter, body } = getMarkdownFromRaw(raw);
 
     document.getElementById("page-title").textContent =
@@ -164,12 +167,7 @@ async function loadPage(slug) {
     document.getElementById("page-body").innerHTML = marked.parse(body);
 
   } catch (err) {
-    // GitHub Pages missing-file case ALWAYS lands here
-    if (slug !== "404") {
-      return loadPage("404");
-    }
-
-    // If even 404.md fails
+    if (slug !== "404") return loadPage("404");
     showHardFallback();
   }
 }
