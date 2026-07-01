@@ -9,16 +9,14 @@ async function getJSON(path) {
 // -----------------------------
 // Utility: Fetch Markdown + Frontmatter
 // -----------------------------
-async function getMarkdown(path) {
-    const raw = await fetch(path).then(r => r.text());
-
+function parseMarkdown(raw) {
     const fmMatch = raw.match(/---([\s\S]*?)---/);
     let frontmatter = {};
     let body = raw;
 
     if (fmMatch) {
         const fmText = fmMatch[1].trim();
-        body = raw.replace(fmMatch[0], '');
+        body = raw.replace(fmMatch[0], '').trim();
 
         fmText.split('\n').forEach(line => {
             const [key, ...value] = line.split(':');
@@ -28,6 +26,16 @@ async function getMarkdown(path) {
 
     return { frontmatter, body };
 }
+
+async function getMarkdown(path) {
+    const raw = await fetch(path).then(r => r.text());
+    return parseMarkdown(raw);
+}
+
+function getMarkdownFromRaw(raw) {
+    return parseMarkdown(raw);
+}
+
 
 // -----------------------------
 // Load Site Settings (JSON)
