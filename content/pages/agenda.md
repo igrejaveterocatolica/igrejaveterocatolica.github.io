@@ -41,17 +41,16 @@ title: Agenda
 
 #### **Programa**
 
-* Procissão de Velas  
-* Procissão Solene  
-* Música ao vivo com artista a designar da TV  
-* Grupo de Baile  
-* Duos Musicais  
-* Fogo de Artifício  
-* Comes e Bebes  
-* Fanfarra  
-* Banda de Música  
-* Bênção dos Coletes  
-* Entre outras atividades  
+* Procissão de Velas. 
+* Procissão Solene.
+* Música ao vivo com artista a designar da TV.
+* Grupo de Baile.
+* Duos Musicais.
+* Fogo de Artifício.
+* Fanfarra.
+* Banda de Música.
+* Bênção dos Coletes.
+* Entre outras atividades.
 
 - - -
 
