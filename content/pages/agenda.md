@@ -17,12 +17,12 @@ title: Agenda
         </div>
         <div class="highlight-text"><img src="/img/festa_ns_boa_viagem.jpg" height=300px>
 
-## **Festas Em Honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima**  
+#### **Festas Em Honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima**  
 
 
 ---
 
-## **Programa**
+#### **Programa**
 - Procissão de Velas  
 - Procissão Solene  
 - Música ao vivo com artista a designar da TV  
@@ -37,7 +37,8 @@ title: Agenda
 
 ---
 
-## **Convite**
+#### **Convite**
+
 **Vamos todos ajudar a realizar estas festividades!**  
 **Contamos com a colaboração e participação de todos para tornar estas festas um grande sucesso!**
 </div></div></div>
