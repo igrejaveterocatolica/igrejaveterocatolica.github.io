@@ -197,7 +197,7 @@ function buildPages() {
     const { frontmatter, body } = parseMarkdown(raw);
 
     const html = renderTemplate(template, {
-      title: settings.site_title || slug,
+      title: frontmatter.title || slug,
       description: frontmatter.description || "",
       image: frontmatter.image || "/assets/default.jpg",
       body: marked.parse(body),
