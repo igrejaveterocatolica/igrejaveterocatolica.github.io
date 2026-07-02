@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- STATIC TITLE FOR CRAWLERS -->
     <title>{{title}}</title>
 
     <!-- OPEN GRAPH FOR PREVIEWS -->
@@ -18,7 +17,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 
 <body>
@@ -28,16 +26,18 @@
         <div class="container header-flex">
             <div class="logo-container">
                 <a href="/">
-                    <img id="site-logo" class="logo-img" alt="">
+                    <img src="{{site_logo}}" class="logo-img" alt="">
                 </a>
                 <div class="logo-text">
-                    <h1 id="header-title"></h1>
-                    <p id="header-subtitle"></p>
+                    <h1>{{header_title}}</h1>
+                    <p>{{header_subtitle}}</p>
                 </div>
             </div>
 
             <nav>
-                <ul id="nav-menu"></ul>
+                <ul>
+                    {{nav_menu}}
+                </ul>
             </nav>
         </div>
     </header>
@@ -45,7 +45,7 @@
     <!-- PAGE HERO -->
     <section class="page-hero">
         <div class="container">
-            <h2 id="page-title">{{title}}</h2>
+            <h2>{{title}}</h2>
         </div>
     </section>
 
@@ -53,7 +53,7 @@
     <main>
         <section class="page-content">
             <div class="container">
-                <div id="page-body">{{body}}</div>
+                <div>{{body}}</div>
             </div>
         </section>
     </main>
@@ -62,39 +62,29 @@
     <footer>
         <div class="container footer-grid">
             <div class="footer-about">
-                <h5 id="footer-title"></h5>
-                <p id="footer-description"></p>
+                <h5>{{footer_title}}</h5>
+                <p>{{footer_description}}</p>
             </div>
 
             <div class="footer-links">
-                <h5 id="footer-links-title"></h5>
-                <ul id="footer-links-list"></ul>
+                <h5>Links</h5>
+                <ul>
+                    {{footer_links}}
+                </ul>
             </div>
 
             <div class="footer-contact">
-                <h5 id="footer-contact-title"></h5>
-                <p id="footer-email"></p>
-                <p id="footer-location"></p>
+                <h5>{{footer_contact_title}}</h5>
+                <p>{{footer_email}}</p>
+                <p>{{footer_location}}</p>
             </div>
         </div>
 
         <div class="footer-bottom">
-            <p id="footer-copyright"></p>
-            <p id="footer-civil-note" class="civil-note"></p>
+            <p>{{footer_copyright}}</p>
+            <p class="civil-note">{{footer_civil_note}}</p>
         </div>
     </footer>
-
-    <!-- JS -->
-
-    <script>
-      function loadFromHash() {
-        const pageName = window.location.hash.replace("#", "") || "home";
-        loadPage(pageName);
-      }
-
-      loadFromHash();
-      window.addEventListener("hashchange", loadFromHash);
-    </script>
 
 </body>
 </html>
