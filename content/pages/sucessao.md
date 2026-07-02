@@ -48,7 +48,7 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 <br><br>
 
 ## Outras linhagens
-### Vétero-Católica / Vétero-Romana
+### Vétero-Católica
 
 #### Linhagem de Utretch
 242. Bispo Dominicus Marie Varlet, 1719 d.c., em Paris, pelo Bispo de Matignon, assistido pelo Bispo do Quebeque e pelo Bispo de Claremont.
@@ -83,7 +83,7 @@ Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
 
 254. Arcebispo Gerardus Gul, 1892 d.c.
 
-#### Linhagem Vétero-Romana / Católica Liberal
+#### Linhagem Vétero-Romana e Católica Liberal
 
 255. Bispo Arnold Harris Matthew, 1908 d.c. (28 de Abril), pelo Arcebispo Gul de Utrecht, assistido pelos bispos: J. J. van Thiel (Haarlem), N. B. P. Spit (Deventer) e J. Demmel (Bonn, Alemanha). Tornou‑se o primeiro Bispo Velho‑Católico da Grã‑Bretanha.
 
