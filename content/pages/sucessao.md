@@ -93,7 +93,7 @@ Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
 
 258. Bispo Irving S. Cooper, 1919 d.c.
 
-259. Bispo Charles Hampton, 1931 d.c. (Hampton foi o consagrador principal de Herman A. Spruit.)
+259. Bispo Charles Hampton, 1931 d.c.
 
 260. Bispo Herman A. Spruit, 1957 d.c.
 
