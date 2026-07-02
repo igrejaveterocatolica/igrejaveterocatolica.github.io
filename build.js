@@ -84,7 +84,7 @@ function buildHomepage() {
   const homeRaw = fs.readFileSync("./content/home.md", "utf8");
   const { frontmatter, body } = parseMarkdown(homeRaw);
 
-  const communities = loadJSON("./content/communities.json");
+  const communitiesData = loadJSON("./content/communities.json");
   const highlights = loadJSON("./content/highlights.json");
 
   const settings = loadSettingsData();
@@ -92,6 +92,7 @@ function buildHomepage() {
   const footerLinksHTML = loadFooterLinksHTML();
 
   // Render communities
+  const communities = communitiesData.communities
   const communitiesHTML = communities
     .map(c => {
       const btn = c.link
