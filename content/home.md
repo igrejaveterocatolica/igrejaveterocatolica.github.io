@@ -5,6 +5,7 @@ hero_subtitle: Sob a Direção Espiritual de Dom Carlos Fonseca, Arcebispo Prima
 hero_button_text: Ver Horários das Missas
 hero_button_link: "#missas"
 clarification_title: Nota de Clarificação Institucional
+communities_title: Comunidades
 ---
 
 A **Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal** constitui o ramo legítimo e oficial em território português da *Igreja Apostólica Vétero Católica do Brasil Fidelitas*, conforme o <u><strong><a href="/img
