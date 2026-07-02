@@ -1,4 +1,4 @@
-name: Build and Deploy to develop
+name: Build and Deploy
 
 on:
   push:
@@ -12,11 +12,13 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # required to push to another branch
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Install dependencies
         run: npm install
@@ -24,9 +26,31 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Deploy to develop
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          publish_branch: public
+      - name: Remove old generated pages dynamically
+        run: |
+          # Remove old root-level generated files
+          rm -f index.html
+          rm -f 404.html
+
+          # Remove old generated directories dynamically
+          for dir in */; do
+            # Skip non-generated directories
+            if [ -f "$dir/index.html" ]; then
+              echo "Removing old generated directory: $dir"
+              rm -rf "$dir"
+            fi
+          done
+
+      - name: Copy new generated pages
+        run: |
+          cp -r build-output/* .
+
+      - name: Commit and push to public
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git commit -m "Deploy static site" || echo "No changes to commit"
+
+          git push origin HEAD:public
