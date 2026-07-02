@@ -2,7 +2,7 @@
 slug: quem-somos
 title: A Nossa Fé & História
 ---
-<center><img src="static/img/heraldica-igreja.png" width=160px></center>
+<center><img src="img/heraldica-igreja.png" width=300px></center>
 
 ## A Sé de Utrecht e os Seus Privilégios Históricos
 A história dos Vétero‑Católicos não pode ser compreendida sem reconhecer o papel singular da Sé de Utrecht, uma diocese que, desde a Idade Média, gozou de privilégios canónicos de autonomia concedidos diretamente pelos Papas. <br><br>
@@ -40,7 +40,7 @@ A presença vétero‑católica no Brasil iniciou‑se com a comunidade polaca d
 ## Os Fidelitas do Brasil e a Sucessão Apostólica
 Os Fidelitas do Brasil são herdeiros legítimos dessa missão polaca. Mantêm fidelidade à doutrina tradicional e reaproximaram‑se da União de Scranton. <br><br>
 
-Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pela Nordic Catholic Church que se separaram da União de Utretch nos anos 2000 devido à ordenação de mulheres e casamentos de uniões do mesmo sexo. Os Fidelitas têm uma relação próxima com a União de Scranton, tendo formalizado um pedido de adesão e estando neste momento a aguardar a aceitação. <br><br>
+Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pela Nordic Catholic Church que se separaram da União de Utretch nos anos 2000 devido à ordenação de mulheres e casamentos entre pessoas do mesmo sexo. Os Fidelitas têm uma relação próxima com a União de Scranton, tendo formalizado um pedido de adesão e estando neste momento a aguardar a aceitação. <br><br>
 
 O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
