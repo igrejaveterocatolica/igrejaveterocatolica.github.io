@@ -9,16 +9,14 @@ async function getJSON(path) {
 // -----------------------------
 // Utility: Fetch Markdown + Frontmatter
 // -----------------------------
-async function getMarkdown(path) {
-    const raw = await fetch(path).then(r => r.text());
-
+function parseMarkdown(raw) {
     const fmMatch = raw.match(/---([\s\S]*?)---/);
     let frontmatter = {};
     let body = raw;
 
     if (fmMatch) {
         const fmText = fmMatch[1].trim();
-        body = raw.replace(fmMatch[0], '');
+        body = raw.replace(fmMatch[0], '').trim();
 
         fmText.split('\n').forEach(line => {
             const [key, ...value] = line.split(':');
@@ -28,6 +26,16 @@ async function getMarkdown(path) {
 
     return { frontmatter, body };
 }
+
+async function getMarkdown(path) {
+    const raw = await fetch(path).then(r => r.text());
+    return parseMarkdown(raw);
+}
+
+function getMarkdownFromRaw(raw) {
+    return parseMarkdown(raw);
+}
+
 
 // -----------------------------
 // Load Site Settings (JSON)
@@ -85,21 +93,41 @@ async function loadMenu() {
 // Load Communities (JSON)
 // -----------------------------
 async function loadCommunities() {
-    const communities = await getJSON('/content/communities.json');
+    const communities = (await getJSON('/content/communities.json'))[""];
     const grid = document.getElementById('communities-grid');
 
-    grid.innerHTML = communities.map(c => `
-        <div class="community-card">
-            <div class="card-image" style="background-image: url('${c.image}')"></div>
-            <div class="card-content">
-                <h4>${c.title}</h4>
-                <p class="location">${c.location}</p>
-                <p class="description">${c.description}</p>
-                <a href="${c.link}" class="btn-secondary">${c.button}</a>
+    grid.innerHTML = communities.map(c => {
+        const hasLink = c.link && c.link.trim() !== "";
+        const hasButton = c.button && c.button.trim() !== "";
+
+        let buttonEl = "";
+
+        if (hasLink && hasButton) {
+            // Normal case: both exist
+            buttonEl = `<a href="${c.link}" class="btn-secondary">${c.button}</a>`;
+        } else if (hasLink && !hasButton) {
+            // Link exists, button text missing → use placeholder
+            buttonEl = `<a href="${c.link}" class="btn-secondary">Saber Mais</a>`;
+        } else if (!hasLink && hasButton) {
+            // Button text exists, but no link → render non-clickable element
+            buttonEl = `<span class="btn-secondary">${c.button}</span>`;
+        }
+        // If both missing → buttonEl stays ""
+
+        return `
+            <div class="community-card">
+                <div class="card-image" style="background-image: url('${c.image}')"></div>
+                <div class="card-content">
+                    <h4>${c.title}</h4>
+                    <p class="location">${c.location}</p>
+                    <p class="description">${c.description}</p>
+                    ${buttonEl}
+                </div>
             </div>
-        </div>
-    `).join('');
+        `;
+    }).join('');
 }
+
 
 // -----------------------------
 // Load Highlights (JSON)
@@ -108,7 +136,8 @@ async function loadHighlights() {
     const highlights = await getJSON('/content/highlights.json');
     const container = document.getElementById('highlights-container');
 
-    container.innerHTML = highlights.map(h => `
+    // Render highlight items
+    container.innerHTML = (highlights.items || []).map(h => `
         <div class="highlight-item">
             <div class="date-badge">
                 <span class="month">${h.month}</span>
@@ -120,10 +149,12 @@ async function loadHighlights() {
         </div>
     `).join('');
 
+    // Render metadata
     document.getElementById('highlights-title').textContent = highlights.title || '';
     document.getElementById('highlights-button').textContent = highlights.button_text || '';
     document.getElementById('highlights-button').href = highlights.button_link || '#';
 }
+
 
 // -----------------------------
 // Load Footer Links (JSON)
@@ -143,19 +174,52 @@ async function loadFooterLinks() {
 async function loadPage(slug) {
   const path = `/content/pages/${slug}.md`;
 
-  const { frontmatter, body } = await getMarkdown(path);
+  try {
+    const res = await fetch(path);
+    const raw = await res.text();
 
-  document.getElementById("page-title").textContent = frontmatter.title;
-  document.getElementById("page-body").innerHTML = marked.parse(body);
+    // Detect GitHub Pages 404 HTML
+    const isHTML = raw.trim().startsWith("<!DOCTYPE") ||
+                   raw.trim().startsWith("<html");
+
+    if (isHTML) {
+      if (slug !== "404") return loadPage("404");
+      return showHardFallback();
+    }
+
+    const { frontmatter, body } = getMarkdownFromRaw(raw);
+
+    document.getElementById("page-title").textContent =
+      frontmatter.title || slug;
+
+    document.getElementById("page-body").innerHTML = marked.parse(body);
+
+  } catch (err) {
+    if (slug !== "404") return loadPage("404");
+    showHardFallback();
+  }
 }
+
+function showHardFallback() {
+  document.getElementById("page-title").textContent = "Página não encontrada";
+  document.getElementById("page-body").innerHTML = `
+    <center><p>Não foi possível carregar esta página.</p></center>
+  `;
+}
+
+
 
 
 // -----------------------------
 // Init
 // -----------------------------
 loadSettings();
-loadHomePage();
+const pageSlug = window.location.pathname.replace('/', '') || 'home';
+// If homepage
+if (pageSlug === '' || pageSlug === 'index.html' || pageSlug === 'home') {
+    loadHomePage();
+    loadCommunities();
+    loadHighlights();
+}
 loadMenu();
-loadCommunities();
-loadHighlights();
 loadFooterLinks();

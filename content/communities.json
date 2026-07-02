@@ -1,18 +1,20 @@
-[
-  {
-    "title": "Capela das Almas",
-    "location": "📍 Lourosa, Santa Maria da Feira",
-    "description": "A nossa principal comunidade local, com celebrações regulares, devoções marianas e uma vida comunitária ativa.",
-    "image": "/img/capela-almas.jpg",
-    "button": "Horários e Localização",
-    "link": "comunidades.html#lourosa"
-  },
-  {
-    "title": "Oratório Padre Pio",
-    "location": "📍 Fátima",
-    "description": "Um espaço de profunda espiritualidade dedicado a São Pio de Pietrelcina, acolhendo celebrações ocasionais e momentos de recolhimento.",
-    "image": "/img/oratorio-padre-pio.jpg",
-    "button": "Saber Mais",
-    "link": "comunidades.html#fatima"
-  }
-]
+{
+  "": [
+    {
+      "title": "<div id=\"missas\">Capela das Almas</div>",
+      "location": "📍 Lourosa, Santa Maria da Feira",
+      "description": "A nossa principal comunidade local, com celebrações regulares, devoções marianas e uma vida comunitária ativa. <br><br> <strong> Missas:</strong> <br> Quarta-feira 19:00. <br> Sábado 17:00. <br> Domingo 10:00.",
+      "image": "/img/capela-almas.jpg",
+      "button": "",
+      "link": ""
+    },
+    {
+      "title": "Oratório São Padre Pio",
+      "location": "📍 Fátima, Ourém",
+      "description": "Um espaço de profunda espiritualidade dedicado a São Pio de Pietrelcina, acolhendo celebrações ocasionais e momentos de recolhimento.",
+      "image": "/img/oratorio-padre-pio.jpg",
+      "button": "",
+      "link": ""
+    }
+  ]
+}

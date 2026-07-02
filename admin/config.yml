@@ -115,11 +115,11 @@ collections:
 
   # PAGES (Markdown)
   - name: "pages"
-      label: "Pages"
-      folder: "content/pages"
-      create: true
-      extension: "md"
-      fields:
-        - { label: "Slug", name: "slug", widget: "string" }
-        - { label: "Title", name: "title", widget: "string" }
-        - { label: "Body", name: "body", widget: "markdown" }
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    extension: "md"
+    fields:
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

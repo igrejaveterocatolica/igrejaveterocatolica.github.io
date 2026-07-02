@@ -7,6 +7,12 @@
     box-sizing: border-box;
 }
 
+/* CORREÇÃO DAS LISTAS */
+ol, ul {
+    margin-left: 1.5rem;
+    padding-left: 1.5rem;
+}
+
 :root {
     --primary-color: #0d233a; /* Azul Marinho Litúrgico */
     --secondary-color: #b89243; /* Dourado */
@@ -41,6 +47,10 @@ a {
     text-decoration: none;
     color: inherit;
     transition: var(--transition);
+}
+
+#page-title {
+    text-align: center;
 }
 
 /* ==========================================================================
@@ -494,3 +504,73 @@ footer h5 {
         gap: 15px;
     }
 }
+
+/* Ajuste do bloco do clero em mobile */
+@media (max-width: 768px) {
+    .clero-header {
+        flex-direction: column !important;
+        text-align: center;
+        gap: 15px !important;
+    }
+
+    .clero-header img {
+        width: 140px !important;
+        height: auto !important;
+    }
+}
+
+/* Cabeçalho pequeno do clero */
+.clero-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap; /* evita quebra mesmo em desktop */
+}
+
+.clero-header img {
+    max-width: 160px;
+    width: 100%;
+    height: auto;
+}
+
+/* Colunas principais (biografia + heráldica) */
+.clero-columns {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    flex-wrap: wrap; /* permite reorganizar em mobile */
+}
+
+.clero-column {
+    flex: 1;
+    min-width: 280px; /* evita colunas demasiado estreitas */
+}
+
+@media (max-width: 768px) {
+
+    .clero-header {
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+
+    .clero-header img {
+        width: 140px;
+    }
+
+    .clero-columns {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .clero-column {
+        width: 100%;
+    }
+}
+
+.clero-header {
+    justify-content: flex-start !important;
+    text-align: left !important;
+}
+

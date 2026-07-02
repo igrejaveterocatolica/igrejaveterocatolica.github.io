@@ -1,6 +1,4 @@
 [
-  { "label": "Sucessão Apostólica", "href": "quem-somos.html#sucessao" },
-  { "label": "Ordem Terceira de S. Domingos", "href": "ordem-domingues.html" },
-  { "label": "Associação Entre Caminhos", "href": "associacao.html" },
-  { "label": "Perguntas Frequentes", "href": "faq.html" }
+  { "label": "A Nossa Fé & História", "href": "page.html#quem-somos" },
+  { "label": "O Nosso Clero", "href": "page.html#clero" }
 ]
