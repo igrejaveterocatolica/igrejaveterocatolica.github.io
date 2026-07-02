@@ -48,7 +48,7 @@ O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólic
 Em Portugal, a Igreja Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. É desta linhagem que deriva: <br><br>
 
 * A sucessão apostólica; 
-* O <a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a> para o território português. <br><br>
+* O <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. <br><br>
 
 A nossa identidade teológica é o **Ultrajectinismo**: rejeitamos a infalibilidade papal, mas preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria, devoções com forte implantação entre o povo Português desde tempos imemoriais. <br><br>
 
