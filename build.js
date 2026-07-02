@@ -63,7 +63,7 @@ function loadMenuHTML() {
 // Build Footer Links HTML
 // -----------------------------
 function loadFooterLinksHTML() {
-  const links = loadJSON("./content/footer.json");
+  const links = loadJSON("./content/footer.json").links;
   return links
     .map(l => `<li><a href="${l.href}">${l.label}</a></li>`)
     .join("");
