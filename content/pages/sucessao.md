@@ -21,13 +21,13 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 128. Alvares Mar Julius, 1879 d.C.
 
-129. Archbishop Joseph-René Vilatte (Mar Timotheus), 1892 d.C.
+129. Arcebispo Joseph-René Vilatte (Mar Timotheus), 1892 d.C.
 
-130. Archbishop George Alexander McGuire, 1921 d.C.
+130. Arcebispo George Alexander McGuire, 1921 d.C.
 
-131. Bishop Willian Frederick, 1928 d.C.
+131. Bispo Willian Frederick, 1928 d.C.
 
-132. Archbishop Jas. F. A. Lashley, 1932 d.C.
+132. Arcebispo Jas. F. A. Lashley, 1932 d.C.
 
 133. Dom Wanderley Gonçalves de Almeida, 1976 d.C.
 
@@ -50,7 +50,7 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 ## Outras linhagens
 ### Vétero-Católica / Vétero-Romana
 
-#### Utretch
+#### Linhagem de Utretch
 242. Bispo Dominicus Marie Varlet, 1719 d.c., em Paris, pelo Bispo de Matignon, assistido pelo Bispo do Quebeque e pelo Bispo de Claremont.
 Nomeado coadjutor do Bispo Católico Romano de Babilónia, que faleceu a 20 de Novembro de 1717, sucedendo-lhe no título.
 Após um período na Pérsia (Schamake), foi suspenso por alegadas irregularidades técnicas, incluindo a confirmação de 604 candidatos na Holanda, a pedido da Igreja de Amesterdão.
@@ -83,7 +83,7 @@ Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
 
 254. Arcebispo Gerardus Gul, 1892 d.c.
 
-#### Igreja Vétero-Romana / Católica Liberal
+#### Linhagem Vétero-Romana / Católica Liberal
 
 255. Bispo Arnold Harris Matthew, 1908 d.c. (28 de Abril), pelo Arcebispo Gul de Utrecht, assistido pelos bispos: J. J. van Thiel (Haarlem), N. B. P. Spit (Deventer) e J. Demmel (Bonn, Alemanha). Tornou‑se o primeiro Bispo Velho‑Católico da Grã‑Bretanha.
 
@@ -107,7 +107,7 @@ Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
 
 265. Dom Paulo Pereira, 1998 d.c.
 
-#### Fidelitas de Jerusalém no Brasil e Exterior
+#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
 266. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
