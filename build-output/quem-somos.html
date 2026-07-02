@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- STATIC TITLE FOR CRAWLERS -->
     <title>A Nossa Fé & História</title>
 
     <!-- OPEN GRAPH FOR PREVIEWS -->
@@ -18,7 +17,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 
 <body>
@@ -28,16 +26,18 @@
         <div class="container header-flex">
             <div class="logo-container">
                 <a href="/">
-                    <img id="site-logo" class="logo-img" alt="">
+                    <img src="/img/logo.png" class="logo-img" alt="">
                 </a>
                 <div class="logo-text">
-                    <h1 id="header-title"></h1>
-                    <p id="header-subtitle"></p>
+                    <h1>Igreja Vétero Católica de Jerusalém</h1>
+                    <p>Portugal</p>
                 </div>
             </div>
 
             <nav>
-                <ul id="nav-menu"></ul>
+                <ul>
+                    <li><a href="/page.html#quem-somos">A Nossa Fé & História</a></li><li><a href="/page.html#clero">O Nosso Clero</a></li>
+                </ul>
             </nav>
         </div>
     </header>
@@ -45,7 +45,7 @@
     <!-- PAGE HERO -->
     <section class="page-hero">
         <div class="container">
-            <h2 id="page-title">A Nossa Fé & História</h2>
+            <h2>A Nossa Fé & História</h2>
         </div>
     </section>
 
@@ -53,7 +53,7 @@
     <main>
         <section class="page-content">
             <div class="container">
-                <div id="page-body"><center><img src="img/heraldica-igreja.png" width=300px></center>
+                <div><center><img src="img/heraldica-igreja.png" width=300px></center>
 
 <h2>A Sé de Utrecht e os Seus Privilégios Históricos</h2>
 <p>A história dos Vétero‑Católicos não pode ser compreendida sem reconhecer o papel singular da Sé de Utrecht, uma diocese que, desde a Idade Média, gozou de privilégios canónicos de autonomia concedidos diretamente pelos Papas. <br><br></p>
@@ -109,39 +109,29 @@
     <footer>
         <div class="container footer-grid">
             <div class="footer-about">
-                <h5 id="footer-title"></h5>
-                <p id="footer-description"></p>
+                <h5>Igreja Vétero Católica de Jerusalém</h5>
+                <p>Uma comunidade católica de portas abertas, mantendo a tradição apostólica com uma pastoral de acolhimento e misericórdia.</p>
             </div>
 
             <div class="footer-links">
-                <h5 id="footer-links-title"></h5>
-                <ul id="footer-links-list"></ul>
+                <h5>Links</h5>
+                <ul>
+                    <li><a href="page.html#quem-somos">A Nossa Fé & História</a></li><li><a href="page.html#clero">O Nosso Clero</a></li>
+                </ul>
             </div>
 
             <div class="footer-contact">
-                <h5 id="footer-contact-title"></h5>
-                <p id="footer-email"></p>
-                <p id="footer-location"></p>
+                <h5>Contactos Rápidos</h5>
+                <p>📧 primeiraigrejavcjerusalempt@gmail.com</p>
+                <p>📍 Capela das Almas - Lourosa, Portugal</p>
             </div>
         </div>
 
         <div class="footer-bottom">
-            <p id="footer-copyright"></p>
-            <p id="footer-civil-note" class="civil-note"></p>
+            <p>© 2026 Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal. Todos os direitos reservados.</p>
+            <p class="civil-note">A gestão civil e patrimonial dos espaços é assegurada pela Associação Entre Caminhos.</p>
         </div>
     </footer>
-
-    <!-- JS -->
-
-    <script>
-      function loadFromHash() {
-        const pageName = window.location.hash.replace("#", "") || "home";
-        loadPage(pageName);
-      }
-
-      loadFromHash();
-      window.addEventListener("hashchange", loadFromHash);
-    </script>
 
 </body>
 </html>
