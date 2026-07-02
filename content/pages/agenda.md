@@ -13,11 +13,31 @@ title: Agenda
     </div>
     <div class="highlight-item">
         <div class="date-badge">
-            <span class="month">Maio de 2027</span>
+            <span class="month">28, 29 e 30 Maio de 2027</span>
         </div>
         <div class="highlight-text"><img src="/img/festa_ns_boa_viagem.jpg" height=300px>
-            <h4>Grandes Festas da Capela das Almas</h4>
-            <p>Celebrações anuais em honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima, incluindo a tradicional Bênção dos Coletes Motard e procissão.</p>
-        </div>
-    </div>
-</div>
+
+## **Festas Em Honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima**  
+
+
+---
+
+## **Programa**
+- Procissão de Velas  
+- Procissão Solene  
+- Música ao vivo com artista a designar da TV  
+- Grupo de Baile  
+- Duos Musicais  
+- Fogo de Artifício  
+- Comes e Bebes  
+- Fanfarra  
+- Banda de Música  
+- Bênção dos Coletes  
+- Entre outras atividades  
+
+---
+
+## **Convite**
+**Vamos todos ajudar a realizar estas festividades!**  
+**Contamos com a colaboração e participação de todos para tornar estas festas um grande sucesso!**
+</div></div></div>
