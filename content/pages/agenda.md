@@ -33,7 +33,7 @@ title: Agenda
         <div class="date-badge" style="min-width:200px">
             <span class="month">28, 29 e 30 Maio de 2027</span>
         </div>
-        <div class="highlight-text"><img src="/img/festa_ns_boa_viagem.jpg" height=300px>
+        <div class="highlight-text"><img src="/img/festa_ns_boa_viagem.png" height=300px>
 
 #### **Festas Em Honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima**
 
