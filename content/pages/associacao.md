@@ -1,7 +1,7 @@
 ---
 title: Associação Entre Caminhos
 ---
-<img src="/img/entre-caminhos.png" height=300px>
+<img src="/img/entre-caminhos.png" height=200px>
 
 A **Entre Caminhos** - <u>Associação de Solidariedade Humanitária de Desenvolvimento da Capela das Almas e dos Caminhos dos Peregrino</u> é uma instituição particular de solidariedade social, de caráter católico, sem fins lucrativos e de duração ilimitada, criada por um grupo de cidadãos em 14/10/2022, com sede na Avenida Principal, Capelas das Almas, Lourosa. <br><br>
 
