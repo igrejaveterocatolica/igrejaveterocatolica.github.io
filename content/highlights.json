@@ -1,8 +1,7 @@
 {
   "title": "Destaques da Comunidade",
   "button_text": "Ver Agenda Completa →",
-  "button_link": "page.html#agenda",
-
+  "button_link": "agenda.html",
   "items": [
     {
       "month": "Maio",
