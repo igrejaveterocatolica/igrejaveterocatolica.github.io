@@ -13,7 +13,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # required to push to another branch
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -28,13 +28,15 @@ jobs:
 
       - name: Remove old generated pages dynamically
         run: |
-          # Remove old root-level generated files
           rm -f index.html
           rm -f 404.html
 
-          # Remove old generated directories dynamically
           for dir in */; do
-            # Skip non-generated directories
+            # 🚨 Skip build-output so we don't delete the new files
+            if [ "$dir" = "build-output/" ]; then
+              continue
+            fi
+
             if [ -f "$dir/index.html" ]; then
               echo "Removing old generated directory: $dir"
               rm -rf "$dir"
