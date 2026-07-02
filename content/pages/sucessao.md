@@ -57,9 +57,8 @@ Após um período na Pérsia (Schamake), foi suspenso por alegadas irregularidad
 A Igreja Holandesa estava 18 anos sem bispo, como punição de Roma por não cooperar na perseguição aos jansenistas.
 Após a eleição de Cornelius Van Steenhoven, Varlet aceitou realizar a consagração.
 
-243. Arcebispo Cornelius Van Steenhoven
-Consagrado por Varlet a 15 de Outubro de 1724, tornando-se o sétimo Arcebispo de Utrecht e sucessor canónico de S. Willibrord, o missionário que levou a fé à Holanda.
-Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
+243. Arcebispo Cornelius Van Steenhoven, consagrado por Varlet a 15 de Outubro de 1724 d.c., tornando-se o sétimo Arcebispo de Utrecht e sucessor canónico de S. Willibrord, o missionário que levou a fé à Holanda.
+Com esta consagração nasceu a Igreja Vétero‑Católica (Old Catholic).
 
 244. Bispo Johannes Van Stiphout, 1745 d.c.
 
@@ -85,7 +84,7 @@ Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
 
 #### Linhagem Vétero-Romana e Católica Liberal
 
-255. Bispo Arnold Harris Matthew, 1908 d.c. (28 de Abril), pelo Arcebispo Gul de Utrecht, assistido pelos bispos: J. J. van Thiel (Haarlem), N. B. P. Spit (Deventer) e J. Demmel (Bonn, Alemanha). Tornou‑se o primeiro Bispo Velho‑Católico da Grã‑Bretanha.
+255. Bispo Arnold Harris Matthew, 1908 d.c. (28 de Abril), pelo Arcebispo Gul de Utrecht, assistido pelos bispos: J. J. van Thiel (Haarlem), N. B. P. Spit (Deventer) e J. Demmel (Bonn, Alemanha). Tornou‑se o primeiro Bispo Vétero‑Católico da Grã‑Bretanha.
 
 256. Bispo Frederick Willoughby, 1914 d.c.
 
