@@ -26,8 +26,12 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Clean old generated HTML files
-        run: rm -f *.html
+      - name: Clean old generated pages
+        run: |
+          find . -maxdepth 1 -type f -name "*.html" \
+            -not -name "index-template.html" \
+            -not -name "page-template.html" \
+            -delete
 
       - name: Copy new generated pages
         run: cp -r build-output/* .
