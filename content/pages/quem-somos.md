@@ -28,7 +28,7 @@ Assim nasceu o movimento Vétero‑Católico, que se organizou em igrejas nacion
 ## A Dissidência Inglesa e o Movimento Vétero‑Romano
 Com o tempo, a União de Utrecht começou a adotar posições teológicas progressistas. Em 1910, reagindo às tendências modernistas da União de Utrecht, o Bispo Arnold Mathew emitiu a "Declaração de Autonomia". Este manifesto rompeu com Utrecht e instituiu a Igreja Vétero-Romana na Inglaterra, estabelecendo uma jurisdição independente dedicada estritamente à preservação da doutrina católica tradicional. <br><br>
 
-Décadas depois, Utrecht confirmou essa tendência ao ordenar mulheres e celebrar casamentos entre pessoas do mesmo sexo, práticas incompatíveis com a Tradição Apostólica. A via tradicionalista dos Vétero‑Romanos permaneceu fiel à doutrina católica histórica. <br><br>
+Décadas depois, Utrecht confirmou essa tendência ao ordenar mulheres e celebrar casamentos entre pessoas do mesmo sexo, práticas incompatíveis com a Tradição Apostólica. A via tradicionalista dos Vétero‑Romanos permaneceu fiel à doutrina católica histórica. Uma das linhas de sucessão apostólica da nossa Igreja deriva do Sr. Bispo Arnold Mathew. <br><br>
 
 ## A Igreja Antigo‑Católica no Brasil (1932–1934)
 A presença vétero‑católica no Brasil iniciou‑se com a comunidade polaca de Ponta Grossa, liderada pelo padre Teophilo Bartnicki. Entre 1932 e 1934: <br><br>
