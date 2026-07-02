@@ -39,7 +39,7 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 137. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
-138. **Dom José Reis, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
+138. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
 
 139. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
@@ -110,7 +110,7 @@ Com esta consagração nasceu a Igreja Vétero‑Católica (Old Catholic).
 
 266. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
-267. **Dom José Reis, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
+267. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
 
 268. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
