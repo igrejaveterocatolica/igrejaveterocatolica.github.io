@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- STATIC TITLE FOR CRAWLERS -->
+    <title>{{title}}</title>
+
+    <!-- OPEN GRAPH FOR PREVIEWS -->
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:image" content="{{image}}">
+    <meta property="og:type" content="website">
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <div class="container header-flex">
+            <div class="logo-container">
+                <img src="{{site_logo}}" class="logo-img" alt="">
+                <div class="logo-text">
+                    <h1>{{header_title}}</h1>
+                    <p>{{header_subtitle}}</p>
+                </div>
+            </div>
+            
+            <nav>
+                <ul>
+                    {{nav_menu}}
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero-banner">
+        <div class="hero-glass-container">
+            <h2>{{hero_title}}</h2>
+            <p class="motto">{{hero_motto}}</p>
+            <p class="sub-motto">{{hero_subtitle}}</p>
+            <a class="btn-primary" href="{{hero_button_link}}">{{hero_button_text}}</a>
+        </div>
+    </section>
+
+    <main>
+        <section class="clarification-note">
+            <div class="container">
+                <h3>{{clarification_title}}</h3>
+                <div>{{clarification_body}}</div>
+            </div>
+        </section>
+
+        <section class="communities-preview">
+            <div class="container">
+                <div class="section-title">
+                    <h3>{{communities_title}}</h3>
+                    <p>{{communities_subtitle}}</p>
+                </div>
+                
+                <div class="grid-communities">
+                    {{communities_html}}
+                </div>
+            </div>
+        </section>
+
+        <section class="highlights">
+            <div class="container">
+                <h3>{{highlights_title}}</h3>
+                <div class="highlights-container">
+                    {{highlights_html}}
+                </div>
+                <div class="center-btn">
+                    <a class="btn-link" href="{{highlights_button_link}}">{{highlights_button_text}} →</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-grid">
+            <div class="footer-about">
+                <h5>{{footer_title}}</h5>
+                <p>{{footer_description}}</p>
+            </div>
+            <div class="footer-links">
+                <h5>Links</h5>
+                <ul>
+                    {{footer_links}}
+                </ul>
+            </div>
+            <div class="footer-contact">
+                <h5>{{footer_contact_title}}</h5>
+                <p>{{footer_email}}</p>
+                <p>{{footer_location}}</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>{{footer_copyright}}</p>
+            <p class="civil-note">{{footer_civil_note}}</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script>
+      (function () {
+        var hash = window.location.hash || '';
+        if (hash.includes('_token=')) {
+          window.location.href = '/admin/' + hash;
+        }
+      })();
+    </script>
+
+</body>
+</html>
