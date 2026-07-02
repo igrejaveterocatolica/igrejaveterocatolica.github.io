@@ -581,7 +581,7 @@ footer h5 {
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url('/fonts/cinzel-v19-latin-500.woff2') format('woff2');
+  src: url('/fonts/cinzel-v26-latin-500.woff2') format('woff2');
 }
 
 /* Cinzel - Weight 700 */
@@ -590,7 +590,7 @@ footer h5 {
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url('/fonts/cinzel-v19-latin-700.woff2') format('woff2');
+  src: url('/fonts/cinzel-v26-latin-700.woff2') format('woff2');
 }
 
 /* Montserrat - Weight 300 */
@@ -599,7 +599,7 @@ footer h5 {
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url('/fonts/montserrat-v26-latin-300.woff2') format('woff2');
+  src: url('/fonts/montserrat-v31-latin-300.woff2') format('woff2');
 }
 
 /* Montserrat - Weight 400 */
@@ -608,7 +608,7 @@ footer h5 {
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('/fonts/montserrat-v26-latin-regular.woff2') format('woff2');
+  src: url('/fonts/montserrat-v31-latin-regular.woff2') format('woff2');
 }
 
 /* Montserrat - Weight 600 */
@@ -617,6 +617,6 @@ footer h5 {
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url('/fonts/montserrat-v26-latin-600.woff2') format('woff2');
+  src: url('/fonts/montserrat-v31-latin-600.woff2') format('woff2');
 }
 
