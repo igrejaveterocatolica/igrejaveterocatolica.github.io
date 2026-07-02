@@ -198,7 +198,7 @@ function buildPages() {
 
     const html = renderTemplate(template, {
       browser_title: `${frontmatter.title || slug} | ${settings.site_title}`,
-      title: `${frontmatter.title || slug},
+      title: frontmatter.title || slug,
       description: frontmatter.description || "",
       image: frontmatter.image || "/assets/default.jpg",
       body: marked.parse(body),
