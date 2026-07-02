@@ -3,7 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="site-title"></title>
+
+    <!-- STATIC TITLE FOR CRAWLERS -->
+    <title>{{title}}</title>
+
+    <!-- OPEN GRAPH FOR PREVIEWS -->
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:image" content="{{image}}">
+    <meta property="og:type" content="article">
 
     <link rel="icon" href="/favicon.ico">
     <link rel="stylesheet" href="/css/styles.css">
@@ -37,7 +45,7 @@
     <!-- PAGE HERO -->
     <section class="page-hero">
         <div class="container">
-            <h2 id="page-title"></h2>
+            <h2 id="page-title">{{title}}</h2>
         </div>
     </section>
 
@@ -45,7 +53,7 @@
     <main>
         <section class="page-content">
             <div class="container">
-                <div id="page-body"></div>
+                <div id="page-body">{{body}}</div>
             </div>
         </section>
     </main>
@@ -77,25 +85,16 @@
     </footer>
 
     <!-- JS -->
-    <script src="/js/cms.js"></script>
-    <script>
-      const pageName = window.location.hash.replace("#", "") || "home";
-      loadPage(pageName);
-    </script>
 
     <script>
       function loadFromHash() {
         const pageName = window.location.hash.replace("#", "") || "home";
         loadPage(pageName);
       }
-    
-      // Load on first page load
+
       loadFromHash();
-    
-      // Load again when clicking links that change the hash
       window.addEventListener("hashchange", loadFromHash);
     </script>
-
 
 </body>
 </html>

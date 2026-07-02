@@ -1,0 +1,167 @@
+import fs from "fs";
+import path from "path";
+import { marked } from "marked";
+
+if (!fs.existsSync("./build-output")) {
+  fs.mkdirSync("./build-output");
+}
+
+// -----------------------------
+// Utility: Parse Markdown + Frontmatter
+// -----------------------------
+function parseMarkdown(raw) {
+  const fmMatch = raw.match(/---([\s\S]*?)---/);
+  let frontmatter = {};
+  let body = raw;
+
+  if (fmMatch) {
+    const fmText = fmMatch[1].trim();
+    body = raw.replace(fmMatch[0], "").trim();
+
+    fmText.split("\n").forEach(line => {
+      const [key, ...value] = line.split(":");
+      frontmatter[key.trim()] = value.join(":").trim().replace(/^"|"$/g, "");
+    });
+  }
+
+  return { frontmatter, body };
+}
+
+// -----------------------------
+// Load JSON helpers
+// -----------------------------
+function loadJSON(path) {
+  return JSON.parse(fs.readFileSync(path, "utf8"));
+}
+
+// -----------------------------
+// Render template with placeholders
+// -----------------------------
+function renderTemplate(template, data) {
+  let html = template;
+  for (const key in data) {
+    const value = data[key] || "";
+    html = html.replace(new RegExp(`{{${key}}}`, "g"), value);
+  }
+  return html;
+}
+
+// -----------------------------
+// Build homepage (index.html)
+// -----------------------------
+function buildHomepage() {
+  const template = fs.readFileSync("./index.html", "utf8");
+  const homeRaw = fs.readFileSync("./content/home.md", "utf8");
+  const { frontmatter, body } = parseMarkdown(homeRaw);
+
+  const communities = loadJSON("./content/communities.json")[""];
+  const highlights = loadJSON("./content/highlights.json");
+
+  // Render communities
+  const communitiesHTML = communities
+    .map(c => {
+      const btn = c.link
+        ? `<a href="${c.link}" class="btn-secondary">${c.button || "Saber Mais"}</a>`
+        : "";
+      return `
+        <div class="community-card">
+          <div class="card-image" style="background-image: url('${c.image}')"></div>
+          <div class="card-content">
+            <h4>${c.title}</h4>
+            <p class="location">${c.location}</p>
+            <p class="description">${c.description}</p>
+            ${btn}
+          </div>
+        </div>
+      `;
+    })
+    .join("");
+
+  // Render highlights
+  const highlightsHTML = (highlights.items || [])
+    .map(h => {
+      return `
+        <div class="highlight-item">
+          <div class="date-badge">
+            <span class="month">${h.month}</span>
+          </div>
+          <div class="highlight-text">
+            <h4>${h.title}</h4>
+            <p>${h.description}</p>
+          </div>
+        </div>
+      `;
+    })
+    .join("");
+
+  const html = renderTemplate(template, {
+    title: frontmatter.title || "Home",
+    description: frontmatter.description || "",
+    image: frontmatter.image || "/assets/default.jpg",
+
+    hero_title: frontmatter.hero_title || "",
+    hero_motto: frontmatter.hero_motto || "",
+    hero_subtitle: frontmatter.hero_subtitle || "",
+    hero_button_text: frontmatter.hero_button_text || "",
+    hero_button_link: frontmatter.hero_button_link || "#",
+
+    clarification_title: frontmatter.clarification_title || "",
+    clarification_body: marked.parse(body),
+
+    communities_title: frontmatter.communities_title || "",
+    communities_subtitle: frontmatter.communities_subtitle || "",
+    communities_html: communitiesHTML,
+
+    highlights_title: highlights.title || "",
+    highlights_html: highlightsHTML,
+    highlights_button_text: highlights.button_text || "",
+    highlights_button_link: highlights.button_link || "#"
+  });
+
+  fs.writeFileSync("./build-output/index.html", html);
+  console.log("✔ Homepage generated");
+}
+
+// -----------------------------
+// Build all markdown pages
+// -----------------------------
+function buildPages() {
+  const template = fs.readFileSync("./page.html", "utf8");
+  const pagesDir = "./content/pages";
+
+  fs.readdirSync(pagesDir).forEach(file => {
+    if (!file.endsWith(".md")) return;
+
+    const slug = file.replace(".md", "");
+    const raw = fs.readFileSync(path.join(pagesDir, file), "utf8");
+    const { frontmatter, body } = parseMarkdown(raw);
+
+    const html = renderTemplate(template, {
+      title: frontmatter.title || slug,
+      description: frontmatter.description || "",
+      image: frontmatter.image || "/assets/default.jpg",
+      body: marked.parse(body)
+    });
+
+    // Write SLUG.html instead of SLUG/index.html
+    fs.writeFileSync(`./build-output/${slug}.html`, html);
+
+    console.log(`✔ Page generated: ${slug}.html`);
+  });
+}
+
+
+// -----------------------------
+// Ensure docs folder exists
+// -----------------------------
+if (!fs.existsSync("./docs")) {
+  fs.mkdirSync("./docs");
+}
+
+// -----------------------------
+// Run build
+// -----------------------------
+buildHomepage();
+buildPages();
+
+console.log("🎉 Build complete");

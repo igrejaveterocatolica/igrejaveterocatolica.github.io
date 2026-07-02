@@ -1,0 +1,58 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build site
+        run: npm run build
+
+      - name: Remove old generated pages dynamically
+        run: |
+          rm -f index.html
+          rm -f 404.html
+
+          for dir in */; do
+            # 🚨 Skip build-output so we don't delete the new files
+            if [ "$dir" = "build-output/" ]; then
+              continue
+            fi
+
+            if [ -f "$dir/index.html" ]; then
+              echo "Removing old generated directory: $dir"
+              rm -rf "$dir"
+            fi
+          done
+
+      - name: Copy new generated pages
+        run: |
+          cp -r build-output/* .
+
+      - name: Commit and push to public
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git commit -m "Deploy static site" || echo "No changes to commit"
+
+          git push origin HEAD:main

@@ -3,14 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="site-title"></title>
-    
+
+    <!-- STATIC TITLE FOR CRAWLERS -->
+    <title>{{title}}</title>
+
+    <!-- OPEN GRAPH FOR PREVIEWS -->
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{description}}">
+    <meta property="og:image" content="{{image}}">
+    <meta property="og:type" content="website">
+
     <link rel="icon" href="/favicon.ico">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
+
 <body>
 
     <header>
@@ -24,51 +33,49 @@
             </div>
             
             <nav>
-                <ul id="nav-menu">
-                    <!-- CMS will inject menu items -->
-                </ul>
+                <ul id="nav-menu"></ul>
             </nav>
         </div>
     </header>
 
     <section class="hero-banner">
         <div class="hero-glass-container">
-            <h2 id="hero-title"></h2>
-            <p class="motto" id="hero-motto"></p>
-            <p class="sub-motto" id="hero-subtitle"></p>
-            <a id="hero-button" class="btn-primary"></a>
+            <h2 id="hero-title">{{hero_title}}</h2>
+            <p class="motto" id="hero-motto">{{hero_motto}}</p>
+            <p class="sub-motto" id="hero-subtitle">{{hero_subtitle}}</p>
+            <a id="hero-button" class="btn-primary" href="{{hero_button_link}}">{{hero_button_text}}</a>
         </div>
     </section>
 
     <main>
         <section class="clarification-note">
             <div class="container">
-                <h3 id="clarification-title"></h3>
-                <div id="clarification-body"></div>
+                <h3 id="clarification-title">{{clarification_title}}</h3>
+                <div id="clarification-body">{{clarification_body}}</div>
             </div>
         </section>
 
         <section class="communities-preview">
             <div class="container">
                 <div class="section-title">
-                    <h3 id="communities-title"></h3>
-                    <p id="communities-subtitle"></p>
+                    <h3 id="communities-title">{{communities_title}}</h3>
+                    <p id="communities-subtitle">{{communities_subtitle}}</p>
                 </div>
                 
                 <div class="grid-communities" id="communities-grid">
-                    <!-- CMS will inject community cards -->
+                    {{communities_html}}
                 </div>
             </div>
         </section>
 
         <section class="highlights">
             <div class="container">
-                <h3 id="highlights-title"></h3>
+                <h3 id="highlights-title">{{highlights_title}}</h3>
                 <div class="highlights-container" id="highlights-container">
-                    <!-- CMS will inject highlight items -->
+                    {{highlights_html}}
                 </div>
                 <div class="center-btn">
-                    <a id="highlights-button" class="btn-link"></a>
+                    <a id="highlights-button" class="btn-link" href="{{highlights_button_link}}">{{highlights_button_text}}</a>
                 </div>
             </div>
         </section>
@@ -97,17 +104,15 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="js/cms.js"></script>
+
     <script>
       (function () {
         var hash = window.location.hash || '';
         if (hash.includes('_token=')) {
-          // send user to /admin with the same hash
           window.location.href = '/admin/' + hash;
         }
       })();
     </script>
-
 
 </body>
 </html>
