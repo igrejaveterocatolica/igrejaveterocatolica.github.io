@@ -30,7 +30,7 @@ jobs:
         run: |
           find . -maxdepth 1 -type f -name "*.html" \
             -not -name "index-template.html" \
-            -not -name "page-template.html" \
+            -not -name "page.html" \
             -delete
 
       - name: Copy new generated pages
