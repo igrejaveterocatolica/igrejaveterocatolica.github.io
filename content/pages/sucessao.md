@@ -39,11 +39,9 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 137. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
-138. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
+138. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
-139. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
-
-140. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+139. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
 
 <br><br>
 
