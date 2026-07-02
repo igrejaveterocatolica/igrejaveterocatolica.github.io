@@ -1,6 +1,16 @@
 {
   "links": [
-    { "label": "A Nossa Fé & História", "href": "quem-somos.html" },
-    { "label": "O Nosso Clero", "href": "clero.html" }
+    {
+      "label": "A Nossa Fé & História",
+      "href": "quem-somos.html"
+    },
+    {
+      "label": "O Nosso Clero",
+      "href": "clero.html"
+    },
+    {
+      "label": "Sucessão Apostólica",
+      "href": "sucessao.html"
+    }
   ]
 }
