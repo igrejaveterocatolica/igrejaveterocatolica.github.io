@@ -143,13 +143,13 @@ function buildPages() {
       body: marked.parse(body)
     });
 
-    const outDir = `./build-output/${slug}`;
-    fs.mkdirSync(outDir, { recursive: true });
-    fs.writeFileSync(`${outDir}/index.html`, html);
+    // Write SLUG.html instead of SLUG/index.html
+    fs.writeFileSync(`./build-output/${slug}.html`, html);
 
-    console.log(`✔ Page generated: ${slug}`);
+    console.log(`✔ Page generated: ${slug}.html`);
   });
 }
+
 
 // -----------------------------
 // Ensure docs folder exists
