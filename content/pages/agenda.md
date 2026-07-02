@@ -2,6 +2,24 @@
 title: Agenda
 ---
 <div class="highlights-container" id="highlights-container">
+<div class="highlight-item">
+        <div class="date-badge" style="min-width:200px">
+            <span class="month">14 de Outubro de 2026</span>
+        </div>
+        <div class="highlight-text"><img src="/img/peregrinacao.png" height=300px>
+            <h4>Fundação da Associação</h4>
+            <p>Celebração da fundação da <a href="/associacao.html">Associação Entre Caminhos</a>.</p>
+        </div>
+    </div>
+<div class="highlight-item">
+        <div class="date-badge" style="min-width:200px">
+            <span class="month">20 de Novembro de 2026</span>
+        </div>
+        <div class="highlight-text"><img src="/img/peregrinacao.png" height=300px>
+            <h4>Fundação da Comunidade</h4>
+            <p>Celebração da data da fundação da Comunidade da Capela das Almas.</p>
+        </div>
+    </div>
     <div class="highlight-item">
         <div class="date-badge" style="min-width:200px">
             <span class="month">Dezembro de 2026</span>
@@ -17,28 +35,29 @@ title: Agenda
         </div>
         <div class="highlight-text"><img src="/img/festa_ns_boa_viagem.jpg" height=300px>
 
-#### **Festas Em Honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima**  
+#### **Festas Em Honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima**
 
-
----
+- - -
 
 #### **Programa**
-- Procissão de Velas  
-- Procissão Solene  
-- Música ao vivo com artista a designar da TV  
-- Grupo de Baile  
-- Duos Musicais  
-- Fogo de Artifício  
-- Comes e Bebes  
-- Fanfarra  
-- Banda de Música  
-- Bênção dos Coletes  
-- Entre outras atividades  
 
----
+* Procissão de Velas  
+* Procissão Solene  
+* Música ao vivo com artista a designar da TV  
+* Grupo de Baile  
+* Duos Musicais  
+* Fogo de Artifício  
+* Comes e Bebes  
+* Fanfarra  
+* Banda de Música  
+* Bênção dos Coletes  
+* Entre outras atividades  
+
+- - -
 
 #### **Convite**
 
-**Vamos todos ajudar a realizar estas festividades!**  
+**Vamos todos ajudar a realizar estas festividades!**\
 **Contamos com a colaboração e participação de todos para tornar estas festas um grande sucesso!**
+
 </div></div></div>
