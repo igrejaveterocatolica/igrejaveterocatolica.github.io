@@ -9,7 +9,7 @@ A história dos Vétero‑Católicos não pode ser compreendida sem reconhecer o
 
 Em **1145**, o Papa Eugénio III outorgou ao Capítulo da Catedral de Utrecht o direito perpétuo de eleger os seus próprios bispos sempre que a sé estivesse vacante. Este privilégio foi reafirmado pelo IV Concílio de Latrão (1215), consolidando a independência eletiva da diocese. <br><br>
 
-Mais tarde, em **1520**, o Papa Leão X promulgou a bula *Debitum Pastoralis*, que estabelecia que nenhum clérigo ou leigo de Utrecht poderia ser julgado por tribunais eclesiásticos externos, incluindo Roma. Qualquer processo desse tipo seria considerado nulo de pleno direito. Esta proteção jurídica reforçou a autonomia da Sé e tornou‑se um elemento central nos conflitos posteriores. <br><br> <br><br>
+Mais tarde, em **1520**, o Papa Leão X promulgou a bula *Debitum Pastoralis*, que estabelecia que nenhum clérigo ou leigo de Utrecht poderia ser julgado por tribunais eclesiásticos externos, incluindo Roma. Qualquer processo desse tipo seria considerado nulo de pleno direito. Esta proteção jurídica reforçou a autonomia da Sé e tornou‑se um elemento central nos conflitos posteriores. <br><br>
 
 ## O Conflito com Roma e o Cisma de 1723
 No início do século XVIII, Roma suspendeu secretamente o Arcebispo de Utrecht, Petrus Codde, acusado de simpatias jansenistas. O capítulo recusou‑se a aceitar a suspensão, argumentando que: <br><br>
@@ -18,7 +18,7 @@ No início do século XVIII, Roma suspendeu secretamente o Arcebispo de Utrecht,
 * A sé não estava vacante, pois Codde nunca fora validamente deposto;
 * Roma não tinha autoridade para impor um administrador externo. <br><br>
 
-Quando Codde faleceu, o capítulo exerceu o seu direito de 1145 e elegeu Cornelius Steenhoven como novo arcebispo em **1723**, sem solicitar confirmação à Santa Sé. A sua consagração por Dom Varlet consumou o cisma de Utrecht, dando origem à Igreja de Utrecht independente, que preservou a sucessão apostólica e a doutrina católica tradicional. <br><br><br><br>
+Quando Codde faleceu, o capítulo exerceu o seu direito de 1145 e elegeu Cornelius Steenhoven como novo arcebispo em **1723**, sem solicitar confirmação à Santa Sé. A sua consagração por Dom Varlet consumou o cisma de Utrecht, dando origem à Igreja de Utrecht independente, que preservou a sucessão apostólica e a doutrina católica tradicional. <br><br>
 
 ## O Movimento Vétero‑Católico no Século XIX
 Após o Concílio Vaticano I (1870) e a definição do dogma da Infalibilidade Papal, muitos teólogos, historiadores e fiéis rejeitaram o que consideravam uma inovação contrária à tradição do primeiro milénio. Procurando uma continuidade católica sem as novas definições romanas, estes grupos encontraram em Utrecht uma sucessão apostólica legítima e uma eclesiologia tradicional. <br><br>
