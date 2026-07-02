@@ -80,7 +80,7 @@ function loadSettingsData() {
 // Build homepage (index.html)
 // -----------------------------
 function buildHomepage() {
-  const template = fs.readFileSync("./index.html", "utf8");
+  const template = fs.readFileSync("./index-template.html", "utf8");
   const homeRaw = fs.readFileSync("./content/home.md", "utf8");
   const { frontmatter, body } = parseMarkdown(homeRaw);
 
