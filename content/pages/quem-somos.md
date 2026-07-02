@@ -2,6 +2,8 @@
 slug: quem-somos
 title: A Nossa Fé & História
 ---
+<center><img src="static/img/heraldica-igreja.png" width=160px></center>
+
 ## A Sé de Utrecht e os Seus Privilégios Históricos
 A história dos Vétero‑Católicos não pode ser compreendida sem reconhecer o papel singular da Sé de Utrecht, uma diocese que, desde a Idade Média, gozou de privilégios canónicos de autonomia concedidos diretamente pelos Papas. <br><br>
 
