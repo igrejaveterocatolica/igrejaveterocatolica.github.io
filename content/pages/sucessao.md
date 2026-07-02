@@ -37,7 +37,7 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 136. Dom Paulo Pereira, 1997 d.C.
 
-137. ** Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior **
+137. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
 138. **Dom José Reis, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
 
@@ -109,7 +109,7 @@ Com esta consagração nasceu a Igreja Velho‑Católica (Old Catholic).
 
 #### Fidelitas de Jerusalém no Brasil e Exterior
 
-266. ** Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior **
+266. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
 267. **Dom José Reis, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
 
