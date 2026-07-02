@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{{title}}</title>
+    <title>Home</title>
 
     <!-- OPEN GRAPH FOR PREVIEWS -->
-    <meta property="og:title" content="{{title}}">
-    <meta property="og:description" content="{{description}}">
-    <meta property="og:image" content="{{image}}">
+    <meta property="og:title" content="Home">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="/assets/default.jpg">
     <meta property="og:type" content="website">
 
     <link rel="icon" href="/favicon.ico">
@@ -24,16 +24,16 @@
     <header>
         <div class="container header-flex">
             <div class="logo-container">
-                <img src="{{site_logo}}" class="logo-img" alt="">
+                <img src="/img/logo.png" class="logo-img" alt="">
                 <div class="logo-text">
-                    <h1>{{header_title}}</h1>
-                    <p>{{header_subtitle}}</p>
+                    <h1>Igreja Vétero Católica de Jerusalém</h1>
+                    <p>Portugal</p>
                 </div>
             </div>
             
             <nav>
                 <ul>
-                    {{nav_menu}}
+                    <li><a href="/page.html#quem-somos">A Nossa Fé & História</a></li><li><a href="/page.html#clero">O Nosso Clero</a></li>
                 </ul>
             </nav>
         </div>
@@ -41,38 +41,81 @@
 
     <section class="hero-banner">
         <div class="hero-glass-container">
-            <h2>{{hero_title}}</h2>
-            <p class="motto">{{hero_motto}}</p>
-            <p class="sub-motto">{{hero_subtitle}}</p>
-            <a class="btn-primary" href="{{hero_button_link}}">{{hero_button_text}}</a>
+            <h2>Primeira Igreja Apostólica<br>Vétero Católica de Jerusalém</h2>
+            <p class="motto">Na Tua Misericórdia</p>
+            <p class="sub-motto">Sob a Direção Espiritual de Dom Carlos Fonseca, Arcebispo Primaz</p>
+            <a class="btn-primary" href="#missas">Ver Horários das Missas</a>
         </div>
     </section>
 
     <main>
         <section class="clarification-note">
             <div class="container">
-                <h3>{{clarification_title}}</h3>
-                <div>{{clarification_body}}</div>
+                <h3>Nota de Clarificação Institucional</h3>
+                <div><p>A <strong>Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal</strong> constitui o ramo legítimo e oficial em território português da <em>Igreja Apostólica Vétero Católica do Brasil Fidelitas</em>, conforme o <u><strong><a href="/img
+/decreto-dom-paulus-nunes.jpg">decreto</a></strong></u> de 2023. Pautamo-nos pela transparência jurídica, canónica e espiritual.</p>
+<p>Para evitar equívocos junto dos fiéis e da opinião pública, esclarecemos formalmente que <strong>não possuímos qualquer ligação administrativa, jurídica ou espiritual</strong> com outras entidades homónimas ou que utilizem denominações semelhantes atualmente registadas ou a operar em Portugal.</p>
+</div>
             </div>
         </section>
 
         <section class="communities-preview">
             <div class="container">
                 <div class="section-title">
-                    <h3>{{communities_title}}</h3>
-                    <p>{{communities_subtitle}}</p>
+                    <h3></h3>
+                    <p></p>
                 </div>
                 
                 <div class="grid-communities">
-                    {{communities_html}}
+                    
+        <div class="community-card">
+          <div class="card-image" style="background-image: url('/img/capela-almas.jpg')"></div>
+          <div class="card-content">
+            <h4><div id="missas">Capela das Almas</div></h4>
+            <p class="location">📍 Lourosa, Santa Maria da Feira</p>
+            <p class="description">A nossa principal comunidade local, com celebrações regulares, devoções marianas e uma vida comunitária ativa. <br><br> <strong> Missas:</strong> <br> Quarta-feira 19:00. <br> Sábado 17:00. <br> Domingo 10:00.</p>
+            
+          </div>
+        </div>
+      
+        <div class="community-card">
+          <div class="card-image" style="background-image: url('/img/oratorio-padre-pio.jpg')"></div>
+          <div class="card-content">
+            <h4>Oratório São Padre Pio</h4>
+            <p class="location">📍 Fátima, Ourém</p>
+            <p class="description">Um espaço de profunda espiritualidade dedicado a São Pio de Pietrelcina, acolhendo celebrações ocasionais e momentos de recolhimento.</p>
+            
+          </div>
+        </div>
+      
                 </div>
             </div>
         </section>
 
         <section class="highlights">
             <div class="container">
-                <h3>{{highlights_title}}</h3>
+                <h3>Destaques da Comunidade</h3>
                 <div class="highlights-container">
-                    {{highlights_html}}
+                    
+        <div class="highlight-item">
+          <div class="date-badge">
+            <span class="month">Maio</span>
+          </div>
+          <div class="highlight-text">
+            <h4>Grandes Festas da Capela das Almas</h4>
+            <p>Celebrações anuais em honra de Nossa Senhora da Boa Viagem e Nossa Senhora de Fátima, incluindo a tradicional Bênção dos Coletes Motard e procissão.</p>
+          </div>
+        </div>
+      
+        <div class="highlight-item">
+          <div class="date-badge">
+            <span class="month">Dez</span>
+          </div>
+          <div class="highlight-text">
+            <h4>Peregrinação Anual a Fátima</h4>
+            <p>A grande peregrinação anual de inverno, unindo todas as frentes pastorais e fiéis num ato solene de consagração e oração.</p>
+          </div>
+        </div>
+      
                 </div>
                 <div class="center-btn">
