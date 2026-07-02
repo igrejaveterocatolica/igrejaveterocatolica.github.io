@@ -92,7 +92,7 @@ function buildHomepage() {
   const footerLinksHTML = loadFooterLinksHTML();
 
   // Render communities
-  const communities = communitiesData.communities
+  const communities = communitiesData.communities;
   const communitiesHTML = communities
     .map(c => {
       const btn = c.link
@@ -229,9 +229,53 @@ function buildPages() {
 }
 
 // -----------------------------
+// Build sitemap.xml
+// -----------------------------
+function buildSitemap() {
+  const baseUrl = "https://igrejacatolicajerusalem.pt";
+
+  const files = fs.readdirSync("./build-output")
+    .filter(f => f.endsWith(".html"));
+
+  const urls = files.map(file => {
+    const loc = `${baseUrl}/${file === "index.html" ? "" : file}`;
+    return `
+      <url>
+        <loc>${loc}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>${file === "index.html" ? "1.0" : "0.7"}</priority>
+      </url>
+    `;
+  }).join("");
+
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls}
+</urlset>`;
+
+  fs.writeFileSync("./build-output/sitemap.xml", sitemap);
+  console.log("✔ Sitemap generated");
+}
+
+// -----------------------------
+// Deploy build-output to repo root
+// -----------------------------
+function deployToRoot() {
+  const files = fs.readdirSync("./build-output");
+
+  files.forEach(file => {
+    fs.copyFileSync(`./build-output/${file}`, `./${file}`);
+  });
+
+  console.log("✔ Build-output copied to repo root");
+}
+
+// -----------------------------
 // Run build
 // -----------------------------
 buildHomepage();
 buildPages();
+buildSitemap();
+deployToRoot();
 
 console.log("🎉 Build complete");
