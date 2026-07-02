@@ -1,4 +1,5 @@
 ---
+slug: sucessao
 title: Sucessão Apostólica
 ---
 ## Introdução
