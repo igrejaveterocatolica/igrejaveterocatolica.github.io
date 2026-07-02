@@ -26,22 +26,11 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Remove old generated pages dynamically
+      - name: Remove old generated HTML files only
         run: |
           rm -f index.html
           rm -f 404.html
-
-          for dir in */; do
-            # 🚨 Skip build-output so we don't delete the new files
-            if [ "$dir" = "build-output/" ]; then
-              continue
-            fi
-
-            if [ -f "$dir/index.html" ]; then
-              echo "Removing old generated directory: $dir"
-              rm -rf "$dir"
-            fi
-          done
+          find . -maxdepth 1 -type f -name "*.html" -not -path "./build-output/*" -delete
 
       - name: Copy new generated pages
         run: |
