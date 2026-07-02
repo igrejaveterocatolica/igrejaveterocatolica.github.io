@@ -3,7 +3,7 @@ title: Agenda
 ---
 <div class="highlights-container" id="highlights-container">
     <div class="highlight-item">
-        <div class="date-badge">
+        <div class="date-badge" style="min-width:200px">
             <span class="month">Dezembro de 2026</span>
         </div>
         <div class="highlight-text"><img src="/img/peregrinacao.png" height=300px>
@@ -12,7 +12,7 @@ title: Agenda
         </div>
     </div>
     <div class="highlight-item">
-        <div class="date-badge">
+        <div class="date-badge" style="min-width:200px">
             <span class="month">28, 29 e 30 Maio de 2027</span>
         </div>
         <div class="highlight-text"><img src="/img/festa_ns_boa_viagem.jpg" height=300px>
