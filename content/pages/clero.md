@@ -29,7 +29,7 @@ title: O Nosso Clero
 <div class="clero-header">
     <img src="./img/dom-jose-reis.png" width="160" style="border-radius: 6px;">
     <div>
-        <h2 style="margin: 0;">Dom José Reis</h2>
+        <h2 style="margin: 0;">Dom José Barbosa da Silva</h2>
         <h3 style="margin: 0;">Bispo Auxiliar</h3>
     </div>
 </div>
