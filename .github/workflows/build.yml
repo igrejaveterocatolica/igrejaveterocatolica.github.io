@@ -3,7 +3,7 @@ name: Build static pages
 on:
   push:
     branches:
-      - main
+      - develop
 
 jobs:
   build:
