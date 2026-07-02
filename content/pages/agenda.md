@@ -2,7 +2,7 @@
 title: Agenda
 ---
 <div class="highlights-container" id="highlights-container">
-<div class="highlight-item">
+<div class="highlight-item" style="border: 0;">
         <div class="date-badge" style="min-width:200px">
             <span class="month">14 de Outubro de 2026</span>
         </div>
@@ -11,7 +11,7 @@ title: Agenda
             <p>Celebração da fundação da <a href="/associacao.html">Associação Entre Caminhos</a>.</p>
         </div>
     </div>
-<div class="highlight-item">
+<div class="highlight-item" style="border: 0;">
         <div class="date-badge" style="min-width:200px">
             <span class="month">20 de Novembro de 2026</span>
         </div>
@@ -20,7 +20,7 @@ title: Agenda
             <p>Celebração da data da fundação da Comunidade da Capela das Almas.</p>
         </div>
     </div>
-    <div class="highlight-item">
+    <div class="highlight-item" style="border: 0;">
         <div class="date-badge" style="min-width:200px">
             <span class="month">Dezembro de 2026</span>
         </div>
@@ -29,7 +29,7 @@ title: Agenda
             <p>A grande peregrinação anual de inverno, unindo todas as frentes pastorais e fiéis num ato solene de consagração e oração.</p>
         </div>
     </div>
-    <div class="highlight-item">
+    <div class="highlight-item" style="border: 0;">
         <div class="date-badge" style="min-width:200px">
             <span class="month">28, 29 e 30 Maio de 2027</span>
         </div>
