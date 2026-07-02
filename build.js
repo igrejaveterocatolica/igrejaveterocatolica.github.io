@@ -235,7 +235,10 @@ function buildSitemap() {
   const baseUrl = "https://igrejacatolicajerusalem.pt";
 
   const files = fs.readdirSync("./build-output")
-    .filter(f => f.endsWith(".html"));
+    .filter(f =>
+      f.endsWith(".html") &&
+      f !== "404.html"
+    );
 
   const urls = files.map(file => {
     const loc = `${baseUrl}/${file === "index.html" ? "" : file}`;
