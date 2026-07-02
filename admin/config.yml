@@ -23,6 +23,7 @@ collections:
           - { label: "Hero Button Text", name: "hero_button_text", widget: "string" }
           - { label: "Hero Button Link", name: "hero_button_link", widget: "string" }
           - { label: "Clarification Title", name: "clarification_title", widget: "string" }
+          - { label: "Communities Title", name: "communities_title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
   # SITE SETTINGS (JSON)
