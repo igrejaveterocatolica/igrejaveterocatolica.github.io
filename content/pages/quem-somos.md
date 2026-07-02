@@ -44,8 +44,8 @@ Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pe
 
 O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
-## A Igreja Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. É desta linhagem que deriva: <br><br>
+## A Igreja Vétero Católica de Jerusalém em Portugal
+Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. É desta linhagem que deriva: <br><br>
 
 * A <strong><u><a href="/sucessao.html">sucessão apostólica</a></u></strong>; 
 * O <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. <br><br>
