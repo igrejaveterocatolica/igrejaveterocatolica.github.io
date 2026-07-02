@@ -2,6 +2,10 @@ import fs from "fs";
 import path from "path";
 import { marked } from "marked";
 
+if (!fs.existsSync("./build-output")) {
+  fs.mkdirSync("./build-output");
+}
+
 // -----------------------------
 // Utility: Parse Markdown + Frontmatter
 // -----------------------------
@@ -114,7 +118,7 @@ function buildHomepage() {
     highlights_button_link: highlights.button_link || "#"
   });
 
-  fs.writeFileSync("./docs/index.html", html);
+  fs.writeFileSync("./build-output/index.html", html);
   console.log("✔ Homepage generated");
 }
 
@@ -139,7 +143,7 @@ function buildPages() {
       body: marked.parse(body)
     });
 
-    const outDir = `./docs/${slug}`;
+    const outDir = `./build-output/${slug}`;
     fs.mkdirSync(outDir, { recursive: true });
     fs.writeFileSync(`${outDir}/index.html`, html);
 
