@@ -131,7 +131,7 @@ function buildHomepage() {
 
   const html = renderTemplate(template, {
     // Homepage content
-    title: frontmatter.title || "Home",
+    title: settings.site_title || "Home",
     description: frontmatter.description || "",
     image: frontmatter.image || "/assets/default.jpg",
 
