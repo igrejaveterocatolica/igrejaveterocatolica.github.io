@@ -47,12 +47,15 @@ jobs:
         run: |
           cp -r build-output/* .
 
-      - name: Commit and push to public
+      - name: Commit and push to main
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add .
           git commit -m "Deploy static site" || echo "No changes to commit"
+
+          # Fix non-fast-forward errors
+          git pull --rebase origin main || true
 
           git push origin HEAD:main
