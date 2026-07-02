@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - develop
+      - main
 
 jobs:
   build:
@@ -55,4 +55,4 @@ jobs:
           git add .
           git commit -m "Deploy static site" || echo "No changes to commit"
 
-          git push origin HEAD:public
+          git push origin HEAD:main
