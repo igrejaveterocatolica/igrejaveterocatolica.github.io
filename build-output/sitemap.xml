@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
       <url>
-        <loc>https://igrejacatolicajerusalem.pt/404.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-      </url>
-    
-      <url>
         <loc>https://igrejacatolicajerusalem.pt/agenda.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
