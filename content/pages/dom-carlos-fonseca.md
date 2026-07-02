@@ -56,7 +56,7 @@ Ao centro, uma **cruz de ouro** estrutura a composição, simbolizando Cristo co
 
 #### Elementos exteriores
 
-Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e listel de prata com verso vermelho contendo o lema **Na Tua Misericórdia**.
+Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e listel de prata com verso vermelho contendo o lema **Na Tua Misericórdia**. <br><br><br><br>
 
 </div>
 
