@@ -6,7 +6,7 @@ title: Agenda
         <div class="date-badge" style="min-width:200px">
             <span class="month">14 de Outubro de 2026</span>
         </div>
-        <div class="highlight-text"><img src="/img/peregrinacao.png" height=300px>
+        <div class="highlight-text"><img src="/img/entre-caminhos-fundacao.png" height=300px>
             <h4>Fundação da Associação</h4>
             <p>Celebração da fundação da <a href="/associacao.html">Associação Entre Caminhos</a>.</p>
         </div>
@@ -15,7 +15,7 @@ title: Agenda
         <div class="date-badge" style="min-width:200px">
             <span class="month">20 de Novembro de 2026</span>
         </div>
-        <div class="highlight-text"><img src="/img/peregrinacao.png" height=300px>
+        <div class="highlight-text"><img src="/img/comunidade-fundacao.png" height=300px>
             <h4>Fundação da Comunidade</h4>
             <p>Celebração da data da fundação da Comunidade da Capela das Almas.</p>
         </div>
