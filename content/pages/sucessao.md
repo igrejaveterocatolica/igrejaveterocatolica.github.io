@@ -110,10 +110,8 @@ Com esta consagração nasceu a Igreja Vétero‑Católica (Old Catholic).
 
 266. **Dom Paulo Nunes, 2001 d.C.,  Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior**
 
-267. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**
+267. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
-268. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
-
-269. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+268. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
 
 <br><br><br><br>
