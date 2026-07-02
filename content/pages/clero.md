@@ -7,8 +7,8 @@ title: O Nosso Clero
     <img src="./img/brasao-dom-carlos-fonseca.jpg" height="160" style="border-radius: 6px;">
     <div>
         <a href="/page.html#dom-carlos-fonseca" style="text-decoration: none; color: inherit;">
-            <h2 style="margin: 0;">Dom Carlos Fonseca</h2>
-            <h3 style="margin: 0;">Arcebispo Primaz e Patriarca IV</h3>
+            <h2 style="margin: 0;"><u>Dom Carlos Fonseca</u></h2>
+            <h3 style="margin: 0;"><u>Arcebispo Primaz e Patriarca IV</u></h3>
         </a>
     </div>
 </div>
