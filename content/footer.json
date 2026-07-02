@@ -1,4 +1,4 @@
 [
-  { "label": "A Nossa Fé & História", "href": "page.html#quem-somos" },
-  { "label": "O Nosso Clero", "href": "page.html#clero" }
+  { "label": "A Nossa Fé & História", "href": "quem-somos.html" },
+  { "label": "O Nosso Clero", "href": "clero.html" }
 ]
