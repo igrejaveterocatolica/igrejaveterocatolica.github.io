@@ -1,9 +1,9 @@
 {
   "": [
     {
-      "title": "Capela das Almas",
+      "title": "<div id=\"missas\">Capela das Almas</div>",
       "location": "📍 Lourosa, Santa Maria da Feira",
-      "description": "<div id=\"missas\">A nossa principal comunidade local, com celebrações regulares, devoções marianas e uma vida comunitária ativa. <br><br> <strong> Missas:</strong> <br> Quarta-feira 19:00. <br> Sábado 17:00. <br> Domingo 10:00.</div>",
+      "description": "A nossa principal comunidade local, com celebrações regulares, devoções marianas e uma vida comunitária ativa. <br><br> <strong> Missas:</strong> <br> Quarta-feira 19:00. <br> Sábado 17:00. <br> Domingo 10:00.",
       "image": "/img/capela-almas.jpg",
       "button": "",
       "link": ""
