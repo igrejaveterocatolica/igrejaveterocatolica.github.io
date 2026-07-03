@@ -64,7 +64,7 @@ Assim, a Ordem Terceira representa a união entre a **dimensão espiritual e ecl
 
 Os fiéis interessados podem contactar a Igreja Vétero Católica de Jerusalém para iniciar um caminho de discernimento e formação, conduzido por um sacerdote ou animador vocacional dominicano.
 
-**Email de contacto:** <a href="mailto:primeiraigrejavcjerusalempt@gmail.com">primeiraigrejavcjerusalempt@gmail.com</a> <br><br>
+**Email de contacto:** <u><a href="mailto:primeiraigrejavcjerusalempt@gmail.com">primeiraigrejavcjerusalempt@gmail.com</a></u> <br><br>
 
 ## Conclusão
 
