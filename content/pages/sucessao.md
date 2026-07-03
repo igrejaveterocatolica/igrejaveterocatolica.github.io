@@ -25,7 +25,7 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 130. Arcebispo George Alexander McGuire, 1921 d.C.
 
-131. Bispo Willian Frederick, 1928 d.C.
+131. Bispo William P. Tyarks, 1928 d.C.
 
 132. Arcebispo James F. A. Lashley, 1932 d.C.
 
