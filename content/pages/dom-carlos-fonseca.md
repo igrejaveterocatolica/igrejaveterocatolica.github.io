@@ -24,8 +24,8 @@ title: Dom Carlos Fonseca
 
 A sucessão apostólica integra duas linhas principais: <br><br>
 
-- **Linha Vilatte** — origem síria “Jacobita”, Patriarcado de Antióquia; transmissão ocidental por Dom Joseph René Vilatte.
-- **Linha Matthew** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Dom Arnold Harris Matthew. <br><br>
+- **Linha Vilatte** — origem síria "Jacobita", Patriarcado de Antióquia; transmissão ocidental por Arcebispo Joseph René Vilatte.
+- **Linha Matthew** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Bispo Arnold Harris Matthew. <br><br>
 
 **Resumo da linha:**  
 Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes**, *Patriarca dos Vétero Católicos Fidelitas e de Jerusalém no Brasil e Exterior* → **Dom Carlos Fonseca** → Dom Armando Vilela.
