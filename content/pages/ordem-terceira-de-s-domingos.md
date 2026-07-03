@@ -8,7 +8,7 @@ title: Ordem Terceira de S. Domingos
 
 A **Ordem Terceira de São Domingos** da *Igreja Vétero Católica de Jerusalém* *em Portugal* é uma comunidade de fiéis que, vivendo no mundo, desejam alcançar a perfeição cristã segundo o espírito de São Domingos. Inspirada na tradição dominicana, esta Ordem oferece aos seus membros um caminho de oração, estudo, penitência e serviço, plenamente integrado na vida secular.
 
-É importante frisar que a Ordem Terceira é uma verdadeira profissão religiosa ou monástica, ainda que seus membros vivam no mundo e não façam votos públicos canónicos, mas sim uma promessa solene. Esta profissão implica um compromisso profundo com Deus Nosso Senhor, semelhante ao dos religiosos claustrados, mas adaptado à vida secular. <br><br>
+É importante frisar que a entrada na Ordem Terceira implica, espiritualmente, uma verdadeira profissão religiosa ou monástica, ainda que seus membros vivam no mundo e não façam votos canónicos públicos, mas sim uma promessa solene. Esta profissão implica um compromisso profundo com Deus Nosso Senhor, semelhante ao dos religiosos claustrados, mas adaptado à vida secular. <br><br>
 
 ## Origem e História
 
