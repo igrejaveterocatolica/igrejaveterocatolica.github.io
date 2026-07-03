@@ -706,7 +706,7 @@ footer h5 {
     }
 }
 
-.agenda-content img {
+.agenda-page .agenda-content img {
     width: 100%;
     max-width: 350px;
     height: auto;
