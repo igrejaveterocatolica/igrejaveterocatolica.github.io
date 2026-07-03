@@ -38,6 +38,51 @@ function loadJSON(filePath) {
 }
 
 // -----------------------------
+// Load ALT text database
+// -----------------------------
+const imageAlts = loadJSON("./content/image-alts.json").images;
+
+function getAlt(filename) {
+  const item = imageAlts.find(img => img.filename === filename);
+  return item ? item.alt : "";
+}
+
+// Helper to generate <img> tags with ALT automatically
+function img(filename, extra = "") {
+  const alt = getAlt(filename);
+  return `<img src="/img/${filename}" alt="${alt}" ${extra}>`;
+}
+
+// -----------------------------
+// Apply ALT to HTML inside Markdown (including raw HTML)
+// -----------------------------
+function applyAltsToHTML(html) {
+  return html.replace(/<img([^>]+?)src=["']([^"']+)["']([^>]*)>/g, (match, before, src, after) => {
+    const filename = path.basename(src);
+    const alt = getAlt(filename);
+
+    // Remove any existing alt=""
+    const cleaned = match.replace(/alt=["'][^"']*["']/, "");
+
+    // Inject correct ALT
+    return cleaned.replace("<img", `<img alt="${alt}"`);
+  });
+}
+
+// -----------------------------
+// Marked renderer override (Markdown images)
+// -----------------------------
+const renderer = {
+  image(href, title, text) {
+    const filename = path.basename(href);
+    const alt = getAlt(filename);
+    return `<img src="${href}" alt="${alt}">`;
+  }
+};
+
+marked.use({ renderer });
+
+// -----------------------------
 // Render template with placeholders
 // -----------------------------
 function renderTemplate(template, data) {
@@ -95,12 +140,19 @@ function buildHomepage() {
   const communities = communitiesData.communities;
   const communitiesHTML = communities
     .map(c => {
+      const filename = path.basename(c.image);
+      const alt = getAlt(filename);
+
       const btn = c.link
         ? `<a href="${c.link}" class="btn-secondary">${c.button || "Saber Mais"}</a>`
         : "";
+
       return `
         <div class="community-card">
-          <div class="card-image" style="background-image: url('${c.image}')"></div>
+          <div class="card-image"
+               style="background-image: url('${c.image}')"
+               aria-label="${alt}">
+          </div>
           <div class="card-content">
             <h4>${c.title}</h4>
             <p class="location">${c.location}</p>
@@ -130,10 +182,8 @@ function buildHomepage() {
     .join("");
 
   const html = renderTemplate(template, {
-    // Homepage content
     title: settings.site_title || "Home",
     description: settings.footer_description || "",
-    image: frontmatter.image || "/assets/default.jpg",
 
     hero_title: frontmatter.hero_title || "",
     hero_motto: frontmatter.hero_motto || "",
@@ -142,7 +192,7 @@ function buildHomepage() {
     hero_button_link: frontmatter.hero_button_link || "#",
 
     clarification_title: frontmatter.clarification_title || "",
-    clarification_body: marked.parse(body),
+    clarification_body: applyAltsToHTML(marked.parse(body)),
 
     communities_title: frontmatter.communities_title || "",
     communities_subtitle: frontmatter.communities_subtitle || "",
@@ -153,16 +203,13 @@ function buildHomepage() {
     highlights_button_text: highlights.button_text || "",
     highlights_button_link: highlights.button_link || "#",
 
-    // Menu
     nav_menu: menuHTML,
 
-    // Settings
     site_title: settings.site_title,
     header_title: settings.header_title,
     header_subtitle: settings.header_subtitle,
     site_logo: settings.logo,
 
-    // Footer
     footer_title: settings.footer_title,
     footer_description: settings.footer_description,
     footer_contact_title: settings.footer_contact_title,
@@ -196,23 +243,23 @@ function buildPages() {
     const raw = fs.readFileSync(path.join(pagesDir, file), "utf8");
     const { frontmatter, body } = parseMarkdown(raw);
 
+    const filename = frontmatter.image ? path.basename(frontmatter.image) : null;
+    const imageTag = filename ? img(filename) : "";
+
     const html = renderTemplate(template, {
       browser_title: `${frontmatter.title || slug} | ${settings.site_title}`,
       title: frontmatter.title || slug,
       description: frontmatter.description || "",
-      image: frontmatter.image || "/assets/default.jpg",
-      body: marked.parse(body),
+      image_tag: imageTag,
+      body: applyAltsToHTML(marked.parse(body)),
 
-      // Menu
       nav_menu: menuHTML,
 
-      // Settings
       site_title: settings.site_title,
       header_title: settings.header_title,
       header_subtitle: settings.header_subtitle,
       site_logo: settings.logo,
 
-      // Footer
       footer_title: settings.footer_title,
       footer_description: settings.footer_description,
       footer_contact_title: settings.footer_contact_title,
