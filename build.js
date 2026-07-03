@@ -185,7 +185,7 @@ function buildHomepage() {
   const html = renderTemplate(template, {
     title: settings.site_title || "Home",
     description: settings.footer_description || "",
-    site_logo_img: img(path.basename(settings.logo), 'class="logo-img"'),
+    site_logo_img: img(settings.logo, 'class="logo-img"'),
 
     hero_title: frontmatter.hero_title || "",
     hero_motto: frontmatter.hero_motto || "",
@@ -259,7 +259,7 @@ function buildPages() {
       site_title: settings.site_title,
       header_title: settings.header_title,
       header_subtitle: settings.header_subtitle,
-      site_logo_img: img(path.basename(settings.logo), 'class="logo-img"'),
+      site_logo_img: img(settings.logo, 'class="logo-img"'),
 
       footer_title: settings.footer_title,
       footer_description: settings.footer_description,
