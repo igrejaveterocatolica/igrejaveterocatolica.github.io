@@ -124,3 +124,19 @@ collections:
       - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  # IMAGE ALTS (JSON)
+  - name: "image_alts"
+    label: "Image ALT Texts"
+    files:
+      - label: "Image ALT List"
+        name: "image_alts"
+        file: "content/image-alts.json"
+        fields:
+          - label: "Images"
+            name: "images"
+            widget: "list"
+            fields:
+              - { label: "Filename", name: "filename", widget: "string" }
+              - { label: "ALT Text", name: "alt", widget: "text" }
+
