@@ -705,3 +705,14 @@ footer h5 {
         margin: 0 auto;
     }
 }
+
+.agenda-page .agenda-content img {
+    width: 100%;
+    max-width: 320px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 0 auto 20px;
+    display: block;
+}
+
