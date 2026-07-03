@@ -1,6 +1,8 @@
 ---
 title: Agenda
 ---
+<main class="agenda-page">
+    <section class="page-content">
 <div class="agenda-list">
             <div class="agenda-item">
                 <div class="agenda-date">14 de Outubro de 2026</div>
