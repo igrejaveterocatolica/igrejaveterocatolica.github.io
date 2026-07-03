@@ -6,9 +6,9 @@ title: Ordem Terceira de S. Domingos
 
 ## Introdução
 
-A Ordem Terceira de São Domingos da Igreja Vétero Católica de Jerusalém em Portugal é uma comunidade de fiéis que, vivendo no mundo, desejam alcançar a perfeição cristã segundo o espírito de São Domingos. Inspirada na tradição dominicana, esta Ordem oferece aos seus membros um caminho de oração, estudo, penitência e serviço, plenamente integrado na vida secular.
+A **Ordem Terceira de São Domingos** da *Igreja Vétero Católica de Jerusalém* *em Portugal* é uma comunidade de fiéis que, vivendo no mundo, desejam alcançar a perfeição cristã segundo o espírito de São Domingos. Inspirada na tradição dominicana, esta Ordem oferece aos seus membros um caminho de oração, estudo, penitência e serviço, plenamente integrado na vida secular.
 
-É importante frisar que a Ordem Terceira é uma verdadeira profissão religiosa ou monástica, ainda que seus membros vivam no mundo e não façam votos públicos canónicos, mas sim uma promessa solene. Esta profissão implica um compromisso profundo, semelhante ao dos religiosos claustrados, adaptado à vida secular. <br><br>
+É importante frisar que a Ordem Terceira é uma verdadeira profissão religiosa ou monástica, ainda que seus membros vivam no mundo e não façam votos públicos canónicos, mas sim uma promessa solene. Esta profissão implica um compromisso profundo com Deus Nosso Senhor, semelhante ao dos religiosos claustrados, mas adaptado à vida secular. <br><br>
 
 ## Origem e História
 
@@ -16,7 +16,7 @@ A espiritualidade dominicana remonta ao século XIII, quando **São Domingos de 
 
 Entre estas instituições surgiu o grupo dos **Irmãos e Irmãs de Penitência**, leigos que desejavam viver segundo o espírito dominicano sem abandonar as suas responsabilidades familiares e profissionais. Este movimento evoluiu para a atual **Ordem Terceira de São Domingos**, reconhecida canonicamente em 1286.
 
-A Ordem Terceira de São Domingos tem ainda uma componente histórica singular: por volta do séc. XIV fundiu-se com a Militia Christi, uma ordem militar fundada por São Domingos em Languedoc por volta de 1221, formada no contexto da cruzada contra Cátaros. Assim, a Ordem Terceira é também herdeira dessa componente castrense e cavalheiresca, que marca a sua identidade espiritual e apostólica.
+A Ordem Terceira de São Domingos tem ainda uma componente histórica singular: por volta do séc. XIV fundiu-se com a **Militia Christi**, uma ordem militar fundada por São Domingos em Languedoc por volta de 1221, formada no contexto da cruzada contra Cátaros. Assim, a Ordem Terceira é também herdeira dessa componente castrense e cavalheiresca, que marca a sua identidade espiritual e apostólica.
 
 Na Igreja Vétero Católica de Jerusalém, a Ordem Terceira é acolhida como expressão legítima da tradição dominicana, preservando a sua identidade histórica, o seu espírito de oração e o seu compromisso com a Verdade. <br><br>
 
