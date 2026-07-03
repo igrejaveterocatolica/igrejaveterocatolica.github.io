@@ -48,9 +48,10 @@ function getAlt(filename) {
 }
 
 // Helper to generate <img> tags with ALT automatically
-function img(filename, extra = "") {
+function img(src, extra = "") {
+  const filename = path.basename(src);
   const alt = getAlt(filename);
-  return `<img src="/img/${filename}" alt="${alt}" ${extra}>`;
+  return `<img src="${src}" alt="${alt}" ${extra}>`;
 }
 
 // -----------------------------
@@ -184,6 +185,7 @@ function buildHomepage() {
   const html = renderTemplate(template, {
     title: settings.site_title || "Home",
     description: settings.footer_description || "",
+    site_logo_img: img(path.basename(settings.logo), 'class="logo-img"'),
 
     hero_title: frontmatter.hero_title || "",
     hero_motto: frontmatter.hero_motto || "",
@@ -208,7 +210,6 @@ function buildHomepage() {
     site_title: settings.site_title,
     header_title: settings.header_title,
     header_subtitle: settings.header_subtitle,
-    site_logo: settings.logo,
 
     footer_title: settings.footer_title,
     footer_description: settings.footer_description,
@@ -258,7 +259,7 @@ function buildPages() {
       site_title: settings.site_title,
       header_title: settings.header_title,
       header_subtitle: settings.header_subtitle,
-      site_logo: settings.logo,
+      site_logo_img: img(path.basename(settings.logo), 'class="logo-img"'),
 
       footer_title: settings.footer_title,
       footer_description: settings.footer_description,
