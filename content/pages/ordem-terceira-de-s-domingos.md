@@ -1,4 +1,5 @@
 ---
+slug: ordem-terceira-de-s-domingos
 title: Ordem Terceira de S. Domingos
 ---
 <center><img src="img/ordem-dominicana.svg" width=300px></center>
