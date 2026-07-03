@@ -16,9 +16,7 @@ A espiritualidade dominicana remonta ao século XIII, quando **São Domingos de 
 
 Entre estas instituições surgiu o grupo dos **Irmãos e Irmãs de Penitência**, leigos que desejavam viver segundo o espírito dominicano sem abandonar as suas responsabilidades familiares e profissionais. Este movimento evoluiu para a atual **Ordem Terceira de São Domingos**, reconhecida canonicamente em 1286.
 
-A Ordem Terceira de São Domingos tem ainda uma componente histórica singular: No séc. XIV fundiu-se com a **Militia Christi**, uma ordem militar fundada no contexto da cruzada contra os Cátaros por São Domingos, por volta de 1221. Assim, a Ordem Terceira é também herdeira dessa componente castrense e cavalheiresca, que marca a sua identidade espiritual e apostólica.
-
-Na Igreja Vétero Católica de Jerusalém, a Ordem Terceira é acolhida como expressão legítima da tradição dominicana, preservando a sua identidade histórica, o seu espírito de oração e o seu compromisso com a Verdade. <br><br>
+A Ordem Terceira de São Domingos tem ainda uma componente histórica singular: No séc. XIV fundiu-se com a **Militia Christi**, uma ordem militar fundada por São Domingos, no contexto da cruzada contra os Cátaros, em 1221. Assim, a Ordem Terceira é também herdeira dessa componente castrense e cavalheiresca do carisma dominicano. <br><br>
 
 ## Espírito e Vocação
 
