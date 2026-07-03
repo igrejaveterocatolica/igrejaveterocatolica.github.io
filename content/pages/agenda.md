@@ -45,7 +45,7 @@ title: Agenda
                         <li>Banda de Música</li>
                         <li>Bênção dos Coletes</li>
                         <li>Entre outras atividades</li>
-                    </ul>
+                    </ul><br><br>
 <h4><strong>Convite</strong></h4>
                     <p><strong>Vamos todos ajudar a realizar estas festividades!</strong><br>
                     <strong>Contamos com a colaboração e participação de todos para tornar estas festas um grande sucesso!</strong></p>
