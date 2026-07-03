@@ -16,7 +16,7 @@ title: Dom Carlos Fonseca
 
 ### Biografia
 
-**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom José Silva.
+**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom Paulus Nunes.
 
 É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obras que procuram despertar consciências para os desafios sociais do quotidiano e para a dinâmica espiritual entre a busca do Divino e o afastamento de Deus. <br><br>
 
