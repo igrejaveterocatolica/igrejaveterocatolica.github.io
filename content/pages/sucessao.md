@@ -84,9 +84,9 @@ Com esta consagração nasceu a Igreja Vétero‑Católica (Old Catholic).
 
 255. Bispo Arnold Harris Matthew, 1908 d.c. (28 de Abril), pelo Arcebispo Gul de Utrecht, assistido pelos bispos: J. J. van Thiel (Haarlem), N. B. P. Spit (Deventer) e J. Demmel (Bonn, Alemanha). Tornou‑se o primeiro Bispo Vétero‑Católico da Grã‑Bretanha.
 
-256. Bispo Frederick Willoughby, 1914 d.c.
+256. Bispo Frederick Samuel Willoughby, 1914 d.c.
 
-257. Bispo James I. Wedgwood, 1916 d.c.
+257. Bispo James Ingall Wedgwood, 1916 d.c.
 
 258. Bispo Irving S. Cooper, 1919 d.c.
 
