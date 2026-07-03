@@ -27,7 +27,7 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 131. Bispo Willian Frederick, 1928 d.C.
 
-132. Arcebispo Jas. F. A. Lashley, 1932 d.C.
+132. Arcebispo James F. A. Lashley, 1932 d.C.
 
 133. Dom Wanderley Gonçalves de Almeida, 1976 d.C.
 
