@@ -740,3 +740,97 @@ footer h5 {
     display: block;
 }
 
+/* ============================
+   BURGER MENU (NO JS)
+   ============================ */
+
+.nav {
+    position: relative;
+}
+
+/* Esconde o checkbox */
+.nav-toggle {
+    display: none;
+}
+
+/* Ícone do hambúrguer */
+.nav-toggle-label {
+    display: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.nav-toggle-label span,
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    display: block;
+    background: var(--primary-color);
+    height: 3px;
+    width: 28px;
+    border-radius: 3px;
+    position: relative;
+    transition: var(--transition);
+}
+
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    content: "";
+    position: absolute;
+    left: 0;
+}
+
+.nav-toggle-label span::before {
+    top: -8px;
+}
+
+.nav-toggle-label span::after {
+    top: 8px;
+}
+
+@media (max-width: 768px) {
+
+    /* Mostrar o ícone */
+    .nav-toggle-label {
+        display: block;
+    }
+
+    /* Esconder o menu por padrão */
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+        gap: 15px;
+        background: var(--white);
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        margin-top: 15px;
+    }
+
+    /* Mostrar quando o checkbox está ativo */
+    .nav-toggle:checked + .nav-toggle-label + .nav-menu {
+        display: flex;
+    }
+
+    /* Animação do hambúrguer → X */
+    .nav-toggle:checked + .nav-toggle-label span {
+        background: transparent;
+    }
+
+    .nav-toggle:checked + .nav-toggle-label span::before {
+        top: 0;
+        transform: rotate(45deg);
+    }
+
+    .nav-toggle:checked + .nav-toggle-label span::after {
+        top: 0;
+        transform: rotate(-45deg);
+    }
+
+    /* Ajustes aos links */
+    nav a {
+        padding: 10px 0;
+        border-bottom: none;
+    }
+}
+
+
