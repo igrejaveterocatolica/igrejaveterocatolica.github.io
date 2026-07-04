@@ -1,4 +1,4 @@
-# Website da Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal
+# Website da Igreja Vétero Católica de Jerusalém em Portugal
 
 Este repositório contém o código-fonte do website oficial e institucional da Igreja em Portugal sob a liderança espiritual do Arcebispo Primaz Dom Carlos Fonseca.
 
