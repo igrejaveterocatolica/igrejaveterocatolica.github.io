@@ -740,95 +740,53 @@ footer h5 {
     display: block;
 }
 
-/* ============================
-   BURGER MENU (NO JS)
-   ============================ */
+   @media (max-width: 768px) {
 
-.nav {
-    position: relative;
-}
+    .nav {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
 
-/* Esconde o checkbox */
-.nav-toggle {
-    display: none;
-}
-
-/* Ícone do hambúrguer */
-.nav-toggle-label {
-    display: none;
-    cursor: pointer;
-    padding: 10px;
-}
-
-.nav-toggle-label span,
-.nav-toggle-label span::before,
-.nav-toggle-label span::after {
-    display: block;
-    background: var(--primary-color);
-    height: 3px;
-    width: 28px;
-    border-radius: 3px;
-    position: relative;
-    transition: var(--transition);
-}
-
-.nav-toggle-label span::before,
-.nav-toggle-label span::after {
-    content: "";
-    position: absolute;
-    left: 0;
-}
-
-.nav-toggle-label span::before {
-    top: -8px;
-}
-
-.nav-toggle-label span::after {
-    top: 8px;
-}
-
-@media (max-width: 768px) {
-
-    /* Mostrar o ícone */
     .nav-toggle-label {
         display: block;
     }
 
-    /* Esconder o menu por padrão */
     .nav-menu {
         display: none;
         flex-direction: column;
-        gap: 15px;
+        gap: 18px;
         background: var(--white);
-        padding: 20px;
-        border-radius: 8px;
-        box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        padding: 25px 20px;
+        border-radius: 10px;
+        box-shadow: 0 6px 25px rgba(0,0,0,0.12);
         margin-top: 15px;
+        text-align: left;
+        border: 1px solid rgba(0,0,0,0.05);
+        animation: slideDown 0.3s ease;
     }
 
-    /* Mostrar quando o checkbox está ativo */
     .nav-toggle:checked + .nav-toggle-label + .nav-menu {
         display: flex;
     }
 
-    /* Animação do hambúrguer → X */
-    .nav-toggle:checked + .nav-toggle-label span {
-        background: transparent;
+    /* Animação */
+    @keyframes slideDown {
+        from { opacity: 0; transform: translateY(-10px); }
+        to { opacity: 1; transform: translateY(0); }
     }
 
-    .nav-toggle:checked + .nav-toggle-label span::before {
-        top: 0;
-        transform: rotate(45deg);
+    /* Links mais bonitos */
+    .nav-menu a {
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--primary-color);
+        padding: 8px 0;
+        border-bottom: 1px solid rgba(0,0,0,0.08);
     }
 
-    .nav-toggle:checked + .nav-toggle-label span::after {
-        top: 0;
-        transform: rotate(-45deg);
-    }
-
-    /* Ajustes aos links */
-    nav a {
-        padding: 10px 0;
+    .nav-menu a:last-child {
         border-bottom: none;
     }
 }
