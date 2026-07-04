@@ -1,5 +1,7 @@
 # Website da Igreja Vétero Católica de Jerusalém em Portugal
 
+![Logo](https://github.com/igrejaveterocatolica/igrejaveterocatolica.github.io/blob/main/img/facebook-share-preview.jpg)
+
 Este repositório contém o código-fonte do website oficial e institucional da Igreja em Portugal sob a liderança espiritual do Arcebispo Primaz Dom Carlos Fonseca.
 
 O projeto foi desenvolvido em **HTML5, JS e CSS3 puros** para garantir máxima performance, acessibilidade e facilidade de manutenção.
