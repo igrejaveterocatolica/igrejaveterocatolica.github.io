@@ -522,6 +522,13 @@ footer h5 {
     }
 }
 
+@media (max-width: 768px) {
+    nav ul {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+}
+
 /* Ajuste do bloco do clero em mobile */
 @media (max-width: 768px) {
     .clero-header {
