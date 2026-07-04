@@ -791,4 +791,68 @@ footer h5 {
     }
 }
 
+@media (max-width: 768px) {
+
+    .nav {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .nav-toggle-label {
+        display: block;
+    }
+
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+        gap: 18px;
+        background: var(--white);
+        padding: 25px 20px;
+        border-radius: 10px;
+        box-shadow: 0 6px 25px rgba(0,0,0,0.12);
+        margin-top: 15px;
+        text-align: left;
+        border: 1px solid rgba(0,0,0,0.05);
+        animation: slideDown 0.3s ease;
+    }
+
+    .nav-toggle:checked + .nav-toggle-label + .nav-menu {
+        display: flex;
+    }
+
+    /* Animação */
+    @keyframes slideDown {
+        from { opacity: 0; transform: translateY(-10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Links mais bonitos */
+    .nav-menu a {
+        font-size: 1rem;
+        font-weight: 600;
+        color: var(--primary-color);
+        padding: 8px 0;
+        border-bottom: 1px solid rgba(0,0,0,0.08);
+    }
+
+    .nav-menu a:last-child {
+        border-bottom: none;
+    }
+}
+
+.nav-toggle:checked + .nav-toggle-label span {
+    background: transparent;
+}
+
+.nav-toggle:checked + .nav-toggle-label span::before {
+    top: 0;
+    transform: rotate(45deg);
+}
+
+.nav-toggle:checked + .nav-toggle-label span::after {
+    top: 0;
+    transform: rotate(-45deg);
+}
 
