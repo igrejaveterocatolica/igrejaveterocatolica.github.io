@@ -37,7 +37,7 @@ Seguimos a regra antiga, de 1923, sendo que as suas obrigações não obrigam so
 Resumem-se em três pilares:
 
 * **O hábito** – sinal exterior da consagração dominicana, que no caso da ordem terceira é habitualmente um escapulário que pode ser usado por cima ou por baixo da roupa secular.
-* **O ofício** – coração da vida espiritual. Habitualmente é cumprido com as três partes do Rosário, podendo também ser substituído pelo Pequeno Ofício de Nossa Senhora, ou outro ofício aprovado.
+* **O ofício** – coração da vida espiritual. Habitualmente é cumprido com as três partes do Rosário, podendo também ser substituído pelo <a href="https://ordem-terceira-dominicana.github.io/">Pequeno Ofício de Nossa Senhora no Rito Dominicano</a>, ou outro ofício aprovado.
 * **A penitência** – caminho de conversão e reparação, que pode ser cumprida de várias formas, de acordo com os deveres de estado de cada um. <br><br>
 
 ## Privilégios Espirituais
