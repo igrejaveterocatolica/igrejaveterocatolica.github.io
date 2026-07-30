@@ -216,6 +216,7 @@ function buildHomepage() {
     footer_contact_title: settings.footer_contact_title,
     footer_email: settings.footer_email,
     footer_location: settings.footer_location,
+    footer_facebook: settings.footer_facebook,
     footer_copyright: settings.footer_copyright,
     footer_civil_note: settings.footer_civil_note,
 
@@ -266,6 +267,7 @@ function buildPages() {
       footer_contact_title: settings.footer_contact_title,
       footer_email: settings.footer_email,
       footer_location: settings.footer_location,
+      footer_facebook: settings.footer_facebook,
       footer_copyright: settings.footer_copyright,
       footer_civil_note: settings.footer_civil_note,
 
