@@ -835,5 +835,6 @@ footer h5 {
 .social-icon {
     width: 24px;
     height: 24px;
+    filter: invert(1);
 }
 
