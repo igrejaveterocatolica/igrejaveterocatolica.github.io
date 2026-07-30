@@ -831,3 +831,9 @@ footer h5 {
         border-bottom: none;
     }
 }
+
+.social-icon {
+    width: 24px;
+    height: 24px;
+}
+
