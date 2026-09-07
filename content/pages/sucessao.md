@@ -41,6 +41,8 @@ A presente página explica, de forma clara e documentada, as linhagens apostóli
 
 138. **Dom Rogério Ribeiro Campos**, 2005 d.c.
 
+#### Linhagem Vétero Católica de Jerusalém em Portugal
+
 139. **Dom José Barbosa da Silva, 2008 d.C., Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Rui Costa Barbosa e tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza  como co-consagrantes.
 
 140. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
@@ -162,7 +164,7 @@ Este ato é confirmado por mais de uma fonte ligada à Igreja Anglicana no Brasi
 
 Este é o ponto através do qual a linha de Carlos Duarte Costa chega diretamente à sagração de José Barbosa da Silva.
 
-#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+#### Linhagem Vétero Católica de Jerusalém em Portugal
 
 38. **Dom José Barbosa da Silva, 2008 d.C., Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Rui Costa Barbosa e tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza  como co-consagrantes.
 
@@ -247,7 +249,7 @@ Com esta consagração nasceu a Igreja Vétero‑Católica (Old Catholic).
 
 267. **Dom Rogério Ribeiro Campos**, 2005 d.c.
 
-#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+#### Linhagem Vétero Católica de Jerusalém em Portugal
 
 266. **Dom José Barbosa da Silva, 2008 d.C., Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Rui Costa Barbosa e tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza  como co-consagrantes.
 
