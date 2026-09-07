@@ -5,155 +5,252 @@ title: Sucessão Apostólica
 ## Introdução
 A presente página explica, de forma clara e documentada, as linhagens apostólicas que sustentam a validade sacramental e a transmissão episcopal da Igreja Vétero‑Católica Fidelitas e de Jerusalém no Brasil e em Portugal. Damos destaque às duas linhas históricas mais relevantes para a nossa tradição: a Linha Vétero-Católica (Utretch) e a Linha Matthew (tradição Vétero-Romana / Old Roman). <br><br>
 
-# LINHA PRINCIPAL
+## Linha Principal
+### Síriaca "Jacobita"
+001. São Pedro, o Apóstolo (Antióquia), 38 d.C.
 
-## Linhagem Vétero-Católica
+002. Santo Evódio de Antióquia, 40 d.C.
 
-242. Bispo Dominicus Marie Varlet, consagrado a 19 de fevereiro de 1719 d.C., em Paris, pelo Bispo Jacques de Goyon de Matignon, assistido pelos Bispos Louis-François Duplessis de Mornay e Jean-Baptiste Massillon.
+003. Santo Inácio de Antióquia, Mártir, 43 d.C.
 
-Varlet desempenhou actividade missionária no Oriente e, após o conflito entre Roma e a Igreja de Utrecht, aceitou transmitir o episcopado aos clérigos eleitos por esta Igreja.
+… (sucessores históricos da Sé de Antioquia) …
 
-243. Arcebispo Cornelius van Steenhoven, consagrado por Bispo Dominicus Marie Varlet a 15 de outubro de 1724 d.C., como Arcebispo de Utrecht.
+126. Mar Ignatius Peter III, 1872 d.C.
 
-A sua consagração restaurou o episcopado próprio da Igreja de Utrecht. Faleceu em 1725 sem transmitir a sucessão.
+127. Kadavil Mar Athanasios, 1877 d.C.
 
-Nota: a linha que chegou às gerações posteriores não prosseguiu através de Steenhoven, mas através de Petrus Johannes Meindaerts, igualmente consagrado por Varlet.
+128. Alvares Mar Julius, 1879 d.C.
 
-244. Arcebispo Petrus Johannes Meindaerts, consagrado por Bispo Dominicus Marie Varlet a 18 de outubro de 1739 d.C., como Arcebispo de Utrecht.
+129. Arcebispo Joseph-René Vilatte (Mar Timotheus), 1892 d.C.
 
-Foi através de Meindaerts que a sucessão episcopal de Utrecht continuou de forma permanente.
+130. Arcebispo George Alexander McGuire, 1921 d.C.
 
-245. Bispo Johannes van Stiphout, consagrado por Arcebispo Petrus Johannes Meindaerts a 11 de julho de 1745 d.C., como Bispo de Haarlem.
+131. Bispo William Frederick Tyarks, 1928 d.C.
 
-Através da sua consagração ficou assegurada a continuidade episcopal da Igreja de Utrecht.
+132. Arcebispo James F. A. Lashley, 1932 d.C.
 
-246. Arcebispo Gualtherus Michael van Nieuwenhuizen, consagrado a 7 de fevereiro de 1768 d.C. por Bispo Johannes van Stiphout, tornando-se Arcebispo de Utrecht.
+133. Dom Wanderley Gonçalves de Almeida, 1976 d.C.
 
-Participou também na sua consagração Bartholomeus Johannes Bijeveld, Bispo de Deventer.
+134. Dom Rafael Linuesa Perez, 1977 d.C.
 
-247. Bispo Adrianus Johannes Broekman, consagrado a 21 de junho de 1778 d.C. por Arcebispo Gualtherus Michael van Nieuwenhuizen, como Bispo de Haarlem.
+135. Dom José Carlos Teodoro, 1993 d.C.
 
-Por seu intermédio, a sucessão de Utrecht passou à geração seguinte.
+136. Dom Paulo Pereira, 1997 d.C.
 
-248. Arcebispo Johannes Jacobus van Rhijn, consagrado a 5 de julho de 1797 d.C. por Bispo Adrianus Johannes Broekman, tornando-se Arcebispo de Utrecht.
+137. Dom Aparecido Pereira, 2003 d.c.
 
-Sucedeu ao Arcebispo Van Nieuwenhuizen na Sé de Utrecht.
+138. **Dom Rogério Ribeiro Campos**, 2005 d.c.
 
-249. Bispo Gisbertus Cornelius de Jong, consagrado a 7 de novembro de 1805 d.C. por Arcebispo Johannes Jacobus van Rhijn, como Bispo de Deventer.
+139. **Dom José Barbosa da Silva, 2008 d.C., Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Rui Costa Barbosa e tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza  como co-consagrantes.
 
-Através dele foi preservada a sucessão episcopal necessária à continuidade da Igreja de Utrecht.
+140. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
-250. Arcebispo Willibrord van Os, consagrado a 24 de abril de 1814 d.C. por Bispo Gisbertus Cornelius de Jong, tornando-se Arcebispo de Utrecht.
-
-Presidiu à Igreja de Utrecht durante o período posterior às guerras napoleónicas.
-
-251. Bispo Johannes Bon, consagrado a 25 de abril de 1819 d.C. por Arcebispo Willibrord van Os, como Bispo de Haarlem.
-
-Tornou-se o transmissor da sucessão à geração seguinte.
-
-252. Arcebispo Johannes van Santen, consagrado a 13 de novembro de 1825 d.C. por Bispo Johannes Bon, tornando-se Arcebispo de Utrecht.
-
-Governou a Igreja de Utrecht num período em que ainda se procurava uma possível reconciliação com Roma.
-
-253. Bispo Hermannus Heykamp, consagrado a 17 de julho de 1853 d.C. por Arcebispo Johannes van Santen, como Bispo de Deventer.
-
-Foi um dos principais transmissores da linha episcopal de Utrecht no século XIX.
-
-254. Bispo Casparus Johannes Rinkel, consagrado a 11 de agosto de 1873 d.C. por Bispo Hermannus Heykamp, como Bispo de Haarlem.
-
-Participou no desenvolvimento internacional do movimento vétero-católico e foi signatário da Declaração de Utrecht de 1889.
-
-255. Arcebispo Gerardus Gul, consagrado a 11 de maio de 1892 d.C. por Bispo Casparus Johannes Rinkel, tornando-se Arcebispo de Utrecht. Do seu episcopado partiram duas linhas importantes para esta sucessão: a de Franciszek Hodur, em 1907, e a de Arnold Harris Mathew, em 1908.
-
-256. Bispo Franciszek Hodur, consagrado a 29 de setembro de 1907 d.C., em Utrecht, por Arcebispo Gerardus Gul, assistido pelos Bispos Johannes Jacobus van Thiel e Nicolaus Bartholomeus Petrus Spit. Tornou-se o primeiro Bispo Primaz da Igreja Católica Nacional Polaca (PNCC), recebendo directamente a sucessão vétero-católica de Utrecht.
-
-## Linhagem PNCC
-
-257. Bispo John Misiaszek, consagrado a 26 de agosto de 1936 d.C. por Bispo Franciszek Hodur, assistido pelos Bispos Leon Grochowski e John Zenon Jasinski. Tornou-se Bispo da Diocese Central da Igreja Católica Nacional Polaca.
-
-258. Bispo Horace William Baden Donegan, consagrado a 6 de novembro de 1946 d.C., tendo entre os bispos participantes Bispo John Misiaszek. A participação de Misiaszek introduziu directamente nesta consagração a linha Utrecht → Gul → Hodur → Misiaszek.
-
-259. Bispo Albert Arthur Chambers, consagrado a 1 de outubro de 1962 d.C. por Bispo Arthur Carl Lichtenberger, assistido por Bispo Horace William Baden Donegan e Bispo J. Reginald Mallett. Chambers recebeu, através de Donegan, a sucessão vétero-católica proveniente de Utrecht. Tornou-se posteriormente a principal figura episcopal na formação do Movimento Anglicano Continuante.
-
-260. Bispo Charles Dale David Doren, consagrado a 28 de janeiro de 1978 d.C., em Denver, por Bispo Albert Arthur Chambers e Bispo Francisco de Jesus Pagtakhan. O Bispo Mark Pae enviou o seu consentimento para a consagração. Doren foi o primeiro dos bispos consagrados em Denver para o nascente Anglicanismo Continuante.
-
-261. Bispo James Orin Mote, consagrado a 28 de janeiro de 1978 d.C. por Bispo Albert Arthur Chambers, Bispo Francisco de Jesus Pagtakhan e Bispo Charles Dale David Doren. Tornou-se um dos principais transmissores da chamada Sucessão de Chambers.
-
-262. Bispo William Francis Burns, consagrado a 11 de novembro de 1978 d.C. por Bispo Charles Dale David Doren e Bispo James Orin Mote, com o consentimento de Bispo Albert Arthur Chambers. Através dele, a sucessão das consagrações de Denver prosseguiu para a geração seguinte.
-
-263. Arcebispo William Oliver Lewis, consagrado bispo a 26 de maio de 1979 d.C. por Bispo Charles Dale David Doren, Bispo James Orin Mote e Bispo William Francis Burns. Exerceu posteriormente funções metropolitanas na Província Original da Igreja Católica Anglicana.
-
-264. Arcebispo Victor Manuel Cruz-Blanco, consagrado sub conditione a 6 de maio de 1993 d.C., no âmbito da Igreja Católica Anglicana. Participaram na consagração Bispo James Orin Mote, Arcebispo William Oliver Lewis, Bispo Thomas Justin Kleppinger, Bispo Michael Dean Stephens, Bispo Joseph Philip Deyman e Bispo James Richard McNeley. Posteriormente tornou-se Arcebispo e Metropolita para a América Latina.
-
-265. Bispo James Antonio Roque, consagrado a 26 de maio de 2013 d.C., em Barranquilla, Colômbia, por Arcebispo Victor Manuel Cruz-Blanco, assistido por outros quatro bispos colombianos. No Brasil, organizou a Diocese Anglicana do Japí, em Jundiaí, Estado de São Paulo, transmitindo posteriormente a sua sucessão episcopal.
+141. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
 
 <br><br>
 
-## Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+## Outras linhagens
+### Duarte Costa
+Esta linha possui igualmente origem documental na sucessão de Scipione Rebiba, mas separa-se da linha que conduziu a Varlet a partir do Cardeal Luigi Caetani.
 
-266. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Bispo James Antonio Roque.
+A sucessão historicamente documentada é:
 
-267. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom José Barbosa da Silva.
+Scipione Rebiba
+→ Giulio Antonio Santorio – 1566
+→ Girolamo Bernerio, O.P. – 1586
+→ Galeazzo Sanvitale – 1604
+→ Ludovico Ludovisi – 1621
+→ Luigi Caetani – 1622
+→ Ulderico Carpegna – 1630
+→ Paluzzo Paluzzi Altieri degli Albertoni – 1666
+→ Pietro Francesco Orsini de Gravina, futuro Papa Bento XIII – 1675
+→ Prospero Lorenzo Lambertini, futuro Papa Bento XIV – 1724
+→ Carlo della Torre Rezzonico, futuro Papa Clemente XIII – 1743
+→ Bernardino Giraud – 1767
+→ Alessandro Mattei – 1777
+→ Pietro Francesco Galleffi – 1819
+→ Giacomo Filippo Fransoni – 1822
+→ Carlo Sacconi – 1851
+→ Edward Henry Howard – 1872
+→ Mariano Rampolla del Tindaro – 1882
+→ Joaquim Arcoverde de Albuquerque Cavalcanti – 1890
+→ Sebastião Leme da Silveira Cintra – 1911
+→ Carlos Duarte Costa – 1924.
 
-268. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Carlos Fonseca.
+Esta cadeia até Carlos Duarte Costa está documentada na genealogia episcopal católica.
+21. Dom Carlos Duarte Costa, 1924 d.C.
 
-<br><br>
+Carlos Duarte Costa foi sagrado Bispo de Botucatu em 8 de dezembro de 1924, na Catedral do Rio de Janeiro. O consagrante principal foi Dom Sebastião Leme da Silveira Cintra. Foram coconsagrantes Dom Alberto José Gonçalves, Bispo de Ribeirão Preto, e Dom Benedito Paulo Alves de Souza, Bispo do Espírito Santo.
 
-# LINHA SECUNDÁRIA
+22. Bispo Salomão Barbosa Ferraz, 1945 d.C.
 
-Esta linha possui a mesma origem episcopal da Linha Principal até ao Arcebispo Gerardus Gul. A partir de Gul, segue através de Arnold Harris Mathew e Rudolph de Landas Berghes até entrar no episcopado da Igreja Episcopal dos Estados Unidos da América.
+Salomão Ferraz recebeu a consagração episcopal em 15 de agosto de 1945, tendo Carlos Duarte Costa como consagrante principal.
 
-242. Bispo Dominicus Marie Varlet, consagrado a 19 de fevereiro de 1719 d.C., em Paris, pelo Bispo Jacques de Goyon de Matignon, assistido pelos Bispos Louis-François Duplessis de Mornay e Jean-Baptiste Massillon.
+Este passo possui especial relevância histórica porque Salomão Ferraz viria posteriormente a ser recebido na Igreja Católica Romana e nomeado Bispo Titular de Eleutherna sem que uma nova consagração episcopal tivesse sido registada para a sua receção.
 
-(...)
+23. Bispo Manuel Ceia Laranjeira, 1951 d.C.
 
-255. Arcebispo Gerardus Gul, consagrado a 11 de maio de 1892 d.C. por Bispo Casparus Johannes Rinkel, tornando-se Arcebispo de Utrecht.
+Manuel Ceia Laranjeira foi sagrado bispo em 29 de junho de 1951 por Salomão Barbosa Ferraz.
 
-É neste ponto que a Linha Secundária se separa da Linha Principal.
+A transmissão Ferraz → Laranjeira encontra confirmação em diferentes registos e genealogias brasileiras.
 
-## Linha Vétero-Romana
+24. Bispo Benedito Pereira Lima, 1965 d.C.
 
-256. **Arcebispo Arnold Harris Mathew**, consagrado a 28 de abril de 1908 d.C., em Utrecht, por Arcebispo Gerardus Gul, assistido pelos Bispos Johannes Jacobus van Thiel, Nicolaus Bartholomeus Petrus Spit e Josef Demmel. Tornou‑se o primeiro Bispo Vétero‑Católico da Grã‑Bretanha e é a origem da chamada Linha de Mathew (Vétero-Romana).
+Consagrado em 15 de agosto de 1965 por Manuel Ceia Laranjeira.
 
-257. Arcebispo Rudolph François Édouard de Landas Berghes et de Rache, consagrado por Arcebispo Arnold Harris Mathew a 29 de junho de 1913 d.C. Depois de se estabelecer nos Estados Unidos da América, participou numa importante consagração episcopal da Igreja Episcopal.
+25. Bispo José Marcolino Machado, 1966 d.C.
 
-258. Bispo Hiram Richard Hulse, consagrado a 12 de janeiro de 1915 d.C., na Catedral de Saint John the Divine, em Nova Iorque, como Bispo Missionário de Cuba. O Arcebispo Rudolph de Landas Berghes participou na imposição das mãos, transmitindo a Hulse a sucessão vétero-católica proveniente de Gerardus Gul e Arnold Harris Mathew. A documentação oficial da Igreja Episcopal confirma a consagração de Hulse nesta data.
+Consagrado em 1 de agosto de 1966 por Benedito Pereira Lima.
 
-259. Bispo John Thomson Dallas, consagrado a 4 de maio de 1926 d.C., como Bispo de New Hampshire. O principal consagrante foi o Bispo John Gardner Murray. O Bispo Hiram Richard Hulse participou na sua consagração, transmitindo-lhe assim a linha de Arnold Harris Mathew. Dallas foi o quinto Bispo de New Hampshire, exercendo o episcopado entre 1926 e 1948.
+26. Bispo Oscar Oswaldo Cairoli y Fernandez, 1967 d.C.
 
-260. Bispo Henry Wise Hobson, consagrado a 1 de maio de 1930 d.C., na Christ Church, Cincinnati, como Bispo Coadjutor de Southern Ohio. O principal consagrante foi o Bispo Boyd Vincent. O Bispo John Thomson Dallas participou na cerimónia, sendo também o pregador designado. A tabela histórica de sucessão citada por The Living Church identifica Dallas como o transmissor da linha recebida de Hulse para Hobson.
+Consagrado em 2 de dezembro de 1967 por José Machado.
 
-Arcebispo Henry Knox Sherrill, consagrado a 14 de outubro de 1930 d.C., em Trinity Church, Boston, como Bispo de Massachusetts.
+27. Bispo Michael Staffiero, 1973 d.C.
 
-A sucessão de Arnold Harris Mathew foi-lhe transmitida através do Bispo Henry Wise Hobson. Sherrill tornou-se posteriormente o 20.º Bispo Presidente da Igreja Episcopal dos Estados Unidos da América, exercendo esse cargo entre 1947 e 1958. A fonte de 1958 identifica expressamente Sherrill como receptor desta linha através de Hobson.
+Consagrado, ou segundo algumas fontes novamente consagrado sub conditione, em 29 de abril de 1973, por Oscar Cairoli y Fernandez.
 
-261. Arcebispo Arthur Carl Lichtenberger, consagrado a 5 de abril de 1951 d.C. por Arcebispo Henry Knox Sherrill, tornando-se Bispo de Missouri. Foi posteriormente eleito 21.º Bispo Presidente da Igreja Episcopal dos Estados Unidos da América.
+28. Bispo Rainer Laufers, 1976 d.C.
 
-262. Bispo Albert Arthur Chambers, consagrado a 1 de outubro de 1962 d.C. por Arcebispo Arthur Carl Lichtenberger, assistido pelo Bispo Horace William Baden Donegan e pelo Bispo J. Reginald Mallett. 
+Recebeu a sucessão de Michael Staffiero em novembro de 1976.
 
-Por intermédio de Lichtenberger e Sherrill, Chambers recebeu a linha episcopal que incorporava a sucessão de Arnold Harris Mathew. Recebeu igualmente, através de Donegan, a linha vétero-católica proveniente de Franciszek Hodur e da Igreja Católica Nacional Polaca.
+29. Bispo Charles Richard McCarthy, 1977 d.C.
 
-263. Bispo Charles Dale David Doren, consagrado a 28 de janeiro de 1978 d.C., em Denver, por Bispo Albert Arthur Chambers e Bispo Francisco de Jesus Pagtakhan.
+As genealogias da linha situam a sua consagração em 30 de abril de 1977, com participação de Rainer Laufers.
 
-264. Bispo James Orin Mote, consagrado a 28 de janeiro de 1978 d.C. por Bispo Albert Arthur Chambers, Bispo Francisco de Jesus Pagtakhan e Bispo Charles Dale David Doren.
+30. Bispo Charles David Luther, 1977 d.C.
 
-265. Bispo William Francis Burns, consagrado a 11 de novembro de 1978 d.C. por Bispo Charles Dale David Doren e Bispo James Orin Mote, com o consentimento de Bispo Albert Arthur Chambers.
+Sagrado em 25 de setembro de 1977. Charles McCarthy participou como coconsagrante, sendo Francis Jerome Joachim indicado noutras genealogias como consagrante principal.
 
-266. Arcebispo William Oliver Lewis, consagrado bispo a 26 de maio de 1979 d.C. por Bispo Charles Dale David Doren, Bispo James Orin Mote e Bispo William Francis Burns.
+Este pormenor é importante: numa genealogia episcopal, uma linha pode ser transmitida por um coconsagrante presencial, não sendo necessário que o transmissor seja o consagrante principal.
 
-267. Arcebispo Victor Manuel Cruz-Blanco, consagrado sub conditione a 6 de maio de 1993 d.C., no âmbito da Igreja Católica Anglicana. Participaram na sua consagração Bispo James Orin Mote, Arcebispo William Oliver Lewis, Bispo Thomas Justin Kleppinger, Bispo Michael Dean Stephens, Bispo Joseph Philip Deyman e Bispo James Richard McNeley.
+31. Bispo Richard Ingram, 1984 d.C.
 
-268. Bispo James Antonio Roque, consagrado a 26 de maio de 2013 d.C., em Barranquilla, Colômbia, por Arcebispo Victor Manuel Cruz-Blanco, assistido por outros quatro bispos colombianos.
+A sucessão publicada da Comunhão Anglicana Independente apresenta:
 
+Charles David Luther → Richard Ingram, 1984.
 
-<br><br>
+32. Bispo Donald St. Peters, 1988 d.C.
 
-## Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+Recebeu a linha de Richard Ingram em 1988.
 
-269. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Bispo James Antonio Roque.
+33. Bispo Donald Wharton, 1989 d.C.
 
-270. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom José Barbosa da Silva.
+Recebeu a sucessão em 1989.
 
-271. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Carlos Fonseca.
+34. Arcebispo Peter A. Compton-Caputo, 1993 d.C.
+
+Consagrado em 1993, tornando-se posteriormente figura de relevo na Anglican Independent Communion nas Américas.
+
+35. Arcebispo Norman Sydney Dutton, 1999 d.C.
+
+Recebeu a sucessão episcopal de Peter A. Compton-Caputo em 1999.
+
+36. Bispo Barry Frank Peachey, 2005 d.C.
+
+Barry Frank Peachey recebeu o episcopado em 2005, na sucessão de Norman Sydney Dutton.
+
+A cadeia Peachey → Rui é explicitamente publicada pela própria tradição anglicana brasileira.
+
+37. Arcebispo Rui Costa Barbosa, 2006 d.C.
+
+Rui Costa Barbosa foi sagrado bispo em 15 de janeiro de 2006, no CEMUR, em Taboão da Serra, Estado de São Paulo.
+
+O sagrante principal foi Dom Barry Frank Peachey.
+
+Este ato é confirmado por mais de uma fonte ligada à Igreja Anglicana no Brasil.
+
+Este é o ponto através do qual a linha de Carlos Duarte Costa chega diretamente à sagração de José Barbosa da Silva.
+
+#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+
+38. **Dom José Barbosa da Silva, 2008 d.C., Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Rui Costa Barbosa e tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza  como co-consagrantes.
+
+39. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
+
+40. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+
+### Vétero-Católica
+
+#### Linhagem de Utretch
+Linhagem Romana de Rebiba até Dominique-Marie Varlet:
+
+Scipione Rebiba
+→ Giulio Antonio Santorio, 1566 d.C.
+→ Girolamo Bernerio, O.P., 1586 d.C.
+→ Galeazzo Sanvitale, 1604 d.C.
+→ Ludovico Ludovisi, 1621 d.C.
+→ Bispo Giovanni Battista Scanaroli, 1630 d.C.
+→ Cardeal Antonio Barberini, 1655 d.C.
+→ Arcebispo Charles-Maurice Le Tellier, 1668  d.C.
+→ Bispo Jacques-Bénigne Bossuet, 1670 d.C.
+→ **Bispo Jacques de Goyon de Matignon**, 1673 d.C.
+
+242. **Bispo Dominicus Marie Varlet**, 1719 d.c., em Paris, pelo **Bispo Jacques de Goyon de Matignon**, assistido pelo Bispo do Quebeque e pelo Bispo de Claremont.
+Nomeado coadjutor do Bispo Católico Romano de Babilónia, que faleceu a 20 de Novembro de 1717, sucedendo-lhe no título.
+Após um período na Pérsia (Schamake), foi suspenso por alegadas irregularidades técnicas, incluindo a confirmação de 604 candidatos na Holanda, a pedido da Igreja de Amesterdão.
+A Igreja Holandesa estava 18 anos sem bispo, como punição de Roma por não cooperar na perseguição aos jansenistas.
+Após a eleição de Cornelius Van Steenhoven, Varlet aceitou realizar a consagração.
+
+243. Arcebispo Cornelius Van Steenhoven, consagrado por Varlet a 15 de Outubro de 1724 d.c., tornando-se o sétimo Arcebispo de Utrecht e sucessor canónico de S. Willibrord, o missionário que levou a fé à Holanda.
+Com esta consagração nasceu a Igreja Vétero‑Católica (Old Catholic).
+
+244. Bispo Johannes Van Stiphout, 1745 d.c.
+
+245. Arcebispo Gualterus Michael van Nieuwenhuizen, 1786 d.c.
+
+246. Bispo Adrian Brockman, 1778 d.c.
+
+247. Arcebispo Johannes Jacobus van Rhijn, 1797 d.c.
+
+248. Bispo Gilbertus de Jong, 1805 d.c.
+
+249. Arcebispo Wilibrordus van Os, 1814 d.c.
+
+250. Bispo Johannes Bon, 1819 d.c.
+
+251. Arcebispo Johannes van Santen, 1825 d.c.
+
+252. Arcebispo Hermanus Heijkamp, 1854 d.c.
+
+253. Bispo Casparus Johannes Rinkel, 1873 d.c.
+
+254. Arcebispo Gerardus Gul, 1892 d.c.
+
+#### Linhagem Vétero-Romana e Católica Liberal
+
+255. Bispo Arnold Harris Matthew, 1908 d.c. (28 de Abril), pelo Arcebispo Gul de Utrecht, assistido pelos bispos: J. J. van Thiel (Haarlem), N. B. P. Spit (Deventer) e J. Demmel (Bonn, Alemanha). Tornou‑se o primeiro Bispo Vétero‑Católico da Grã‑Bretanha.
+
+256. Bispo Frederick Samuel Willoughby, 1914 d.c.
+
+257. Bispo James Ingall Wedgwood, 1916 d.c.
+
+258. Bispo Irving S. Cooper, 1919 d.c.
+
+259. Bispo Charles Hampton, 1931 d.c.
+
+260. Bispo Herman A. Spruit, 1957 d.c.
+
+261. Bispo Roberto de la Caridad Toca y Medina, 1982 d.c.
+
+262. Bispo Jorge Enrique Rodríguez‑Villa, 1986 d.c.
+
+263. Bispo Edmundo Pellizari Filho, 1996 d.c.
+
+264. Bispo Lúcio Evandro Paneque de Oliveira, 1997 d.c.
+
+265. Dom Paulo Pereira, 1998 d.c.
+
+266. Dom Aparecido Pereira, 2003 d.c.
+
+267. **Dom Rogério Ribeiro Campos**, 2005 d.c.
+
+#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+
+266. **Dom José Barbosa da Silva, 2008 d.C., Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Rui Costa Barbosa e tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza  como co-consagrantes.
+
+267. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
+
+268. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
 
 <br><br><br><br>
