@@ -3,7 +3,7 @@ slug: sucessao
 title: Sucessão Apostólica
 ---
 ## Introdução
-A presente página explica, de forma clara e documentada, as linhagens apostólicas que sustentam a validade sacramental e a transmissão episcopal da Igreja Vétero‑Católica Fidelitas e de Jerusalém no Brasil e em Portugal. Damos destaque às duas linhas históricas mais relevantes para a nossa tradição: a Linha Vétero-Católica (Utretch) e a Linha Matthew (tradição Vétero-Romana / Old Roman). <br><br>
+A presente página explica, de forma clara e documentada, as linhagens apostólicas que sustentam a validade sacramental e a transmissão episcopal da Igreja Vétero‑Católica Fidelitas e de Jerusalém no Brasil e em Portugal. Damos destaque às duas linhas históricas mais relevantes para a nossa tradição: Damos destaque às três linhas históricas mais relevantes para a nossa tradição: a Linha Vétero-Católica (Utretch), a Linha Duarte Costa, e a Linha Matthew (tradição Vétero-Romana / Old Roman). <br><br>
 
 ## Linha Principal
 ### Síriaca "Jacobita"
@@ -169,6 +169,8 @@ Este é o ponto através do qual a linha de Carlos Duarte Costa chega diretament
 39. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
 40. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+
+<br><br>
 
 ### Vétero-Católica
 
