@@ -109,6 +109,8 @@ Posteriormente tornou-se Arcebispo e Metropolita para a América Latina.
 
 No Brasil, organizou a Diocese Anglicana do Japí, em Jundiaí, Estado de São Paulo, transmitindo posteriormente a sua sucessão episcopal.
 
+<br><br>
+
 #### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
 266. **Dom José Barbosa da Silva**, pertencente à sucessão episcopal transmitida no Brasil por Bispo James Antonio Roque.
@@ -116,6 +118,8 @@ No Brasil, organizou a Diocese Anglicana do Japí, em Jundiaí, Estado de São P
 267. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
 
 268. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+
+<br><br>
 
 # LINHA SECUNDÁRIA
 
@@ -182,6 +186,8 @@ Tornou-se posteriormente Arcebispo e Metropolita para a América Latina.
 Bispo James Antonio Roque, consagrado a 26 de maio de 2013 d.C., em Barranquilla, Colômbia, por Arcebispo Victor Manuel Cruz-Blanco, assistido por outros quatro bispos colombianos.
 
 No Brasil, organizou a Diocese Anglicana do Japí, em Jundiaí, Estado de São Paulo, e transmitiu posteriormente a sua sucessão episcopal.
+
+<br><br>
 
 #### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
