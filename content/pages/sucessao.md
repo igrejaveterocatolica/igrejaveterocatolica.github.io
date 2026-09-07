@@ -91,11 +91,11 @@ Participou no desenvolvimento internacional do movimento vétero-católico e foi
 
 ## Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
-266. **Dom José Barbosa da Silva**, pertencente à sucessão episcopal transmitida no Brasil por Bispo James Antonio Roque.
+266. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Bispo James Antonio Roque.
 
-267. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
+267. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom José Barbosa da Silva.
 
-268. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+268. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Carlos Fonseca.
 
 <br><br>
 
@@ -150,10 +150,10 @@ Por intermédio de Lichtenberger e Sherrill, Chambers recebeu a linha episcopal 
 
 ## Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
-269. **Dom José Barbosa da Silva**, pertencente à sucessão episcopal transmitida no Brasil por Bispo James Antonio Roque.
+269. **Dom José Barbosa da Silva, Bispo Auxiliar da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Bispo James Antonio Roque.
 
-270. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**
+270. **Dom Carlos Fonseca, 2023 d.C., Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom José Barbosa da Silva.
 
-271. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**
+271. **Dom Armando Vilela, 2023 d.C., Bispo Auxiliar e Chanceler da Igreja Vétero Católica de Jerusalém em Portugal**, consagrado por Dom Carlos Fonseca.
 
 <br><br><br><br>
