@@ -89,7 +89,7 @@ Participou no desenvolvimento internacional do movimento vétero-católico e foi
 
 <br><br>
 
-#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+## Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
 266. **Dom José Barbosa da Silva**, pertencente à sucessão episcopal transmitida no Brasil por Bispo James Antonio Roque.
 
@@ -148,7 +148,7 @@ Por intermédio de Lichtenberger e Sherrill, Chambers recebeu a linha episcopal 
 
 <br><br>
 
-#### Linhagem Fidelitas de Jerusalém no Brasil e Exterior
+## Linhagem Fidelitas de Jerusalém no Brasil e Exterior
 
 269. **Dom José Barbosa da Silva**, pertencente à sucessão episcopal transmitida no Brasil por Bispo James Antonio Roque.
 
