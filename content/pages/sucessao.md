@@ -504,7 +504,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-129. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <a href="/img/dom_paulus_nunes.jpg">Dom Paulus Nunes</a>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+129. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
 
 
 
@@ -971,7 +971,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 
 
-262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a> por <a href="/img/dom_paulus_nunes.jpg">Dom Paulus Nunes</a>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a> por <a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
 
 
 
@@ -1805,7 +1805,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.jpg">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
 
 
 
