@@ -29,7 +29,7 @@ A sucessão apostólica integra três linhas principais: <br><br>
 - **Linha Matthew** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Bispo Arnold Harris Matthew. <br><br>
 
 **Resumo da linha:**  
-Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → Dom Aparecido Pereira, Dom Rogério Ribeiro Campos → Dom José Barbosa da Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
+Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → Dom Aparecido Pereira →  Dom Rogério Ribeiro Campos → Dom José Barbosa da Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
 
 Mais detalhes sobre a sucessão apostólica <u><a href="/sucessao.html">aqui</a></u>.
 
