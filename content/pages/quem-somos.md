@@ -45,7 +45,11 @@ Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pe
 O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. É da jurisdição Fidelitas do Brasil que deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. A sucessão apostólica da nossa igreja também deriva da igreja vétero-católica do Brasil cujo ramo legítimo é a jurisdição Fidelitas (mais informação na nossa página de <u><a href="/sucessao.html">sucessão apostólica</a></u>). <br><br>
+Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. 
+
+É da jurisdição **Fidelitas do Brasil** que deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. 
+
+A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil**. <br><br>
 
 A nossa identidade teológica é o **Ultrajectinismo**: <u>rejeitamos a infalibilidade papal</u>, que consideramos ser o derradeiro triunfo do <u>humanismo</u> e uma <u>ofensa a Nosso Senhor Jesus Cristo</u>, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*. <br><br>
 
