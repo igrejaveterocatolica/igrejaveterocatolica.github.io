@@ -336,8 +336,6 @@ A presente página apresenta, de forma clara e documentada, as principais **linh
 
 ## Linhagem Mathew / Vétero-Romana
 
-Esta sucessão constitui um **ramo complementar** da tradição vétero-católica recebida pela nossa hierarquia. Partilha com a linha principal PNCC/Hodur a raiz histórica de **Utrecht**, mas prossegue a partir do Arcebispo **Gerardus Gul** através de **Arnold Harris Mathew**, **Frederick Samuel Willoughby** e **James Ingall Wedgwood**, entrando depois na tradição da Igreja Católica Liberal.
-
 1. São Pedro, o Apóstolo (Roma), c. 42 d.C.
 2. São Lino, 68 d.C.
 3. Santo Anacleto (Cleto), 80 d.C.
