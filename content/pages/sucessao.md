@@ -513,7 +513,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-130. **Dom Armando Vilela, sagrado bispo a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva**, sendo posteriormente nomeado <u><a href="">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+130. **Dom Armando Vilela**, <a href="/img/bula_sagracao.jpg">sagrado bispo</a> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva, sendo posteriormente nomeado <a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a>
 </details>
 
 
@@ -1814,7 +1814,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-263. **Dom Armando Vilela, sagrado bispo a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva**, sendo posteriormente nomeado <u><a href="">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+263. **Dom Armando Vilela**, <a href="/img/bula_sagracao.jpg">sagrado bispo</a> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva, sendo posteriormente nomeado <a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a>
 </details>
 
 
