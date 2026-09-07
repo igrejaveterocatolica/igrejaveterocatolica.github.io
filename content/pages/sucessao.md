@@ -815,7 +815,7 @@ Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebi
 229. Luigi Caetani, 1622 d.C.
 
 
-230. Giovanni-Battista Scanaroli, 1622 d.C.
+230. Giovanni-Battista Scanaroli, 1630 d.C.
 231. Cardinal Antonio Barberini, 1655 d.C.
 232. Charles le Tellier, 1668 d.C.
 233. Jaques-Benigne Boussuet, 1670 d.C.
