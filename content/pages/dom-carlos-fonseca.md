@@ -16,19 +16,20 @@ title: Dom Carlos Fonseca
 
 ### Biografia
 
-**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom Paulus Nunes.
+**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom José Barbosa da Silva.
 
 É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obras que procuram despertar consciências para os desafios sociais do quotidiano e para a dinâmica espiritual entre a busca do Divino e o afastamento de Deus. <br><br>
 
 ### Sucessão Apostólica
 
-A sucessão apostólica integra duas linhas principais: <br><br>
+A sucessão apostólica integra três linhas principais: <br><br>
 
 - **Linha Vilatte** — origem síria "Jacobita", Patriarcado de Antióquia; transmissão ocidental por Arcebispo Joseph René Vilatte.
+- **Linha Duarte Costa** — fundador da Igreja Católica Apostólica Brasileira; transmissão por Bispo Salomão Barbosa Ferraz.
 - **Linha Matthew** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Bispo Arnold Harris Matthew. <br><br>
 
 **Resumo da linha:**  
-Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → **Dom Paulus Nunes**, *Patriarca dos Vétero Católicos Fidelitas e de Jerusalém no Brasil e Exterior* → **Dom Carlos Fonseca** → Dom Armando Vilela.
+Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → Dom Aparecido Pereira, Dom Rogério Ribeiro Campos → Dom José Barbosa da Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
 
 Mais detalhes sobre a sucessão apostólica <u><a href="/sucessao.html">aqui</a></u>.
 
@@ -63,3 +64,4 @@ Cruz arquiepiscopal de ouro em pala, galero verde com cordões e borlas, e liste
 </div>
 
 </div>
+
