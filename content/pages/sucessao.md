@@ -380,7 +380,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-116. Kadavil Mar Athanasios, 1877 d.C.
+116. Kadavil Mar Athanasios, 1876 d.C.
 
 
 
@@ -495,7 +495,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-128. **Dom José Barbosa da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+128. **Dom José Barbosa da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
@@ -820,7 +820,7 @@ Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebi
 232. Charles le Tellier, 1668 d.C.
 233. Jaques-Benigne Boussuet, 1670 d.C.
 234. Jaques Goyon de Matignon, 1673 d.C.
-235. Dominique Marie Varlet, 1719 d.C.
+235. **Dominique Marie Varlet, 1719 d.C.**
 236. Peter Meindaerts, 1739 d.C.
 237. Johannes van Stiphout, 1745 d.C.
 238. Gualterus Michael van Nieuwenhuizen, 1768 d.C.
@@ -830,7 +830,7 @@ Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebi
 242. Willibrordus van Os, 1814 d.C.
 243. Johannes Bon, 1819 d.C.
 244. Johannes van Santen, 1825 d.C.
-245. Hermanus Heykamp, 1854 d.C.
+245. Hermanus Heykamp, 1853 d.C.
 246. Gaspardus Johannes Rinkel, 1873 d.C.
 247. Gerardus Gul, 1892 d.C.
 
@@ -841,7 +841,7 @@ Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebi
 248. **Bispo Arnold Harris Mathew, 1908 d.C.**
 
 
-Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assistido pelos bispos J. J. van Thiel, de Haarlem; N. B. P. Spit, de Deventer; e J. Demmel, de Bonn, Alemanha. Tornou-se o primeiro Bispo Vétero-Católico da Grã-Bretanha.
+Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assistido pelos bispos J. J. van Thiel, de Haarlem; N. B. P. Spit, de Deventer; e J. Demmel, de Bonn, Alemanha. Tornou-se o primeiro Bispo Vétero-Católico da Grã-Bretanha. Viria a formar posteriormente a tradição Vétero-Romana.
 
 
 
@@ -949,7 +949,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 
 
-260. Dom Rogério Ribeiro Campos, 2005 d.C.
+260. **Dom Rogério Ribeiro Campos, 2005 d.C.**
 
 
 
@@ -962,7 +962,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 
 
-261. **Dom José Barbosa da Silva**, <a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+261. **Dom José Barbosa da Silva**, <a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
@@ -1441,7 +1441,7 @@ O consagrante principal foi Dom Sebastião Leme da Silveira Cintra. Foram cocons
 
 
 
-245. **Bispo Salomão Barbosa Ferraz, 1945 d.C.**
+245. Bispo Salomão Barbosa Ferraz, 1945 d.C.
 
 
 
@@ -1468,7 +1468,7 @@ Este passo possui especial relevância histórica porque Salomão Ferraz viria p
 
 
 
-246. **Bispo Manuel Ceia Laranjeira, 1951 d.C.**
+246. Bispo Manuel Ceia Laranjeira, 1951 d.C.
 
 
 
@@ -1495,7 +1495,7 @@ A transmissão Ferraz → Laranjeira encontra confirmação em diferentes regist
 
 
 
-247. **Bispo Benedito Pereira Lima, 1965 d.C.**
+247. Bispo Benedito Pereira Lima, 1965 d.C.
 
 
 
@@ -1513,7 +1513,7 @@ Consagrado em 15 de agosto de 1965 por Manuel Ceia Laranjeira.
 
 
 
-248. **Bispo José Marcolino Machado, 1966 d.C.**
+248. Bispo José Marcolino Machado, 1966 d.C.
 
 
 
@@ -1531,7 +1531,7 @@ Consagrado em 1 de agosto de 1966 por Benedito Pereira Lima.
 
 
 
-249. **Bispo Oscar Oswaldo Cairoli y Fernandez, 1967 d.C.**
+249. Bispo Oscar Oswaldo Cairoli y Fernandez, 1967 d.C.
 
 
 
@@ -1549,7 +1549,7 @@ Consagrado em 2 de dezembro de 1967 por José Machado.
 
 
 
-250. **Bispo Michael Staffiero, 1973 d.C.**
+250. Bispo Michael Staffiero, 1973 d.C.
 
 
 
@@ -1567,7 +1567,7 @@ Consagrado, (ou, segundo algumas fontes, novamente consagrado *sub conditione*),
 
 
 
-251. **Bispo Rainer Laufers, 1976 d.C.**
+251. Bispo Rainer Laufers, 1976 d.C.
 
 
 
@@ -1585,7 +1585,7 @@ Recebeu a sucessão de Michael Staffiero em novembro de 1976.
 
 
 
-252. **Bispo Charles Richard McCarthy, 1977 d.C.**
+252. Bispo Charles Richard McCarthy, 1977 d.C.
 
 
 
@@ -1603,7 +1603,7 @@ As genealogias da linha situam a sua consagração em 30 de abril de 1977, com p
 
 
 
-253. **Bispo Charles David Luther, 1977 d.C.**
+253. Bispo Charles David Luther, 1977 d.C.
 
 
 
@@ -1637,7 +1637,7 @@ Charles McCarthy participou como coconsagrante, sendo Francis Jerome Joachim ind
 
 
 
-254. **Bispo Richard Ingram, 1984 d.C.**
+254. Bispo Richard Ingram, 1984 d.C.
 
 
 
@@ -1646,7 +1646,7 @@ Charles McCarthy participou como coconsagrante, sendo Francis Jerome Joachim ind
 
 
 
-A sucessão publicada pela tradição da Comunhão Anglicana Independente apresenta:
+A sucessão publicada pela tradição da Comunhão Anglicana Independente apresenta a consagração de Richard Ingram por Charles David Luther em 1984.
 
 
 
@@ -1655,7 +1655,7 @@ A sucessão publicada pela tradição da Comunhão Anglicana Independente aprese
 
 
 
-**Charles David Luther → Richard Ingram, 1984.**
+255. Bispo Donald St. Peters, 1988 d.C.
 
 
 
@@ -1664,7 +1664,13 @@ A sucessão publicada pela tradição da Comunhão Anglicana Independente aprese
 
 
 
-255. **Bispo Donald St. Peters, 1988 d.C.**
+
+
+
+
+
+
+256. Bispo Donald Wharton, 1989 d.C.
 
 
 
@@ -1673,34 +1679,13 @@ A sucessão publicada pela tradição da Comunhão Anglicana Independente aprese
 
 
 
-Recebeu a linha de Richard Ingram em 1988.
 
 
 
 
 
 
-
-
-256. **Bispo Donald Wharton, 1989 d.C.**
-
-
-
-
-
-
-
-
-Recebeu a sucessão em 1989.
-
-
-
-
-
-
-
-
-257. **Arcebispo Peter A. Compton-Caputo, 1993 d.C.**
+257. Arcebispo Peter A. Compton-Caputo, 1993 d.C.
 
 
 
@@ -1718,7 +1703,7 @@ Consagrado em 1993, tornando-se posteriormente figura de relevo na Anglican Inde
 
 
 
-258. **Arcebispo Norman Sydney Dutton, 1999 d.C.**
+258. Arcebispo Norman Sydney Dutton, 1999 d.C.
 
 
 
@@ -1736,7 +1721,7 @@ Recebeu a sucessão episcopal de Peter A. Compton-Caputo em 1999.
 
 
 
-259. **Bispo Barry Frank Peachey, 2005 d.C.**
+259. Bispo Barry Frank Peachey, 2005 d.C.
 
 
 
@@ -1754,14 +1739,6 @@ Barry Frank Peachey recebeu o episcopado em 2005, na sucessão de Norman Sydney 
 
 
 
-A cadeia Peachey → Rui é explicitamente publicada pela própria tradição anglicana brasileira.
-
-
-
-
-
-
-
 
 260. **Arcebispo Rui Costa Barbosa, 2006 d.C.**
 
@@ -1772,7 +1749,7 @@ A cadeia Peachey → Rui é explicitamente publicada pela própria tradição an
 
 
 
-Rui Costa Barbosa foi sagrado bispo em 15 de janeiro de 2006, no CEMUR, em Taboão da Serra, Estado de São Paulo.
+Rui Costa Barbosa foi sagrado bispo por Peachey em 15 de janeiro de 2006, no CEMUR, em Taboão da Serra, Estado de São Paulo.
 
 
 
@@ -1796,7 +1773,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-261. **Dom José Barbosa da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+261. **Dom José Barbosa da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
