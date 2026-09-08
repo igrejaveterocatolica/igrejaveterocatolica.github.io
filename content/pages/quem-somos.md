@@ -42,7 +42,7 @@ Os Fidelitas do Brasil são herdeiros legítimos dessa missão polaca. Mantêm f
 
 Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pela Nordic Catholic Church que se separaram da União de Utretch nos anos 2000 devido à ordenação de mulheres e casamentos entre pessoas do mesmo sexo. Os Fidelitas têm uma relação próxima com a União de Scranton, tendo formalizado um pedido de adesão e estando neste momento a aguardar a aceitação. <br><br>
 
-O Patriarca dos Fidelitas é Dom Paulus Nunes, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
+O Patriarca dos Fidelitas é <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
 Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. 
@@ -61,6 +61,6 @@ Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina a
 
 ## Conclusão
 
-<a href="/img/oficio_fiducia_supplicans.jpg">Rejeitamos as inovações que violam o depósito da fé</a>. Da mesma forma que os nossos antecessores se opuseram aos desvios do seu tempo, manifestamos hoje uma profunda discordância com as recentes tendências progressivistas e anti-tradicionais adotadas por Roma nos últimos anos, as quais descaracterizam a herança litúrgica e moral tradicional do catolicismo. <br><br>
+<u><a href="/img/oficio_fiducia_supplicans.jpg">Rejeitamos as inovações que violam o depósito da fé</a></u>. Da mesma forma que os nossos antecessores se opuseram aos desvios do seu tempo, manifestamos hoje uma profunda discordância com as recentes tendências progressivistas e anti-tradicionais adotadas por Roma nos últimos anos, as quais descaracterizam a herança litúrgica e moral tradicional do catolicismo. <br><br>
 
 Mantemo-nos, assim, como um farol de continuidade da Igreja de sempre: católicos na doutrina, apostólicos na sucessão, tradicionais na fé. <br><br>
