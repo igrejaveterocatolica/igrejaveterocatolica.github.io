@@ -5,7 +5,7 @@ title: Sucessão Apostólica
 ## Introdução
 
 
-A presente página reúne as principais **linhagens de sucessão episcopal** recebidas e reivindicadas pela Igreja Vétero-Católica de Jerusalém em Portugal, dando destaque a três linhas: Vilatte/Síriaca, Mathew/Vétero-Católica e Duarte Costa/Romana.
+A presente página reúne as principais **linhagens de sucessão episcopal** recebidas pela Igreja Vétero-Católica de Jerusalém em Portugal, dando destaque a três linhas: Vilatte/Síriaca, Mathew/Vétero-Católica e Duarte Costa/Romana.
 
 
 **Nota sobre a sucessão antiga:** Nos primeiros séculos, a sucessão apostólica era registada sobretudo como sucessão dos bispos de uma determinada Sé apostólica. Assim, as listas tradicionais de Roma e Antioquia representam a continuidade histórica dessas Igrejas desde São Pedro e não, em todos os casos, uma cadeia documental em que seja possível demonstrar que cada bispo consagrou pessoalmente o seguinte. Em épocas posteriores, com registos mais completos, torna-se possível identificar também os consagradores e coconsagradores. As listagens abaixo reúnem ambos os tipos de registo.
