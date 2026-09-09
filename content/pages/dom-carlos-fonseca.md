@@ -18,11 +18,11 @@ title: Dom Carlos Fonseca
 
 **Dom Carlos Fonseca**, natural de **Romariz (Santa Maria da Feira)**, foi ordenado diácono a **5 de outubro de 2020** no Santuário do Senhor Santo Cristo na Murgueira, Mafra, pelas mãos de **Dom António Raposo**, Arcebispo Primaz da Igreja Apostólica Episcopal (Vetero-Católica).
 
-<img src="/img/ordenacao_diacono_carlos_fonseca.jpg" width="250" >
+<center><img src="/img/ordenacao_diacono_carlos_fonseca.jpg" width="250" ></center>
 
 Posteriormente, a **24 de abril de 2023**, recebeu a ordenação sacerdotal e a sagração episcopal na Capela das Almas em Lourosa, Santa Maria da Feira, pela mão de **Dom José Barboza da Silva**.
 
-<img src="/img/sagracao_episcopal_carlos_fonseca_1.jpg" width="250"><img src="/img/sagracao_episcopal_carlos_fonseca_2.jpg" width="250">
+<center><img src="/img/sagracao_episcopal_carlos_fonseca_1.jpg" width="250"><img src="/img/sagracao_episcopal_carlos_fonseca_2.jpg" width="250"></center>
 
 A **25 de maio de 2023** foi elevado a **Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal** por <u><a href="/img/decreto-dom-paulus-nunes.jpg">decreto</a></u> de **Sua Beatitude o Patriarca Dom Paulus Nunes** da **Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e Exterior**.
 
@@ -41,6 +41,8 @@ A sucessão apostólica integra três linhas principais: <br><br>
 Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → Dom Aparecido Pereira →  Dom Rogério Ribeiro Campos → Dom José Barboza da Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
 
 Mais detalhes sobre a sucessão apostólica <u><a href="/sucessao.html">aqui</a></u>.
+
+<br><br>
 
 </div>
 
