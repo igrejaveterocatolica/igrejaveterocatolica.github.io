@@ -22,7 +22,7 @@ title: Dom Carlos Fonseca
 
 Posteriormente, a **24 de abril de 2023**, recebeu a ordenação sacerdotal e a sagração episcopal na Capela das Almas em Lourosa, Santa Maria da Feira, pela mão de **Dom José Barboza da Silva**.
 
-<img src="/img/sagracao_episcopal_carlos_fonseca_1.jpg" width="250"><img src="/img/sagracao_episcopal_carlos_fonseca_2.jpg" width="250" style="margin-left: 5px;">
+<img src="/img/sagracao_episcopal_carlos_fonseca_1.jpg" width="250"><img src="/img/sagracao_episcopal_carlos_fonseca_2.jpg" width="250">
 
 A **25 de maio de 2023** foi elevado a **Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal** por <u><a href="/img/decreto-dom-paulus-nunes.jpg">decreto</a></u> de **Sua Beatitude o Patriarca Dom Paulus Nunes** da **Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e Exterior**.
 
