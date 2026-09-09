@@ -18,8 +18,7 @@ title: Dom Carlos Fonseca
 
 **Dom Carlos Fonseca**, natural de **Romariz (Santa Maria da Feira)**, foi ordenado diácono a **5 de outubro de 2020** no Santuário do Senhor Santo Cristo na Murgueira, Mafra, pelas mãos de **Dom António Raposo**, Arcebispo Primaz da Igreja Apostólica Episcopal (Vetero-Católica).
 
-<center>![Ordenação diaconal de Carlos Fonseca, Santuário do Senhor Santo Cristo, Murgueira, Mafra, 5 de outubro de 2020 - Carlos Fonseca ajoelhado em túnica branca diante de Dom António Raposo, Arcebispo Primaz da Igreja Apostólica Episcopal (Vetero‑Católica), durante a cerimónia](/img/ordenacao_diacono_carlos_fonseca.jpg){width="250"}
-</center>
+<center><img src="/img/ordenacao_diacono_carlos_fonseca.jpg" width="250" alt="Ordenação diaconal de Carlos Fonseca, Santuário do Senhor Santo Cristo, Murgueira, Mafra, 5 de outubro de 2020 - Carlos Fonseca ajoelhado em túnica branca diante de Dom António Raposo, Arcebispo Primaz da Igreja Apostólica Episcopal (Vetero‑Católica), durante a cerimónia"></center>
 
 Posteriormente, a **24 de abril de 2023**, recebeu a ordenação sacerdotal e a sagração episcopal na Capela das Almas em Lourosa, Santa Maria da Feira, pela mão de **Dom José Barboza da Silva**.
 
