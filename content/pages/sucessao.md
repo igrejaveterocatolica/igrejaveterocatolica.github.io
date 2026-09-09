@@ -495,7 +495,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-128. **Dom José Barbosa da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+128. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
@@ -504,7 +504,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-129. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+129. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barboza da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
 
 
 
@@ -513,7 +513,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 
-130. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+130. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barboza da Silva como coconsagrador, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
 </details>
 
 
@@ -962,7 +962,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 
 
-261. **Dom José Barbosa da Silva**, <a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+261. **Dom José Barboza da Silva**, <a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
@@ -971,7 +971,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 
 
-262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barboza da Silva; e posteriormente <a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
 
 
 
@@ -980,7 +980,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 
 
-263. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+263. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barboza da Silva como coconsagrador, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
 </details>
 
 
@@ -1773,7 +1773,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-261. **Dom José Barbosa da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+261. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
@@ -1782,7 +1782,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barbosa da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+262. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barboza da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
 
 
 
@@ -1791,7 +1791,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-263. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barbosa da Silva, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+263. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barboza da Silva como coconsagrador, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
 </details>
 
 
