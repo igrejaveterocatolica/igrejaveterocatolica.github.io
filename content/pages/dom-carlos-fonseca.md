@@ -16,7 +16,7 @@ title: Dom Carlos Fonseca
 
 ### Biografia
 
-**Dom Carlos Fonseca** nasceu em **Romariz, Santa Maria da Feira** e foi consagrado em **24 de abril de 2023** por Dom José Barbosa da Silva.
+**Dom Carlos Fonseca**, natural de **Romariz (Santa Maria da Feira)**, foi ordenado diácono a **5 de outubro de 2020** no Santuário do Senhor Santo Cristo na Murgueira, Mafra, pelas mãos de **Dom António Raposo**, Arcebispo-Primaz da Igreja Apostólica Episcopal (Vetero-Católica). Posteriormente, a **24 de abril de 2023**, recebeu a ordenação sacerdotal e a sagração episcopal na Capela das Almas em Lourosa, Santa Maria da Feira, pela mão de **Dom José Barbosa da Silva**.
 
 É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obras que procuram despertar consciências para os desafios sociais do quotidiano e para a dinâmica espiritual entre a busca do Divino e o afastamento de Deus. <br><br>
 
