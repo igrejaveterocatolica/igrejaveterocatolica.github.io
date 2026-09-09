@@ -18,11 +18,11 @@ title: Dom Carlos Fonseca
 
 **Dom Carlos Fonseca**, natural de **Romariz (Santa Maria da Feira)**, foi ordenado diácono a **5 de outubro de 2020** no Santuário do Senhor Santo Cristo na Murgueira, Mafra, pelas mãos de **Dom António Raposo**, Arcebispo Primaz da Igreja Apostólica Episcopal (Vetero-Católica).
 
-<center><img src="/img/ordenacao_diacono_carlos_fonseca.jpg" width="250" ></center>
+<center><img src="/img/ordenacao_diacono_carlos_fonseca.jpg" width="250" alt="Ordenação diaconal de Carlos Fonseca, Santuário do Senhor Santo Cristo, Murgueira, Mafra, 5 de outubro de 2020 - Carlos Fonseca ajoelhado em sobrepeliz branca diante de Dom António Raposo, Arcebispo Primaz da Igreja Apostólica Episcopal (Vetero‑Católica), durante a cerimónia"></center>
 
 Posteriormente, a **24 de abril de 2023**, recebeu a ordenação sacerdotal e a sagração episcopal na Capela das Almas em Lourosa, Santa Maria da Feira, pela mão de **Dom José Barboza da Silva**.
 
-<center><img src="/img/sagracao_episcopal_carlos_fonseca_1.jpg" width="250"><img src="/img/sagracao_episcopal_carlos_fonseca_2.jpg" width="250"></center>
+<center><img src="/img/sagracao_episcopal_carlos_fonseca_1.jpg" width="250" alt= "Consagração de Dom Carlos Fonseca, Lourosa (Santa Maria da Feira), 24 de abril de 2023 - clérigo de vestes vermelhas prostrado diante do altar enquanto a congregação observa"><img src="/img/sagracao_episcopal_carlos_fonseca_2.jpg" width="250" alt="Consagração de Dom Carlos Fonseca, Lourosa (Santa Maria da Feira), 24 de abril de 2023 - Dom José Barboza da Silva (consagrador) e Dom Carlos Fonseca em vestes cerimoniais diante do altar, congregação e estátuas da igreja visíveis"></center>
 
 A **25 de maio de 2023** foi elevado a **Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal** por <u><a href="/img/decreto-dom-paulus-nunes.jpg">decreto</a></u> de **Sua Beatitude o Patriarca Dom Paulus Nunes** da **Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e Exterior**.
 
