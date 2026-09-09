@@ -40,7 +40,7 @@ A sucessão apostólica integra três linhas principais: <br><br>
 **Resumo da linha:**  
 Arcebispo Joseph René Vilatte → Arcebispo George A. McGuire → Bispo William Frederick → Arcebispo Jas. F. A. Lashley → Dom Wanderley Gonçalves de Almeida → Dom Rafael Linueza Peres → Dom José Carlos Teodoro → Dom Paulo Pereira → Dom Aparecido Pereira →  Dom Rogério Ribeiro Campos → Dom José Barboza da Silva → **Dom Carlos Fonseca** → Dom Armando Vilela.
 
-Mais detalhes sobre a sucessão apostólica <u><a href="/sucessao.html">aqui</a></u>.
+Mais detalhes na página de <u><a href="/sucessao.html">sucessão apostólica</a></u>.
 
 <br><br>
 
