@@ -10,7 +10,7 @@ title: Agenda
                 <div class="agenda-content">
                     <img src="/img/instituicao_leitor_acolito_lgpinto.png" alt="">
                     <h4>Instituição dos Ministérios de Leitor e Acólito</h4>
-                    <p>Será instituído nos ministérios de leitor e acólito o Luís António Galego Pinto (Irmão Tomás Aurélio, TOP), na Capela das Almas, Lourosa.
+                    <p>Será instituído nos ministérios de leitor e acólito Luís António Galego Pinto (Irmão Tomás Aurélio, TOP), na Capela das Almas, Lourosa, pelas 11:00.
                     </p>
                 </div>
             </div>
