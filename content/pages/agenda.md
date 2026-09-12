@@ -1,9 +1,19 @@
 ---
+slug: agenda
 title: Agenda
 ---
 <main class="agenda-page">
     <section class="page-content">
 <div class="agenda-list">
+<div class="agenda-item">
+                <div class="agenda-date">5 de Outubro de 2026</div>
+                <div class="agenda-content">
+                    <img src="/img/instituicao_leitor_acolito_lgpinto.png" alt="">
+                    <h4>Instituição dos Ministérios de Leitor e Acólito</h4>
+                    <p>Será instituído nos ministérios de leitor e acólito o Luís António Galego Pinto (Irmão Tomás Aurélio, TOP), na Capela das Almas, Lourosa.
+                    </p>
+                </div>
+            </div>
             <div class="agenda-item">
                 <div class="agenda-date">14 de Outubro de 2026</div>
                 <div class="agenda-content">
