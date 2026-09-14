@@ -30,7 +30,7 @@ Com o tempo, a União de Utrecht começou a adotar posições teológicas progre
 
 Décadas depois, Utrecht confirmou essa tendência ao ordenar mulheres e celebrar casamentos entre pessoas do mesmo sexo, práticas incompatíveis com a Tradição Apostólica. A via tradicionalista dos Vétero‑Romanos permaneceu fiel à doutrina católica histórica. Uma das linhas de sucessão apostólica da nossa Igreja deriva do Sr. Bispo Arnold Mathew. <br><br>
 
-## A Igreja Antigo‑Católica no Brasil (1932–1934)
+## A Igreja Vétero‑Católica no Brasil (1932–1934)
 A presença vétero‑católica no Brasil iniciou‑se com a comunidade polaca de Ponta Grossa, liderada pelo padre Teophilo Bartnicki. Entre 1932 e 1934: <br><br>
 
 * A missão vétero‑católica tornou‑se referência espiritual para imigrantes polacos;
@@ -38,16 +38,15 @@ A presença vétero‑católica no Brasil iniciou‑se com a comunidade polaca d
 * Conflitos sobre templos e autoridade culminaram no misterioso incêndio da igreja vétero‑católica em 6 de janeiro de 1934. <br><br><br><br>
 
 ## Os Fidelitas do Brasil e a Sucessão Apostólica
-Os <a href="https://veteros.wixsite.com/meusiteveterosiavcbf">Fidelitas do Brasil</a> são herdeiros legítimos dessa missão polaca. Mantêm fidelidade à doutrina tradicional e reaproximaram‑se da União de Scranton. <br><br>
+A <a href="https://veteros.wixsite.com/meusiteveterosiavcbf">Igreja Apostólica Vétero Católica do Brasil Fidelitas</a> é herdeira legítima dessa missão polaca. Mantém-se fiel à doutrina tradicional e, ao longo do seu percurso, reaproximou-se da União de Scranton.
+ <br><br>
 
 Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pela Nordic Catholic Church que se separaram da União de Utretch nos anos 2000 devido à ordenação de mulheres e casamentos entre pessoas do mesmo sexo. Os Fidelitas têm uma relação próxima com a União de Scranton, tendo formalizado um pedido de adesão e estando neste momento a aguardar a aceitação. <br><br>
 
-O Patriarca dos Fidelitas é <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
+O Patriarca dos **Fidelitas do Brasil e Exterior** é Sua Beatitude <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes. 
-
-É da jurisdição **Fidelitas do Brasil** que deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. 
+Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição donde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. 
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil**. <br><br>
 
