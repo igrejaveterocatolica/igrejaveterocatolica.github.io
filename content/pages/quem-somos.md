@@ -50,7 +50,7 @@ Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Do
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
 
-A nossa identidade teológica é o **Ultrajectinismo**: <u>rejeitamos a infalibilidade papal</u>, que consideramos ser o derradeiro triunfo do <u>humanismo</u> e uma <u>ofensa a Nosso Senhor Jesus Cristo</u>, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*. <br><br>
+A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibilidade papal*, que consideramos ser o derradeiro triunfo do **humanismo** e uma *ofensa a Nosso Senhor Jesus Cristo*, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*. <br><br>
 
 ## Disciplina e Prática Pastoral
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
