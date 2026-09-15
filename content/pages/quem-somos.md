@@ -50,7 +50,7 @@ Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Do
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
 
-A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a canonicidade da sua jurisdição em quatro pontos: 
+A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos: 
 
 (1) considera-se herdeira legítima da tradição vétero-católica de Utrecht através da União de Scranton, realidade que entende estar ligada à sua própria história e continuidade eclesial no Brasil, sendo que essa ligação é hoje reforçada pelo pedido recente de admissão à União de Scranton e reunificação com a PNCC, ainda pendente de decisão;
 
@@ -58,7 +58,7 @@ A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a
 
 (3) encontra apoio indireto no caso da PNCC, cuja sucessão apostólica e sacramentos são reconhecidos no diálogo com Roma, particularmente nos <a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman">acordos assinados em conjunto</a>, que abriu a possibilidade, em determinadas condições, de receção recíproca da Penitência, Eucaristia e Unção dos Enfermos, bem como nas posteriores declarações conjuntas, incluindo a de 2025, que reafirma o reconhecimento mútuo da validade sacramental, mostrando que uma Igreja vétero-católica separada pode possuir verdadeira vida sacramental e jurisdição eclesial própria; 
 
-(4) subsidiariamente, poderia invocar-se jurisdição suprida em casos de dúvida ou necessidade, sobretudo tendo em conta a ortodoxia e o tradicionalismo doutrinal que a jurisdição conserva, (questão analisada em profundidade neste <a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">estudo</a>), embora esse argumento seja secundário, pois consideramos possuir jurisdição ordinária interna, com bispo, clero, fiéis e estrutura canónica própria. 
+(4) subsidiariamente, poderia invocar-se jurisdição suprida em casos de dúvida ou necessidade dada a evidente crise e estado de necessidade na igreja católica causado pelo modernismo, sobretudo tendo em conta a ortodoxia e o tradicionalismo doutrinal que esta jurisdição conserva, (questão analisada em profundidade neste <a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">estudo</a>), embora esse argumento seja secundário, pois consideramos possuir jurisdição ordinária interna, com bispo, clero, fiéis e estrutura canónica própria. 
 
 <br>
 
