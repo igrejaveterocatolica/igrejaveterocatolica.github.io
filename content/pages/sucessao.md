@@ -1234,11 +1234,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 </details>
 
-
-### Linha Duarte Costa
-
-
-Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebiba**.
+A cadeia episcopal seguinte é conhecida documentalmente a partir de **Scipione Rebiba**.
 
 
 225. Giulio Antonio Santorio, 1566 d.C.
@@ -1411,7 +1407,7 @@ Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebi
 
 
 
-
+### Linha Duarte Costa
 244. **Dom Carlos Duarte Costa, 1924 d.C.**
 
 
