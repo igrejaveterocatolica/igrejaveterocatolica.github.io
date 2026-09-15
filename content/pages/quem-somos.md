@@ -62,7 +62,9 @@ A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a
 
 <br>
 
-A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibilidade papal*, que consideramos ser o derradeiro triunfo do **humanismo** e uma *ofensa a Nosso Senhor Jesus Cristo*, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*. <br>
+A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibilidade papal*, que consideramos ser o derradeiro triunfo do **humanismo** e uma *ofensa a Nosso Senhor Jesus Cristo*, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*.
+
+<br>
 
 ## Disciplina e Prática Pastoral
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
