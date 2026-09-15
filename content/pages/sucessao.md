@@ -761,9 +761,6 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 223. *Paulo IV (Gian Pietro Carafa)*, 1555 d.C.
 
 
--- Transição  --
-
-
 224. Scipione Rebiba, 1541 d.C. (A tradição genealógica atribui a sua consagração episcopal a Gian Pietro Carafa, futuro Papa Paulo IV; contudo, não é conhecida documentação contemporânea que permita identificar com certeza o consagrante de Rebiba. Mas a validade sacramental da sua ordenação episcopal é historicamente e juridicamente inquestionável.)
 
 
@@ -1224,9 +1221,6 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 221. Júlio III, 1550 d.C.
 222. Marcelo II, 1555 d.C.
 223. *Paulo IV (Gian Pietro Carafa)*, 1555 d.C.
-
-
--- Transição  --
 
 
 224. Scipione Rebiba, 1541 d.C. (A tradição genealógica atribui a sua consagração episcopal a Gian Pietro Carafa, futuro Papa Paulo IV; contudo, não é conhecida documentação contemporânea que permita identificar com certeza o consagrante de Rebiba. Mas a validade sacramental da sua ordenação episcopal é historicamente e juridicamente inquestionável.)
