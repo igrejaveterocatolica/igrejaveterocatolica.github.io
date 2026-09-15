@@ -36,7 +36,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 <details>
-<summary>(...) Sucessão histórica de Antióquia até Mor Ignatius Peter III/IV (5-115)</summary>
+<summary>(...) Sucessão histórica de Antióquia até Mar Ignatius Peter III/IV (5-115)</summary>
 
 
 5. São Cornélio de Antioquia, 127 d.C.
@@ -369,7 +369,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 114. Inácio Jacó II (Qal'at Mara), 1847 d.C.
 
 
-115. Mor Ignatius Peter III/IV ("Peter the Humble"), 1872 d.C.
+115. Mar Ignatius Peter III/IV, 1872 d.C.
 
 
 **Nota de nomenclatura:** Nos documentos contemporâneos e em parte da historiografia aparece como *Peter III*; a numeração siríaca ortodoxa moderna, que inclui São Pedro e revê a contagem dos patriarcas homónimos, identifica-o como *Peter IV* (1872–1894).
@@ -770,10 +770,7 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 </details>
 
 
-### Linha Vétero-Católica (Utrecht)
-
-
-Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebiba**.
+A cadeia episcopal seguinte é conhecida documentalmente a partir de **Scipione Rebiba**.
 
 
 225. Giulio Antonio Santorio, 1566 d.C.
@@ -820,6 +817,7 @@ Esta cadeia episcopal é apresentada documentalmente a partir de **Scipione Rebi
 232. Charles le Tellier, 1668 d.C.
 233. Jaques-Benigne Boussuet, 1670 d.C.
 234. Jaques Goyon de Matignon, 1673 d.C.
+### Linha Vétero-Católica (Utrecht)
 235. **Dominique Marie Varlet, 1719 d.C.**
 236. Peter Meindaerts, 1739 d.C.
 237. Johannes van Stiphout, 1745 d.C.
