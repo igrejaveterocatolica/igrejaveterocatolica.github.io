@@ -5,7 +5,7 @@ title: Sucessão Apostólica
 ## Introdução
 
 
-A presente página reúne as principais **linhagens de sucessão episcopal** recebidas pela Igreja Vétero-Católica de Jerusalém em Portugal, dando destaque a três linhas: Vilatte/Síriaca, Mathew/Vétero-Católica e Duarte Costa/Romana.
+A presente página reúne as principais **linhagens de sucessão episcopal** recebidas pela Igreja Vétero-Católica de Jerusalém em Portugal, sendo a principal a linhagem da PNCC do Brasil. Damos destaque ainda a três outras linhas importantes: Vilatte/Síriaca, Mathew/Vétero-Católica e Duarte Costa/Romana.
 
 
 **Nota sobre a sucessão antiga:** Nos primeiros séculos, a sucessão apostólica era registada sobretudo como sucessão dos bispos de uma determinada Sé apostólica. Assim, as listas tradicionais de Roma e Antioquia representam a continuidade histórica dessas Igrejas desde São Pedro e não, em todos os casos, uma cadeia documental em que seja possível demonstrar que cada bispo consagrou pessoalmente o seguinte. Em épocas posteriores, com registos mais completos, torna-se possível identificar também os consagradores e coconsagradores. As listagens abaixo reúnem ambos os tipos de registo.
@@ -13,6 +13,484 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 <br><br>
 
+
+<details>
+<summary>Linhagem Vétero-Católica/PNCC - Ramo Brasileiro</summary>
+
+
+
+
+## Linhagem Vétero-Católica/PNCC - Ramo Brasileiro
+
+
+
+
+Esta linhagem constitui um ramo da sucessão episcopal de Utrecht transmitido à
+**Polish National Catholic Church (PNCC)** através de Dom Francis Hodur.
+
+1. São Pedro, o Apóstolo (Roma), c. 42 d.C.
+2. São Lino, 68 d.C.
+3. Santo Anacleto (Cleto), 80 d.C.
+4. São Clemente, 92 d.C.
+
+
+<details>
+<summary>(...) Sucessão histórica de Roma até Rebiba (5-224)</summary>
+
+
+5. Santo Evaristo, 96 ou 99 d.C.
+6. Santo Alexandre I, 108 ou 109 d.C.
+7. São Sisto I, 117 ou 119 d.C.
+8. São Telésforo, 127 ou 128 d.C.
+9. Santo Higino, 138 d.C.
+10. São Pio I, 142 ou 146 d.C.
+11. Santo Aniceto, 150 ou 157 d.C.
+12. São Sotero, 162 ou 168 d.C.
+13. Santo Eleutério, 171 ou 177 d.C.
+14. São Vítor I, 186 ou 189 d.C.
+15. São Zeferino, 198 d.C.
+16. São Calisto I, 218 d.C.
+17. Santo Urbano I, 222 d.C.
+18. São Ponciano, 230 d.C.
+19. Santo Antero, 235 d.C.
+20. São Fabiano, 236 d.C.
+21. São Cornélio, 251 d.C.
+22. São Lúcio I, 253 d.C.
+23. Santo Estêvão I, 254 d.C.
+24. São Sisto II, 257 d.C.
+25. São Dionísio, 259 d.C.
+26. São Félix I, 269 d.C.
+27. Santo Eutiquiano, 275 d.C.
+28. São Caio, 283 d.C.
+29. São Marcelino, 296 d.C.
+30. São Marcelo I, 306 d.C.
+31. Santo Eusébio, 309 d.C.
+32. São Melquíades (Milcíades), 311 d.C.
+33. São Silvestre I, 314 d.C.
+34. São Marcos, 336 d.C.
+35. São Júlio I, 337 d.C.
+36. Libério, 352 d.C.
+37. São Dâmaso I, 366 d.C.
+38. São Sirício, 384 d.C.
+39. Santo Anastácio I, 399 d.C.
+40. Santo Inocêncio I, 401 d.C.
+41. São Zósimo, 417 d.C.
+42. São Bonifácio I, 418 d.C.
+43. São Celestino I, 422 d.C.
+44. São Sisto III, 432 d.C.
+45. São Leão I, 440 d.C.
+46. Santo Hilário, 461 d.C.
+47. São Simplício, 468 d.C.
+48. São Félix III, 483 d.C.
+49. São Gelásio I, 492 d.C.
+50. Anastácio II, 496 d.C.
+51. São Símaco, 498 d.C.
+52. São Hormisdas, 514 d.C.
+53. São João I, 523 d.C.
+54. São Félix IV, 526 d.C.
+55. Bonifácio II, 530 d.C.
+56. João II, 533 d.C.
+57. Santo Agapito I, 535 d.C.
+58. São Silvério, 536 d.C.
+59. Vigílio, 537 d.C.
+60. Pelágio I, 556 d.C.
+61. João III, 561 d.C.
+62. Bento I, 575 d.C.
+63. Pelágio II, 579 d.C.
+64. São Gregório I, 590 d.C.
+65. Sabiniano, 604 d.C.
+66. Bonifácio III, 607 d.C.
+67. São Bonifácio IV, 608 d.C.
+68. São Deusdedit (Adeodato I), 615 d.C.
+69. Bonifácio V, 619 d.C.
+70. Honório I, 625 d.C.
+71. Severino, 638/640 d.C.
+72. João IV, 640 d.C.
+73. Teodoro I, 642 d.C.
+74. São Martinho I, 649 d.C.
+75. Santo Eugénio I, 654 d.C.
+76. São Vitaliano, 657 d.C.
+77. Adeodato II, 672 d.C.
+78. Dono, 676 d.C.
+79. Santo Agatão, 678 d.C.
+80. São Leão II, 681/682 d.C.
+81. São Bento II, 684 d.C.
+82. João V, 685 d.C.
+83. Conão, 686 d.C.
+84. São Sérgio I, 687 d.C.
+85. João VI, 701 d.C.
+86. João VII, 705 d.C.
+87. Sisínio, 708 d.C.
+88. Constantino, 708 d.C.
+89. São Gregório II, 715 d.C.
+90. São Gregório III, 731 d.C.
+91. São Zacarias, 741 d.C.
+92. Estêvão II (III), 752 d.C.
+93. São Paulo I, 757 d.C.
+94. Estêvão III (IV), 768 d.C.
+95. Adriano I, 772 d.C.
+96. São Leão III, 795 d.C.
+97. Estêvão IV (V), 816 d.C.
+98. São Pascoal I, 817 d.C.
+99. Eugénio II, 824 d.C.
+100. Valentim, 827 d.C.
+101. Gregório IV, 827/828 d.C.
+102. Sérgio II, 844 d.C.
+103. São Leão IV, 847 d.C.
+104. Bento III, 855 d.C.
+105. São Nicolau I, 858 d.C.
+106. Adriano II, 867 d.C.
+107. João VIII, 872 d.C.
+108. Marinho I, 882 d.C.
+109. Santo Adriano III, 884 d.C.
+110. Estêvão V (VI), 885 d.C.
+111. Formoso, 891 d.C.
+112. Bonifácio VI, 896 d.C.
+113. Estêvão VI (VII), 896 d.C.
+114. Romano, 897 d.C.
+115. Teodoro II, 897 d.C.
+116. João IX, 897/898 d.C.
+117. Bento IV, 900 d.C.
+118. Leão V, 903 d.C.
+119. Sérgio III, 904 d.C.
+120. Anastácio III, 911 d.C.
+121. Landão, 913 d.C.
+122. João X, 914 d.C.
+123. Leão VI, 928 d.C.
+124. Estêvão VII (VIII), 929 d.C.
+125. João XI, 931 d.C.
+126. Leão VII, 936 d.C.
+127. Estêvão VIII (IX), 939 d.C.
+128. Marinho II, 942 d.C.
+129. Agapito II, 946 d.C.
+130. João XII, 955 d.C.
+131. Leão VIII, 963 d.C.
+132. Bento V, 964 d.C.
+133. João XIII, 965 d.C.
+134. Bento VI, 972/973 d.C.
+135. Bento VII, 974 d.C.
+136. João XIV, 983 d.C.
+137. João XV, 985 d.C.
+138. Gregório V, 996 d.C.
+139. Silvestre II, 999 d.C.
+140. João XVII, 1003 d.C.
+141. João XVIII, 1003 d.C.
+142. Sérgio IV, 1009 d.C.
+143. Bento VIII, 1012 d.C.
+144. João XIX, 1024 d.C.
+145. Bento IX, 1032 d.C.
+146. Silvestre III, 1045 d.C.
+147. Bento IX (segunda vez), 1045 d.C.
+148. Gregório VI, 1045 d.C.
+149. Clemente II, 1046 d.C.
+150. Bento IX (terceira vez), 1047 d.C.
+151. Dâmaso II, 1048 d.C.
+152. São Leão IX, 1049 d.C.
+153. Vítor II, 1055 d.C.
+154. Estêvão IX (X), 1057 d.C.
+155. Nicolau II, 1058/1059 d.C.
+156. Alexandre II, 1061 d.C.
+157. São Gregório VII, 1073 d.C.
+158. Beato Vítor III, 1086/1087 d.C.
+159. Beato Urbano II, 1088 d.C.
+160. Pascoal II, 1099 d.C.
+161. Gelásio II, 1118 d.C.
+162. Calisto II, 1119 d.C.
+163. Honório II, 1124 d.C.
+164. Inocêncio II, 1130 d.C.
+165. Celestino II, 1143 d.C.
+166. Lúcio II, 1144 d.C.
+167. Beato Eugénio III, 1145 d.C.
+168. Anastácio IV, 1153 d.C.
+169. Adriano IV, 1154 d.C.
+170. Alexandre III, 1159 d.C.
+171. Lúcio III, 1181 d.C.
+172. Urbano III, 1185 d.C.
+173. Gregório VIII, 1187 d.C.
+174. Clemente III, 1187 d.C.
+175. Celestino III, 1191 d.C.
+176. Inocêncio III, 1198 d.C.
+177. Honório III, 1216 d.C.
+178. Gregório IX, 1227 d.C.
+179. Celestino IV, 1241 d.C.
+180. Inocêncio IV, 1243 d.C.
+181. Alexandre IV, 1254 d.C.
+182. Urbano IV, 1261 d.C.
+183. Clemente IV, 1265 d.C.
+184. Beato Gregório X, 1271 d.C.
+185. Beato Inocêncio V, 1276 d.C.
+186. Adriano V, 1276 d.C.
+187. João XXI, 1276 d.C.
+188. Nicolau III, 1277 d.C.
+189. Martinho IV, 1281 d.C.
+190. Honório IV, 1285 d.C.
+191. Nicolau IV, 1288 d.C.
+192. São Celestino V, 1294 d.C.
+193. Bonifácio VIII, 1294 d.C.
+194. Beato Bento XI, 1303 d.C.
+195. Clemente V, 1305 d.C.
+196. João XXII, 1316 d.C.
+197. Bento XII, 1334 d.C.
+198. Clemente VI, 1342 d.C.
+199. Inocêncio VI, 1352 d.C.
+200. Beato Urbano V, 1362 d.C.
+201. Gregório XI, 1370 d.C.
+202. Urbano VI, 1378 d.C.
+203. Bonifácio IX, 1389 d.C.
+204. Inocêncio VII, 1404 d.C.
+205. Gregório XII, 1406 d.C.
+206. Martinho V, 1417 d.C.
+207. Eugénio IV, 1431 d.C.
+208. Nicolau V, 1447 d.C.
+209. Calisto III, 1455 d.C.
+210. Pio II, 1458 d.C.
+211. Paulo II, 1464 d.C.
+212. Sisto IV, 1471 d.C.
+213. Inocêncio VIII, 1484 d.C.
+214. Alexandre VI, 1492 d.C.
+215. Pio III, 1503 d.C.
+216. Júlio II, 1503 d.C.
+217. Leão X, 1513 d.C.
+218. Adriano VI, 1522 d.C.
+219. Clemente VII, 1523 d.C.
+220. Paulo III, 1534 d.C.
+221. Júlio III, 1550 d.C.
+222. Marcelo II, 1555 d.C.
+223. *Paulo IV (Gian Pietro Carafa)*, 1555 d.C.
+
+
+224. Scipione Rebiba, 1541 d.C. (A tradição genealógica atribui a sua consagração episcopal a Gian Pietro Carafa, futuro Papa Paulo IV; contudo, não é conhecida documentação contemporânea que permita identificar com certeza o consagrante de Rebiba. Mas a validade sacramental da sua ordenação episcopal é historicamente e juridicamente inquestionável.)
+
+
+</details>
+
+
+A cadeia episcopal seguinte é conhecida documentalmente a partir de **Scipione Rebiba**.
+
+
+225. Giulio Antonio Santorio, 1566 d.C.
+
+
+
+
+
+
+
+
+226. Girolamo Bernerio, O.P., 1586 d.C.
+
+
+
+
+
+
+
+
+227. Galeazzo Sanvitale, 1604 d.C.
+
+
+
+
+
+
+
+
+228. Ludovico Ludovisi, 1621 d.C.
+
+
+
+
+
+
+
+
+229. Luigi Caetani, 1622 d.C.
+
+
+230. Giovanni-Battista Scanaroli, 1630 d.C.
+231. Cardinal Antonio Barberini, 1655 d.C.
+232. Charles le Tellier, 1668 d.C.
+233. Jaques-Benigne Boussuet, 1670 d.C.
+234. Jaques Goyon de Matignon, 1673 d.C.
+### Linha Vétero-Católica (Utrecht)
+235. **Dominique Marie Varlet, 1719 d.C.**
+236. Peter Meindaerts, 1739 d.C.
+237. Johannes van Stiphout, 1745 d.C.
+238. Gualterus Michael van Nieuwenhuizen, 1768 d.C.
+239. Adrianus Johannes Broekman, 1778 d.C.
+240. Johannes Jacobus van Rhijn, 1797 d.C.
+241. Gilbertus Cornelius de Jong, 1805 d.C.
+242. Willibrordus van Os, 1814 d.C.
+243. Johannes Bon, 1819 d.C.
+244. Johannes van Santen, 1825 d.C.
+245. Hermanus Heykamp, 1853 d.C.
+246. Gaspardus Johannes Rinkel, 1873 d.C.
+247. Gerardus Gul, 1892 d.C.
+
+
+
+
+### Linha PNCC / Polaca
+
+
+
+
+248. **Bispo Franciszek (Francis) Hodur, 1907 d.C.**
+
+
+
+
+Consagrado Bispo em **29 de setembro de 1907**, em Utrecht, pelo Arcebispo
+**Gerardus Gul**, assistido pelos Bispos Johannes Jacobus van Thiel, de Haarlem,
+e Nicholas B. P. Spit, de Deventer, para a **Polish National Catholic Church (PNCC)**.
+
+A consagração de Francis Hodur constitui a transmissão formal da sucessão episcopal
+da Igreja Vétero-Católica de Utrecht para a Igreja Católica Nacional Polonesa.
+
+
+
+
+249. **Bispo Władysław Marcin Faron, 1930 d.C.**
+
+
+
+
+Consagrado Bispo em **30 de janeiro de 1930** para a Diocese Polonesa da PNCC,
+tendo como consagrante principal **Francis Hodur**, assistido por outros Bispos
+da Polish National Catholic Church.
+
+
+
+
+250. **Bispo Jan Piotr Perkowski, 1934 d.C.**
+
+
+
+
+Consagrado Bispo por **Władysław Faron em 3 de maio de 1934**.
+
+Posteriormente desenvolveu atividade episcopal no Brasil, onde fontes históricas
+documentam a existência de uma Igreja Vétero-Católica ligada ao movimento
+vétero-católico polaco estabelecido no país durante a década de 1930.
+
+Perkowski permaneceu no Brasil e encontra-se historicamente identificado como
+Bispo Vétero-Católico em exercício no país.
+
+
+
+
+### Continuação Brasileira da Linhagem de Perkowski
+
+
+
+
+251. **Dom Lírio do Prado Fontes, data em confirmação**
+
+
+
+
+Apresentado pela tradição histórica vétero-católica brasileira como Bispo pertencente
+à sucessão episcopal de **Dom Jan Piotr Perkowski** e como um dos responsáveis
+pela continuidade da estrutura episcopal vétero-católica no Brasil.
+
+
+
+
+
+
+252. **Dom Hélio Del Bivar (Hélio de Azevedo), c. 1962–1965 d.C.**
+
+
+
+
+Apresentado pela tradição vétero-católica brasileira como continuador da sucessão
+episcopal de **Dom Jan Piotr Perkowski**, direta ou indiretamente através de
+Dom Lírio do Prado Fontes.
+
+
+
+253. **Dom Rafael Linueza Peres, 1977 d.C.**
+
+
+
+
+Sagrado Bispo em **1977**, vindo posteriormente a exercer funções de Arcebispo
+na tradição vétero-católica brasileira.
+
+
+
+
+254. **Dom José Carlos Teodoro, data em confirmação (c. 1987–1993 d.C.)**
+
+
+
+
+Apresentado pelas genealogias vétero-católicas brasileiras como Bispo sagrado por
+**Dom Rafael Linueza Peres**.
+
+
+
+
+255. **Dom Paulo Pereira, c. 1996–1998 d.C.**
+
+
+
+
+Sucessor episcopal desta tradição vétero-católica brasileira
+e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**.
+
+Dom Paulo Pereira encontra-se independentemente documentado, no final da década
+de 1990 e início da década de 2000, exercendo publicamente funções episcopais
+e realizando consagrações de outros Bispos no Brasil.
+
+
+
+
+### Continuação até à Igreja Vétero-Católica de Jerusalém em Portugal
+
+
+
+
+256. **Dom Aparecido Pereira, 2003 d.C.**
+
+
+
+
+Sagrado Bispo por **Dom Paulo Pereira**, recebendo através deste as diversas
+linhas episcopais reunidas no episcopado de Dom Paulo Pereira.
+
+
+
+
+257. **Dom Rogério Ribeiro Campos, 2005 d.C.**
+Sagrado Bispo em **2005** por **Dom Aparecido Pereira**, recebendo através deste
+a sucessão episcopal transmitida por Dom Paulo Pereira.
+
+
+
+
+258. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+
+
+
+
+
+
+
+
+259. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barboza da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+
+
+
+
+
+
+
+
+260. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barboza da Silva como coconsagrador, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+</details>
+
+<br><br>
 
 <details>
 <summary>Linhagem Síriaca de Antioquia / Vilatte</summary>
@@ -465,6 +943,12 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 125. Dom Paulo Pereira, 1997 d.C.
+Sucessor episcopal da tradição vétero-católica brasileira
+e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**.
+
+Dom Paulo Pereira encontra-se independentemente documentado, no final da década
+de 1990 e início da década de 2000, exercendo publicamente funções episcopais
+e realizando consagrações de outros Bispos no Brasil.
 
 
 
@@ -522,12 +1006,12 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 <details>
-<summary>Linhagem Vétero-Católica</summary>
+<summary>Linhagem Vétero-Romana / Mathew</summary>
 
 
 
 
-## Linhagem Vétero-Católica
+## Linhagem Vétero-Romana / Mathew
 
 
 1. São Pedro, o Apóstolo (Roma), c. 42 d.C.
@@ -928,6 +1412,12 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 
 258. Dom Paulo Pereira, 1998 d.C.
 
+Sucessor episcopal da tradição vétero-católica brasileira
+e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**.
+
+Dom Paulo Pereira encontra-se independentemente documentado, no final da década
+de 1990 e início da década de 2000, exercendo publicamente funções episcopais
+e realizando consagrações de outros Bispos no Brasil.
 
 
 
