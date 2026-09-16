@@ -66,7 +66,7 @@ A Igreja possui, assim, episcopado em sucessão apostólica e clero validamente 
 
 ## 5. O precedente PNCC–Roma e o cân. 844 §3
 
-Em segunda linha, a relação entre a **PNCC — Igreja-matriz da atual União de Scranton — e a Igreja Católica Romana** oferece um precedente importante.
+Em segunda linha, a relação entre a **PNCC - Igreja-matriz da atual União de Scranton - e a Igreja Católica Romana** oferece um precedente importante.
 
 Os <u>[diálogos oficiais PNCC–Roma](https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman)</u> conduziram ao reconhecimento recíproco de uma autêntica realidade eclesial e sacramental e permitiram soluções pastorais concretas. Na prática católica romana, membros da PNCC podem, nas condições estabelecidas, receber Penitência, Eucaristia e Unção dos Enfermos de ministros romanos; uma orientação oficial da Arquidiocese de Chicago confirma expressamente essa disciplina: <u>[*Concerning the Polish National Catholic Church*](https://eia.archchicago.org/documents/880239/2891912/Polish_National_Catholic_Church.pdf/5ede71b5-8c91-48dc-8981-cab62790d610)</u>.
 
@@ -99,6 +99,8 @@ Ainda assim, recebemos a doutrina da *ecclesia supplet* como garantia subsidiár
 Esta leitura corresponde ao uso feito por jurisdições da tradição **vétero-romana**, que invocam a jurisdição suprida e a *salus animarum* em circunstâncias eclesiais extraordinárias. Podem consultar-se, como exposições dessa posição, <u>[*Canonical Liceity*](https://oldromancatholicdirectory.com/canonical-liceity/)</u>, a síntese do <u>[Old Roman Apostolate sobre jurisdição suprida e continuidade apostólica](https://oldroman.org/2025/03/13/the-old-roman-apostolate-a-manifesto-of-fidelity-to-the-catholic-tradition/)</u> e o estudo da FSSPX <u>[*Supplied jurisdiction and traditional priests*](https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452)</u>.
 
 No nosso caso, trata-se de uma terceira linha argumentativa: primeiro existe a jurisdição ordinária recebida da Fidelitas; somente perante uma dúvida ou necessidade concreta se invoca, de modo complementar, a suplência tradicional da Igreja.
+
+Esta garantia assume particular relevância perante a crise doutrinal, litúrgica e disciplinar causada pelo crescente modernismo que se desenvolveu no período do Concílio Vaticano II e do pós-Concílio. A nossa Igreja não rejeita indiscriminadamente tudo quanto foi então afirmado ou praticado, mas não recebe como vinculativos os desenvolvimentos que considere incompatíveis com a Tradição Apostólica, com a fé católica recebida e com a continuidade doutrinal da Igreja (ver por exemplo o seguinte <u>[ofício de 2023](/img/oficio_fiducia_supplicans.jpg)</u> relativo ao polémico *Fiducia Supplicans*).
 
 <br>
 
