@@ -393,7 +393,7 @@ Rodzina, 1977, n.º 22 — cartas dos missionários no Brasil
 
 #### Formação de clero brasileiro
 
-<center><img src="img/pncc_mission_brazil.png" width=600px> <br> 
+<center><img src="img/pncc_mission_brazil.png" width=500px><img src="img/brazillian_clergy_pncc.png" width=500px> <br> 
 Fonte: Czesław Kuliczkowsk - The Polish National Catholic Mission in Brazil: Update on the Current Situation, The Student Press Savonarola Theological Seminary of the Polish National Catholic Church, January–February 1977. <u><a href="https://www.savonarola.net/wp-content/uploads/2025/05/tsp-jan-feb-77.pdf">PDF</a></u> </center>
 
 A reativação não se limitou à presença de sacerdotes enviados do estrangeiro.
