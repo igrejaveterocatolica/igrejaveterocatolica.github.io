@@ -10,7 +10,7 @@ O fundamento principal da nossa canonicidade não é uma linhagem episcopal isol
 
 ## 1. O princípio: reconhecimento externo não cria a Igreja
 
-A tradição ultrajectina reconhece a Igreja local — a comunidade reunida em torno do seu bispo, do seu clero, da Eucaristia e dos seus fiéis — como verdadeira realização da Igreja Católica num determinado lugar.
+A tradição ultrajectina reconhece a Igreja local (a comunidade reunida em torno do seu bispo, do seu clero, da Eucaristia e dos seus fiéis) como verdadeira realização da Igreja Católica num determinado lugar.
 
 As Igrejas locais devem procurar a comunhão, a colegialidade episcopal e a ordem sinodal. Essa comunhão confirma e manifesta a sua catolicidade, mas não cria *ex nihilo* uma Igreja que já possui episcopado, sacramentos, povo cristão e governo legítimo.
 
@@ -72,7 +72,7 @@ Os [diálogos oficiais PNCC–Roma](https://www.usccb.org/committees/ecumenical-
 
 O fundamento jurídico encontra-se no [cân. 844 §3 do Código de Direito Canónico](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann834-878_en.html), que permite a administração daqueles sacramentos aos membros de outras Igrejas que, no juízo da Sé Apostólica, se encontrem, quanto aos sacramentos, em condição equivalente à das Igrejas orientais separadas, quando os pedem espontaneamente e estão devidamente dispostos.
 
-As condições objetivas que tornaram possível a aplicação dessa disciplina à PNCC — sucessão apostólica, episcopado e sacerdócio válidos, Eucaristia válida, fé sacramental católica e estrutura eclesial própria — verificam-se também, segundo a documentação e a profissão de fé da **Fidelitas**. Por isso, o precedente PNCC–Roma demonstra que podem ser estudados e celebrados **acordos concretos e específicos com a Fidelitas no âmbito do cân. 844 §3**.
+As condições objetivas que tornaram possível a aplicação dessa disciplina à PNCC (sucessão apostólica, episcopado e sacerdócio válidos, Eucaristia válida, fé sacramental católica e estrutura eclesial própria) verificam-se também, segundo a documentação e a profissão de fé da **Fidelitas**. Por isso, o precedente PNCC–Roma demonstra que podem ser estudados e celebrados **acordos concretos e específicos com a Fidelitas no âmbito do cân. 844 §3**.
 
 Isto não significa que o regime concedido à PNCC se estenda automaticamente à Fidelitas: o próprio cânone exige o correspondente juízo da autoridade romana. Significa que existe um precedente jurídico e pastoral adequado e que a Fidelitas reúne os elementos objetivos necessários para pedir esse exame e negociar soluções semelhantes.
 
