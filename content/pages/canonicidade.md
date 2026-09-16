@@ -220,6 +220,6 @@ A ordem da nossa posição é, portanto, a seguinte:
 e **somente em último lugar**, perante dúvidas ou necessidades concretas relativas a determinadas faculdades, pode ser invocado subsidiariamente o princípio tradicional da jurisdição suprida.
 
 
-A **Igreja Vétero-Católica de Jerusalém** afirma, por isso, a sua identidade sem ambiguidade: **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e canonicamente constituída segundo a autoridade e a tradição eclesial de que procede**.
+A **Igreja Vétero-Católica de Jerusalém** afirma, por isso, a sua identidade sem ambiguidade: **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e canonicamente constituída segundo a autoridade e a tradição eclesial de que procede**. <br><br><br><br>
 
 
