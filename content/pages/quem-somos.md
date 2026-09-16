@@ -841,8 +841,6 @@ Bartnicki integra, portanto, a cadeia histórica da missão como sacerdote, resp
 
 A partir de **1936**, a continuidade episcopal torna-se mais clara com **Dom Jan Piotr Perkowski**. Como documentado anteriormente, investigação académica polaca descreve a Igreja Vétero-Católica que Perkowski organizou no Brasil, com sede em São Paulo, como **continuação da missão iniciada pelo Pe. Teophilo Bartnicki**.
 
-Para as décadas seguintes, a documentação primária atualmente acessível é mais fragmentária. Uma reconstituição histórica publicada por clérigos vétero-católicos brasileiros em 2011 conserva, porém, a memória de sucessivas transmissões do governo da Igreja:
-
 <strong>Dom Jan Piotr Perkowski</strong> — à frente da estrutura episcopal até ao seu falecimento, em **1963**;<br>
 <strong>Dom Lírio Prado Fontes</strong> — assume o chamado **Governo Supremo** em **15 de agosto de 1963**;<br>
 <strong>Dom Hélio Del Bivar</strong> — recebe o governo em **1966**;<br>
@@ -857,9 +855,9 @@ Reconstituição histórica publicada em 2011 — governo episcopal de Perkowski
 
 #### Dom Paulo Pereira — Arcebispo Primaz
 
-A posição de **Dom Paulo Pereira** encontra apoio em fontes de natureza diferente.
+A posição de **Dom Paulo Pereira** encontra apoio em fontes disponíveis publicamente:
 
-Em **2001**, ainda durante a sua vida, Dom Fernando Fraga declarou publicamente ter recebido a sagração episcopal de **“Dom Paulo Pereira, arcebispo da VETERO CATHOLICA ECCLESIA IN BRASÍLIA (Igreja dos Velhos Católicos)”**. Trata-se de uma referência contemporânea e independente da atual estrutura da Fidelitas.
+Em **2001**, ainda durante a sua vida, Dom Fernando Fraga declarou publicamente ter recebido a sagração episcopal de **"Dom Paulo Pereira, arcebispo da VETERO CATHOLICA ECCLESIA IN BRASÍLIA (Igreja dos Velhos Católicos)"**. Trata-se de uma referência contemporânea e independente da atual estrutura da Fidelitas.
 
 <u><a href="https://jornaldeararaquara.com.br/esclarecimento-ao-povo-de-araraquara-so-carlos-e-regio/" target="_blank" rel="noopener noreferrer">
 Jornal de Araraquara, 2001 — Dom Paulo Pereira identificado como Arcebispo da Igreja Vétero-Católica
