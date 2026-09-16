@@ -22,17 +22,9 @@ Por isso, a pergunta principal não é se Roma, Utrecht ou Scranton já reconhec
 
 ## 2. Origem canónica da missão brasileira
 
-A presença vétero-católica organizada no Brasil remonta a **1932**, quando o Padre Theophilo Bartnicki estabeleceu em Ponta Grossa, Paraná, uma missão da tradição antigo-católica polonesa. Naquele momento, a Igreja polonesa de que essa missão procedia encontrava-se ligada à **Polish National Catholic Church (PNCC)** e à comunhão de Utrecht.
+A presença vétero-católica polaca no Brasil teve início em **1932**, com a missão estabelecida em Ponta Grossa pelo Padre Theophilo Bartnicki. A ligação institucional à **Polish National Catholic Church (PNCC)** ficou formalmente documentada em **1938**, quando cinco paróquias brasileiras foram recebidas na sua comunhão. Embora a atividade missionária organizada tenha sido suspensa em 1939, a comunidade de Floresta, atual Barão de Cotegipe, permaneceu ativa e esteve na origem da reativação formal da missão brasileira pela PNCC em **1975**. Após a rutura administrativa ocorrida em 1979 e as posteriores reorganizações eclesiais, essa herança histórica e espiritual passou a ser preservada pela **Fidelitas do Brasil e Exterior**, que atualmente se compreende como continuadora da tradição vétero-católica polaca estabelecida no país.
 
-Para um enquadramento institucional mais amplo desta presença e do seu desenvolvimento posterior no Brasil, consulte também a nossa <u>[página de história](/quem-somos.html)</u>.
-
-Esta origem distingue a missão brasileira de uma associação privada constituída apenas em torno da sucessão sacramental de um bispo. A missão nasceu dentro de uma Igreja já dotada de ordem episcopal, jurisdição e comunhão eclesial. O seu título canónico originário precede, portanto, as reorganizações posteriores.
-
-A existência histórica dessa missão é confirmada por investigação académica independente. A dissertação de Elizabeth Johansen Capri, da Universidade Federal do Paraná, documenta a atuação de Bartnicki, a sua apresentação pública como representante oficial da Igreja Antigo-Católica no Brasil e o facto de ele ser reconhecido localmente como designado da Igreja Nacional Polaca: <u>[*De católicos poloneses a ponta-grossenses católicos*](https://acervodigital.ufpr.br/xmlui/bitstream/handle/1884/35455/R%20-%20D%20-%20ELIZABETH%20JOHANSEN%20CAPRI.pdf?isAllowed=y&sequence=1)</u>.
-
-O estudo de Letícia Leal de Almeida e Rosângela Wosiack Zulian, publicado pela Universidade Estadual de Ponta Grossa, reconstrói a presença da Igreja Antigo-Católica em Ponta Grossa entre 1932 e 1934, incluindo a organização da comunidade, o templo, a vida sacramental e a identificação contemporânea daquela comunidade como uma sucursal da Igreja Nacional Polonesa: [*A Igreja Antigo-Católica em Ponta Grossa (1932–1934)*](https://revistas.uepg.br/index.php/ahu/article/download/7323/4392/24322).
-
-O incêndio do templo em 1934, a perda de contactos internacionais, períodos de sede vacante ou as posteriores reorganizações civis e eclesiásticas não equivalem, por si mesmos, à extinção canónica de uma Igreja. Para afastar a continuidade seria necessário demonstrar um ato competente de supressão ou uma rutura eclesial capaz de destruir a identidade da missão. Não identificamos tal ato.
+Toda a cronologia da missão brasileira, bem como as fontes históricas, os estudos académicos e a documentação relativa à sua origem, desenvolvimento, ligação à PNCC, continuidade e reorganizações posteriores, encontra-se reunida e apresentada detalhadamente na nossa <u>[página de história](/quem-somos.html)</u>.
 
 <br>
 
