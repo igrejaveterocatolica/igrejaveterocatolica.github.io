@@ -52,8 +52,6 @@ A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja tamb
 
 A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos essenciais: 
 
-<br> 
-
 (1) Assenta a sua existência na continuidade orgânica e ininterrupta da missão polaca no Brasil (iniciada em 1932), declarando-se herdeira legítima desta tradição vétero-católica sem que tenha ocorrido qualquer ato de cisma. Esta afinidade histórica, que sobreviveu à perda de contacto ditada pelos tempos, procura agora a sua natural formalização através do processo de reunificação em curso com a União de Scranton (PNCC), atualmente pendente de decisão;
 
 (2) Reafirma o princípio histórico de que a Sé de Utrecht conservou a sua jurisdição própria perante a suspensão canonicamente abusiva do Arcebispo Petrus Codde, considerando a PNCC e a União de Scranton as herdeiras legítimas, ortodoxas e fiéis dessa tradição, sobretudo após os desvios progressistas da União de Utrecht original;
