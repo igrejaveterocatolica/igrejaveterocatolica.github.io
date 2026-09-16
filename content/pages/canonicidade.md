@@ -10,7 +10,7 @@ O fundamento principal da nossa canonicidade não é uma linhagem episcopal isol
 
 ## 1. O princípio: reconhecimento externo não cria a Igreja
 
-A tradição ultrajectina reconhece a Igreja local (a comunidade reunida em torno do seu bispo, do seu clero, da Eucaristia e dos seus fiéis) como verdadeira realização da Igreja Católica num determinado lugar.
+A tradição ultrajectina reconhece a Igreja local — a comunidade reunida em torno do seu bispo, do seu clero, da Eucaristia e dos seus fiéis — como verdadeira realização da Igreja Católica num determinado lugar.
 
 As Igrejas locais devem procurar a comunhão, a colegialidade episcopal e a ordem sinodal. Essa comunhão confirma e manifesta a sua catolicidade, mas não cria *ex nihilo* uma Igreja que já possui episcopado, sacramentos, povo cristão e governo legítimo.
 
@@ -23,6 +23,8 @@ Por isso, a pergunta principal não é se Roma, Utrecht ou Scranton já reconhec
 ## 2. Origem canónica da missão brasileira
 
 A presença vétero-católica organizada no Brasil remonta a **1932**, quando o Padre Theophilo Bartnicki estabeleceu em Ponta Grossa, Paraná, uma missão da tradição antigo-católica polonesa. Naquele momento, a Igreja polonesa de que essa missão procedia encontrava-se ligada à **Polish National Catholic Church (PNCC)** e à comunhão de Utrecht.
+
+Para um enquadramento institucional mais amplo desta presença e do seu desenvolvimento posterior no Brasil, consulte também a nossa [página de história](/quem-somos.html).
 
 Esta origem distingue a missão brasileira de uma associação privada constituída apenas em torno da sucessão sacramental de um bispo. A missão nasceu dentro de uma Igreja já dotada de ordem episcopal, jurisdição e comunhão eclesial. O seu título canónico originário precede, portanto, as reorganizações posteriores.
 
@@ -46,7 +48,7 @@ No mesmo sentido, uma publicação do **Instituto São Willibrord**, ligado a ou
 
 Essas declarações não tornam as jurisdições posteriores juridicamente idênticas à Fidelitas. Demonstram, porém, que estruturas brasileiras que também reclamam a herança de Utrecht reconhecem a Fidelitas como a **jurisdição-matriz da qual procederam os seus responsáveis, clérigos ou comunidades**. Trata-se de corroboração externa da precedência e continuidade eclesial da Fidelitas, e não apenas de uma afirmação feita pela própria Igreja.
 
-A legitimidade do governo interno da Fidelitas decorre dessa continuidade e do exercício sinodal do seu autogoverno. O seu Primaz foi escolhido por eleição eclesial, e não por simples autoproclamação pessoal. Uma eventual discussão externa sobre a designação honorífica de “Patriarca” não elimina a eleição, o episcopado, o governo efetivamente exercido nem a jurisdição ordinária reconhecida pela constituição da Igreja.
+A legitimidade do governo interno da Fidelitas decorre dessa continuidade e do exercício sinodal do seu autogoverno. O seu Patriarca foi escolhido por eleição eclesial, e não por simples autoproclamação pessoal.
 
 <br>
 
@@ -70,7 +72,7 @@ Os [diálogos oficiais PNCC–Roma](https://www.usccb.org/committees/ecumenical-
 
 O fundamento jurídico encontra-se no [cân. 844 §3 do Código de Direito Canónico](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann834-878_en.html), que permite a administração daqueles sacramentos aos membros de outras Igrejas que, no juízo da Sé Apostólica, se encontrem, quanto aos sacramentos, em condição equivalente à das Igrejas orientais separadas, quando os pedem espontaneamente e estão devidamente dispostos.
 
-As condições objetivas que tornaram possível a aplicação dessa disciplina à PNCC (sucessão apostólica, episcopado e sacerdócio válidos, Eucaristia válida, fé sacramental católica e estrutura eclesial própria) verificam-se também, segundo a documentação e a profissão de fé da **Fidelitas**. Por isso, o precedente PNCC–Roma demonstra que podem ser estudados e celebrados **acordos concretos e específicos com a Fidelitas no âmbito do cân. 844 §3**.
+As condições objetivas que tornaram possível a aplicação dessa disciplina à PNCC — sucessão apostólica, episcopado e sacerdócio válidos, Eucaristia válida, fé sacramental católica e estrutura eclesial própria — verificam-se também, segundo a documentação e a profissão de fé da **Fidelitas**. Por isso, o precedente PNCC–Roma demonstra que podem ser estudados e celebrados **acordos concretos e específicos com a Fidelitas no âmbito do cân. 844 §3**.
 
 Isto não significa que o regime concedido à PNCC se estenda automaticamente à Fidelitas: o próprio cânone exige o correspondente juízo da autoridade romana. Significa que existe um precedente jurídico e pastoral adequado e que a Fidelitas reúne os elementos objetivos necessários para pedir esse exame e negociar soluções semelhantes.
 
@@ -94,7 +96,7 @@ A nossa autoridade ordinária deriva do mandato da Fidelitas. **A Igreja não ex
 
 Ainda assim, recebemos a doutrina da *ecclesia supplet* como garantia subsidiária para casos concretos de erro comum, dúvida positiva e provável, grave necessidade pastoral ou impossibilidade de obter regularmente determinada faculdade. A jurisdição suprida não cria o poder de Ordem nem uma Igreja nova; supre, nos casos reconhecidos pela tradição canónica, uma deficiência de faculdade para que o bem espiritual dos fiéis não seja sacrificado a uma falha meramente jurídica.
 
-Esta leitura corresponde ao uso feito por jurisdições da tradição **vétero-romana**, que invocam a jurisdição suprida e a *salus animarum* em circunstâncias eclesiais extraordinárias. Podem consultar-se, como exposições dessa posição, [*Canonical Liceity*](https://oldromancatholicdirectory.com/canonical-liceity/) e a síntese do [Old Roman Apostolate sobre jurisdição suprida e continuidade apostólica](https://oldroman.org/2025/03/13/the-old-roman-apostolate-a-manifesto-of-fidelity-to-the-catholic-tradition/).
+Esta leitura corresponde ao uso feito por jurisdições da tradição **vétero-romana**, que invocam a jurisdição suprida e a *salus animarum* em circunstâncias eclesiais extraordinárias. Podem consultar-se, como exposições dessa posição, [*Canonical Liceity*](https://oldromancatholicdirectory.com/canonical-liceity/), a síntese do [Old Roman Apostolate sobre jurisdição suprida e continuidade apostólica](https://oldroman.org/2025/03/13/the-old-roman-apostolate-a-manifesto-of-fidelity-to-the-catholic-tradition/) e o estudo da FSSPX [*Supplied jurisdiction and traditional priests*](https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452).
 
 No nosso caso, trata-se de uma terceira linha argumentativa: primeiro existe a jurisdição ordinária recebida da Fidelitas; somente perante uma dúvida ou necessidade concreta se invoca, de modo complementar, a suplência tradicional da Igreja.
 
