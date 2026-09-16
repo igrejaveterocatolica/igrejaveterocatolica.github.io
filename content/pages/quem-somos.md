@@ -56,7 +56,7 @@ A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibili
 
 ## A Canonicidade da Igreja Vétero-Católica de Jerusalém
 
-A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, dotada de episcopado, clero, sucessão apostólica, governo e disciplina próprios. A sua legitimidade deriva da continuidade eclesial de que procede e do mandato canónico recebido da **Fidelitas do Brasil e Exterior**.
+A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, dotada de episcopado, clero, sucessão apostólica, governo e disciplina próprios. A sua legitimidade não depende de uma futura receção pela União de Scranton, mas da continuidade eclesial de que procede e do mandato canónico recebido da **Fidelitas do Brasil e Exterior**.
 
 ### 1. Jurisdição e legitimidade sacramental
 
@@ -76,15 +76,15 @@ Assim, administra os **sete sacramentos da Igreja**:
 
 A distinção entre **poder de Ordem** e **faculdade para o seu exercício** pertence à própria tradição canónica católica. A nossa Igreja não sustenta, portanto, que a simples posse de uma linhagem episcopal seja suficiente para constituir uma Igreja: a sucessão apostólica encontra-se integrada numa verdadeira estrutura eclesial, com autoridade episcopal, mandato, clero, fiéis e disciplina própria.
 
-### 2. Continuidade de Utrecht e União de Scranton
+### 2. Continuidade de Utrecht e regularização junto da União de Scranton
 
-A Igreja Vétero-Católica de Jerusalém insere-se conscientemente na tradição eclesiológica de **Utrecht**. Reconhece o princípio histórico de uma Igreja local governada pelo seu episcopado segundo a fé católica recebida, sem aceitar as inovações do Concílio Vaticano I.
+A Igreja Vétero-Católica de Jerusalém insere-se conscientemente na tradição eclesiológica de **Utrecht**. Reconhece o princípio histórico de uma Igreja local governada pelo seu episcopado segundo a fé católica recebida, sem aceitar as definições de jurisdição universal e infalibilidade papal introduzidas pelo Concílio Vaticano I.
 
 Na evolução posterior do movimento vétero-católico, consideramos a **PNCC e a União de Scranton** a continuação legítima da tradição católica e ultrajectina de Utrecht, particularmente depois do afastamento da PNCC da União de Utrecht em consequência das divergências doutrinais e disciplinares surgidas no seu interior.
 
 É por esta razão que a **Fidelitas do Brasil e Exterior procura a sua regularização e plena integração na União de Scranton**. Esse processo encontra-se pendente.
 
-A receção por Scranton representará o restabelecimento formal da plena comunhão com a família eclesial da qual reconhecemos proceder histórica e sacramentalmente.
+A receção por Scranton representará o restabelecimento formal da plena comunhão com a família eclesial da qual reconhecemos proceder histórica e sacramentalmente; **não constitui, porém, a origem da validade dos nossos sacramentos nem condição para a existência da nossa jurisdição**. Uma Igreja não começa a existir sacramentalmente no momento em que outra Igreja a reconhece.
 
 ### 3. O precedente da PNCC e o reconhecimento romano
 
@@ -99,6 +99,10 @@ Não reivindicamos os acordos PNCC–Roma como se já fossem juridicamente exten
 ### 4. Jurisdição suprida em caso de necessidade
 
 A autoridade ordinária da Igreja Vétero-Católica de Jerusalém deriva do **mandato recebido da sua jurisdição de origem**, e não da jurisdição suprida.
+
+A nossa posição deve também ser entendida no contexto da sua identidade tradicional e ultrajectina. A Igreja rejeita aquilo que identifica como **modernismo teológico** e não recebe como vinculativos determinados desenvolvimentos doutrinais, litúrgicos e disciplinares associados ao **Concílio Vaticano II e ao período que se lhe seguiu**, sempre que os considere incompatíveis com a Tradição Apostólica, com a fé católica recebida e com a continuidade doutrinal da Igreja.
+
+Por essa razão, a Igreja não reconhece que a disciplina canónica romana contemporânea constitua, por si mesma, a medida exclusiva da legitimidade do seu ministério. A sua autoridade ordinária procede da estrutura eclesial, da sucessão apostólica e do mandato que recebeu segundo o ordenamento da jurisdição de origem.
 
 Subsidiariamente, porém, se num caso concreto surgir dúvida ou deficiência acerca de determinada faculdade, reconhecemos o princípio tradicional de que **a salvação das almas não deve ser impedida por uma deficiência meramente jurisdicional quando existe verdadeira necessidade pastoral**. A aplicação deste princípio em contextos de necessidade e de crise eclesial encontra uma exposição desenvolvida [neste estudo sobre jurisdição suprida](https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452).
 
