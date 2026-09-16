@@ -76,7 +76,7 @@ Assim, administra os **sete sacramentos da Igreja**:
 
 A distinção entre **poder de Ordem** e **faculdade para o seu exercício** pertence à própria tradição canónica católica. A nossa Igreja não sustenta, portanto, que a simples posse de uma linhagem episcopal seja suficiente para constituir uma Igreja: a sucessão apostólica encontra-se integrada numa verdadeira estrutura eclesial, com autoridade episcopal, mandato, clero, fiéis e disciplina própria.
 
-### 2. Continuidade de Utrecht e regularização junto da União de Scranton
+### 2. Continuidade de Utrecht e União de Scranton
 
 A Igreja Vétero-Católica de Jerusalém insere-se conscientemente na tradição eclesiológica de **Utrecht**. Reconhece o princípio histórico de uma Igreja local governada pelo seu episcopado segundo a fé católica recebida, sem aceitar as inovações do Concílio Vaticano I.
 
