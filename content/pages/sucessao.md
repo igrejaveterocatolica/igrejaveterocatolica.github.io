@@ -384,7 +384,7 @@ Bispo Vétero-Católico em exercício no país.
 
 
 
-251. **Dom Lírio do Prado Fontes, data em confirmação**
+251. **Dom Lírio do Prado Fontes**
 
 
 
@@ -420,7 +420,7 @@ na tradição vétero-católica brasileira.
 
 
 
-254. **Dom José Carlos Teodoro, data em confirmação (c. 1987–1993 d.C.)**
+254. **Dom José Carlos Teodoro (c. 1987–1993 d.C.)**
 
 
 
