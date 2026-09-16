@@ -439,126 +439,213 @@ Assim, nesta fase, encontram-se documentalmente comprovados vários elementos de
 
 
 
-#### 1978–1979 — O fim da fase de expansão
 
+#### 1978–1979 — O fim da fase de expansão
 
 A correspondência missionária de finais da década de 1970 mostra que a atividade pastoral continuava, sobretudo no Rio Grande do Sul, e que se estudavam novas possibilidades de expansão.
 
-
 <u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/1978/Rodzina_1978_08.pdf" target="_blank" rel="noopener noreferrer">
-Rodzina, 1978, n.º 8 — notícias e correspondência da missão
-</a></u>
-<br><br>
-
+Rodzina, 1978, n.º 8 — notícias e correspondência da missão </a></u> <br><br>
 
 Contudo, a situação sofreu uma alteração decisiva pouco depois.
 
-
 A documentação histórica registra que, a partir de **25 de fevereiro de 1979**, o Vigário-Geral **Bronisław Wojdyła deixou de estar em comunhão com a PNCC dos Estados Unidos e Canadá e com a Igreja Polaco-Católica da Polónia**.
 
-
 <u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/2008/Rodzina_2008_11.pdf" target="_blank" rel="noopener noreferrer">
-Rodzina, novembro de 2008 — situação da missão a partir de 25 de fevereiro de 1979
-</a></u>
-<br><br>
+Rodzina, novembro de 2008 — situação da missão a partir de 25 de fevereiro de 1979 </a></u> <br><br>
 
+Este facto constitui o principal ponto de transição na estrutura administrativa criada em 1975. A missão brasileira deixou de funcionar sob a mesma estrutura regular da PNCC que a tinha caracterizado entre 1975 e 1978, iniciando-se uma nova fase da presença polaco-católica no Brasil. <br><br>
 
-Este facto constitui o principal ponto de rutura na estrutura administrativa criada em 1975. A partir daqui, a documentação pública conhecida deixa de apresentar uma missão brasileira organizada da PNCC com a mesma clareza institucional observada entre 1975 e 1978.
-<br><br>
+#### Janeiro de 1979 — Bronisław Wojdyła e uma nova estrutura em Chicago
 
+Um dado recentemente localizado ajuda a compreender melhor o contexto desta reorganização.
 
+Uma base de dados de registos empresariais do Estado do Illinois identifica uma entidade denominada **Polish Catholic Church**, registada em Chicago em **19 de janeiro de 1979**, como organização religiosa <em>Not-for-Profit</em>, sob o número estadual **51649931**.
 
+O registo identifica como agente **Bronislaw L. Wojdyla**, no endereço **1317 N. Ashland Ave., Chicago, Illinois**.
 
-#### 1981 — Os últimos documentos conhecidos da estrutura de Barão de Cotegipe
+<u><a href="https://bizstanding.com/directory/IL/PO/165/" target="_blank" rel="noopener noreferrer">
+Registo — Polish Catholic Church, Illinois, 19 de janeiro de 1979 </a></u> <br><br>
 
+A data é historicamente relevante porque antecede em pouco mais de um mês o dia **25 de fevereiro de 1979**, indicado pela documentação de Wiktor Wysoczański como o momento em que Wojdyła deixou de estar em comunhão com a PNCC e com a Igreja Polaco-Católica da Polónia.
 
-Apesar da crise iniciada em 1979, a comunidade de Barão de Cotegipe não desapareceu imediatamente.
+A existência desta estrutura em Chicago mostra que a atividade eclesial de Wojdyła não terminou com a rutura de 1979. Pelo contrário, desenvolveu-se num novo enquadramento institucional, facto que ajuda a compreender referências brasileiras posteriores que continuaram a associar a administração da comunidade polaco-católica de Barão de Cotegipe ao seu nome. <br><br>
 
+#### 1979–1981 — Continuidade da comunidade de Barão de Cotegipe
+
+A mudança de enquadramento institucional não significou o desaparecimento imediato da comunidade brasileira.
 
 Na edição de **10 de março de 1981** do jornal polono-brasileiro <em>LUD</em>, a relação de assinantes e pagamentos inclui expressamente a **"Igreja Católica Polonesa — Barão de Cotegipe"**, juntamente com diversos habitantes da localidade.
 
-
 <u><a href="https://pbc.uw.edu.pl/id/eprint/11814/1/Lud_1981_09.pdf" target="_blank" rel="noopener noreferrer">
-LUD, 10 de março de 1981 — referência à Igreja Católica Polonesa de Barão de Cotegipe
-</a></u>
-<br><br>
+LUD, 10 de março de 1981 — referência à Igreja Católica Polonesa de Barão de Cotegipe </a></u> <br><br>
 
+Existe ainda uma fonte brasileira praticamente contemporânea que permite conhecer melhor a situação eclesial da comunidade neste período.
 
-Os dados da pessoa jurídica **Igreja Católica Polonesa no Brasil**, CNPJ 88.485.909/0001-28, indicam posteriormente a sua baixa em **18 de novembro de 1981**, tendo como motivo de registo:
+O historiador **Antônio Ducatti Neto**, na obra <em>O Grande Erechim e sua História</em>, publicada pela **EST Edições em 1981**, descreve a presença da Igreja Antiga Católica em Barão de Cotegipe e a sua relação com a comunidade polaca local.
 
+A obra, que dedica atenção à história religiosa da região, é uma fonte particularmente valiosa por ter sido publicada no próprio período em que estas transformações estavam a ocorrer.
+
+<u><a href="https://www.esteditora.com.br/GrandeErechimesuaHistoria" target="_blank" rel="noopener noreferrer">
+EST Edições — Antônio Ducatti Neto, O Grande Erechim e sua História, 1981 </a></u> <br><br>
+
+Uma transcrição posteriormente publicada do trecho referente a Barão de Cotegipe recorda os sacerdotes **Martim Kuszel, Jerzy Szotmiller, Jan Simajchel e Czesław Polak** e descreve a Igreja Antiga Católica como uma presença religiosa estabelecida na localidade.
+
+Mais significativamente, o texto atribui naquele momento a parte **administrativa e económica da Igreja no Brasil a Bronisław Wojdyła**, a partir do Centro da Igreja Católica Polonesa sediado em Chicago.
+
+<u><a href="https://baraodecotegipe.blogspot.com/2010/01/historia-de-barao-do-cotegipe.html" target="_blank" rel="noopener noreferrer">
+Transcrição histórica — Antônio Ducatti Neto, O Grande Erechim e sua História </a></u> <br><br>
+
+A fonte é importante porque permite seguir a comunidade para além da rutura formal com a PNCC: no início da década de 1980, Barão de Cotegipe continuava a ser reconhecida localmente como uma comunidade polaco-católica, enquanto a administração era associada à estrutura de Wojdyła em Chicago. <br><br>
+
+#### Novembro de 1981 — Reorganização civil da estrutura de Barão de Cotegipe
+
+Os dados da pessoa jurídica **Igreja Católica Polonesa no Brasil**, CNPJ **88.485.909/0001-28**, indicam a sua baixa em **18 de novembro de 1981**, tendo como motivo de registo:
 
 <em>"Extinção por Encerramento — Liquidação Voluntária".</em>
 
-
 <u><a href="https://www.econodata.com.br/consulta-empresa/88485909000128-igreja-catolica-polonesa-no-brasil" target="_blank" rel="noopener noreferrer">
-Dados da antiga Igreja Católica Polonesa no Brasil
-</a></u>
+Dados da antiga Igreja Católica Polonesa no Brasil </a></u> <br><br>
+
+Este ato encerrou a pessoa jurídica civil constituída em Barão de Cotegipe em 1976, mas deve ser compreendido dentro de uma história eclesial mais ampla.
+
+Os próprios documentos contemporâneos mostram que a vida religiosa da comunidade não se reduz à existência administrativa de uma determinada associação civil. A comunidade, os seus fiéis, o templo, a tradição polaca e a assistência pastoral continuaram a atravessar diferentes formas de organização ao longo da década seguinte. <br><br>
+
+#### A década de 1980 — Nossa Senhora do Monte Claro e a continuidade da comunidade polaca
+
+A continuidade da comunidade religiosa polaca de Barão de Cotegipe pode ser acompanhada também durante a década de 1980.
+
+O sacerdote polaco **Pe. Stanislaw Gogulski**, membro da **Sociedade de Cristo para os Emigrantes Polacos**, foi enviado como missionário ao Brasil em **1982**.
+
+Depois de trabalhar inicialmente em Ijuí, foi nomeado vigário paroquial da **Paróquia Nossa Senhora do Rosário de Barão de Cotegipe**, onde prestou assistência especial à comunidade polaca reunida na **Igreja Nossa Senhora do Monte Claro**.
+
+Permaneceu neste trabalho até **1986**, quando foi enviado para Rio Claro do Sul, no Paraná.
+
+<u><a href="https://www.jornalbomdia.com.br/noticia/726/falece-exparoco-de-carlos-gomes" target="_blank" rel="noopener noreferrer">
+Biografia do Pe. Stanislaw Gogulski — comunidade polaca de Nossa Senhora do Monte Claro </a></u> <br><br>
+
+Este testemunho confirma que a comunidade polaca de Barão de Cotegipe continuou a possuir vida religiosa organizada depois das alterações administrativas de 1979–1981.
+
+Nesta fase, a comunidade local de Monte Claro aparece integrada num novo contexto pastoral, demonstrando como a história iniciada pelas comunidades polacas nas décadas anteriores atravessou sucessivas reorganizações e formas de assistência eclesial.
+
+O percurso particular da comunidade de Barão de Cotegipe constitui, assim, uma das expressões da presença católica polaca no Brasil, mas não esgota a história mais ampla da tradição vétero-católica brasileira, que continuaria a desenvolver-se através de outras estruturas e reorganizações eclesiais. <br><br>
+
+#### Da década de 1980 à reorganização do início do século XXI
+
+As últimas décadas do século XX foram marcadas por importantes transformações no movimento vétero-católico brasileiro.
+
+A antiga presença polaca, as comunidades que dela nasceram, a sucessão episcopal conservada por diferentes ramos e as várias reorganizações eclesiais posteriores formaram o ambiente histórico no qual a tradição vétero-católica brasileira continuou a desenvolver-se.
+
+Neste processo é importante distinguir a história de uma determinada pessoa jurídica ou paróquia da história mais ampla de uma tradição eclesial.
+
+As estruturas civis podem ser alteradas, encerradas ou novamente constituídas, enquanto a identidade religiosa, a sucessão apostólica, a tradição litúrgica e a consciência de pertença eclesial podem continuar através de novas formas institucionais.
+
+É dentro desta história mais ampla que se compreende a posterior organização da **Igreja Apostólica Vétero Católica do Brasil Fidelitas**, sob o governo de **Dom Paulus Nunes**. <br><br>
+
+#### Fevereiro de 2001 — A estrutura assistencial ligada a Dom Paulus Nunes
+
+Um primeiro marco civil do novo período encontra-se em Curitiba.
+
+Em **5 de fevereiro de 2001** foi aberta a **Associação Assistencial Anjos de Deus**, CNPJ **04.266.775/0001-64**, sediada na **Rua Ariosvaldo Moreira, 276, Cajuru, Curitiba, Paraná**.
+
+O registo identifica **Paulo Roberto Nunes de Araujo — Dom Paulus Nunes — como Presidente**.
+
+<u><a href="https://cnpj.biz/04266775000164" target="_blank" rel="noopener noreferrer">
+Registo civil — Associação Assistencial Anjos de Deus, CNPJ 04.266.775/0001-64 </a></u> <br><br>
+
+A Associação Assistencial Anjos de Deus viria a ser publicamente apresentada pela própria Fidelitas como uma das suas obras sociais, integrando a atividade assistencial desenvolvida pela Igreja.
+
+<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/associacao-assistencial-anjos-de-de" target="_blank" rel="noopener noreferrer">
+Fidelitas — Associação Assistencial Anjos de Deus e trabalhos sociais </a></u> <br><br>
+
+A existência desta estrutura poucas semanas antes da organização formal da Fidelitas constitui um importante elemento da fase inicial da obra de Dom Paulus Nunes em Curitiba. <br><br>
+
+#### 20 de março de 2001 — A nova constituição religiosa da Fidelitas
+
+Segundo a história institucional publicada pela própria **Igreja Apostólica Vétero Católica do Brasil Fidelitas**, a Igreja foi organizada sob **nova constituição religiosa** por Sua Beatitude **Dom Paulus Nunes**, em **20 de março de 2001**.
+
+A mesma fonte declara expressamente que entre as motivações históricas desta organização se encontrava a tradição da **Igreja Vétero-Católica polaca**, juntamente com as tradições católicas históricas ligadas a Jerusalém.
+
+<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/fundador-da-igreja" target="_blank" rel="noopener noreferrer">
+Fidelitas — História e fundação da Igreja </a></u> <br><br>
+
+A expressão **"nova constituição religiosa"** é particularmente adequada para compreender esta etapa histórica.
+
+Não representa o início da tradição vétero-católica no Brasil, cuja presença se encontra documentada desde 1932, mas uma **nova configuração institucional dessa tradição no início do século XXI**, organizada sob o governo de Dom Paulus Nunes.
+
+A Fidelitas reconhece conscientemente a tradição vétero-católica polaca como parte das suas raízes históricas e eclesiais, inserindo a sua missão contemporânea numa história brasileira que atravessa diversas comunidades, estruturas e reorganizações desde a primeira metade do século XX. <br><br>
+
+#### 2001–2011 — Consolidação da nova etapa institucional
+
+A década seguinte correspondeu ao desenvolvimento e consolidação da estrutura eclesial organizada em torno de Dom Paulus Nunes.
+
+A atividade religiosa e assistencial desenvolvida em Curitiba encontrou expressão tanto na Igreja como nas obras sociais relacionadas com a **Associação Assistencial Anjos de Deus**.
+
+A própria Fidelitas situa a sua fundação eclesial em **20 de março de 2001**, distinguindo este momento da posterior formalização da pessoa jurídica especificamente denominada Igreja Apostólica Vétero Católica do Brasil - Fidelitas.
+
+Esta distinção é importante: a data de organização eclesial e a data de abertura de uma pessoa jurídica civil não são necessariamente idênticas, pois correspondem a planos diferentes da vida da Igreja. <br><br>
+
+#### 2011 — Registo civil da Igreja Apostólica Vétero Católica do Brasil Fidelitas
+
+Em **30 de maio de 2011** foi aberta a pessoa jurídica:
+
+<strong>Igreja Apostólica Vétero Católica do Brasil - Fidelitas</strong><br>
+CNPJ <strong>13.938.271/0001-34</strong>
+
+com sede em **Curitiba, Paraná**.
+
+O cadastro identifica a entidade juridicamente como **Organização Religiosa**, tendo como atividade principal as atividades de organizações religiosas ou filosóficas.
+
+O mesmo registo identifica **Paulo Roberto Nunes de Araujo** como **Presidente**, desde a data de abertura.
+
+A sede encontra-se na **Rua Ariosvaldo Moreira, 276, Cajuru, Curitiba**, endereço igualmente associado à estrutura assistencial criada em fevereiro de 2001.
+
+<u><a href="https://casadosdados.com.br/solucao/cnpj/igreja-apostolica-vetero-catolica-do-brasil-fidelitas-13938271000134" target="_blank" rel="noopener noreferrer">
+Registo civil — Igreja Apostólica Vétero Católica do Brasil - Fidelitas, CNPJ 13.938.271/0001-34 </a></u> <br><br>
+
+Os dados civis confirmam, portanto, a cronologia apresentada pela própria Fidelitas:
+
+<strong>5 de fevereiro de 2001</strong> — constituição da Associação Assistencial Anjos de Deus em Curitiba;<br> <strong>20 de março de 2001</strong> — organização da Fidelitas sob nova constituição religiosa;<br> <strong>30 de maio de 2011</strong> — abertura da pessoa jurídica especificamente denominada Igreja Apostólica Vétero Católica do Brasil - Fidelitas.
+
 <br><br>
 
-
-Esta baixa demonstra o encerramento da pessoa jurídica civil constituída em Barão de Cotegipe. Por si só, porém, um ato de registo civil não permite concluir qual foi o destino canónico de cada comunidade, dos seus fiéis, dos seus arquivos ou do património eclesiástico.
-
-
-Até ao presente, não foi localizado nos arquivos públicos consultados um decreto da PNCC que descreva detalhadamente a supressão canónica de toda a missão, nem um documento público que indique uma transferência integral da estrutura brasileira para outra jurisdição. Esta fase continua, por isso, a merecer investigação arquivística.
-<br><br>
-
-
-
-
-#### Da década de 1980 ao presente
-
-
-A partir de 1981, a documentação pública conhecida deixa de apresentar a antiga missão brasileira como uma jurisdição ativa da Polish National Catholic Church.
-
-
-Na atualidade, as páginas institucionais da PNCC não apresentam uma diocese ou missão brasileira entre as suas estruturas publicamente identificadas.
-
-
-<u><a href="https://pncc.org/locations/" target="_blank" rel="noopener noreferrer">
-Polish National Catholic Church — página oficial de localidades e comunidades
-</a></u>
-<br><br>
-
-
-Isto não apaga a história anterior. Pelo contrário, os documentos de 1938 e de 1975–1978 permitem hoje afirmar com segurança que a PNCC teve uma presença institucional e pastoral real no Brasil, primeiro através da receção das cinco comunidades em 1938 e, posteriormente, através da missão formalmente reativada em 1975.
-
-
-A investigação histórica atualmente em desenvolvimento procura ainda reunir os documentos referentes ao período posterior a 1979, nomeadamente atas paroquiais, correspondência episcopal, registos de propriedade, documentação de liquidação da associação brasileira e eventuais atos de reorganização posteriores.
-<br><br>
-
-
-
+A evolução entre 2001 e 2011 representa a consolidação civil de uma realidade eclesial cuja fundação institucional é situada pela própria Igreja dez anos antes. <br><br>
 
 ### A Fidelitas e a herança da tradição vétero-católica polaca no Brasil
 
-
 A <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf" target="_blank" rel="noopener noreferrer">Igreja Apostólica Vétero Católica do Brasil Fidelitas</a></u> insere-se conscientemente na tradição vétero-católica histórica presente no Brasil e reconhece na antiga presença polaca uma das raízes da sua identidade eclesial.
 
+Esta tradição possui uma história brasileira documentada ao longo de várias fases.
 
-Segundo a história institucional publicada pela própria Fidelitas, a Igreja foi organizada sob **nova constituição religiosa** por Sua Beatitude **Dom Paulus Nunes**, em **20 de março de 2001**, tendo sido posteriormente registada em Curitiba. A mesma fonte identifica expressamente entre as motivações da sua fundação a tradição da **Igreja Vétero-Católica polaca**.
+Começou com a missão de **Teophilo Bartnicki em 1932**, inicialmente ligada à estrutura episcopal de **Władysław Faron**; passou pela receção formal de cinco comunidades brasileiras pela **Polish National Catholic Church em 1938**; sobreviveu durante décadas em **Floresta/Barão de Cotegipe**; e recebeu nova organização missionária sob a PNCC a partir de **1975**.
 
+Entre 1975 e 1978 existiu no Brasil uma estrutura missionária plenamente organizada, dotada de Vigário-Geral, sacerdotes missionários, paróquias, pessoa jurídica, património eclesiástico, formação de clero e supervisão episcopal.
 
-<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/fundador-da-igreja" target="_blank" rel="noopener noreferrer">
-Fidelitas — História e fundação da Igreja
-</a></u>
+A partir de **1979**, com a separação de Bronisław Wojdyła da PNCC, essa história entrou numa nova fase. A documentação localizada mostra a existência de uma **Polish Catholic Church em Chicago ligada a Wojdyła**, enquanto fontes brasileiras de 1981 continuavam a associá-lo à administração da comunidade de Barão de Cotegipe.
+
+A antiga pessoa jurídica brasileira foi encerrada civilmente em novembro de 1981, mas a comunidade religiosa polaca de Barão continuou a existir durante a década seguinte, nomeadamente em torno da Igreja de **Nossa Senhora do Monte Claro**.
+
+Estas transformações mostram que a tradição eclesial não ficou limitada a uma única forma civil ou administrativa. Ao longo do século XX, atravessou diferentes fases institucionais, comunidades locais e formas de organização.
+
+No início do século XXI, esta herança recebeu uma nova expressão institucional através da **Igreja Apostólica Vétero Católica do Brasil Fidelitas**.
+
+A própria história institucional da Fidelitas situa a sua organização sob **nova constituição religiosa em 20 de março de 2001**, sob o governo de Sua Beatitude **Dom Paulus Nunes**, e identifica expressamente a tradição da **Igreja Vétero-Católica polaca** como uma das motivações e raízes históricas da sua fundação.
+
+Esta nova constituição deve ser compreendida no quadro da própria eclesiologia vétero-católica: as Igrejas locais e as suas estruturas podem atravessar reorganizações administrativas e civis sem que a tradição sacramental, espiritual e eclesial que lhes dá origem seja reduzida à existência de uma única pessoa jurídica.
+
+A Fidelitas assume assim a **herança histórica, espiritual e eclesial da tradição vétero-católica polaca no Brasil**, preservando-a numa estrutura contemporânea própria e dando-lhe continuidade pastoral no Brasil e no exterior.
+
+A consolidação desta nova etapa encontra também confirmação nos registos civis: a obra assistencial ligada a Dom Paulus Nunes encontra-se documentada desde fevereiro de **2001**, e a pessoa jurídica especificamente denominada **Igreja Apostólica Vétero Católica do Brasil - Fidelitas** foi aberta em Curitiba em **30 de maio de 2011**.
+
+A história pode, portanto, ser compreendida como uma sucessão de fases:
+
+<strong>1932</strong> — implantação da missão de origem polaca;<br> <strong>1938</strong> — receção formal de cinco paróquias pela PNCC;<br> <strong>1939–1975</strong> — sobrevivência da comunidade de Barão de Cotegipe;<br> <strong>1975</strong> — reativação formal da missão brasileira pela PNCC;<br> <strong>1975–1978</strong> — consolidação da estrutura missionária;<br> <strong>1979</strong> — reorganização em torno de Bronisław Wojdyła após a rutura com a PNCC;<br> <strong>1981</strong> — continuidade documentada da Igreja Católica Polonesa de Barão e reorganização da sua estrutura civil;<br> <strong>década de 1980</strong> — continuidade da comunidade polaca de Nossa Senhora do Monte Claro num novo enquadramento pastoral;<br> <strong>2001</strong> — nova constituição religiosa da Fidelitas sob Dom Paulus Nunes;<br> <strong>2011</strong> — consolidação civil através do registo da Igreja Apostólica Vétero Católica do Brasil - Fidelitas.
+
 <br><br>
 
+Vista neste conjunto, a história da Fidelitas não começa isoladamente em 2011 com um número de CNPJ. O registo civil de 2011 constitui apenas uma etapa jurídica de uma realidade eclesial que a própria Igreja situa institucionalmente em **2001** e que conscientemente recebe e preserva uma tradição vétero-católica presente no Brasil desde **1932**.
 
-À luz da documentação atualmente disponível, é útil distinguir duas realidades.
-
-
-Existe uma **continuidade histórica e eclesial da tradição vétero-católica polaca no Brasil**, documentada desde 1932 e particularmente clara na incorporação das cinco paróquias na PNCC em 1938, na sobrevivência da comunidade de Barão de Cotegipe e na reativação missionária de 1975.
-
-
-Por outro lado, permanece ainda em investigação a documentação do período **1981–2001** necessária para estabelecer, em termos estritamente jurídico-civis ou canónicos, se existiu e de que forma ocorreu uma transmissão formal entre a antiga pessoa jurídica da missão de Barão de Cotegipe e as estruturas eclesiais posteriores.
-
-
-Por rigor histórico, a Fidelitas apresenta nesta página a sua relação com aquela missão como **herança histórica, espiritual e eclesial da tradição vétero-católica polaca no Brasil**, enquanto prossegue a recolha de documentação capaz de esclarecer com maior precisão as reorganizações ocorridas nas últimas décadas do século XX.
-<br><br>
-
-
-Esta distinção não diminui o valor histórico da missão: permite, pelo contrário, separar aquilo que já se encontra comprovado documentalmente daquilo que continua a ser objeto legítimo de investigação.
-<br><br>
+É nesta continuidade de fé, tradição, sucessão apostólica e identidade eclesial que a Fidelitas compreende a sua missão presente e a sua relação com a história do movimento vétero-católico brasileiro. <br><br>
 
 
 
@@ -778,6 +865,44 @@ Igreja Católica Polonesa no Brasil — CNPJ 88.485.909/0001-28; abertura em 197
 <strong>História oficial de Barão de Cotegipe:</strong>
 confirmação da antiga designação “Floresta” e evolução histórica da localidade.<br>
 <u><a href="https://baraodecotegipe.rs.gov.br/site/historia" target="_blank" rel="noopener noreferrer">Prefeitura Municipal de Barão de Cotegipe</a></u>
+</li>
+
+<li>
+<strong>1979 — Polish Catholic Church, Chicago:</strong>
+registo de organização Not-for-Profit denominada Polish Catholic Church em 19 de janeiro de 1979, tendo Bronisław Wojdyła como agente e o número estadual 51649931.<br>
+<u><a href="https://bizstanding.com/directory/IL/PO/165/" target="_blank" rel="noopener noreferrer">Consultar dados de registo</a></u>
+</li>
+
+<li>
+<strong>1981 — Antônio Ducatti Neto, O Grande Erechim e sua História:</strong>
+obra regional publicada pela EST Edições que documenta a história religiosa de Barão de Cotegipe e a presença da Igreja Antiga Católica na comunidade polaca.<br>
+<u><a href="https://www.esteditora.com.br/GrandeErechimesuaHistoria" target="_blank" rel="noopener noreferrer">Registo bibliográfico — EST Edições</a></u><br>
+<u><a href="https://baraodecotegipe.blogspot.com/2010/01/historia-de-barao-do-cotegipe.html" target="_blank" rel="noopener noreferrer">Consultar transcrição do trecho referente a Barão de Cotegipe</a></u>
+</li>
+
+<li>
+<strong>Década de 1980 — comunidade polaca de Nossa Senhora do Monte Claro:</strong>
+biografia do Pe. Stanislaw Gogulski, enviado ao Brasil em 1982 e posteriormente vigário em Barão de Cotegipe, onde prestou assistência especial à comunidade polaca de Nossa Senhora do Monte Claro.<br>
+<u><a href="https://www.jornalbomdia.com.br/noticia/726/falece-exparoco-de-carlos-gomes" target="_blank" rel="noopener noreferrer">Consultar fonte</a></u>
+</li>
+
+<li>
+<strong>2001 — Associação Assistencial Anjos de Deus:</strong>
+associação aberta em Curitiba em 5 de fevereiro de 2001, presidida por Paulo Roberto Nunes de Araujo e posteriormente apresentada pela Fidelitas como parte da sua obra assistencial.<br>
+<u><a href="https://cnpj.biz/04266775000164" target="_blank" rel="noopener noreferrer">Consultar dados de registo — CNPJ 04.266.775/0001-64</a></u><br>
+<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/associacao-assistencial-anjos-de-de" target="_blank" rel="noopener noreferrer">Fidelitas — Associação Assistencial Anjos de Deus</a></u>
+</li>
+
+<li>
+<strong>2001 — Nova constituição religiosa da Fidelitas:</strong>
+história institucional publicada pela própria Igreja, situando a fundação sob nova constituição religiosa em 20 de março de 2001, sob Dom Paulus Nunes, e identificando a tradição vétero-católica polaca entre as suas raízes históricas.<br>
+<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/fundador-da-igreja" target="_blank" rel="noopener noreferrer">Fidelitas — História e fundação da Igreja</a></u>
+</li>
+
+<li>
+<strong>2011 — Registo civil da Fidelitas:</strong>
+Igreja Apostólica Vétero Católica do Brasil - Fidelitas, CNPJ 13.938.271/0001-34; organização religiosa aberta em Curitiba em 30 de maio de 2011, presidida por Paulo Roberto Nunes de Araujo.<br>
+<u><a href="https://casadosdados.com.br/solucao/cnpj/igreja-apostolica-vetero-catolica-do-brasil-fidelitas-13938271000134" target="_blank" rel="noopener noreferrer">Consultar dados de registo</a></u>
 </li>
 
 
