@@ -495,8 +495,6 @@ Sucede a Dom Paulo Pereira como Arcebispo Primaz; posteriormente passa a exercer
 
 Esta é uma **linhagem de governo e jurisdição eclesial**. Não deve ser confundida com a genealogia sacramental das sagrações episcopais, que inclui outros bispos e outras linhas de sucessão apostólica.
 
-O grau de documentação pública não é idêntico em todos os períodos: para Bartnicki existem documentos contemporâneos de nomeação e jurisdição; para Perkowski existe confirmação histórica externa da continuidade da missão; para os governos posteriores a 1963 a sequência encontra-se conservada sobretudo pela documentação e memória eclesial publicada, sendo progressivamente acompanhada por registos civis e testemunhos contemporâneos.
-
 <br><br>
 
 
