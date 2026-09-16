@@ -1044,19 +1044,8 @@ História oficial — PNCC, Declaração e União de Scranton
 <br><br>
 
 
-A Nordic Catholic Church não deve, portanto, ser descrita simplesmente como uma antiga Igreja da União de Utrecht que dela se separou juntamente com a PNCC. A sua formação histórica foi distinta e a sua plena comunhão com a PNCC tornou-se constitutiva da União de Scranton em 2011.
-
-
-Atualmente, o site oficial da União de Scranton identifica como Igrejas membros:
-
-
-<strong>• Polish National Catholic Church (PNCC);</strong><br>
-<strong>• Nordic Catholic Church.</strong>
-<br><br>
-
-
 A Fidelitas <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf" target="_blank" rel="noopener noreferrer">
-informa</a></u> publicamente encontrar-se num processo de aproximação e reconhecimento em relação à União de Scranton e declara aguardar a correspondente documentação de aceitação.
+informa</a></u> publicamente encontrar-se num processo de reaproximação e reconhecimento pela União de Scranton e declara aguardar a correspondente documentação de aceitação.
 
 
 <br><br>
