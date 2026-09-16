@@ -100,7 +100,7 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 
 A nossa posição pode ser resumida do seguinte modo:
 
-1. **Origem canónica:** a missão brasileira de 1932 foi estabelecida dentro da tradição vétero-católica polonesa quando esta se encontrava ligada à PNCC e à comunhão de Utrecht.
+1. **Origem canónica:** a missão brasileira de 1938 foi recebida dentro da tradição vétero-católica polonesa da PNCC e à comunhão de Utrecht.
 2. **Continuidade:** não se identifica ato canónico que tenha extinguido essa realidade eclesial; a Fidelitas é a sua continuação e reorganização histórica, como também reconhecem estudos académicos e estruturas brasileiras que dela procederam.
 3. **Jurisdição portuguesa:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um mandato ordinário para exercer em Portugal o governo episcopal e a missão pastoral.
 4. **Ordem sacramental:** os seus bispos e clérigos possuem <u>[sucessão apostólica válida](/sucessao.html)</u> integrada numa Igreja real e governada sinodalmente.
