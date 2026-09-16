@@ -46,7 +46,7 @@ Esta União foi fundada em 2008 pela Polish National Catholic Church (PNCC) e pe
 O Patriarca dos **Fidelitas do Brasil e Exterior** é Sua Beatitude <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, guardião da sucessão apostólica e da integridade doutrinária. <br><br><br><br>
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição donde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais da Igreja Vétero-Católica de Jerusalém** está disponível [aqui](/canonicidade.html). <br>
+Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição donde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais da Igreja Vétero-Católica de Jerusalém** está disponível <u>[aqui](/canonicidade.html)</u>. <br>
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
 
