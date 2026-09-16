@@ -7,6 +7,8 @@ A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradi�
 
 A nossa posição não se funda na ideia de que uma mera sucessão episcopal, isoladamente considerada, seja suficiente para constituir uma Igreja, nem depende de uma futura receção pela União de Scranton. Fundamenta-se na continuidade de uma realidade eclesial dotada de episcopado, clero, fiéis, vida sacramental e governo próprio, posteriormente reorganizada sob a forma da **Fidelitas do Brasil e Exterior**.
 
+<br>
+
 
 ## 1. O princípio eclesiológico de Utrecht
 
@@ -28,6 +30,9 @@ A comunhão confirma, ordena e manifesta a catolicidade das Igrejas; não cria *
 
 É segundo este princípio que deve ser compreendida também a história da jurisdição brasileira da qual procedemos.
 
+<br>
+
+
 
 ## 2. Da missão vétero-católica de 1932 à Fidelitas
 
@@ -48,6 +53,9 @@ A história posterior confirma, aliás, que desta mesma realidade brasileira pro
 
 
 A questão canónica deve ser apreciada segundo critérios propriamente eclesiais: continuidade do episcopado, presença de clero e fiéis, conservação da fé e dos sacramentos, governo sinodal, legitimidade das eleições episcopais e existência ou não de um ato canónico capaz de extinguir ou interromper a jurisdição anteriormente existente.
+
+<br>
+
 
 
 ## 3. Autogoverno da Fidelitas e eleição do seu Primaz
@@ -72,6 +80,9 @@ Deve ainda distinguir-se entre a legitimidade do **governo primacial interno** e
 
 
 Do mesmo modo, não sustentamos que a missão original de 1932 tenha recebido desde a sua fundação todas as prerrogativas de uma Igreja patriarcal. A nossa tese é outra: uma realidade inicialmente missionária desenvolveu-se historicamente, adquiriu estruturas episcopais e sinodais próprias e, perante a ausência prolongada de uma autoridade supralocal efetivamente exercida sobre ela, passou a prover ao governo necessário à continuidade da sua própria vida eclesial.
+
+<br>
+
 
 
 ## 4. Jurisdição portuguesa e legitimidade sacramental
@@ -103,6 +114,9 @@ A distinção entre **poder de Ordem, poder de governo e faculdade para o exerc�
 
 Por essa razão, a Igreja não sustenta que a simples posse de uma linhagem episcopal seja suficiente para constituir uma jurisdição. A sucessão apostólica encontra-se, no nosso caso, integrada numa realidade eclesial concreta, com episcopado, autoridade, mandato, clero, fiéis, culto, disciplina e governo próprios.
 
+<br>
+
+
 
 ## 5. A ruptura da comunhão com Utrecht e a continuidade da tradição ultrajectina
 
@@ -120,6 +134,9 @@ A existência de uma ruptura de comunhão não determina, por si só, qual das p
 
 
 A Fidelitas compreende a sua própria história nesta perspetiva: não reivindica o direito arbitrário de criar uma nova fé ou uma nova Igreja, mas a continuidade de uma realidade eclesial que, perante alterações consideradas incompatíveis com a tradição recebida, preservou o episcopado, os sacramentos, a disciplina e o governo próprio.
+
+<br>
+
 
 
 ## 6. A União de Scranton e o reconhecimento da comunhão
@@ -142,6 +159,9 @@ A eventual integração em Scranton deverá ser entendida como **reconhecimento 
 
 Por isso, a ausência de documentação de aceitação por Scranton não deve ser confundida com uma declaração de inexistência eclesial, invalidade sacramental ou condenação por cisma.
 
+<br>
+
+
 
 ## 7. O precedente PNCC–Roma
 
@@ -162,6 +182,9 @@ Demonstra igualmente que divergências graves de jurisdição e de eclesiologia 
 
 
 Por consequência, a controvérsia histórica entre Roma e a tradição de Utrecht deve ser distinguida da questão da validade sacramental e da existência objetiva de uma Igreja dotada de sucessão apostólica e vida eclesial própria.
+
+<br>
+
 
 
 
@@ -195,6 +218,9 @@ A aplicação desta doutrina em contextos de necessidade e de crise eclesial enc
 
 Funcionam, antes, como garantia extraordinária em situações concretas de dúvida, necessidade ou deficiência de faculdade, segundo uma lógica também tradicionalmente invocada no ambiente vétero-romano.
 
+<br>
+
+
 
 ## 9. Ordem do argumento canónico
 
@@ -218,6 +244,9 @@ A ordem da nossa posição é, portanto, a seguinte:
 
 
 e **somente em último lugar**, perante dúvidas ou necessidades concretas relativas a determinadas faculdades, pode ser invocado subsidiariamente o princípio tradicional da jurisdição suprida.
+
+<br>
+
 
 
 A **Igreja Vétero-Católica de Jerusalém** afirma, por isso, a sua identidade sem ambiguidade: **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e canonicamente constituída segundo a autoridade e a tradição eclesial de que procede**. <br><br><br><br>
