@@ -50,15 +50,17 @@ Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Do
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
 
-A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos: 
+A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos essenciais: 
 
-(1) considera-se herdeira legítima da tradição vétero-católica de Utrecht através da União de Scranton, realidade que entende estar ligada à sua própria história e continuidade eclesial no Brasil, sendo que essa ligação é hoje reforçada pelo pedido recente de admissão à União de Scranton e reunificação com a PNCC, ainda pendente de decisão;
+<br> 
 
-(2) entende que Utrecht conservou jurisdição própria, por considerar canonicamente inválida ou abusiva a suspensão de Petrus Codde, e que a PNCC/União de Scranton é herdeira legítima dessa tradição; 
+(1) Assenta a sua existência na continuidade orgânica e ininterrupta da missão polaca no Brasil (iniciada em 1932), declarando-se herdeira legítima desta tradição vétero-católica sem que tenha ocorrido qualquer ato de cisma. Esta afinidade histórica, que sobreviveu à perda de contacto ditada pelos tempos, procura agora a sua natural formalização através do processo de reunificação em curso com a União de Scranton (PNCC), atualmente pendente de decisão;
 
-(3) encontra apoio indireto no caso da PNCC, cuja sucessão apostólica e sacramentos são reconhecidos no diálogo com Roma, particularmente nos <a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman">acordos assinados em conjunto</a>, que abriu a possibilidade, em determinadas condições, de receção recíproca da Penitência, Eucaristia e Unção dos Enfermos, bem como nas posteriores declarações conjuntas, que reafirma o reconhecimento mútuo da validade sacramental, mostrando que uma Igreja vétero-católica separada pode possuir verdadeira vida sacramental e jurisdição eclesial própria; 
+(2) Reafirma o princípio histórico de que a Sé de Utrecht conservou a sua jurisdição própria perante a suspensão canonicamente abusiva do Arcebispo Petrus Codde, considerando a PNCC e a União de Scranton as herdeiras legítimas, ortodoxas e fiéis dessa tradição, sobretudo após os desvios progressistas da União de Utrecht original;
 
-(4) subsidiariamente, poderia invocar-se jurisdição suprida em casos de dúvida ou necessidade dada a evidente crise e estado de necessidade na igreja católica causado pelo modernismo, sobretudo tendo em conta a ortodoxia e o tradicionalismo doutrinal que esta jurisdição conserva, (questão analisada em profundidade neste <a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">estudo</a>), embora esse argumento seja secundário, pois consideramos possuir jurisdição ordinária interna, com bispo, clero, fiéis e estrutura canónica própria. 
+(3) Encontra validação canónica indireta nos <u><a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman">acordos oficiais entre a Santa Sé e a PNCC</a></u>. Nestes diálogos, Roma não se limitou a reconhecer a validade do poder de Ordem (sucessão apostólica), mas abriu a possibilidade de receção recíproca do sacramento da Penitência. Uma vez que a validade da absolvição exige estritamente poder de jurisdição, este reconhecimento atesta que uma Igreja inserida nesta matriz vétero-católica possui uma verdadeira e lícita jurisdição eclesial própria;
+
+(4) Subsidiariamente, e em total coerência com a sua matriz teológica Vétero-Romana, invoca o princípio da jurisdição suprida motivada pelo prolongado estado de necessidade (princípio analisado em profundidade <u><a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">neste estudo</a></u>). Reconhecendo o primado histórico da Sé de Roma, mas rejeitando as inovações dogmáticas (Vaticano I) e o agravamento do modernismo (Vaticano II), a Igreja entende que o imperativo da salvação das almas (salus animarum) e a salvaguarda do depósito da Fé tradicional conferem-lhe plena legitimidade para exercer a sua jurisdição ordinária interna, operando hoje de forma canonicamente estruturada e autónoma com o seu próprio bispo, clero e fiéis.
 
 <br>
 
