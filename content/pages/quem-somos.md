@@ -986,7 +986,7 @@ A documentação institucional descreve uma estrutura composta pelo **Patriarca*
 
 Esta organização permite distinguir o **Governo Patriarcal**, de âmbito geral na comunhão Fidelitas, da **Primazia nacional** e do governo próprio das diferentes circunscrições.
 
-A memória institucional da Conferência regista a participação de hierarcas provenientes do **Brasil, Portugal, Colômbia, Argentina e Itália**, entre eles **Dom Carlos Santiago**, **Dom Jaime Jaramillo**, **Dom Hector Anibal** e **Dom Fausto Salvatore Felice**, além de Bispos brasileiros.
+A memória institucional da Conferência regista a participação de hierarcas provenientes do **Brasil, Portugal, Colômbia, Argentina e Itália**, entre eles **Dom Jaime Jaramillo**, **Dom Hector Anibal** e **Dom Fausto Salvatore Felice**, e outros.
 
 <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/ordena%C3%A7%C3%B5es-e-sagra%C3%A7%C3%A3o-do-patriarca" target="_blank" rel="noopener noreferrer">
 Fidelitas — documentação institucional sobre Dom Paulus Nunes e a Conferência Internacional de Xanxerê
