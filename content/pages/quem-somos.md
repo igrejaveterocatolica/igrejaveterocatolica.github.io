@@ -54,26 +54,67 @@ A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibili
 
 <br>
 
+## A Canonicidade da Igreja Vétero-Católica de Jerusalém
+
+A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, dotada de episcopado, clero, sucessão apostólica, governo e disciplina próprios. A sua legitimidade deriva da continuidade eclesial de que procede e do mandato canónico recebido da **Fidelitas do Brasil e Exterior**.
+
+### 1. Jurisdição e legitimidade sacramental
+
+A jurisdição portuguesa procede da **Fidelitas do Brasil e Exterior**, herdeira da tradição vétero-católica recebida no Brasil e depositária da sucessão apostólica transmitida à nossa Igreja. O mandato conferido à Igreja Vétero-Católica de Jerusalém constitui o título ordinário pelo qual exerce em Portugal o governo episcopal e a missão pastoral.
+
+Desta realidade eclesial decorre também a legitimidade da sua vida sacramental. A Igreja possui **episcopado em sucessão apostólica e clero validamente ordenado** e conserva a matéria, a forma e a intenção sacramentais recebidas pela tradição católica.
+
+Assim, administra os **sete sacramentos da Igreja**:
+
+* o **Batismo**, segundo a forma trinitária recebida pela Igreja;
+* a **Confirmação**, pela autoridade episcopal e pelos ministros legitimamente autorizados;
+* a **Eucaristia**, celebrada por sacerdotes validamente ordenados;
+* a **Penitência**, por sacerdotes que recebem da autoridade episcopal competente a faculdade de absolver;
+* a **Unção dos Enfermos**, administrada pelo sacerdócio válido;
+* a **Ordem**, transmitida por bispos na sucessão apostólica;
+* e o **Matrimónio**, celebrado segundo a fé e a disciplina canónica da própria Igreja.
+
+A distinção entre **poder de Ordem** e **faculdade para o seu exercício** pertence à própria tradição canónica católica. A nossa Igreja não sustenta, portanto, que a simples posse de uma linhagem episcopal seja suficiente para constituir uma Igreja: a sucessão apostólica encontra-se integrada numa verdadeira estrutura eclesial, com autoridade episcopal, mandato, clero, fiéis e disciplina própria.
+
+### 2. Continuidade de Utrecht e regularização junto da União de Scranton
+
+A Igreja Vétero-Católica de Jerusalém insere-se conscientemente na tradição eclesiológica de **Utrecht**. Reconhece o princípio histórico de uma Igreja local governada pelo seu episcopado segundo a fé católica recebida, sem aceitar as inovações do Concílio Vaticano I.
+
+Na evolução posterior do movimento vétero-católico, consideramos a **PNCC e a União de Scranton** a continuação legítima da tradição católica e ultrajectina de Utrecht, particularmente depois do afastamento da PNCC da União de Utrecht em consequência das divergências doutrinais e disciplinares surgidas no seu interior.
+
+É por esta razão que a **Fidelitas do Brasil e Exterior procura a sua regularização e plena integração na União de Scranton**. Esse processo encontra-se pendente.
+
+A receção por Scranton representará o restabelecimento formal da plena comunhão com a família eclesial da qual reconhecemos proceder histórica e sacramentalmente.
+
+### 3. O precedente da PNCC e o reconhecimento romano
+
+A relação entre a **Polish National Catholic Church** e a Santa Sé constitui uma confirmação particularmente relevante desta posição.
+
+Nos [diálogos oficiais entre a PNCC e a Igreja Católica Romana](https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman), foi reconhecido o caráter eclesial e sacramental da PNCC e foram estabelecidas condições de participação recíproca em determinados sacramentos.
+
+Este precedente demonstra que **a separação da jurisdição romana não destrói, por si mesma, a realidade sacramental de uma Igreja católica dotada de sucessão apostólica, episcopado e vida eclesial própria**.
+
+Não reivindicamos os acordos PNCC–Roma como se já fossem juridicamente extensíveis à nossa Igreja. Invocamo-los pelo que efetivamente demonstram: que a tradição vétero-católica pode conservar verdadeira estrutura eclesial, sacramentos e ministério apostólico fora da jurisdição imediata da Sé Romana.
+
+### 4. Jurisdição suprida em caso de necessidade
+
+A autoridade ordinária da Igreja Vétero-Católica de Jerusalém deriva do **mandato recebido da sua jurisdição de origem**, e não da jurisdição suprida.
+
+Subsidiariamente, porém, se num caso concreto surgir dúvida ou deficiência acerca de determinada faculdade, reconhecemos o princípio tradicional de que **a salvação das almas não deve ser impedida por uma deficiência meramente jurisdicional quando existe verdadeira necessidade pastoral**. A aplicação deste princípio em contextos de necessidade e de crise eclesial encontra uma exposição desenvolvida [neste estudo sobre jurisdição suprida](https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452).
+
+É neste sentido que recebemos o princípio da *ecclesia supplet* e da *salus animarum*: não como fundamento da existência da Igreja ou da sua autoridade ordinária, mas como garantia subsidiária para situações extraordinárias de dúvida, necessidade ou deficiência de faculdade.
+
+A ordem lógica é, portanto, clara: **primeiro existe a Igreja, a sucessão apostólica e a autoridade episcopal; dessa autoridade procedem o mandato e as faculdades sacramentais; apenas subsidiariamente se recorre à jurisdição suprida quando alguma faculdade concreta possa ser legitimamente posta em dúvida.**
+
+A **Igreja Vétero-Católica de Jerusalém** afirma, por isso, a sua identidade sem ambiguidade: **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia e canonicamente constituída segundo a autoridade e a tradição eclesial de que procede**.
+
+<br>
+
 ## Disciplina e Prática Pastoral
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
 
 * **Celibato opcional** para os clérigos, reconhecendo que o celibato permanece uma prática virtuosa e uma fonte de graça para os sacerdotes que livremente o abraçam.
-* **Comunhão para divorciados recasados**, mediante discernimento pastoral aos casais que apresentem uma vida cristã madura e desejem receber o Sacramento. 
-
-<br>
-
-## A Canonicidade da Igreja Vétero Católica de Jerusalém
-
-A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos essenciais (entendendo aqui por canonicidade a legitimidade da sua constituição e do exercício da sua autoridade segundo a tradição e o ordenamento eclesial de que procede, e não a pretensão de ser atualmente uma circunscrição canónica da Igreja Católica Romana ou uma Igreja já formalmente recebida na União de Scranton):
-
-(1) Assenta a sua existência na continuidade histórica, doutrinal, sacramental e sucessória da missão polaca estabelecida no Brasil em 1932, da qual a jurisdição **Fidelitas do Brasil e Exterior** se declara herdeira legítima. Esta continuidade não é apresentada como consequência automática da simples existência histórica daquela missão, mas como uma reivindicação de continuidade eclesial fundada na preservação da identidade católica, da tradição recebida e da sucessão apostólica, cuja demonstração concreta depende naturalmente da respetiva documentação histórica, sacramental e institucional. Segundo a compreensão que a própria jurisdição faz da sua história, não ocorreu um ato formal destinado a constituir uma nova confissão religiosa ou a romper deliberadamente com a tradição eclesial recebida, mas uma interrupção dos vínculos administrativos e institucionais em consequência das circunstâncias históricas subsequentes. A atual aproximação à União de Scranton não é invocada como fonte presente de jurisdição nem como se a admissão já tivesse ocorrido: constitui antes uma tentativa de formalizar institucionalmente essa identidade eclesial mediante um processo de reconhecimento e integração ainda pendente, encontrando-se a jurisdição brasileira, segundo informação pública da própria **Fidelitas**, a aguardar decisão e documentação formal de aceitação;
-
-(2) Insere-se na matriz eclesiológica histórica de Utrecht, sem pretender, contudo, que os antigos privilégios territoriais ou capitulares da Sé de Utrecht tenham sido juridicamente transferidos para o Brasil ou para Portugal. A referência a Utrecht possui natureza histórica e eclesiológica: recorda o princípio de que uma Igreja local pode possuir direitos próprios, estruturas sinodais e uma legítima consciência da sua continuidade institucional. Nesta perspetiva ultrajectina, a legitimidade das medidas tomadas por Roma contra o Arcebispo Petrus Codde foi contestada pelo clero e pelo Capítulo de Utrecht, que interpretaram a eleição e posterior consagração dos seus sucessores não como fundação de uma nova Igreja, mas como preservação da continuidade de uma Igreja local e dos direitos que entendiam possuir. A **Igreja Vétero-Católica de Jerusalém em Portugal** recebe esta tradição como matriz eclesiológica e reconhece atualmente na PNCC e na União de Scranton uma expressão contemporânea da corrente vétero-católica de orientação tradicional, distinguindo-a da evolução doutrinal e disciplinar seguida posteriormente por outras Igrejas da União de Utrecht. Utrecht constitui, portanto, um precedente histórico e eclesiológico, e não o título jurídico imediato da jurisdição exercida atualmente em Portugal;
-
-(3) Encontra um importante precedente eclesiológico e sacramental nos [acordos oficiais entre a Santa Sé e a PNCC](https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman). Nestes diálogos, Roma reconheceu a realidade sacramental e a validade das Ordens da PNCC e estabeleceu condições em que determinados sacramentos podem ser recebidos por fiéis das duas Igrejas, incluindo o sacramento da Penitência. Este facto possui particular relevância porque a absolvição sacramental pressupõe, para além da válida ordenação sacerdotal, a faculdade necessária para o seu exercício. A **Igreja Vétero-Católica de Jerusalém em Portugal** não sustenta, porém, que estes acordos se lhe apliquem automaticamente por analogia, nem que a mera posse de uma sucessão apostólica de origem vétero-católica produza os mesmos efeitos jurídicos. O seu valor para a presente argumentação é antes o de precedente: demonstra que a ausência de plena comunhão com Roma não impede, por si só, o reconhecimento de verdadeira realidade sacramental e de autoridade eclesial própria numa Igreja desta tradição. É igualmente relevante que a Nordic Catholic Church, constituída posteriormente como Igreja autónoma em plena comunhão com a PNCC no âmbito da União de Scranton, se considere abrangida pelo relacionamento sacramental desenvolvido a partir do diálogo PNCC–Roma. Tal precedente não constitui uma «franquia» de reconhecimento para jurisdições externas à União, mas evidencia que esse reconhecimento não deve ser entendido exclusivamente em função de uma genealogia sacramental abstrata, estando ligado à integração eclesial concreta. Consequentemente, enquanto a **Fidelitas** não for formalmente recebida na União de Scranton e enquanto não existir reconhecimento competente aplicável à sua situação, os acordos Roma–PNCC são invocados apenas como precedente material e eclesiológico, e não como reconhecimento jurídico já adquirido;
-
-(4) Subsidiariamente, e em coerência com a sua matriz teológica Vétero-Romana, invoca também o princípio tradicional da jurisdição suprida em situações de necessidade, cuja aplicação no contexto tradicionalista é analisada em profundidade [neste estudo](https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452). A Igreja reconhece o primado histórico da Sé de Roma, mas rejeita as definições de jurisdição universal e infalibilidade formuladas pelo Concílio Vaticano I, bem como determinadas orientações doutrinais, litúrgicas e disciplinares desenvolvidas posteriormente e associadas ao Vaticano II (modernismo). Por essa razão, não invoca o instituto romano da *ecclesia supplet* como se estivesse juridicamente submetida ao Código de Direito Canónico de 1983, nem pretende utilizar o cânon 144 como fundamento constitutivo de uma jurisdição autónoma. A referência à jurisdição suprida é feita em sentido subsidiário e analógico, como expressão de um princípio canónico mais amplo segundo o qual uma deficiência concreta de faculdade não deve, em situações de necessidade, impedir injustamente o cuidado das almas. O título ordinário que a Igreja reivindica para o seu governo não deriva, portanto, da jurisdição suprida, mas da autoridade e do mandato recebidos segundo o ordenamento interno da jurisdição eclesial de origem. A invocação de *ecclesia supplet* destina-se apenas a situações concretas de dúvida ou deficiência de faculdade em matéria sacramental ou pastoral, tendo como princípio último a salvação das almas (*salus animarum*). A vida ordinária da Igreja assenta, por sua vez, numa estrutura eclesial própria, com autoridade episcopal, clero, fiéis e normas internas de governo, exercendo autonomamente a disciplina e a missão pastoral que entende ter recebido da sua jurisdição de origem. <br><br><br><br>
-
+* **Comunhão para divorciados recasados**, mediante discernimento pastoral aos casais que apresentem uma vida cristã madura e desejem receber o Sacramento. <br><br><br><br>
 
 ## Conclusão
 
