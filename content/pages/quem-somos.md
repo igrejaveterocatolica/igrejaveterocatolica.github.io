@@ -245,6 +245,8 @@ Rodzina, outubro de 2008 — sobrevivência da comunidade e correspondência de 
 
 #### 1975 — A PNCC decide reativar formalmente a missão brasileira
 
+<center><img src="img/pncc_mission_brazil.png" width=300px> <br> 
+Fonte: Czesław Kuliczkowsk - The Polish National Catholic Mission in Brazil: Update on the Current Situation, The Student Press Savonarola Theological Seminary of the Polish National Catholic Church, January–February 1977. <u><a href="https://www.savonarola.net/wp-content/uploads/2025/05/tsp-jan-feb-77.pdf">PDF</a></u> </center>
 
 Em **abril de 1975**, o então Primeiro Bispo da PNCC, **Tadeusz Zieliński**, enviou o Pe. **Bronisław Wojdyła**, de Chicago, ao Brasil para estudar diretamente as possibilidades de restauração da missão.
 
