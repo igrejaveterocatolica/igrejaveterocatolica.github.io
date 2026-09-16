@@ -600,8 +600,7 @@ Atualmente, o site oficial da União de Scranton identifica como Igrejas membros
 
 
 A Fidelitas <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf" target="_blank" rel="noopener noreferrer">
-informa
-</a></u>publicamente encontrar-se num processo de aproximação e reconhecimento em relação à União de Scranton e declara aguardar a correspondente documentação de aceitação.
+informa</a></u> publicamente encontrar-se num processo de aproximação e reconhecimento em relação à União de Scranton e declara aguardar a correspondente documentação de aceitação.
 
 
 <br><br>
@@ -616,10 +615,6 @@ O Patriarca dos **Fidelitas do Brasil e Exterior** é Sua Beatitude <u><a href="
 
 
 A história da missão polaca, a relação histórica com a PNCC e a procura contemporânea de comunhão com outras Igrejas católicas de tradição vétero-católica são compreendidas pela Fidelitas como parte de uma mesma vocação: conservar a Fé Católica recebida, promover a vida sacramental e procurar a unidade visível entre Igrejas que partilham a fé e a ordem da Igreja antiga.
-<br><br>
-
-
-As questões relativas à **Sucessão Apostólica e às linhas episcopais** são apresentadas separadamente na página <u><a href="/sucessao.html"><strong>Sucessão Apostólica</strong></a></u>, enquanto a fundamentação jurídica e eclesiológica da jurisdição, da continuidade institucional e da canonicidade é desenvolvida de forma detalhada na página <u><a href="/canonicidade.html"><strong>Canonicidade</strong></a></u>. Esta separação permite distinguir com clareza a história institucional da missão, a jurisdição e a transmissão sacramental do episcopado, evitando que realidades distintas sejam confundidas entre si.
 
 
 <br><br><br><br>
