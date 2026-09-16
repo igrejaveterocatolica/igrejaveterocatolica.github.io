@@ -50,18 +50,6 @@ Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Do
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
 
-A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos essenciais: 
-
-(1) Assenta a sua existência na continuidade orgânica e ininterrupta da missão polaca no Brasil (iniciada em 1932), declarando-se herdeira legítima desta tradição vétero-católica. É fundamental sublinhar que, ao longo deste percurso, nunca existiu qualquer intenção cismática (mens rea). A perda de contacto administrativo foi inteiramente ditada pelas circunstâncias históricas, tendo a Igreja preservado intacto o depósito da fé sem qualquer ato de rutura formal. Esta afinidade histórica e continuidade natural procura agora a sua formalização institucional através do processo de reunificação em curso com a União de Scranton (PNCC), atualmente pendente de decisão;
-
-(2) Reafirma o princípio histórico de que a Sé de Utrecht conservou a sua jurisdição própria perante a suspensão canonicamente abusiva do Arcebispo Petrus Codde, considerando a PNCC e a União de Scranton as herdeiras legítimas, ortodoxas e fiéis dessa tradição, sobretudo após os desvios progressistas da União de Utrecht original;
-
-(3) Encontra validação canónica indireta nos <u><a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman">acordos oficiais entre a Santa Sé e a PNCC</a></u>. Nestes diálogos, Roma não se limitou a reconhecer a validade do poder de Ordem (sucessão apostólica), mas abriu a possibilidade de receção recíproca do sacramento da Penitência. Uma vez que a validade da absolvição exige estritamente poder de jurisdição e considerando que os motivos objetivos que fundamentaram este reconhecimento por Roma (sucessão apostólica válida e estrita ortodoxia doutrinal) se verificam integralmente na nossa jurisdição, este acordo atesta, material e teologicamente, que uma Igreja inserida nesta mesma matriz possui uma verdadeira e lícita jurisdição eclesial própria;
-
-(4) Subsidiariamente, e em total coerência com a sua matriz teológica Vétero-Romana, invoca o princípio da jurisdição suprida motivada pelo prolongado estado de necessidade (princípio analisado em profundidade <u><a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">neste estudo</a></u>). Importa recordar que a Sé de Utrecht sempre esteve em comunhão com Roma e aceitou a autoridade Papal no seu formato histórico (primeiro milénio). O que a nossa tradição rejeita são as inovações dogmáticas do Concílio Vaticano I (1870), por serem uma construção eclesiológica recente que rompe com a Tradição, bem como o agravamento do modernismo no Vaticano II. Mantendo-se fiel à constituição original da Igreja, entende que o imperativo supremo da salvação das almas (salus animarum) e a salvaguarda do depósito da Fé tradicional conferem-lhe plena legitimidade para exercer a sua jurisdição ordinária interna, operando hoje de forma canonicamente estruturada e autónoma com o seu próprio bispo, clero e fiéis.
-
-<br>
-
 A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibilidade papal*, que consideramos ser o derradeiro triunfo do **humanismo** e uma *ofensa a Nosso Senhor Jesus Cristo*, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*.
 
 <br>
@@ -70,7 +58,21 @@ A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibili
 Mantemos os sete sacramentos e a doutrina católica, mas seguimos a disciplina antiga em alguns aspectos: <br><br>
 
 * **Celibato opcional** para os clérigos, reconhecendo que o celibato permanece uma prática virtuosa e uma fonte de graça para os sacerdotes que livremente o abraçam.
-* **Comunhão para divorciados recasados**, mediante discernimento pastoral aos casais que apresentem uma vida cristã madura e desejem receber o Sacramento. <br><br><br><br>
+* **Comunhão para divorciados recasados**, mediante discernimento pastoral aos casais que apresentem uma vida cristã madura e desejem receber o Sacramento. 
+
+<br>
+
+## A Canonicidade da Igreja Vétero Católica de Jerusalém
+
+A **Igreja Vétero-Católica de Jerusalém em Portugal** pode então sustentar a **canonicidade** da sua jurisdição em quatro pontos essenciais: 
+
+(1) Assenta a sua existência na continuidade orgânica e ininterrupta da missão polaca no Brasil (iniciada em 1932), declarando-se herdeira legítima desta tradição vétero-católica. É fundamental sublinhar que, ao longo deste percurso, nunca existiu qualquer intenção cismática (mens rea). A perda de contacto administrativo foi inteiramente ditada pelas circunstâncias históricas, tendo a Igreja preservado intacto o depósito da fé sem qualquer ato de rutura formal. Esta afinidade histórica e continuidade natural procura agora a sua formalização institucional através do processo de reunificação em curso com a União de Scranton (PNCC), atualmente pendente de decisão;
+
+(2) Reafirma o princípio histórico de que a Sé de Utrecht conservou a sua jurisdição própria perante a suspensão canonicamente abusiva do Arcebispo Petrus Codde, considerando a PNCC e a União de Scranton as herdeiras legítimas, ortodoxas e fiéis dessa tradição, sobretudo após os desvios progressistas da União de Utrecht original;
+
+(3) Encontra validação canónica indireta nos <u><a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/documents-produced-polish-national-catholic-roman">acordos oficiais entre a Santa Sé e a PNCC</a></u>. Nestes diálogos, Roma não se limitou a reconhecer a validade do poder de Ordem (sucessão apostólica), mas abriu a possibilidade de receção recíproca do sacramento da Penitência. Uma vez que a validade da absolvição exige estritamente poder de jurisdição e considerando que os motivos objetivos que fundamentaram este reconhecimento por Roma (sucessão apostólica válida e estrita ortodoxia doutrinal) se verificam integralmente na nossa jurisdição, este acordo atesta, material e teologicamente, que uma Igreja inserida nesta mesma matriz possui uma verdadeira e lícita jurisdição eclesial própria;
+
+(4) Subsidiariamente, e em total coerência com a sua matriz teológica Vétero-Romana, invoca o princípio da jurisdição suprida motivada pelo prolongado estado de necessidade (princípio analisado em profundidade <u><a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">neste estudo</a></u>). Importa recordar que a Sé de Utrecht sempre esteve em comunhão com Roma e aceitou a autoridade Papal no seu formato histórico (primeiro milénio). O que a nossa tradição rejeita são as inovações dogmáticas do Concílio Vaticano I (1870), por serem uma construção eclesiológica recente que rompe com a Tradição, bem como o agravamento do modernismo no Vaticano II. Mantendo-se fiel à constituição original da Igreja, entende que o imperativo supremo da salvação das almas (salus animarum) e a salvaguarda do depósito da Fé tradicional conferem-lhe plena legitimidade para exercer a sua jurisdição ordinária interna, operando hoje de forma canonicamente estruturada e autónoma com o seu próprio bispo, clero e fiéis. <br><br><br><br>
 
 ## Conclusão
 
