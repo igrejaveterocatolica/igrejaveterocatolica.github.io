@@ -369,7 +369,7 @@ da Polish National Catholic Church.
 
 Consagrado Bispo por **Władysław Faron em 3 de maio de 1934**.
 
-Posteriormente desenvolveu atividade episcopal no Brasil, onde fontes históricas
+Posteriormente desenvolveu atividade episcopal no Brasil, onde <u><a href="/quem-somos.html">fontes históricas</a></u>
 documentam a existência de uma Igreja Vétero-Católica ligada ao movimento
 vétero-católico polaco estabelecido no país durante a década de 1930.
 
