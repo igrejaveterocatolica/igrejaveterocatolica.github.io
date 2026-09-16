@@ -473,7 +473,7 @@ Este facto constitui o principal ponto de rutura na estrutura administrativa cri
 Apesar da crise iniciada em 1979, a comunidade de Barão de Cotegipe não desapareceu imediatamente.
 
 
-Na edição de **10 de março de 1981** do jornal polono-brasileiro <em>LUD</em>, a relação de assinantes e pagamentos inclui expressamente a **“Igreja Católica Polonesa — Barão de Cotegipe”**, juntamente com diversos habitantes da localidade.
+Na edição de **10 de março de 1981** do jornal polono-brasileiro <em>LUD</em>, a relação de assinantes e pagamentos inclui expressamente a **"Igreja Católica Polonesa — Barão de Cotegipe"**, juntamente com diversos habitantes da localidade.
 
 
 <u><a href="https://pbc.uw.edu.pl/id/eprint/11814/1/Lud_1981_09.pdf" target="_blank" rel="noopener noreferrer">
@@ -765,7 +765,7 @@ registo civil da paróquia, construção e consagração da nova igreja de Barã
 
 <li>
 <strong>1981 — LUD:</strong>
-referência contemporânea à “Igreja Católica Polonesa — Barão de Cotegipe”, ainda existente em março de 1981.<br>
+referência contemporânea à "Igreja Católica Polonesa — Barão de Cotegipe", ainda existente em março de 1981.<br>
 <u><a href="https://pbc.uw.edu.pl/id/eprint/11814/1/Lud_1981_09.pdf" target="_blank" rel="noopener noreferrer">Consultar documento</a></u>
 </li>
 
