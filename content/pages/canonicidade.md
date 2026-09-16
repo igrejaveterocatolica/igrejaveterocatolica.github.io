@@ -8,7 +8,7 @@ A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradi�
 A nossa posição não se funda na ideia de que uma mera sucessão episcopal, isoladamente considerada, seja suficiente para constituir uma Igreja, nem depende de uma futura receção pela União de Scranton. Fundamenta-se na continuidade de uma realidade eclesial dotada de episcopado, clero, fiéis, vida sacramental e governo próprio, posteriormente reorganizada sob a forma da **Fidelitas do Brasil e Exterior**.
 
 
-# 1. O princípio eclesiológico de Utrecht
+## 1. O princípio eclesiológico de Utrecht
 
 
 A compreensão da nossa canonicidade parte da eclesiologia histórica de **Utrecht**.
@@ -29,7 +29,7 @@ A comunhão confirma, ordena e manifesta a catolicidade das Igrejas; não cria *
 É segundo este princípio que deve ser compreendida também a história da jurisdição brasileira da qual procedemos.
 
 
-# 2. Da missão vétero-católica de 1932 à Fidelitas
+## 2. Da missão vétero-católica de 1932 à Fidelitas
 
 
 A presença vétero-católica histórica no Brasil remonta à missão estabelecida em **1932 em Ponta Grossa, Paraná**, no contexto da tradição antigo-católica polonesa ligada à **Polish National Catholic Church**. Para um enquadramento mais detalhado desta presença histórica e da evolução posterior da Igreja no Brasil, consulte a nossa [página de história](/quem-somos.html).
@@ -50,7 +50,7 @@ A história posterior confirma, aliás, que desta mesma realidade brasileira pro
 A questão canónica deve ser apreciada segundo critérios propriamente eclesiais: continuidade do episcopado, presença de clero e fiéis, conservação da fé e dos sacramentos, governo sinodal, legitimidade das eleições episcopais e existência ou não de um ato canónico capaz de extinguir ou interromper a jurisdição anteriormente existente.
 
 
-# 3. Autogoverno da Fidelitas e eleição do seu Primaz
+## 3. Autogoverno da Fidelitas e eleição do seu Primaz
 
 
 No decurso desse desenvolvimento histórico, a Igreja brasileira passou a exercer efetivamente o seu próprio governo, numa situação de **autocefalia de facto**, ainda que essa condição não tivesse recebido reconhecimento formal por uma comunhão eclesial internacional.
@@ -74,7 +74,7 @@ Deve ainda distinguir-se entre a legitimidade do **governo primacial interno** e
 Do mesmo modo, não sustentamos que a missão original de 1932 tenha recebido desde a sua fundação todas as prerrogativas de uma Igreja patriarcal. A nossa tese é outra: uma realidade inicialmente missionária desenvolveu-se historicamente, adquiriu estruturas episcopais e sinodais próprias e, perante a ausência prolongada de uma autoridade supralocal efetivamente exercida sobre ela, passou a prover ao governo necessário à continuidade da sua própria vida eclesial.
 
 
-# 4. Jurisdição portuguesa e legitimidade sacramental
+## 4. Jurisdição portuguesa e legitimidade sacramental
 
 
 A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente da **Fidelitas do Brasil e Exterior**.
@@ -104,7 +104,7 @@ A distinção entre **poder de Ordem, poder de governo e faculdade para o exerc�
 Por essa razão, a Igreja não sustenta que a simples posse de uma linhagem episcopal seja suficiente para constituir uma jurisdição. A sucessão apostólica encontra-se, no nosso caso, integrada numa realidade eclesial concreta, com episcopado, autoridade, mandato, clero, fiéis, culto, disciplina e governo próprios.
 
 
-# 5. A ruptura da comunhão com Utrecht e a continuidade da tradição ultrajectina
+## 5. A ruptura da comunhão com Utrecht e a continuidade da tradição ultrajectina
 
 
 A nossa reivindicação de continuidade com Utrecht não significa adesão à orientação doutrinal e disciplinar assumida posteriormente por todas as Igrejas que hoje integram a União de Utrecht.
@@ -122,7 +122,7 @@ A existência de uma ruptura de comunhão não determina, por si só, qual das p
 A Fidelitas compreende a sua própria história nesta perspetiva: não reivindica o direito arbitrário de criar uma nova fé ou uma nova Igreja, mas a continuidade de uma realidade eclesial que, perante alterações consideradas incompatíveis com a tradição recebida, preservou o episcopado, os sacramentos, a disciplina e o governo próprio.
 
 
-# 6. A União de Scranton e o reconhecimento da comunhão
+## 6. A União de Scranton e o reconhecimento da comunhão
 
 
 Na evolução posterior do movimento vétero-católico, reconhecemos na **PNCC e na União de Scranton** uma expressão particularmente próxima da tradição católica e ultrajectina que desejamos preservar.
@@ -143,7 +143,7 @@ A eventual integração em Scranton deverá ser entendida como **reconhecimento 
 Por isso, a ausência de documentação de aceitação por Scranton não deve ser confundida com uma declaração de inexistência eclesial, invalidade sacramental ou condenação por cisma.
 
 
-# 7. O precedente PNCC–Roma
+## 7. O precedente PNCC–Roma
 
 
 A relação entre a **Polish National Catholic Church** e a Igreja Católica Romana constitui um precedente importante para compreender esta distinção.
@@ -166,7 +166,7 @@ Por consequência, a controvérsia histórica entre Roma e a tradição de Utrec
 
 
 
-# 8. Jurisdição suprida como garantia subsidiária
+## 8. Jurisdição suprida como garantia subsidiária
 
 
 A autoridade ordinária da **Igreja Vétero-Católica de Jerusalém em Portugal** deriva do mandato recebido da sua jurisdição **Fidelitas do Brasil e Exterior**. **Não sustentamos que a nossa Igreja exista ou exerça ordinariamente o seu ministério em virtude de jurisdição suprida.**
@@ -196,7 +196,7 @@ A aplicação desta doutrina em contextos de necessidade e de crise eclesial enc
 Funcionam, antes, como garantia extraordinária em situações concretas de dúvida, necessidade ou deficiência de faculdade, segundo uma lógica também tradicionalmente invocada no ambiente vétero-romano.
 
 
-# 9. Ordem do argumento canónico
+## 9. Ordem do argumento canónico
 
 
 A ordem da nossa posição é, portanto, a seguinte:
