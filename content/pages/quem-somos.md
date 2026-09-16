@@ -169,7 +169,6 @@ Documentação histórica — Rodzina, outubro de 2008, baseada nos arquivos de 
 
 Este acontecimento constitui a **ligação institucional formal e documental das cinco paróquias à PNCC**.
 
-Importa, contudo, não confundir esta receção de paróquias com a estrutura episcopal de Perkowski. Ambas pertencem à história do vétero-catolicismo polaco no Brasil, mas a documentação disponível mostra que seguiram trajetórias administrativas que nem sempre foram idênticas.
 <br><br>
 
 
