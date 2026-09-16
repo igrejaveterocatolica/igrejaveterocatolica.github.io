@@ -976,7 +976,6 @@ A evolução desta história pode ser apresentada, de forma sintética, pelos se
 <strong>1963–1988</strong> — diversas fontes eclesiásticas vétero-católicas brasileiras conservam a sequência de governos de Lírio Prado Fontes, Hélio Del Bivar, Paolo Reale e Rafael Linueza Peres;<br>
 <strong>final do século XX</strong> — Dom Paulo Pereira sucede a Rafael Linueza e exerce a Primazia da tradição vétero-católica brasileira;<br>
 <strong>5 de fevereiro de 2001</strong> — constituição da Associação Assistencial Anjos de Deus, presidida por Paulo Roberto Nunes de Araujo;<br>
-<strong>20 de março de 2001</strong> — organização da Fidelitas sob nova constituição religiosa, sob Dom Paulus Nunes, durante a Primazia de Dom Paulo Pereira;<br>
 <strong>2001</strong> — sagração episcopal de Dom Paulus Nunes por Dom Paulo Pereira, em Curitiba, com Dom José Falcão como co-consagrante;<br>
 <strong>2003</strong> — falecimento de Dom Paulo Pereira e sucessão de Dom Paulus Nunes como Arcebispo Primaz do Brasil;<br>
 <strong>30 de maio de 2011</strong> — formalização civil da Igreja Apostólica Vétero Católica do Brasil - Fidelitas;<br>
@@ -1203,12 +1202,6 @@ biografia do Pe. Stanislaw Gogulski, enviado ao Brasil em 1982 e posteriormente 
 associação aberta em Curitiba em 5 de fevereiro de 2001, presidida por Paulo Roberto Nunes de Araujo e posteriormente apresentada pela Fidelitas como parte da sua obra assistencial.<br>
 <u><a href="https://cnpj.biz/04266775000164" target="_blank" rel="noopener noreferrer">Consultar dados de registo — CNPJ 04.266.775/0001-64</a></u><br>
 <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/associacao-assistencial-anjos-de-de" target="_blank" rel="noopener noreferrer">Fidelitas — Associação Assistencial Anjos de Deus</a></u>
-</li>
-
-<li>
-<strong>2001 — Nova constituição religiosa da Fidelitas:</strong>
-história institucional publicada pela própria Igreja, situando a fundação sob nova constituição religiosa em 20 de março de 2001, sob Dom Paulus Nunes, e identificando a tradição vétero-católica polaca entre as suas raízes históricas.<br>
-<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/fundador-da-igreja" target="_blank" rel="noopener noreferrer">Fidelitas — História e fundação da Igreja</a></u>
 </li>
 
 <li>
