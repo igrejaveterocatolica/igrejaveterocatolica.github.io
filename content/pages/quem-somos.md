@@ -837,7 +837,7 @@ Na fase inicial, a documentação contemporânea permite atribuir ao Pe. **Teoph
 ANPUH — estudo baseado no Diário dos Campos, incluindo a autodesignação de Bartnicki como representante oficial no Brasil
 </a></u> <br><br>
 
-Bartnicki integra, portanto, a cadeia histórica da missão como sacerdote, responsável missionário, delegado e Vigário-Geral. A documentação conhecida não exige atribuir-lhe retrospectivamente um título episcopal.
+Bartnicki integra, portanto, a cadeia histórica da missão como sacerdote, responsável missionário, delegado e Vigário-Geral.
 
 A partir de **1936**, a continuidade episcopal torna-se mais clara com **Dom Jan Piotr Perkowski**. Como documentado anteriormente, investigação académica polaca descreve a Igreja Vétero-Católica que Perkowski organizou no Brasil, com sede em São Paulo, como **continuação da missão iniciada pelo Pe. Teophilo Bartnicki**.
 
@@ -873,10 +873,6 @@ Igreja dos Velhos Católicos do Brasil — Dom Paulo Pereira identificado como A
 Registo histórico de 2011 — Paulo Pereira na sucessão dos Arcebispos Primazes
 </a></u> <br><br>
 
-À data da reorganização eclesial de 2001 que daria origem à estrutura Fidelitas, **Dom Paulo Pereira exercia, portanto, a Primazia da tradição vétero-católica brasileira**.
-
-#### 2001 — A obra de Curitiba e a nova constituição religiosa da Fidelitas
-
 Um primeiro marco civil da obra ligada a **Paulo Roberto Nunes de Araujo — Dom Paulus Nunes** encontra-se em Curitiba.
 
 Em **5 de fevereiro de 2001** foi constituída a **Associação Assistencial Anjos de Deus**, CNPJ **04.266.775/0001-64**, sediada na **Rua Ariosvaldo Moreira, 276, Cajuru, Curitiba, Paraná**, tendo Paulo Roberto Nunes de Araujo como Presidente.
@@ -885,39 +881,26 @@ Em **5 de fevereiro de 2001** foi constituída a **Associação Assistencial Anj
 Registo civil — Associação Assistencial Anjos de Deus, CNPJ 04.266.775/0001-64
 </a></u> <br><br>
 
-A própria Fidelitas apresenta posteriormente esta Associação como uma das suas obras sociais.
+A Fidelitas apresenta ainda hoje esta Associação como uma das suas obras sociais.
 
 <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/associacao-assistencial-anjos-de-de" target="_blank" rel="noopener noreferrer">
 Fidelitas — Associação Assistencial Anjos de Deus e trabalhos sociais
-</a></u> <br><br>
+</a></u> 
 
-Poucas semanas depois, em **20 de março de 2001**, a história institucional da Igreja situa a organização da **Fidelitas sob nova constituição religiosa**, sob a direção de Dom Paulus Nunes.
-
-<u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/fundador-da-igreja" target="_blank" rel="noopener noreferrer">
-Fidelitas — história institucional e nova constituição religiosa de 20 de março de 2001
-</a></u> <br><br>
-
-Este acontecimento deve ser situado corretamente dentro da cronologia eclesial. A nova estrutura foi organizada **enquanto Dom Paulo Pereira ainda exercia a Primazia da tradição vétero-católica brasileira**. Dom Paulus Nunes pertencia à mesma tradição episcopal e recebeu a sagração episcopal, em **Curitiba, no ano de 2001**, pelas mãos de **Dom Paulo Pereira**, com **Dom José Falcão** como co-consagrante.
-
-A documentação atualmente reunida permite, assim, distinguir duas realidades relacionadas:
-
-<strong>a constituição da estrutura Fidelitas em 2001, sob Dom Paulus Nunes;</strong><br>
-<strong>e a Primazia vétero-católica brasileira, então ainda exercida por Dom Paulo Pereira.</strong>
+A história da Igreja Fidelitas e a a tradição preservada por outros ramos vétero-católicos brasileiros regista igualmente a sagração de Dom Paulus Nunes por Dom Paulo Pereira em 2001, e co-consagrante Dom José Falcão, tendo sido nomeado como Bispo de Curitiba*.
 
 <br><br>
-
-Não é necessário identificar as duas estruturas como juridicamente idênticas desde o primeiro momento para reconhecer a continuidade histórica e episcopal existente entre os seus responsáveis.
 
 #### 2003 — Dom Paulus Nunes sucede na Primazia
 
 **Dom Paulo Pereira faleceu em 2003**, encontrando-se no exercício do ofício de Arcebispo Primaz.
 
-Dom Paulus Nunes, que já integrava o episcopado, **sucedeu-lhe como Arcebispo Primaz do Brasil**. A tradição preservada por outros ramos vétero-católicos brasileiros regista igualmente Paulus Nunes como Bispo de Curitiba e posteriormente **eleito Arcebispo Primaz do Brasil**.
+Dom Paulus Nunes, que já integrava o episcopado, foi eleito e **sucedeu-lhe como Arcebispo Primaz do Brasil**. 
 
 Deste modo, a partir de 2003 passaram a convergir na pessoa de Dom Paulus Nunes duas dimensões da história eclesial recente:
 
-<strong>a direção da estrutura Fidelitas organizada em 2001;</strong><br>
-<strong>e a sucessão na Primazia anteriormente exercida por Dom Paulo Pereira.</strong>
+<strong>a direção da estrutura civil Anjos de Deus organizada em 2001 que ainda hoje faz parte da obra social da Fidelitas;</strong><br>
+<strong>e a sucessão na Primazia dos Vétero-Católicos do Brasil anteriormente exercida por Dom Paulo Pereira.</strong>
 
 <br><br>
 
@@ -937,12 +920,6 @@ O cadastro identifica a entidade como **Organização Religiosa**, tendo **Paulo
 <u><a href="https://casadosdados.com.br/solucao/cnpj/igreja-apostolica-vetero-catolica-do-brasil-fidelitas-13938271000134" target="_blank" rel="noopener noreferrer">
 Registo civil — Igreja Apostólica Vétero Católica do Brasil - Fidelitas, CNPJ 13.938.271/0001-34
 </a></u> <br><br>
-
-O registo de 2011 deve ser distinguido da organização eclesial anterior. Os documentos permitem estabelecer três marcos diferentes:
-
-<strong>5 de fevereiro de 2001</strong> — constituição da Associação Assistencial Anjos de Deus em Curitiba;<br>
-<strong>20 de março de 2001</strong> — organização da Fidelitas sob nova constituição religiosa;<br>
-<strong>30 de maio de 2011</strong> — abertura da pessoa jurídica especificamente denominada Igreja Apostólica Vétero Católica do Brasil - Fidelitas.
 
 <br><br>
 
@@ -974,7 +951,7 @@ A existência de jurisdições que mais tarde se autonomizaram mostra que a Fide
 
 A evolução institucional da Fidelitas conheceu uma nova etapa entre **18 e 20 de maio de 2018**, com a realização, em **Xanxerê, Santa Catarina**, da **Conferência Internacional dos Bispos Vétero-Católicos Fidelitas**.
 
-Àquela data, **Dom Paulus Nunes já exercia o governo da Igreja como Patriarca eleito**. Segundo as Normas e Disciplinas Eclesiásticas publicadas pela própria Fidelitas, os Bispos reunidos em Xanxerê confirmaram-no como **legítimo Patriarca da Igreja Apostólica Vétero Católica do Brasil Fidelitas**, ratificando colegialmente o Governo Patriarcal que já exercia.
+Àquela data, **Dom Paulus Nunes já exercia o governo da Igreja como Patriarca eleito**. Segundo as Normas e Disciplinas Eclesiásticas publicadas pela própria Fidelitas, os Bispos reunidos em Xanxerê confirmaram-no como **legítimo Patriarca da Igreja Apostólica Vétero Católica do Brasil Fidelitas**, ratificando colegialmente e internacionalmente o governo eclesiástico que já exercia a nível nacional no Brasil.
 
 <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf/conferencia-internacional-dos-bispo" target="_blank" rel="noopener noreferrer">
 Fidelitas — Conferência Internacional dos Bispos Vétero-Católicos, Xanxerê, 18–20 de maio de 2018
@@ -990,29 +967,24 @@ A memória institucional da Conferência regista a participação de hierarcas p
 Fidelitas — documentação institucional sobre Dom Paulus Nunes e a Conferência Internacional de Xanxerê
 </a></u> <br><br>
 
-A Conferência de 2018 não marcou o início do ministério de Dom Paulus Nunes nem o início da Fidelitas. A sua importância foi a **confirmação colegial e internacional do Governo Patriarcal** numa Igreja que já possuía desenvolvimento institucional no Brasil e presença noutras jurisdições.
-
 #### Síntese da continuidade jurisdicional contemporânea
 
 A evolução desta história pode ser apresentada, de forma sintética, pelos seguintes marcos:
 
 <strong>1932</strong> — Pe. Teophilo Bartnicki organiza a missão de origem polaca no Brasil;<br>
 <strong>1936</strong> — Dom Jan Piotr Perkowski organiza uma estrutura episcopal descrita por investigação académica como continuação da missão de Bartnicki;<br>
-<strong>1963–1988</strong> — a tradição histórica brasileira conserva a sequência de governos de Lírio Prado Fontes, Hélio Del Bivar, Paolo Reale e Rafael Linueza Peres;<br>
+<strong>1963–1988</strong> — diversas fontes eclesiásticas vétero-católicas brasileiras conservam a sequência de governos de Lírio Prado Fontes, Hélio Del Bivar, Paolo Reale e Rafael Linueza Peres;<br>
 <strong>final do século XX</strong> — Dom Paulo Pereira sucede a Rafael Linueza e exerce a Primazia da tradição vétero-católica brasileira;<br>
 <strong>5 de fevereiro de 2001</strong> — constituição da Associação Assistencial Anjos de Deus, presidida por Paulo Roberto Nunes de Araujo;<br>
 <strong>20 de março de 2001</strong> — organização da Fidelitas sob nova constituição religiosa, sob Dom Paulus Nunes, durante a Primazia de Dom Paulo Pereira;<br>
 <strong>2001</strong> — sagração episcopal de Dom Paulus Nunes por Dom Paulo Pereira, em Curitiba, com Dom José Falcão como co-consagrante;<br>
 <strong>2003</strong> — falecimento de Dom Paulo Pereira e sucessão de Dom Paulus Nunes como Arcebispo Primaz do Brasil;<br>
 <strong>30 de maio de 2011</strong> — formalização civil da Igreja Apostólica Vétero Católica do Brasil - Fidelitas;<br>
-<strong>2015–2017</strong> — existência documentada de circunscrições vinculadas à Fidelitas que posteriormente adquiriram autonomia, entre elas a Arquidiocese Vétero-Católica do Rio de Janeiro;<br>
-<strong>18–20 de maio de 2018</strong> — Conferência Internacional dos Bispos Vétero-Católicos Fidelitas, em Xanxerê, e confirmação colegial de Dom Paulus Nunes como Patriarca.
+<strong>18–20 de maio de 2018</strong> — Conferência Internacional dos Bispos Vétero-Católicos Fidelitas, em Xanxerê, e confirmação colegial e internacional de Dom Paulus Nunes como Patriarca.
 
 <br><br>
 
 Esta sequência permite distinguir com clareza **a missão histórica, a continuidade do governo episcopal, a organização eclesial da Fidelitas, a sucessão na Primazia, a formalização civil e a posterior consolidação do Governo Patriarcal**.
-
-Vista neste conjunto, a Fidelitas não começa com o registo civil de 2011. A sua própria história institucional situa a organização eclesial em **2001**; em **2003**, Dom Paulus Nunes sucede a Dom Paulo Pereira na Primazia; e em **2018**, o Governo Patriarcal é confirmado colegialmente pela Conferência Internacional dos Bispos.
 
 
 ## Da tradição de Utrecht à União de Scranton
@@ -1042,29 +1014,15 @@ História oficial — PNCC, Declaração e União de Scranton
 <br><br>
 
 
-A Fidelitas <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf" target="_blank" rel="noopener noreferrer">
-informa</a></u> publicamente encontrar-se num processo de reaproximação e reconhecimento pela União de Scranton e declara aguardar a correspondente documentação de aceitação.
-
-
-<br><br>
-
-
-
-
-## A Fidelitas no presente
-
-
-O Patriarca dos **Fidelitas do Brasil e Exterior** é Sua Beatitude <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, sob cujo governo a Igreja desenvolve atualmente a sua missão pastoral e a sua presença eclesial no Brasil e no exterior.
-
-
-A história da missão polaca, a relação histórica com a PNCC e a procura contemporânea de comunhão com outras Igrejas católicas de tradição vétero-católica são compreendidas pela Fidelitas como parte de uma mesma vocação: conservar a Fé Católica recebida, promover a vida sacramental e procurar a unidade visível entre Igrejas que partilham a fé e a ordem da Igreja antiga.
+A **Fidelitas** <u><a href="https://veteros.wixsite.com/meusiteveterosiavcbf" target="_blank" rel="noopener noreferrer">
+informa</a></u> publicamente encontrar-se num processo de **reaproximação** e reconhecimento pela **União de Scranton** e declara aguardar a correspondente documentação de aceitação.
 
 
 <br><br><br><br>
 
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição donde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais da Igreja Vétero-Católica de Jerusalém** está disponível <u>[aqui](/canonicidade.html)</u>. <br>
+Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Sua Beatitude Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição donde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais da Igreja Vétero-Católica de Jerusalém** está disponível <u>[aqui](/canonicidade.html)</u>. <br>
 
 
 A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
