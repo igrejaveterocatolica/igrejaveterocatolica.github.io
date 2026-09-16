@@ -41,188 +41,173 @@ Com o tempo, a União de Utrecht começou a adotar posições teológicas progre
 Décadas depois, Utrecht confirmou essa tendência ao ordenar mulheres e celebrar casamentos entre pessoas do mesmo sexo, práticas incompatíveis com a Tradição Apostólica. A via tradicionalista dos Vétero‑Romanos permaneceu fiel à doutrina católica histórica. Uma das linhas de sucessão apostólica da nossa Igreja deriva do Sr. Bispo Arnold Mathew. <br><br>
 
 
-## A presença Vétero-Católica de origem polaca no Brasil e a continuidade do governo (1932–presente)
+## A origem polaco-católica da Igreja no Brasil e a continuidade da tradição PNCC
 
-A história da nossa tradição no Brasil tem origem documentada no movimento católico nacional polaco e desenvolveu-se, ao longo do século XX, através de diferentes formas de organização eclesial.
 
-Para compreender esta história com rigor, importa distinguir duas trajetórias relacionadas.
+A tradição eclesial da qual procede a atual **Igreja Apostólica Vétero-Católica do Brasil — Fidelitas** encontra as suas raízes históricas nas comunidades católicas nacionais de origem polaca organizadas no Brasil durante a década de 1930.
 
-Por um lado, encontra-se a **missão iniciada em 1932 pelo Pe. Teophilo Bartnicki**, então sob a autoridade de **Władysław M. Faron**, e a estrutura episcopal posteriormente organizada no Brasil por **Dom Jan Piotr Perkowski**, que investigação histórica polaca identifica expressamente como continuação daquela missão.
+A presença destas comunidades antecede a sua vinculação formal à **Polish National Catholic Church (PNCC)** dos Estados Unidos. Sacerdotes provenientes do movimento católico nacional polaco desenvolveram trabalho pastoral entre os numerosos emigrantes estabelecidos sobretudo nos Estados do Paraná e do Rio Grande do Sul.
 
-Por outro lado, encontram-se as comunidades brasileiras que, em **1938**, foram formalmente recebidas na **Polish National Catholic Church (PNCC)** de Francis Hodur, algumas das quais sobreviveram às dificuldades das décadas seguintes e estiveram na origem da reativação oficial da missão da PNCC em 1975.
+Neste primeiro período destaca-se a missão organizada em **Ponta Grossa a partir de 1932 pelo Pe. Teophilo (Teofil) Bartnicki**, sob a autoridade eclesiástica de **Władysław M. Faron**.
 
-Estas duas trajetórias pertencem à mesma história mais ampla do vétero-catolicismo de origem polaca no Brasil, mas nem sempre corresponderam à mesma administração ou à mesma pessoa jurídica.
+Esta fase constitui um importante antecedente da posterior presença da PNCC no Brasil: a documentação demonstra que sacerdotes e comunidades que participaram desta primeira expansão vétero-católica voltariam a aparecer entre as paróquias posteriormente recebidas pela PNCC.
 
-A linhagem de governo que conduz à atual **Fidelitas** é apresentada nesta página separadamente da simples sucessão sacramental dos bispos: o que aqui se procura documentar é **quem recebeu e exerceu sucessivamente a chefia da Igreja**, desde a jurisdição missionária conferida em 1932 até ao governo atual de **Sua Beatitude Dom Paulus Nunes**.
+A **vinculação jurisdicional formal à Polish National Catholic Church**, porém, encontra o seu marco documental próprio em **7 de abril de 1938**, quando cinco paróquias brasileiras, juntamente com os respetivos sacerdotes e fiéis, foram oficialmente recebidas na comunhão da PNCC pelo seu Conselho Geral reunido em Scranton.
+
+É a partir desta receção formal, da permanência local dessas comunidades e da posterior reativação da missão pela própria PNCC que se compreende a origem histórica e jurisdicional da tradição polaco-católica preservada no Brasil.
 <br><br>
 
 
-### 1932 — Teophilo Bartnicki: nomeação e jurisdição para a missão brasileira
 
-A presença organizada da qual deriva esta história começa documentalmente em **1932**, quando o sacerdote polaco **Pe. Teophilo (Teofil) Bartnicki** iniciou a sua atividade pastoral em **Ponta Grossa, Paraná**, junto da numerosa comunidade de emigrantes polacos.
 
-Nesta primeira fase, a missão ainda **não se encontrava sob a jurisdição da Polish National Catholic Church de Francis Hodur**. Bartnicki encontrava-se sob a autoridade eclesiástica de **Władysław M. Faron**, cuja Igreja tivera origem no mesmo movimento nacional católico polaco, mas que então constituía uma estrutura distinta da PNCC.
+### 1932–1934 — As primeiras comunidades vétero-católicas polacas
 
-Uma fonte contemporânea particularmente importante é o periódico eclesiástico polaco <em>Polska Odrodzona</em>, de **1 de novembro de 1932**.
 
-O documento não se limita a mencionar a presença de Bartnicki no Brasil: regista formalmente que ele havia sido **nomeado responsável plenipotenciário da missão, com jurisdição eclesiástica delegada**, para o trabalho missionário no Paraná.
+A presença vétero-católica polaca organizada no Brasil encontra um dos seus primeiros marcos documentais em **1932**, quando o Pe. **Teophilo Bartnicki** iniciou em **Ponta Grossa, Paraná**, uma missão entre os emigrantes polacos.
 
-A mesma publicação refere que, após os primeiros meses de atividade, a comunidade havia obtido reconhecimento perante as autoridades brasileiras, podendo organizar paróquias, construir igrejas e receber novos sacerdotes.
+Bartnicki encontrava-se então sob a autoridade de **Władysław M. Faron**, cuja estrutura eclesial, embora proveniente do mesmo movimento católico nacional polaco, se encontrava nesse momento separada da PNCC dirigida por Francis Hodur.
+
+O periódico eclesiástico <em>Polska Odrodzona</em>, de **1 de novembro de 1932**, regista a nomeação de Bartnicki como responsável da missão, investido de jurisdição eclesiástica para desenvolver o trabalho pastoral no Paraná.
 
 <u><a href="https://jbc.bj.uj.edu.pl/Content/898080/NDIGCZAS058569_1932_021.pdf" target="_blank" rel="noopener noreferrer">
 Documento original — Polska Odrodzona, n.º 21, 1 de novembro de 1932
 </a></u>
 <br><br>
 
-Este documento constitui o primeiro marco conhecido da **cadeia de governo da missão no Brasil**: Bartnicki não aparece apenas como fundador de uma comunidade local, mas como sacerdote formalmente **nomeado e investido de jurisdição para dirigir a missão**.
 
-A existência e atividade da comunidade de Ponta Grossa encontram-se igualmente documentadas por investigação académica da **Universidade Estadual de Ponta Grossa (UEPG)**, baseada na imprensa local e na documentação relativa ao incêndio do templo em 1934.
+Em **1933**, o Pe. **Józef Adamczewski** foi enviado da Polónia para colaborar diretamente com Bartnicki no Brasil.
 
-<u><a href="https://revistas.uepg.br/index.php/ahu/article/download/7323/4392/24322" target="_blank" rel="noopener noreferrer">
-Estudo académico — “A Igreja Antigo Católica em Ponta Grossa (1932–1934)”
-</a></u>
-<br><br>
-
-
-### 1933 — Bartnicki como Vigário-Geral no Brasil
-
-A documentação de **1933** permite precisar ainda melhor a posição de Bartnicki.
-
-Quando o Pe. **Józef Adamczewski** deixou a Polónia com destino ao Brasil para colaborar na missão, o mesmo periódico eclesiástico identificou Bartnicki como pároco de Ponta Grossa e **Vigário-Geral da Igreja no Brasil**.
-
-Adamczewski fora enviado por Władysław Faron precisamente para auxiliar o responsável já constituído da missão.
+Esta ligação tornar-se-ia historicamente importante: cinco anos depois, Adamczewski figura como pároco de **Curitiba** entre os sacerdotes das comunidades brasileiras recebidas formalmente pela PNCC.
 
 <u><a href="https://www.jbc.bj.uj.edu.pl/Content/898171/NDIGCZAS058569_1933_003.pdf" target="_blank" rel="noopener noreferrer">
 Documento original — Polska Odrodzona, n.º 3, 1933
 </a></u>
 <br><br>
 
-Entre **1933 e 1934**, a missão publicou ainda em Ponta Grossa o periódico polaco <em>Siewca</em> (“O Semeador”), cuja existência se encontra catalogada pelo **Museu Virtual da Diáspora Polaca da Universidade de Varsóvia**.
 
-<u><a href="https://muzeumpolonii.uw.edu.pl/?page_id=1386" target="_blank" rel="noopener noreferrer">
-Universidade de Varsóvia — publicações da diáspora polaca no Brasil
+A investigação histórica polaca identifica também **Ponta Grossa**, organizada por Bartnicki em 1932, como a primeira paróquia vétero-católica polaca deste movimento no Brasil.
+
+A mesma localidade reaparece em 1938 entre as cinco paróquias que solicitaram e receberam formalmente a comunhão da PNCC.
+
+Estes elementos demonstram que a receção de 1938 não surgiu num vazio histórico. Existia já no Brasil uma rede de comunidades e sacerdotes oriundos do movimento católico nacional polaco, dentro da qual ocorreram continuidades pastorais, deslocações de clero e posteriores mudanças de enquadramento jurisdicional.
+
+<u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/2008/Rodzina_2008_09.pdf" target="_blank" rel="noopener noreferrer">
+Documentação histórica — Rodzina, setembro de 2008, baseada nos trabalhos do Bispo Wiktor Wysoczański
 </a></u>
 <br><br>
 
-Deste modo, os documentos contemporâneos permitem estabelecer com segurança a primeira etapa da cadeia de autoridade:
 
-<strong>Władysław M. Faron → Pe. Teophilo Bartnicki, nomeado responsável da missão com jurisdição delegada e posteriormente identificado como Vigário-Geral no Brasil.</strong>
+
+
+### 1938 — A receção formal das comunidades brasileiras pela PNCC
+
+
+O momento determinante para a vinculação formal da Igreja brasileira à tradição jurisdicional da **Polish National Catholic Church** ocorreu em **7 de abril de 1938**.
+
+Nessa data, o Conselho Geral da PNCC reuniu-se em **Scranton, Pensilvânia**, e examinou o pedido apresentado por **cinco paróquias brasileiras já constituídas**.
+
+O Conselho decidiu recebê-las, juntamente com os seus sacerdotes e fiéis, na comunhão da PNCC.
+
+Não se tratava de comunidades criadas naquele momento pela Igreja norte-americana. Eram paróquias que já possuíam vida pastoral própria, centenas de famílias e, em vários casos, igrejas, residências paroquiais e escolas.
+
+Foram recebidas:
+
+<br>
+
+<strong>1. Irati, Paraná</strong> — Pe. Michał Osetek;<br>
+<strong>2. Ponta Grossa, Paraná</strong> — Pe. Bogdan Kalinowicz;<br>
+<strong>3. Curitiba, Paraná</strong> — Pe. Józef Adamczewski;<br>
+<strong>4. Floresta, Rio Grande do Sul</strong> — Pe. Marcin/Martim Kuszel;<br>
+<strong>5. Ivaí, Paraná</strong> — comunidade então sem sacerdote residente.
 <br><br>
 
 
-### 1934–1936 — Dom Jan Piotr Perkowski e a passagem para uma estrutura episcopal
+O Pe. **Michał Osetek** representou oficialmente as comunidades brasileiras perante a PNCC.
 
-Em **1934**, a própria documentação da época confirma que a missão dirigida por Bartnicki continuava vinculada à estrutura de Władysław Faron e era distinta da PNCC dirigida nos Estados Unidos pelo Bispo Francis Hodur.
+As paróquias solicitaram ainda a nomeação de um responsável enviado da América do Norte. Enquanto se aguardava a possibilidade de enviar um administrador, a direção da PNCC orientou os sacerdotes presentes no Brasil para que se organizassem e assegurassem conjuntamente o governo da Igreja em território brasileiro.
 
-Num documento datado de **22 de junho de 1934**, Bartnicki apresenta-se como responsável pela Igreja Vétero-Católica no Brasil e indica a Cúria de Faron como referência para os sacerdotes interessados em trabalhar na missão.
-
-<u><a href="https://jbc.bj.uj.edu.pl/Content/898208/NDIGCZAS058569_1934_015.pdf" target="_blank" rel="noopener noreferrer">
-Documento original — Polska Odrodzona, n.º 15, 1934
-</a></u>
-<br><br>
-
-Nesse mesmo contexto surge **Jan Piotr Perkowski**.
-
-Perkowski foi sagrado **bispo-sufragâneo em 3 de maio de 1934** por **Władysław M. Faron**. Em **1936**, deixou a jurisdição direta de Faron e partiu para o Brasil.
-
-A importância deste acontecimento para a continuidade da nossa história encontra hoje confirmação numa fonte externa à atual Fidelitas.
-
-O investigador polaco **Stefan Pastuszewski**, num estudo publicado em 2018 e baseado em documentação histórica e arquivística, regista que Perkowski se estabeleceu no Brasil e registou uma **Igreja Vétero-Católica com sede em São Paulo**, qualificando-a expressamente como **continuação da missão conduzida desde 1932 pelo Pe. Teophilo Bartnicki**.
-
-<u><a href="https://journals.indexcopernicus.com/api/file/viewByFileId/1303568.pdf" target="_blank" rel="noopener noreferrer">
-Stefan Pastuszewski — Rocznik Bialskopodlaski, XXVI, 2018
-</a></u>
-<br><br>
-
-O mesmo estudo reproduz ainda documentação de **25 de maio de 1946**, na qual o próprio **Władysław M. Faron** recordava ter enviado sacerdotes vétero-católicos ao Brasil juntamente com o Bispo Perkowski e afirmava que estes continuavam ali a exercer o seu trabalho.
-
-Estes testemunhos são particularmente relevantes porque não dependem da memória institucional contemporânea da Fidelitas: documentam externamente que, já na década de 1930, a missão iniciada por Bartnicki passou a conhecer uma **continuidade episcopal organizada em torno de Dom Jan Piotr Perkowski**.
-
-A continuidade institucional é confirmada pela investigação histórica polaca e é coerente com a presença e o governo episcopal de Perkowski no Brasil a partir de 1936.
-<br><br>
-
-
-### 1938 — Cinco paróquias brasileiras entram formalmente na PNCC
-
-Paralelamente à estrutura episcopal desenvolvida em torno de Dom Jan Piotr Perkowski, várias comunidades de origem polaca procuraram ligação formal à **Polish National Catholic Church** dos Estados Unidos.
-
-Em **7 de abril de 1938**, o Conselho Geral da PNCC, reunido em Scranton, examinou o pedido de **cinco paróquias brasileiras** e decidiu recebê-las, juntamente com os respetivos sacerdotes, na comunhão da Igreja.
-
-Eram elas:
-<br><br>
-
-<strong>1. Irati, Paraná</strong> — pároco: Pe. Michał Osetek;<br>
-<strong>2. Ponta Grossa, Paraná</strong> — pároco: Pe. Bogdan Kalinowicz;<br>
-<strong>3. Curitiba, Paraná</strong> — pároco: Pe. Józef Adamczewski;<br>
-<strong>4. Floresta, Rio Grande do Sul</strong> — pároco: Pe. Marcin/Martim Kuszel;<br>
-<strong>5. Ivaí, Paraná</strong> — comunidade então sem sacerdote permanente.
-<br><br>
-
-O Pe. Michał Osetek atuou como representante oficial das comunidades perante a PNCC.
-
-A documentação regista ainda que a direção da PNCC recomendou a organização dos sacerdotes brasileiros enquanto se aguardava o envio de um administrador para o Brasil.
+Este ato de **7 de abril de 1938** constitui, portanto, o primeiro marco documental inequívoco da **receção jurisdicional de comunidades brasileiras na Polish National Catholic Church**.
 
 <u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/2008/Rodzina_2008_10.pdf" target="_blank" rel="noopener noreferrer">
-Documentação histórica — Rodzina, outubro de 2008, baseada nos arquivos de Wiktor Wysoczański
+Documentação histórica — Rodzina, outubro de 2008, baseada nos arquivos e investigação do Bispo Wiktor Wysoczański
 </a></u>
 <br><br>
 
-Este acontecimento constitui a **ligação institucional formal e documental das cinco paróquias à PNCC**.
-
-<br><br>
 
 
-### 1939–1975 — Suspensão da missão da PNCC e sobrevivência de Barão de Cotegipe
 
-As medidas de nacionalização adotadas durante o Estado Novo brasileiro, aliadas às dificuldades humanas e financeiras da PNCC, condicionaram rapidamente a nova missão.
+### 1939 — Interrupção da missão organizada, não desaparecimento das comunidades
 
-Em **6 de março de 1939**, o Conselho Geral da PNCC decidiu cessar o desenvolvimento do trabalho missionário organizado no Brasil.
+
+A organização da nova missão encontrou pouco depois sérios obstáculos externos.
+
+As políticas de nacionalização do Estado Novo brasileiro restringiram as organizações das comunidades imigrantes e proibiram o uso litúrgico de línguas diferentes do português e do latim.
+
+Perante estas circunstâncias e perante as limitações humanas e financeiras da Igreja nos Estados Unidos, em **6 de março de 1939** o Conselho Geral da PNCC decidiu não prosseguir naquele momento o desenvolvimento do trabalho missionário organizado no Brasil.
+
+A documentação histórica descreve esta decisão como uma **interrupção do trabalho missionário da PNCC**, e não como o desaparecimento imediato das comunidades que haviam sido recebidas no ano anterior.
+
+Entre os sacerdotes acolhidos sob jurisdição da PNCC em 1938, permaneceu no Brasil o Pe. **Marcin/Martim Kuszel**, responsável pela paróquia de **Floresta**, posteriormente denominada **Barão de Cotegipe**.
+
+Kuszel continuou a servir a comunidade durante as décadas seguintes e procurou repetidamente restabelecer a ligação regular à PNCC nos Estados Unidos e à Igreja Polaco-Católica na Polónia. A investigação histórica regista a existência de abundante correspondência resultante desses esforços.
+
+Assim, embora a administração missionária internacional tivesse sido suspensa, **a comunidade, o seu sacerdote e a consciência da sua pertença à tradição da PNCC permaneceram vivos no Brasil**.
 
 <u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/2008/Rodzina_2008_10.pdf" target="_blank" rel="noopener noreferrer">
-Rodzina, outubro de 2008 — decisão de 6 de março de 1939
-</a></u>
-<br><br>
-
-Esta decisão não significou, porém, o desaparecimento imediato de todas as comunidades.
-
-A paróquia de **Floresta**, localidade posteriormente denominada **Barão de Cotegipe**, continuou a existir sob a assistência do Pe. **Marcin/Martim Kuszel (1910–1976)**.
-
-A documentação histórica regista que Kuszel procurou restabelecer contactos com a PNCC nos Estados Unidos e com a Igreja Polaco-Católica na Polónia, existindo abundante correspondência relativa a essas tentativas.
-
-A história oficial do Município confirma que Floresta e Barão de Cotegipe correspondem à mesma localidade histórica.
-
-<u><a href="https://baraodecotegipe.rs.gov.br/site/historia" target="_blank" rel="noopener noreferrer">
-Prefeitura Municipal de Barão de Cotegipe — História do Município
+Rodzina, outubro de 2008 — receção de 1938, decisão de 1939 e permanência do Pe. Kuszel
 </a></u>
 <br><br>
 
 
-### 1975–1979 — Reativação da missão da PNCC no Brasil
 
-Em **abril de 1975**, o Primeiro Bispo da PNCC, **Tadeusz Zieliński**, enviou ao Brasil o Pe. **Bronisław Wojdyła**, de Chicago, para avaliar a possibilidade de reorganizar a missão.
 
-Wojdyła encontrou em Barão de Cotegipe o Pe. Kuszel e a comunidade polaca sobrevivente. Do encontro resultou um pedido formal para a regularização da paróquia e o restabelecimento da ligação à PNCC.
+### 1975 — A PNCC reencontra a comunidade recebida em 1938
+
+
+Mais de três décadas depois, essa continuidade tornou-se novamente visível de forma documental.
+
+Em **abril de 1975**, o Primeiro Bispo da PNCC, **Tadeusz Zieliński**, enviou ao Brasil o Pe. **Bronisław Wojdyła**, de Chicago, com a missão de verificar a situação pastoral das comunidades polacas e estudar a possibilidade de restabelecer o trabalho regular da Igreja.
+
+O primeiro objetivo da viagem de Wojdyła foi precisamente visitar em Barão de Cotegipe o Pe. **Marcin Kuszel — o mesmo sacerdote cuja paróquia de Floresta havia sido formalmente recebida pela PNCC em 1938**.
+
+O relato contemporâneo do próprio Wojdyła constitui um testemunho particularmente importante para compreender a continuidade da comunidade.
+
+Kuszel declarou que, apesar dos longos anos de isolamento e da ausência de uma ligação administrativa regular a uma diocese, **ele próprio continuava a considerar-se membro da Igreja Nacional Polaca, e os seus paroquianos conservavam a mesma identidade eclesial**.
+
+Segundo o relato, sacerdote e comunidade aguardavam havia anos a oportunidade de restabelecer oficialmente a ligação à PNCC.
+
+A visita terminou com a elaboração de um **pedido formal da paróquia de Barão de Cotegipe para a regularização da sua plena ligação à Polish National Catholic Church**.
+
+Deste modo, a reativação dos anos 1970 não representou simplesmente a criação de uma nova missão numa localidade escolhida ao acaso: a própria PNCC reencontrou em Barão de Cotegipe **uma das comunidades que havia recebido em 1938 e que preservara localmente a sua identidade polaco-católica durante o período de isolamento**.
 
 <u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/1975/Rodzina_1975_45.pdf" target="_blank" rel="noopener noreferrer">
-Relato original do Pe. Bronisław Wojdyła — Rodzina, 1975, n.º 45
+Relato contemporâneo do Pe. Bronisław Wojdyła — Rodzina, n.º 45, 9 de novembro de 1975
 </a></u>
 <br><br>
 
-O resultado da visita foi apresentado ao **VI Sínodo Geral da Igreja Polaco-Católica**, em Wrocław, e depois ao **XIV Sínodo Geral da PNCC**, reunido em Buffalo entre 30 de setembro e 3 de outubro de 1975.
 
-A PNCC aprovou a retomada da missão brasileira e o Primeiro Bispo nomeou **Bronisław Wojdyła Vigário-Geral**, confiando-lhe a direção da missão no Brasil.
 
-<u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/1975/Rodzina_1975_50.pdf" target="_blank" rel="noopener noreferrer">
-XIV Sínodo Geral da PNCC — Rodzina, 1975, n.º 50
-</a></u>
-<br><br>
 
-<u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/1976/Rodzina_1976_07.pdf" target="_blank" rel="noopener noreferrer">
-Rodzina, 1976, n.º 7 — organização da missão brasileira
-</a></u>
-<br><br>
+### 1975–1978 — Restabelecimento da jurisdição regular da PNCC no Brasil
 
-Durante esta fase foram organizadas comunidades em **Barão de Cotegipe, Erechim, Gramado e Linha Duas**, trabalharam no Brasil vários sacerdotes missionários e iniciou-se a formação de clero brasileiro.
+
+O relatório da visita foi apresentado às autoridades eclesiásticas.
+
+A situação brasileira foi discutida no **VI Sínodo Geral da Igreja Polaco-Católica**, reunido em Wrocław, e posteriormente no **XIV Sínodo Geral da PNCC**, realizado em Buffalo entre 30 de setembro e 3 de outubro de 1975.
+
+A retomada da missão recebeu aprovação formal.
+
+O Primeiro Bispo da PNCC nomeou o Pe. **Bronisław Wojdyła como Vigário-Geral**, confiando-lhe o governo e a reorganização da missão brasileira.
+
+A partir desse momento, a ligação deixou novamente de ser apenas histórica ou afetiva: existia no Brasil uma missão da PNCC regularmente organizada, com governo próprio delegado pela autoridade central da Igreja.
+
+Em **9 de abril de 1976**, a paróquia de Barão de Cotegipe foi registada perante as autoridades brasileiras sob a denominação de **“Igreja Polaco-Católica no Brasil”**.
+
+A questão da missão brasileira foi tratada pelo Conselho Geral da PNCC reunido em Scranton nos dias **27 e 28 de abril de 1976**, que decidiu, entre outras medidas, apoiar a construção de uma nova igreja e residência paroquial em Barão de Cotegipe.
+
+Durante esta nova fase organizaram-se também comunidades em **Erechim, Gramado e Linha Duas**, foram enviados sacerdotes missionários e iniciou-se a preparação de vocações brasileiras.
+
+Em janeiro de **1977**, **Amelio Jacuniak**, filho de uma família da comunidade de Barão de Cotegipe, ingressou no **Savonarola Theological Seminary da PNCC em Scranton**, tornando-se o primeiro seminarista brasileiro daquela instituição.
 
 Em **4 de janeiro de 1977**, **Amelio Jacuniak**, oriundo da comunidade de Barão de Cotegipe, ingressou no **Savonarola Theological Seminary**, da PNCC, em Scranton.
 
@@ -234,33 +219,59 @@ Fonte: Czesław Kuliczkowski — <em>The Polish National Catholic Mission in Bra
 </center>
 <br>
 
-Em **4 de dezembro de 1977**, a nova igreja de Barão de Cotegipe foi consagrada por **Dom Francis Rowiński**, Bispo da Diocese Ocidental da PNCC.
+O desenvolvimento da missão culminou, em **4 de dezembro de 1977**, na consagração da nova igreja de Barão de Cotegipe por **Dom Francis Rowiński**, então Bispo da Diocese Ocidental da PNCC.
 
-Assim, entre 1975 e 1978 encontra-se documentalmente comprovada uma missão regularmente organizada pela PNCC no Brasil, com Vigário-Geral, sacerdotes, paróquias, património e supervisão episcopal.
+Rowiński foi enviado ao Brasil pelo Primeiro Bispo e pelo Conselho Geral da PNCC para realizar a consagração, acompanhado pelo Vigário-Geral e pelos sacerdotes da missão.
+
+A presença de um bispo da PNCC no Brasil, a nomeação de um Vigário-Geral, o apoio do Conselho Geral, a formação de clero em Scranton e a organização das paróquias demonstram que, entre 1975 e 1978, a antiga comunidade sobrevivente de 1938 voltou a encontrar-se plenamente integrada numa **missão brasileira regularmente governada pela Polish National Catholic Church**.
+
+<u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/1978/Rodzina_1978_13.pdf" target="_blank" rel="noopener noreferrer">
+Rodzina, 1978 — consagração da igreja de Barão de Cotegipe por Dom Francis Rowiński
+</a></u>
 <br><br>
 
 
-### 1979 — O encerramento da fase regular da PNCC
 
-A situação alterou-se em **1979**.
 
-A documentação histórica baseada nos arquivos de Wiktor Wysoczański regista que, a partir de **25 de fevereiro de 1979**, o Vigário-Geral **Bronisław Wojdyła deixou de estar em comunhão com a PNCC dos Estados Unidos e Canadá e com a Igreja Polaco-Católica da Polónia**.
+### 1979 — Ruptura administrativa com a PNCC
+
+
+Esta fase de administração regular direta terminou em **25 de fevereiro de 1979**.
+
+A documentação histórica da própria tradição polaco-católica regista que, a partir dessa data, o Vigário-Geral **Bronisław Wojdyła deixou de permanecer em comunhão administrativa com a PNCC dos Estados Unidos e Canadá e com a Igreja Polaco-Católica na Polónia**.
+
+Este acontecimento deve ser distinguido da história anterior.
+
+A comunidade brasileira não nasceu em 1979 nem recebeu então uma nova identidade. Quando ocorreu a ruptura, existia já uma realidade eclesial com **mais de quatro décadas de história**, cuja vinculação formal à PNCC remontava à receção das paróquias brasileiras em 1938 e que havia sido novamente organizada e reconhecida pela própria PNCC entre 1975 e 1978.
+
+A separação de 1979 encerrou a administração regular da PNCC sobre a missão, mas não apagou a história, a identidade e a tradição eclesial recebidas durante esse período.
 
 <u><a href="https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/2008/Rodzina_2008_11.pdf" target="_blank" rel="noopener noreferrer">
-Rodzina, novembro de 2008 — situação da missão a partir de 25 de fevereiro de 1979
+Rodzina, novembro de 2008 — situação da missão brasileira a partir de 25 de fevereiro de 1979
 </a></u>
 <br><br>
 
-A ruptura encerrou a fase em que a missão brasileira funcionou sob a administração regular da PNCC.
 
-A comunidade de Barão de Cotegipe, contudo, continuou a existir localmente. Em março de **1981**, o jornal polono-brasileiro <em>LUD</em> ainda identificava expressamente a **“Igreja Católica Polonesa — Barão de Cotegipe”**.
+### Depois de 1979 — permanência da identidade polaco-católica
+
+
+A vida eclesial local continuou depois da perda da ligação administrativa regular a Scranton.
+
+Uma evidência contemporânea dessa permanência surge em **10 de março de 1981**, quando o periódico polaco <em>LUD</em> continua a identificar em Barão de Cotegipe uma entidade denominada expressamente **“Igreja Católica Polonesa”**.
+
+A designação é significativa porque demonstra que, mesmo depois da ruptura administrativa de 1979, a comunidade continuava a apresentar-se publicamente segundo a identidade eclesial polaco-católica recebida nas décadas anteriores.
 
 <u><a href="https://pbc.uw.edu.pl/id/eprint/11814/1/Lud_1981_09.pdf" target="_blank" rel="noopener noreferrer">
-LUD, 10 de março de 1981
+LUD — 10 de março de 1981
 </a></u>
 <br><br>
 
-A história particular de Barão de Cotegipe constitui, portanto, uma importante testemunha da permanência das comunidades polacas, mas não deve ser confundida com a linha de governo episcopal que, desde Dom Jan Piotr Perkowski, se desenvolveu sobretudo a partir de São Paulo.
+
+Esta permanência histórica constitui uma das raízes da tradição eclesial que a atual **Igreja Apostólica Vétero-Católica do Brasil — Fidelitas** assume e procura preservar.
+
+A Fidelitas reconhece na tradição católica nacional polaca um elemento fundamental da sua identidade histórica e doutrinal e, no presente, afirma publicamente a sua vontade de restaurar uma relação de plena comunhão com a tradição hoje representada pela **União de Scranton**, constituída em torno da própria Polish National Catholic Church.
+
+Esta aspiração não altera a situação canónica presente nem substitui o necessário reconhecimento entre Igrejas. Expressa, antes, a consciência histórica de uma Igreja brasileira cujas raízes incluem comunidades formalmente recebidas na PNCC em **1938**, preservadas durante décadas no Brasil e novamente organizadas pela própria PNCC na década de **1970**.
 <br><br>
 
 
