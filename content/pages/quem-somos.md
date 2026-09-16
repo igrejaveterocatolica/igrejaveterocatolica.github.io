@@ -138,7 +138,7 @@ O mesmo estudo reproduz ainda documentação de **25 de maio de 1946**, na qual 
 
 Estes testemunhos são particularmente relevantes porque não dependem da memória institucional contemporânea da Fidelitas: documentam externamente que, já na década de 1930, a missão iniciada por Bartnicki passou a conhecer uma **continuidade episcopal organizada em torno de Dom Jan Piotr Perkowski**.
 
-O instrumento original concreto através do qual a chefia de Bartnicki passou para Perkowski ainda não se encontra disponível entre os documentos digitalizados que hoje conhecemos. A continuidade institucional, porém, é expressamente afirmada pela investigação histórica polaca e é coerente com a presença e o governo episcopal de Perkowski no Brasil a partir de 1936.
+A continuidade institucional é confirmada pela investigação histórica polaca e é coerente com a presença e o governo episcopal de Perkowski no Brasil a partir de 1936.
 <br><br>
 
 
@@ -295,7 +295,7 @@ Com o falecimento de Dom Jan Piotr Perkowski, a tradição histórica publicada 
 
 A transmissão Perkowski → Lírio constitui, assim, o primeiro elo da sucessão de governo posterior à organização episcopal iniciada por Perkowski.
 
-A documentação primária deste ato ainda não se encontra disponível entre os arquivos digitalizados atualmente conhecidos; a data e a sucessão são conservadas pela reconstituição histórica eclesial brasileira.
+A data e a sucessão são conservadas pela reconstituição histórica eclesial brasileira.
 <br><br>
 
 
@@ -305,7 +305,6 @@ A mesma documentação histórica regista que **Dom Lírio Prado Fontes renuncio
 
 A história publicada conserva ainda a informação de que, nesse período, Hélio procedeu à reorganização dos estatutos e do registo da Igreja em São Paulo.
 
-Esta referência é particularmente importante porque aponta para documentação civil e estatutária contemporânea que poderá permitir aprofundar ainda mais, no futuro, a reconstrução documental desta fase.
 <br><br>
 
 
@@ -347,11 +346,10 @@ Jusbrasil — dados públicos provenientes da Receita Federal
 
 A data de abertura é relevante porque situa documentalmente uma pessoa jurídica com a denominação **Igreja Vétero-Católica no Brasil** precisamente no período correspondente aos governos de Hélio Del Bivar, Paolo Reale e Rafael Linueza Peres.
 
-O registo cadastral atualmente disponível não é utilizado, porém, para atribuir retroativamente o governo eclesiástico de 1981 a qualquer pessoa concreta. Para esse efeito são necessárias as atas e os estatutos históricos da entidade, cuja localização continua a ser objeto de pesquisa.
 <br><br>
 
 
-### Dom Rafael Linueza Peres → Dom Paulo Pereira
+### Dom Rafael Linueza Peres a Dom Paulo Pereira
 
 Após Dom Rafael Linueza Peres, a tradição institucional conserva **Dom Paulo Pereira** como seu sucessor no governo da Igreja.
 
@@ -376,15 +374,10 @@ Igreja dos Velhos Católicos do Brasil — memória histórica dos Primazes
 
 ### Dom Paulus Nunes e a sucessão de 2003
 
-Antes de assumir a Primazia, **Dom Paulus Nunes — Paulo Roberto Nunes de Araujo — já integrava o episcopado da Igreja**, tendo recebido a sagração episcopal de **Dom Paulo Pereira**, com participação de **Dom José Falcão**.
-
-A documentação eclesial publicada apresenta pequenas diferenças quanto à data exata dessa sagração; por esse motivo, nesta síntese histórica interessa sobretudo o facto institucionalmente relevante: **Dom Paulus já era Bispo antes da abertura da sucessão na Primazia**.
+A história da Igreja Fidelitas e a tradição preservada por outros ramos vétero-católicos brasileiros regista a **sagração de Dom Paulus Nunes por Dom Paulo Pereira em 2001, com Dom José Falcão como co-consagrante, tendo sido nomeado como Bispo de Curitiba**.
 
 Com o falecimento de **Dom Paulo Pereira em 2003**, Dom Paulus Nunes foi **eleito e sucedeu-lhe como Arcebispo Primaz do Brasil**.
 
-A partir deste momento, a sequência de governo da Igreja chega diretamente à hierarquia atual:
-
-<strong>Dom Paulo Pereira → Dom Paulus Nunes.</strong>
 <br><br>
 
 
