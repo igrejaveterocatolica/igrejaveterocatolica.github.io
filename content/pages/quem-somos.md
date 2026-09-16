@@ -251,7 +251,6 @@ Rodzina, novembro de 2008 — situação da missão brasileira a partir de 25 de
 </a></u>
 <br><br>
 
-
 ### Depois de 1979 — permanência da identidade polaco-católica
 
 
