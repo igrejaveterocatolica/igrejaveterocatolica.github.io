@@ -58,6 +58,8 @@ As quatro questões encontram resposta convergente na documentação constitucio
 
 O problema posterior não é, portanto, a origem da Ordem episcopal de Faron, mas o destino do seu ofício e da sua jurisdição depois da crise de 1931.
 
+<br>
+
 ### 2.2. A Constituição polaca e a autoridade da PNCC
 
 O I Sínodo Geral da Igreja na Polónia, reunido entre **27 e 29 de junho de 1928**, aprovou uma Constituição própria, modificada em 1929. Segundo a investigação jurídico-institucional de **Wiktor Wysoczański**, essa Constituição atribuía ao Sínodo a autoridade suprema e legislativa e confiava a autoridade executiva ao bispo juntamente com o Conselho Sinodal. Wysoczański observa igualmente que as versões de 1928 e 1929 não definiam com precisão a relação jurídica entre a Igreja na Polónia e a PNCC nos Estados Unidos.
@@ -69,6 +71,8 @@ Uma análise contemporânea da Constituição de 1929, publicada em 1930 pela *K
 [Análise contemporânea da Constituição de 1929 — *Kronika Diecezji Sandomierskiej*, 1930](https://bc.radom.pl/Content/38912/kronika%20diecezji%20sandomierskiej%201930%20nr%207-8%20pdf.pdf)
 
 Estes elementos demonstram que existia uma ordem constitucional polaca que não podia ser substituída por simples vontade administrativa. A imprecisão da relação com a PNCC norte-americana não elimina as competências expressamente atribuídas ao Sínodo polaco nem autoriza presumir um poder de destituição episcopal não previsto no texto constitucional.
+
+<br>
 
 ### 2.3. O que Sadowski documenta sobre 2 de setembro de 1931
 
@@ -88,6 +92,8 @@ Segundo o mesmo estudo:
 A direção da PNCC promoveu e recebeu a suspensão no seu próprio foro. Todavia, **autoridade institucional de facto e competência constitucional para destituir um bispo são questões diferentes**. As fontes mostram que compareceu apenas cerca de metade do clero, que Faron e a maioria dos seus apoiantes não participaram e que não está demonstrada a constituição da assembleia como o Sínodo competente nem o cumprimento do procedimento de destituição previsto.
 
 As mesmas fontes documentam a sobrevivência de uma comunidade organizada sob Faron. A própria narrativa de Sadowski chama a Faron bispo legalmente eleito e descreve, depois da rutura, uma das duas estruturas resultantes como estando sob a sua jurisdição.
+
+<br>
 
 ### 2.4. O efeito jurídico da crise de 1931
 
@@ -119,6 +125,8 @@ Em 1932, a estrutura governada por Faron já se encontrava separada da administr
 
 A documentação contemporânea encontra-se reunida na nossa [página de história](/quem-somos.html).
 
+<br>
+
 ### 3.2. A consagração e a partida de Perkowski
 
 Em **3 de maio de 1934**, Faron consagrou **Dom Jan Piotr Perkowski** bispo-sufragâneo. Este ato é relevante para a continuidade sacramental e para a existência de uma chefia episcopal ligada à estrutura de Faron. Não basta, isoladamente, para demonstrar a transmissão de uma jurisdição territorial no Brasil.
@@ -131,6 +139,8 @@ As duas afirmações descrevem momentos sucessivos da mesma realidade eclesial. 
 
 A autonomia brasileira não é deduzida da consagração episcopal considerada isoladamente. Resulta da conjugação de factos eclesiais convergentes: missão territorial preexistente, jurisdição missionária documentada, chefia episcopal, organização estável no Brasil, receção pela comunidade e continuidade posterior do governo. Estes elementos demonstram a passagem de uma missão dependente para uma Igreja local dotada de governo próprio.
 
+<br>
+
 ### 3.3. A declaração de Faron de 1946
 
 Uma declaração de Faron, datada de **25 de maio de 1946**, fornece um elemento independente da memória institucional atual. Faron afirmou ter enviado sacerdotes vétero-católicos ao Brasil juntamente com Perkowski, declarou que continuavam ali a trabalhar e disse ter confirmado a eleição de **Salomão Barbosa Ferraz** como novo bispo no Brasil, cuja sagração prevista para 1939 não ocorreu por causa da guerra.
@@ -138,6 +148,8 @@ Uma declaração de Faron, datada de **25 de maio de 1946**, fornece um elemento
 [Documento que reproduz a declaração de Władysław M. Faron de 25 de maio de 1946](https://czaz.akademiazamojska.edu.pl/index.php/az/article/download/1200/1241/1221)
 
 Este documento corrobora três factos: a ligação da obra brasileira a Faron, a participação de Perkowski nessa obra e a existência de um processo brasileiro de sucessão episcopal reconhecido pelo próprio Faron. A confirmação da eleição de Ferraz mostra que Faron não tratava a Igreja brasileira como uma iniciativa estranha ou ilegítima depois de 1936, mas como continuação eclesial da missão que estabelecera.
+
+<br>
 
 ### 3.4. O que fica provado neste primeiro período
 
@@ -173,6 +185,8 @@ Estes elementos são concordantes e complementares: os registos eclesiásticos d
 
 Consequentemente, a continuidade **Perkowski → Lírio → Hélio → Paolo → Rafael → Paulo Pereira → Paulus Nunes** não é apresentada como hipótese nem como genealogia sacramental. É a linha de chefia e jurisdição conservada pela Igreja brasileira e confirmada publicamente por fontes que não dependem exclusivamente da atual Fidelitas.
 
+<br>
+
 ### A Conferência Internacional de 2018
 
 Entre **18 e 20 de maio de 2018**, reuniu-se em Xanxerê, Santa Catarina, a **Conferência Internacional dos Bispos Vétero-Católicos Fidelitas**. Segundo a documentação institucional, os bispos reunidos confirmaram colegialmente **Dom Paulus Nunes** no Governo Patriarcal.
@@ -182,6 +196,8 @@ Entre **18 e 20 de maio de 2018**, reuniu-se em Xanxerê, Santa Catarina, a **Co
 A Fidelitas apresenta uma organização composta por governo geral, Primazias nacionais, Arquidioceses, Dioceses e órgãos colegiais, com normas de eleição e receção de bispos, incardinação, disciplina e governo. Isto demonstra que a Fidelitas atual não é apenas uma coleção de certificados de sagração: é uma comunhão eclesial com estrutura interna reconhecível.
 
 A Conferência de 2018 não constitui a origem da Fidelitas. Confirma colegialmente, no presente, o governo resultante da sucessão histórica já preservada pela Igreja e demonstra que essa continuidade se exprime numa comunhão internacional organizada.
+
+<br>
 
 ### Relação com a União de Scranton
 
@@ -382,6 +398,8 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 9. **Sucessão sacramental:** os bispos e clérigos possuem sucessão apostólica documentada através das linhas episcopais recebidas pela Igreja; essa continuidade sacramental acompanha, mas não substitui, o título jurisdicional transmitido pelo governo eclesial.
 
 10. **Comunhão externa:** o pedido de adesão a Scranton procura estabelecer plena comunhão entre Igrejas já constituídas. Uma futura receção reconhecerá e regulará essa comunhão; não criará retroativamente a Ordem, a jurisdição ou a existência da Fidelitas.
+
+<br>
 
 ### Segunda linha — precedente sacramental e pastoral
 
