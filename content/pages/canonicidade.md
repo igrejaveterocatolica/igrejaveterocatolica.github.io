@@ -559,6 +559,15 @@ O fundamento jurídico encontra-se no <u>[cân. 844 §3 do Código de Direito Ca
 As condições objetivas que tornaram possível a aplicação dessa disciplina à PNCC (sucessão apostólica, episcopado e sacerdócio válidos, Eucaristia válida, fé sacramental católica e estrutura eclesial própria) verificam-se também, segundo a documentação e a profissão de fé da **Fidelitas**. Por isso, o precedente PNCC–Roma demonstra que podem ser estudados e celebrados **acordos concretos e específicos com a Fidelitas no âmbito do cân. 844 §3**.
 
 
+Esta disciplina pastoral corresponde a um princípio eclesiológico mais amplo reconhecido pelo próprio Magistério romano. Na Audiência Geral de **10 de maio de 2006**, dedicada à sucessão apostólica, o Papa **Bento XVI** apresentou a sucessão do ministério episcopal como garantia histórica da permanência da Tradição apostólica e afirmou que a sucessão apostólica constitui um critério fundamental da continuidade das Igrejas particulares na fé recebida dos Apóstolos. A sucessão episcopal não é, portanto, compreendida apenas como uma cadeia material de ordenações, mas como instrumento histórico através do qual se preservam a transmissão da fé apostólica e a ação sacramental de Cristo na Igreja.
+
+Esta consideração deve ser lida juntamente com a formulação particularmente explícita da declaração ***Dominus Iesus***, n.º 17, segundo a qual as Igrejas que, embora não estejam em perfeita comunhão com a Igreja Católica Romana, permanecem ligadas a ela por vínculos como a **sucessão apostólica e uma Eucaristia válida são verdadeiras Igrejas particulares**, nas quais a Igreja de Cristo permanece presente e operante.
+
+<u>[Bento XVI — Audiência Geral de 10 de maio de 2006: A Sucessão Apostólica](https://www.vatican.va/content/benedict-xvi/pt/audiences/2006/documents/hf_ben-xvi_aud_20060510.html)</u>
+
+<u>[Congregação para a Doutrina da Fé — *Dominus Iesus*, n.º 17](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_po.html)</u>
+
+Estes textos não constituem, evidentemente, um reconhecimento canónico da **Fidelitas** por parte da Santa Sé, nem permitem presumir o juízo que caberia à autoridade romana formular sobre uma Igreja concreta. Demonstram, porém, um princípio relevante para a presente argumentação: **a ausência de plena comunhão com Roma não exclui, por si mesma, a existência de uma verdadeira Igreja particular**, quando subsistem os elementos eclesiológicos e sacramentais que a própria doutrina católica considera constitutivos, nomeadamente a sucessão apostólica, o episcopado válido e a Eucaristia válida.
 
 
 Isto não significa que o regime concedido à PNCC se estenda automaticamente à Fidelitas: o próprio cânone exige o correspondente juízo da autoridade romana. Significa que existe um precedente jurídico e pastoral adequado e que a Fidelitas reúne os elementos objetivos necessários para pedir esse exame e negociar soluções semelhantes.
@@ -736,7 +745,7 @@ A nossa posição pode ser resumida em três níveis.
 
 
 
-8. **Eclesiologia:** esta compreensão da Igreja local — autoridade própria, sinodalidade e comunhão sem uma jurisdição universal que absorva as Igrejas particulares — corresponde à matriz ultrajectina formulada pela Declaração de Utrecht, encontra importantes pontos de convergência no diálogo oficial entre a União de Utrecht e a Ortodoxia e permanece substancialmente presente nos princípios atualmente professados pela União de Scranton.
+8. **Eclesiologia:** esta compreensão da Igreja local (autoridade própria, sinodalidade e comunhão sem uma jurisdição universal que absorva as Igrejas particulares) corresponde à matriz ultrajectina formulada pela Declaração de Utrecht, encontra importantes pontos de convergência no diálogo oficial entre a União de Utrecht e a Ortodoxia e permanece substancialmente presente nos princípios atualmente professados pela União de Scranton.
 
 
 <br>
