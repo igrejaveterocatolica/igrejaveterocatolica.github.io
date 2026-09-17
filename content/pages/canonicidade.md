@@ -412,10 +412,71 @@ Assim, a primeira linha do argumento canónico pode ser formulada de maneira sim
 
 <br>
 
+## 4. A constituição eclesial da Fidelitas e a Conferência Internacional de 2018
+
+A continuidade de uma jurisdição eclesial não se demonstra apenas pela sucessão pessoal dos seus bispos. Uma Igreja deve possuir também uma **constituição eclesial reconhecível**: governo estável, episcopado organizado, circunscrições territoriais, mecanismos de comunhão entre os bispos, disciplina própria e procedimentos pelos quais a autoridade é exercida e transmitida.
+
+Este elemento é particularmente importante no caso da **Fidelitas do Brasil e Exterior**.
+
+Entre **18 e 20 de maio de 2018**, reuniu-se na cidade de **Xanxerê, Santa Catarina**, a **Conferência Internacional dos Bispos Vétero-Católicos Fidelitas**. Segundo a documentação institucional da própria Fidelitas, os bispos reunidos confirmaram colegialmente **Dom Paulus Nunes** no Governo Patriarcal da Igreja.
+
+<u>[Conferência Internacional dos Bispos Vétero-Católicos Fidelitas — documentação institucional](https://veteros.wixsite.com/meusiteveterosiavcbf/conferencia-internacional-dos-bispo)</u>
+
+O significado eclesiológico desse acontecimento ultrapassa a confirmação pessoal de um determinado Primaz.
+
+A documentação normativa associada à Fidelitas descreve uma estrutura eclesial constituída por **Governo Patriarcal, Primazias nacionais, Arquidioceses e Dioceses**, e prevê ainda organismos de comunhão e governo como a **Conferência Internacional**, o **Conselho Episcopal**, o **Conselho Presbiteral**, Ordinariatos, Prelaturas e instituições de formação.
+
+Prevê igualmente normas para a escolha e sagração dos bispos, para a sua receção na comunhão eclesial, para a incardinação do clero, para o exercício da disciplina e para a relação entre o governo geral da Igreja e o governo próprio das circunscrições locais.
+
+Estamos, portanto, perante uma realidade diferente de uma simples sucessão privada de consagrações episcopais.
+
+A **sucessão apostólica** responde à pergunta sobre quem recebeu validamente o episcopado; a **continuidade jurisdicional** responde à pergunta sobre a origem do poder de governo; a **constituição eclesial**, por sua vez, demonstra de que maneira esse episcopado e essa jurisdição se encontram incorporados numa Igreja organizada e exercidos através de instituições estáveis.
+
+Esta distinção é importante porque a tradição católica nunca compreendeu a Igreja apenas como uma cadeia genealógica de bispos. O episcopado existe dentro de uma realidade eclesial composta por bispos, presbíteros, diáconos, fiéis, circunscrições, disciplina, governo e comunhão.
+
+A Conferência Internacional de 2018 constitui, neste sentido, um momento documentalmente relevante da vida da Fidelitas: vários bispos pertencentes à mesma comunhão reuniram-se, exerceram colegialmente uma função de governo e reconheceram uma autoridade comum destinada a servir a unidade da Igreja.
+
+A sua importância deve, contudo, ser formulada com precisão.
+
+A Conferência de 2018 **não criou retroativamente a jurisdição brasileira** e não substitui a demonstração da sua origem histórica na missão estabelecida por Faron em 1932 e continuada pela Igreja de Perkowski. A origem da jurisdição deve ser examinada segundo a documentação histórica anteriormente apresentada.
+
+O que 2018 demonstra é outra realidade: a jurisdição cuja continuidade a Fidelitas reivindica não se apresenta no presente apenas através de bispos individualmente consagrados, mas encontra-se organizada numa **comunhão episcopal dotada de estruturas permanentes de governo, disciplina e sinodalidade**.
+
+Esta consideração responde também à distinção clássica entre uma verdadeira estrutura eclesial e o fenómeno dos chamados *episcopi vagantes*. A mera posse da Ordem episcopal não transforma automaticamente um bispo numa Igreja nem lhe confere jurisdição sobre um território. No caso da Fidelitas, porém, a reivindicação apresentada não é apenas a de possuir bispos validamente consagrados: é a de existir uma Igreja organizada, dotada de governo geral, Igrejas e circunscrições locais, episcopado em comunhão, clero incardinado e normas próprias para o exercício e transmissão da autoridade.
+
+A Conferência de 2018 possui ainda uma relevância particular para a relação entre o **Governo Patriarcal** e as **Primazias ou Igrejas nacionais**.
+
+A estrutura descrita pela própria Fidelitas não identifica comunhão com absorção das Igrejas locais. Existe uma autoridade comum destinada às matérias da comunhão geral e, simultaneamente, autoridades episcopais responsáveis pelo governo das respetivas circunscrições. Esta estrutura corresponde, no seu princípio, ao modelo já exposto anteriormente: **autoridade própria da Igreja local e comunhão supralocal não se excluem, mas devem operar conjuntamente**.
+
+Consequentemente, o argumento de continuidade da Fidelitas contém quatro elementos que não devem ser confundidos:
+
+**a Ordem**, recebida através da sucessão apostólica;
+
+**a jurisdição**, cuja origem histórica é situada na Igreja de Faron e na missão brasileira constituída em 1932;
+
+**a continuidade do governo**, preservada pela sucessão dos responsáveis da Igreja brasileira;
+
+e **a constituição eclesial**, pela qual essa autoridade se encontra atualmente incorporada numa comunhão organizada de bispos, Igrejas e estruturas sinodais.
+
+É neste último plano que a **Conferência Internacional de 2018** adquire particular importância.
+
+Ela não constitui uma fonte alternativa destinada a preencher artificialmente uma eventual ausência de jurisdição anterior. Constitui antes uma **manifestação institucional e colegial da comunhão eclesial que reivindica ter recebido e continuar aquela jurisdição**, demonstrando que a Fidelitas contemporânea possui órgãos pelos quais a autoridade eclesial é reconhecida, exercida, coordenada e transmitida.
+
+Esta constituição eclesial é igualmente relevante para o mandato posteriormente conferido à Igreja em Portugal. Se a jurisdição portuguesa procede da Fidelitas, importa demonstrar não apenas que existe uma pessoa episcopal capaz de assinar um decreto, mas que existe uma **autoridade eclesial constituída**, inserida numa estrutura de comunhão e governo, da qual esse mandato possa canonicamente proceder.
+
+Assim, a Conferência Internacional de 2018 não é apresentada como origem da canonicidade da Fidelitas, mas como evidência da sua **continuidade institucional, colegialidade episcopal e constituição eclesial contemporânea**.
+
+A cadeia do argumento pode, por isso, ser formulada do seguinte modo:
+
+**jurisdição legitimamente recebida → missão brasileira → continuidade episcopal e de governo → constituição de uma comunhão eclesial organizada → exercício colegial da autoridade → mandato às Igrejas e missões locais.**
+
+É dentro desta estrutura, e não pela simples existência de uma linhagem de consagrações episcopais, que deve ser compreendido o mandato conferido à Igreja Vétero-Católica de Jerusalém em Portugal.
+
+<br>
 
 
 
-## 4. A jurisdição portuguesa e a sucessão apostólica
+## 5. A jurisdição portuguesa e a sucessão apostólica
 
 
 
@@ -472,7 +533,7 @@ A existência destas linhas múltiplas reforça documentalmente a continuidade s
 
 
 
-## 5. O precedente PNCC–Roma e o cân. 844 §3
+## 6. O precedente PNCC–Roma e o cân. 844 §3
 
 
 
@@ -512,7 +573,7 @@ Este argumento é subsidiário. Os acordos com Roma não criariam retroativament
 
 
 
-## 6. A União de Scranton e a eclesiologia da Igreja local
+## 7. A União de Scranton e a eclesiologia da Igreja local
 
 
 
@@ -587,7 +648,7 @@ A ausência atual dessa plena comunhão também não constitui, por si mesma, um
 
 
 
-## 7. Jurisdição suprida: garantia subsidiária
+## 8. Jurisdição suprida: garantia subsidiária
 
 
 
@@ -622,7 +683,7 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 
 
 
-## 8. Síntese do argumento canónico
+## 9. Síntese do argumento canónico
 
 
 
