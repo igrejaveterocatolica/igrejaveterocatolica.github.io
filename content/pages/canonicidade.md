@@ -456,7 +456,7 @@ A linha principal procede da **Igreja Vétero-Católica Polaca de Władysław M.
 
 
 **Dom Carlos Duarte Costa;
-Joseph-René Vilatte;
+Dom Joseph-René Vilatte;
 Dom Arnold Harris Mathew.**
 
 
