@@ -937,7 +937,7 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 10. **Sucessão sacramental:** os bispos e clérigos possuem sucessão apostólica documentada através das linhas episcopais recebidas pela Igreja; essa continuidade sacramental acompanha, mas não substitui, o título jurisdicional transmitido pelo governo eclesial.
 
 
-11. **Comunhão externa:** o pedido de adesão a Scranton procura estabelecer plena comunhão entre Igrejas já constituídas. Uma futura receção reconhecerá e regulará essa comunhão; não criará retroativamente a Ordem, a jurisdição ou a existência da Fidelitas.
+11. **Comunhão externa:** a Igreja Vétero-Católica de Jerusalém em Portugal através da Conferência Internacional de Bispos Vétero-Católicos Fidelitas integra uma comunhão internacional de igrejas desta tradição. Adicionalmente existe um pedido de adesão a Scranton pendente de aceitação. A existências destas comunhões reforça o reconhecimento da nossa realidade eclesial mas não criará retroativamente a Ordem, a jurisdição ou a existência da Fidelitas.
 
 
 <br>
