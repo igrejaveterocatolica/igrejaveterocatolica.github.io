@@ -330,7 +330,7 @@ A cadeia episcopal seguinte é conhecida documentalmente a partir de **Scipione 
 
 
 
-### Linha PNCC / Polaca
+### Linha PNCC
 
 
 
