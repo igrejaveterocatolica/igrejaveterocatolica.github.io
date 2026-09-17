@@ -378,7 +378,7 @@ Bispo Vétero-Católico em exercício no país.
 
 
 
-### Continuação Brasileira da Linhagem de Perkowski
+### Linha Vétero-Católica Brasileira
 
 
 
