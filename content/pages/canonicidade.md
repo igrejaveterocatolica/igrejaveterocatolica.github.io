@@ -481,7 +481,7 @@ A cadeia do argumento pode, por isso, ser formulada do seguinte modo:
 
 
 
-A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente do mandato da **Fidelitas do Brasil e Exterior**.
+A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente do <a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a> da **Fidelitas do Brasil e Exterior**.
 
 
 
