@@ -5,7 +5,7 @@ title: Sucessão Apostólica
 ## Introdução
 
 
-A presente página reúne as principais **linhagens de sucessão episcopal** recebidas pela Igreja Vétero-Católica de Jerusalém em Portugal, sendo a principal a **linhagem da PNCC do Brasil** que é também a origem da nossa jurisdição. Damos destaque ainda a três outras linhas importantes: Vilatte/Síriaca, Mathew/Vétero-Católica e Duarte Costa/Romana.
+A presente página reúne as principais **linhagens de sucessão episcopal** recebidas pela Igreja Vétero-Católica de Jerusalém em Portugal, sendo a principal a **linhagem da Igreja Vétero-Católica Polaca** que é também a origem da nossa jurisdição. Damos destaque ainda a três outras linhas importantes: Vilatte/Síriaca, Mathew/Vétero-Católica e Duarte Costa/Romana.
 
 
 **Nota sobre a sucessão antiga:** Nos primeiros séculos, a sucessão apostólica era registada sobretudo como sucessão dos bispos de uma determinada Sé apostólica. Assim, as listas tradicionais de Roma e Antioquia representam a continuidade histórica dessas Igrejas desde São Pedro e não, em todos os casos, uma cadeia documental em que seja possível demonstrar que cada bispo consagrou pessoalmente o seguinte. Em épocas posteriores, com registos mais completos, torna-se possível identificar também os consagradores e coconsagradores. As listagens abaixo reúnem ambos os tipos de registo.
@@ -15,18 +15,18 @@ A presente página reúne as principais **linhagens de sucessão episcopal** rec
 
 
 <details>
-<summary>Linhagem Vétero-Católica/PNCC - Ramo Brasileiro</summary>
+<summary>Linhagem Vétero-Católica Polaca - Ramo Brasileiro</summary>
 
 
 
 
-## Linhagem Vétero-Católica/PNCC - Ramo Brasileiro
+## Linhagem Vétero-Católica Polaca - Ramo Brasileiro
 
 
 
 
 Esta linhagem constitui um ramo da sucessão episcopal de Utrecht transmitido à
-**Polish National Catholic Church (PNCC)** através de Dom Francis Hodur.
+**Polish National Catholic Church (PNCC)** através de Dom Francis Hodur e depois levado ao Brasil pelos seguidores de Dom Władysław Faron fundador da **Igreja Vétero-Católica Polaca**.
 
 1. São Pedro, o Apóstolo (Roma), c. 42 d.C.
 2. São Lino, 68 d.C.
@@ -349,7 +349,7 @@ da Igreja Vétero-Católica de Utrecht para a Igreja Católica Nacional Polonesa
 
 
 
-
+### Linha Vétero-Católica Polaca
 249. **Bispo Władysław Marcin Faron, 1930 d.C.**
 
 
