@@ -415,7 +415,7 @@ Assim, a primeira linha do argumento canónico pode ser formulada de maneira sim
 
 <br>
 
-## 4. A constituição eclesial da Fidelitas e a Conferência Internacional de 2018
+## 4. A constituição eclesial da Fidelitas, a sua comunhão internacional e a relação com a União de Scranton
 
 A continuidade de uma jurisdição eclesial não se demonstra apenas pela sucessão pessoal dos seus bispos. Uma Igreja deve possuir também uma **constituição eclesial reconhecível**: governo estável, episcopado organizado, circunscrições territoriais, mecanismos de comunhão entre os bispos, disciplina própria e procedimentos pelos quais a autoridade é exercida e transmitida.
 
@@ -425,55 +425,35 @@ Entre **18 e 20 de maio de 2018**, reuniu-se na cidade de **Xanxerê, Santa Cata
 
 <u>[Conferência Internacional dos Bispos Vétero-Católicos Fidelitas — documentação institucional](https://veteros.wixsite.com/meusiteveterosiavcbf/conferencia-internacional-dos-bispo)</u>
 
-O significado eclesiológico desse acontecimento ultrapassa a confirmação pessoal de um determinado Primaz.
+A documentação normativa da Fidelitas descreve uma comunhão eclesial constituída por **Governo Patriarcal, Primazias nacionais, Arquidioceses e Dioceses**, juntamente com organismos de comunhão e governo como a **Conferência Internacional**, o **Conselho Episcopal** e o **Conselho Presbiteral**, além de Ordinariatos, Prelaturas e instituições de formação. Prevê igualmente normas para a escolha e sagração dos bispos, para a receção destes na comunhão eclesial, para a incardinação do clero, para o exercício da disciplina e para a relação entre o governo geral e as circunscrições locais.
 
-A documentação normativa associada à Fidelitas descreve uma estrutura eclesial constituída por **Governo Patriarcal, Primazias nacionais, Arquidioceses e Dioceses**, e prevê ainda organismos de comunhão e governo como a **Conferência Internacional**, o **Conselho Episcopal**, o **Conselho Presbiteral**, Ordinariatos, Prelaturas e instituições de formação.
+Estamos, portanto, perante uma realidade diferente de uma simples sucessão privada de consagrações episcopais. A **sucessão apostólica** responde à questão da continuidade sacramental do episcopado; a **jurisdição** diz respeito à origem do poder de governo; a **continuidade institucional** demonstra a permanência de uma Igreja organizada; e a **comunhão eclesial** determina a relação dessa Igreja com outras Igrejas da mesma tradição.
 
-Prevê igualmente normas para a escolha e sagração dos bispos, para a sua receção na comunhão eclesial, para a incardinação do clero, para o exercício da disciplina e para a relação entre o governo geral da Igreja e o governo próprio das circunscrições locais.
+A Conferência Internacional de 2018 não criou retroativamente a jurisdição brasileira nem constitui a sua origem. Essa origem deve continuar a ser examinada à luz da missão estabelecida por **Władysław M. Faron em 1932**, da continuidade episcopal de **Jan Piotr Perkowski** e da sucessão posterior do governo da Igreja brasileira. O significado de 2018 é outro: demonstra que essa continuidade se exprime atualmente numa **comunhão internacional organizada de Igrejas e bispos**, dotada de estruturas permanentes de governo, disciplina e sinodalidade.
 
-Estamos, portanto, perante uma realidade diferente de uma simples sucessão privada de consagrações episcopais.
+É neste ponto que a relação com a **União de Scranton** adquire particular relevância.
 
-A **sucessão apostólica** responde à pergunta sobre quem recebeu validamente o episcopado; a **continuidade jurisdicional** responde à pergunta sobre a origem do poder de governo; a **constituição eclesial**, por sua vez, demonstra de que maneira esse episcopado e essa jurisdição se encontram incorporados numa Igreja organizada e exercidos através de instituições estáveis.
+A Fidelitas reconhece na **Polish National Catholic Church** e na União de Scranton uma expressão contemporânea especialmente próxima da tradição católica e ultrajectina da qual historicamente procede. A própria eclesiologia oficial da União de Scranton afirma que cada **Igreja local**, reunida em torno do seu bispo e da Eucaristia, constitui uma Igreja completa, dotada de governo próprio e estrutura sinodal, e que a comunhão entre essas Igrejas não constitui uma **“super-diocese”** suprarregional ou universal.
 
-Esta distinção é importante porque a tradição católica nunca compreendeu a Igreja apenas como uma cadeia genealógica de bispos. O episcopado existe dentro de uma realidade eclesial composta por bispos, presbíteros, diáconos, fiéis, circunscrições, disciplina, governo e comunhão.
+<u>[PNCC e a eclesiologia da União de Scranton](https://theunionofscranton.org/wp-content/uploads/2018/03/The-PNCC-and-the-Declaration-and-Union-of-Scranton-for-Union-of-Scranton-Webiste.pdf)</u>
 
-A Conferência Internacional de 2018 constitui, neste sentido, um momento documentalmente relevante da vida da Fidelitas: vários bispos pertencentes à mesma comunhão reuniram-se, exerceram colegialmente uma função de governo e reconheceram uma autoridade comum destinada a servir a unidade da Igreja.
+Existe, portanto, uma **analogia eclesiológica importante entre a comunhão internacional organizada pela Fidelitas e o modelo de comunhão professado pela União de Scranton**. Em ambos os casos, a unidade supralocal não pretende extinguir o governo próprio das Igrejas locais, mas coordená-las através da comunhão episcopal e de estruturas sinodais comuns.
 
-A sua importância deve, contudo, ser formulada com precisão.
+As duas estruturas não são juridicamente idênticas e possuem história, organização interna e estatutos próprios. A comparação situa-se antes no plano eclesiológico: ambas procuram articular **autoridade própria das Igrejas locais, sucessão episcopal, sinodalidade e comunhão supralocal**, sem reduzir a Igreja universal a uma única jurisdição administrativa que absorva as restantes Igrejas.
 
-A Conferência de 2018 **não criou retroativamente a jurisdição brasileira** e não substitui a demonstração da sua origem histórica na missão estabelecida por Faron em 1932 e continuada pela Igreja de Perkowski. A origem da jurisdição deve ser examinada segundo a documentação histórica anteriormente apresentada.
+É neste contexto que deve ser compreendido o **pedido formal de adesão da Fidelitas à União de Scranton**, cuja tramitação e documentação são referidas na nossa <u>[página de história](/quem-somos.html)</u>. A Fidelitas aguarda atualmente a correspondente resposta formal.
 
-O que 2018 demonstra é outra realidade: a jurisdição cuja continuidade a Fidelitas reivindica não se apresenta no presente apenas através de bispos individualmente consagrados, mas encontra-se organizada numa **comunhão episcopal dotada de estruturas permanentes de governo, disciplina e sinodalidade**.
+Esse pedido não significa que a União de Scranton seja chamada a **criar retroativamente** a Fidelitas, a conferir-lhe uma sucessão apostólica que ela não possua ou a constituir originalmente a sua jurisdição. Significa antes que uma comunhão eclesial já organizada procura estabelecer ou restaurar a **plena comunhão com outra família de Igrejas da mesma matriz histórica e eclesiológica**.
 
-Esta consideração responde também à distinção clássica entre uma verdadeira estrutura eclesial e o fenómeno dos chamados *episcopi vagantes*. A mera posse da Ordem episcopal não transforma automaticamente um bispo numa Igreja nem lhe confere jurisdição sobre um território. No caso da Fidelitas, porém, a reivindicação apresentada não é apenas a de possuir bispos validamente consagrados: é a de existir uma Igreja organizada, dotada de governo geral, Igrejas e circunscrições locais, episcopado em comunhão, clero incardinado e normas próprias para o exercício e transmissão da autoridade.
+Uma eventual aceitação pela União de Scranton teria, por isso, enorme importância para a comunhão eclesial e para a superação das divisões históricas, mas a sua natureza deve ser formulada corretamente: seria o reconhecimento e estabelecimento de **comunhão entre Igrejas**, não a criação da existência eclesial de uma das partes pela outra.
 
-A Conferência de 2018 possui ainda uma relevância particular para a relação entre o **Governo Patriarcal** e as **Primazias ou Igrejas nacionais**.
+A ausência atual dessa plena comunhão também não constitui, por si mesma, uma decisão judicial sobre a validade das Ordenações, a realidade sacramental ou a continuidade histórica da jurisdição brasileira. Do mesmo modo, uma futura comunhão não substituiria a demonstração histórica dessa continuidade.
 
-A estrutura descrita pela própria Fidelitas não identifica comunhão com absorção das Igrejas locais. Existe uma autoridade comum destinada às matérias da comunhão geral e, simultaneamente, autoridades episcopais responsáveis pelo governo das respetivas circunscrições. Esta estrutura corresponde, no seu princípio, ao modelo já exposto anteriormente: **autoridade própria da Igreja local e comunhão supralocal não se excluem, mas devem operar conjuntamente**.
+A cadeia do argumento pode, assim, ser formulada do seguinte modo:
 
-Consequentemente, o argumento de continuidade da Fidelitas contém quatro elementos que não devem ser confundidos:
+**jurisdição legitimamente recebida → missão brasileira → continuidade episcopal e de governo → constituição de uma comunhão eclesial internacional organizada → exercício colegial da autoridade → mandato às Igrejas e missões locais → procura da plena comunhão com outras Igrejas da mesma tradição.**
 
-**a Ordem**, recebida através da sucessão apostólica;
-
-**a jurisdição**, cuja origem histórica é situada na Igreja de Faron e na missão brasileira constituída em 1932;
-
-**a continuidade do governo**, preservada pela sucessão dos responsáveis da Igreja brasileira;
-
-e **a constituição eclesial**, pela qual essa autoridade se encontra atualmente incorporada numa comunhão organizada de bispos, Igrejas e estruturas sinodais.
-
-É neste último plano que a **Conferência Internacional de 2018** adquire particular importância.
-
-Ela não constitui uma fonte alternativa destinada a preencher artificialmente uma eventual ausência de jurisdição anterior. Constitui antes uma **manifestação institucional e colegial da comunhão eclesial que reivindica ter recebido e continuar aquela jurisdição**, demonstrando que a Fidelitas contemporânea possui órgãos pelos quais a autoridade eclesial é reconhecida, exercida, coordenada e transmitida.
-
-Esta constituição eclesial é igualmente relevante para o mandato posteriormente conferido à Igreja em Portugal. Se a jurisdição portuguesa procede da Fidelitas, importa demonstrar não apenas que existe uma pessoa episcopal capaz de assinar um decreto, mas que existe uma **autoridade eclesial constituída**, inserida numa estrutura de comunhão e governo, da qual esse mandato possa canonicamente proceder.
-
-Assim, a Conferência Internacional de 2018 não é apresentada como origem da canonicidade da Fidelitas, mas como evidência da sua **continuidade institucional, colegialidade episcopal e constituição eclesial contemporânea**.
-
-A cadeia do argumento pode, por isso, ser formulada do seguinte modo:
-
-**jurisdição legitimamente recebida → missão brasileira → continuidade episcopal e de governo → constituição de uma comunhão eclesial organizada → exercício colegial da autoridade → mandato às Igrejas e missões locais.**
-
-É dentro desta estrutura, e não pela simples existência de uma linhagem de consagrações episcopais, que deve ser compreendido o mandato conferido à Igreja Vétero-Católica de Jerusalém em Portugal.
+É dentro desta estrutura que deve ser compreendido tanto o mandato conferido à **Igreja Vétero-Católica de Jerusalém em Portugal** como a aproximação institucional da Fidelitas à **União de Scranton**.
 
 <br>
 
@@ -585,82 +565,9 @@ Este argumento é subsidiário. Os acordos com Roma não criariam retroativament
 
 
 
-## 7. A União de Scranton e a eclesiologia da Igreja local
 
 
-
-
-A relação com a **União de Scranton** possui uma natureza diferente.
-
-
-
-
-A Fidelitas reconhece na PNCC e na União de Scranton uma expressão contemporânea particularmente próxima da tradição católica e ultrajectina da qual historicamente procede.
-
-
-
-
-A aproximação a Scranton procura a **plena comunhão entre Igrejas**, não a criação retroativa da jurisdição brasileira.
-
-
-
-
-Esta distinção é particularmente coerente com a própria eclesiologia oficial da União de Scranton.
-
-
-
-
-Os seus Estatutos afirmam que cada **Igreja local**, reunida em torno do seu bispo e da Eucaristia, é uma Igreja completa que realiza autonomamente a sua missão no lugar que lhe foi confiado. A mesma Igreja possui uma estrutura sinodal indispensável, integrando clero e leigos.
-
-
-
-
-A comunhão entre essas Igrejas, acrescenta o mesmo documento, não constitui uma **“super-diocese”** suprarregional ou universal, mas uma comunhão de bispos e Igrejas locais sinodalmente organizadas.
-
-
-
-
-<u>[PNCC e a eclesiologia da União de Scranton](https://theunionofscranton.org/wp-content/uploads/2018/03/The-PNCC-and-the-Declaration-and-Union-of-Scranton-for-Union-of-Scranton-Webiste.pdf)</u>
-
-
-
-
-Esta formulação apresenta uma proximidade evidente com o equilíbrio tradicional expresso pelo Cânone Apostólico 34: verdadeira autoridade do bispo na sua Igreja local, acompanhada de responsabilidade e comunhão sinodal com as restantes Igrejas. É igualmente coerente com a tradição eclesiológica da própria União de Utrecht e com as convergências alcançadas no diálogo oficial vétero-católico–ortodoxo sobre a Igreja local, o episcopado, a sinodalidade e a comunhão.
-
-
-
-
-Este paralelismo não significa que a União de Utrecht, as Igrejas Ortodoxas ou a União de Scranton tenham emitido qualquer julgamento retroativo sobre a controvérsia de Faron em 1931. Não o fizeram.
-
-
-
-
-Significa, porém, que a interpretação eclesiológica sobre a qual assenta o nosso argumento — **a Igreja local possui verdadeira autoridade própria sem deixar por isso de necessitar da comunhão supralocal** — corresponde substancialmente à eclesiologia que a própria União de Scranton hoje afirma.
-
-
-
-
-Por isso, uma eventual plena comunhão com Scranton não constituiria a Igreja brasileira nem criaria retrospectivamente a sua história.
-
-
-
-
-Seria a restauração ou estabelecimento de uma relação de comunhão entre uma Igreja brasileira que reivindica continuidade própria e as Igrejas que hoje preservam institucionalmente a tradição da PNCC e de Scranton.
-
-
-
-
-A ausência atual dessa plena comunhão também não constitui, por si mesma, uma decisão judicial sobre a validade das Ordenações ou sobre a continuidade histórica da jurisdição brasileira.
-
-
-
-
-<br>
-
-
-
-
-## 8. Jurisdição suprida: garantia subsidiária
+## 7. Jurisdição suprida: garantia subsidiária
 
 
 
@@ -695,7 +602,7 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 
 
 
-## 9. Síntese do argumento canónico
+## 8. Síntese do argumento canónico
 
 
 
