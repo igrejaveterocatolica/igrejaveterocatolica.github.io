@@ -650,6 +650,7 @@ Igreja dos Velhos Católicos do Brasil — memória histórica dos Primazes
 ### Dom Paulus Nunes e a sucessão de 2003
 
 
+<center><img src="/img/his_beatitude_dom_paulus_nunes.png" height=400px><br>Sua Beatitude, Dom Paulus Nunes, Patriarca dos Vétero Católicos Fidelitas e de Jerusalém no Brasil e Exterior</center> <br>
 
 
 A história da Igreja Fidelitas e a tradição preservada por outros ramos vétero-católicos brasileiros regista a **sagração de Dom Paulus Nunes por Dom Paulo Pereira em 2001, com Dom José Falcão como co-consagrante, tendo sido nomeado como Bispo de Curitiba**.
