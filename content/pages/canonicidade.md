@@ -2,57 +2,155 @@
 slug: canonicidade
 title: A Canonicidade da Igreja Vétero-Católica de Jerusalém
 ---
-A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, com episcopado, clero, fiéis, vida sacramental, governo e disciplina próprios. A sua autoridade em Portugal procede do mandato canónico recebido da **Fidelitas do Brasil e Exterior**, jurisdição que entendemos ser a continuadora da presença vétero-católica estabelecida no Brasil em 1932.
+A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, com episcopado, clero, fiéis, vida sacramental, governo e disciplina próprios. A sua autoridade em Portugal procede do mandato canónico recebido da **Fidelitas do Brasil e Exterior**, jurisdição que entendemos continuar a Igreja Vétero-Católica estabelecida no Brasil a partir da missão confiada em 1932 pelo Bispo **Władysław M. Faron**.
 
-O fundamento principal da nossa canonicidade não é uma linhagem episcopal isolada, nem o reconhecimento futuro por Roma, Utrecht ou Scranton. É a continuidade de uma Igreja que nasceu de uma missão canonicamente estabelecida e que, sem ter renunciado à fé recebida nem ter sido canonicamente extinta, conservou e reorganizou a sua vida e o seu governo eclesial.
+O nosso argumento canónico deve distinguir três realidades diferentes: **Ordem sacramental, jurisdição e comunhão eclesial**. A sucessão apostólica assegura a continuidade do episcopado e do sacerdócio; a jurisdição determina o título pelo qual uma autoridade governa uma Igreja ou território; e a comunhão exprime a relação canónica entre Igrejas distintas.
 
-<br>
-
-## 1. O princípio: reconhecimento externo não cria a Igreja
-
-A tradição ultrajectina reconhece a Igreja local (a comunidade reunida em torno do seu bispo, do seu clero, da Eucaristia e dos seus fiéis) como verdadeira realização da Igreja Católica num determinado lugar.
-
-As Igrejas locais devem procurar a comunhão, a colegialidade episcopal e a ordem sinodal. Essa comunhão confirma e manifesta a sua catolicidade, mas não cria *ex nihilo* uma Igreja que já possui episcopado, sacramentos, povo cristão e governo legítimo.
-
-Por isso, a pergunta principal não é se Roma, Utrecht ou Scranton já reconheceram administrativamente a Fidelitas. A pergunta é se a jurisdição brasileira teve uma origem canónica e se essa realidade eclesial continuou, sem um ato legítimo que a extinguisse ou sem uma rutura que destruísse a sua identidade.
-
-É segundo este critério que compreendemos a história da Fidelitas e o mandato por ela conferido à Igreja portuguesa.
+O fundamento principal da nossa posição não é, portanto, uma linhagem episcopal isolada nem um eventual reconhecimento futuro por Roma, Utrecht ou Scranton. É a existência de uma **jurisdição eclesial historicamente constituída**, a continuidade dessa jurisdição no Brasil e a transmissão do seu governo até à atual Fidelitas.
 
 <br>
 
-## 2. Origem canónica da missão brasileira
+## 1. O critério canónico: Igreja local, jurisdição e comunhão
 
-A presença vétero-católica polaca no Brasil teve início em **1932**, com a missão estabelecida em Ponta Grossa pelo Padre Theophilo Bartnicki. Esta missão continuou e passou a ser preservada pela **Fidelitas do Brasil e Exterior**, que atualmente se compreende como continuadora da tradição vétero-católica polaca estabelecida no país.
+A tradição ultrajectina compreende a **Igreja local**, reunida em torno do seu bispo, do presbitério, da Eucaristia e dos fiéis, como verdadeira realização da Igreja Católica num determinado lugar.
 
-Toda a cronologia da missão brasileira, bem como as fontes históricas, os estudos académicos e a documentação relativa à sua origem, desenvolvimento, continuidade e reorganizações posteriores, encontra-se reunida e apresentada detalhadamente na nossa <u>[página de história](/quem-somos.html)</u>.
+Esta conceção não significa independência absoluta.
+
+Uma Igreja local deve viver em comunhão com outras Igrejas, participar da colegialidade episcopal e preservar a ordem sinodal. Mas também não é uma mera divisão administrativa cuja existência dependa de uma autoridade supralocal que lhe conceda continuamente personalidade eclesial.
+
+A tradição conciliar antiga exprime este equilíbrio de maneira particularmente clara no **Cânone Apostólico 34**: os bispos de uma região devem reconhecer aquele que é o primeiro entre eles e não decidir assuntos comuns de maior importância sem ele; ao mesmo tempo, o primeiro não deve agir sem os demais bispos, e cada bispo conserva a responsabilidade pelas matérias próprias da sua Igreja.
+
+<u>[Cânone Apostólico 34 — Orthodox Church in America](https://www.oca.org/holy-synod/statements/metropolitan-jonah/jonah-2009-0218)</u>
+
+Assim, a comunhão supralocal e a autoridade própria da Igreja local não são princípios contrários. **Limitam-se e completam-se reciprocamente.**
+
+Por isso, quando analisamos a canonicidade histórica da nossa tradição, a pergunta principal não é simplesmente se Roma, Utrecht ou Scranton reconhecem atualmente a Fidelitas.
+
+A questão anterior é esta:
+
+**existiu uma jurisdição episcopal legitimamente constituída da qual procede a missão brasileira e essa jurisdição foi posteriormente perdida ou extinta por um ato canonicamente competente?**
+
+É nesse plano que deve ser examinada a crise de 1931.
 
 <br>
 
-## 3. Continuidade na Fidelitas e confirmação externa
+## 2. A crise de 1931 e a continuidade da jurisdição de Władysław M. Faron
 
-A **Fidelitas do Brasil e Exterior** não se apresenta como uma Igreja criada *ex nihilo*, mas como a reorganização e continuação da realidade vétero-católica brasileira iniciada pela missão polonesa. Conserva uma comunidade eclesial concreta, sucessão episcopal, clero, fiéis, culto, disciplina e governo sinodal.
+A jurisdição da qual nasceu a missão brasileira era governada por **Władysław M. Faron**.
 
-O estudo académico da UEPG acima citado estabelece uma ligação particularmente relevante: depois de descrever a missão de 1932, afirma que a presença antigo-católica continuou no campo religioso brasileiro e identifica expressamente a **Igreja Vétero-Católica Fidelitas, com sede em Curitiba e então presidida por Dom Paulus Nunes**, como uma das suas continuidades, observando que ela preserva os fundamentos da Igreja Antigo-Católica.
+Faron não assumiu originariamente o episcopado por iniciativa pessoal. Foi eleito para o governo da Igreja na Polónia e, em **30 de janeiro de 1930**, recebeu a consagração episcopal no seio da **Polish National Catholic Church**, presidida pelo Bispo Francis Hodur.
 
-Há também confirmações provenientes de outras jurisdições e estruturas brasileiras que reivindicam ligação à tradição de Utrecht. A atual **Igreja Vétero-Católica no Brasil** afirma estar presente no país desde a missão de 1932 e declara que a sua Arquidiocese do Rio de Janeiro esteve <u>["inicialmente vinculada aos Fidelitas"](https://www.veterosnobrasil.com.br/arq-rj)</u>, antes da reorganização de 2017. A sua própria <u>[apresentação institucional](https://www.veterosnobrasil.com.br/quem-somos)</u> liga essa história à missão de Ponta Grossa e à posterior procura de reconhecimento por Utrecht.
+A controvérsia posterior não incidiu, portanto, sobre a legitimidade original da eleição e consagração de Faron, mas sobre a relação entre a autoridade própria da Igreja na Polónia e as estruturas gerais da PNCC nos Estados Unidos.
 
-No mesmo sentido, uma publicação do **Instituto São Willibrord**, ligado a outra estrutura vétero-católica brasileira, afirma que Dom Diogo Bonioli era Arcebispo Primaz da Fidelitas e que ele, acompanhado por clérigos e fiéis, se desligou dessa jurisdição para reorganizar a sua Igreja em 2017: [*Introdução ao Veterocatolicismo — Parte II*](https://institutowillibrord.wordpress.com/2019/03/09/introducao-ao-veterocatolicismo/).
+### A Constituição própria da Igreja na Polónia
 
-Essas declarações não tornam as jurisdições posteriores juridicamente idênticas à Fidelitas. Demonstram, porém, que estruturas brasileiras que também reclamam a herança de Utrecht reconhecem a Fidelitas como a **jurisdição-matriz da qual procederam os seus responsáveis, clérigos ou comunidades**. Trata-se de corroboração externa da precedência e continuidade eclesial da Fidelitas, e não apenas de uma afirmação feita pela própria Igreja.
+Este ponto é juridicamente essencial.
 
-A legitimidade do governo interno da Fidelitas decorre dessa continuidade e do exercício sinodal do seu autogoverno. O seu Patriarca foi escolhido por eleição eclesial, e não por simples autoproclamação pessoal.
+Até ao I Sínodo Geral da Igreja na Polónia, reunido entre **27 e 29 de junho de 1928**, eram aplicadas as normas da Constituição norte-americana da PNCC.
+
+Esse Sínodo aprovou, porém, uma **Constituição própria para a Igreja na Polónia**, posteriormente modificada em 1929.
+
+A investigação jurídico-institucional do Bispo **Wiktor Wysoczański** confirma dois elementos particularmente importantes.
+
+Em primeiro lugar, segundo essa Constituição, a **autoridade suprema e legislativa da Igreja pertencia ao Sínodo**, composto pelo clero e por representantes leigos das paróquias. A autoridade executiva era exercida pelo bispo juntamente com o Conselho Sinodal.
+
+Em segundo lugar, Wysoczański observa expressamente que tanto a versão de 1928 como a versão modificada em 1929 **não definiam com precisão a relação jurídica entre a Igreja na Polónia e a PNCC nos Estados Unidos**.
+
+<u>[Wiktor Wysoczański — estudo sobre a Constituição e o regime interno da Igreja](https://polskokatolicki.pl/wp-content/uploads/rodzina/pdf/2015/Rodzina_2015_09.pdf)</u>
+
+Existe ainda um testemunho contemporâneo particularmente útil.
+
+Uma análise da Constituição de 1929, publicada em 1930 pela *Kronika Diecezji Sandomierskiej*, embora escrita a partir de uma posição crítica relativamente à PNCC, descreve o regime constitucional que tinha diante de si.
+
+Segundo essa análise, o Sínodo era a **autoridade suprema e legislativa**, elegia o bispo e podia igualmente **destituí-lo mediante proposta conjunta do Conselho e do Tribunal Sinodal**.
+
+<u>[Análise contemporânea da Constituição de 1929 — Kronika Diecezji Sandomierskiej, 1930](https://bc.radom.pl/Content/38912/kronika%20diecezji%20sandomierskiej%201930%20nr%207-8%20pdf.pdf)</u>
+
+Isto é juridicamente relevante porque distingue duas questões que não devem ser confundidas:
+
+**podiam existir acusações disciplinares contra um bispo;**
+
+e
+
+**era necessário que a eventual destituição fosse realizada pelo órgão competente e segundo o procedimento previsto pela Constituição.**
+
+### A suspensão proclamada em 1931
+
+Em **2 de setembro de 1931**, numa assembleia realizada em Cracóvia no contexto da intervenção dos representantes da direção norte-americana da PNCC, foi proclamada a suspensão de Faron das funções episcopais e sacerdotais.
+
+A investigação histórica de **Izydor Sadowski** reconstrói detalhadamente o conflito, as posições das partes e os acontecimentos que conduziram à divisão.
+
+<u>[Izydor Sadowski — Polski Narodowy Kościół Katolicki: wewnętrzne i zewnętrzne warunki jego rozwoju](https://bazhum.muzhp.pl/media/texts/seminare-poszukiwania-naukowe/1985-tom-7/seminare_poszukiwania_naukowe-r1985-t7-s177-220.pdf)</u>
+
+A documentação atualmente publicada, contudo, não demonstra de forma inequívoca que a assembleia de 2 de setembro tenha correspondido ao **Sínodo constitucionalmente competente da Igreja na Polónia**, regularmente constituído segundo as normas da Constituição de 1928/29, nem que a remoção de Faron tenha seguido o procedimento previsto para a destituição do bispo.
+
+Este ponto é decisivo.
+
+O direito canónico antigo distingue entre a existência de motivos de disciplina e a **validade jurídica da deposição**.
+
+O Cânone Apostólico 28 prevê consequências particularmente graves para o bispo que continue a exercer o ministério depois de ter sido **justamente deposto**. A própria formulação do cânone pressupõe, portanto, uma deposição legítima.
+
+Consequentemente, a nossa posição não é afirmar que nenhuma autoridade superior pudesse alguma vez julgar Faron nem que um bispo diocesano pudesse agir independentemente de toda a ordem sinodal.
+
+É mais precisa:
+
+**não se encontra demonstrado que Faron tenha sido canonicamente privado da sua jurisdição pelo órgão e pelo procedimento aos quais a ordem constitucional vigente atribuía competência para esse efeito.**
+
+O Cânone Apostólico 34 reforça esta leitura equilibrada. O bispo local permanece responsável perante a ordem sinodal e aquele que é o primeiro; mas o primeiro também não substitui unilateralmente o governo próprio dos outros bispos e das suas Igrejas.
+
+Assim, a crise de 1931 pode ser juridicamente compreendida como uma **controvérsia sobre a extensão e o exercício de competências eclesiais concorrentes**, cuja resolução produziu uma rutura de comunhão, mas cuja documentação disponível não permite concluir de forma incontroversa que a jurisdição episcopal de Faron tenha sido validamente extinta.
+
+Esta é a primeira premissa do nosso argumento canónico.
+
+Se a deposição não foi realizada por autoridade competente ou não observou o procedimento constitucional necessário, a jurisdição anteriormente recebida por Faron não desapareceu simplesmente pelo facto de ter ocorrido a rutura com Scranton.
 
 <br>
 
-## 4. A jurisdição portuguesa, a sucessão apostólica e Dom Arnold Mathew
+## 3. Da jurisdição de Faron à missão brasileira e à Fidelitas
 
-A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente do mandato da **Fidelitas do Brasil e Exterior**. É esse mandato que constitui o título canónico do nosso governo e da nossa missão pastoral em Portugal.
+É dessa jurisdição que procede a missão brasileira.
 
-A sucessão apostólica não substitui esse título de jurisdição, mas assegura o poder sacramental de Ordem. Na nossa Igreja, os dois elementos encontram-se unidos: há uma Igreja que confere o mandato e há bispos validamente ordenados que exercem o ministério recebido.
+Em **1932**, Faron confiou ao Pe. **Theophilo Bartnicki** autoridade para organizar e governar o trabalho missionário no Brasil. A documentação contemporânea identifica posteriormente Bartnicki como **Vigário-Geral no Brasil**.
 
-Entre as linhas da nossa <u>[sucessão apostólica](/sucessao.html)</u> encontra-se a de **Dom Arnold Harris Mathew**. Recebemo-lo como nosso antecessor e como parte legítima da herança episcopal vétero-romana que nos foi transmitida. Por essa razão, avaliações polémicas ou censuras posteriores provenientes de setores de Utrecht não são, para nós, critério conclusivo sobre a sua pessoa, o seu ministério ou a sucessão que dele procede. A nossa posição assenta na documentação da sucessão recebida, na continuidade sacramental e na tradição eclesial que professamos, mantendo sempre respeito pelas Igrejas que fazem uma leitura histórica diferente.
+Em 1934, Faron consagrou **Dom Jan Piotr Perkowski** bispo-sufragâneo. A investigação histórica polaca identifica posteriormente a Igreja organizada por Perkowski no Brasil como continuação da missão iniciada por Bartnicki.
 
-A Igreja possui, assim, episcopado em sucessão apostólica e clero validamente ordenado, conserva a matéria, a forma e a intenção sacramentais da tradição católica e celebra os sete sacramentos. O poder de Ordem encontra-se integrado numa comunidade real, com autoridade, mandato, fiéis, culto, disciplina e governo próprios.
+Perkowski permaneceu à frente dessa estrutura até ao seu falecimento em **1963**, seguindo-se a sucessão de governo episcopal preservada pela Igreja brasileira e atualmente recebida pela Fidelitas.
+
+A reconstrução documental desta história — incluindo as fontes de 1932, 1933 e 1934, a presença de Perkowski no Brasil, a sucessão dos Primazes e a documentação civil e eclesial posterior — encontra-se apresentada separadamente na nossa <u>[página de história](/quem-somos.html)</u>.
+
+Importa apenas esclarecer, para efeitos canónicos, que a nossa reivindicação jurisdicional **não depende da receção de cinco paróquias brasileiras pela PNCC em 1938**.
+
+Essas comunidades pertenciam à mesma matriz histórica do movimento polaco e algumas tinham anteriormente estado ligadas à estrutura de Faron, mas em 1938 passaram formalmente para a jurisdição da PNCC. A sua história posterior, incluindo a reativação de uma missão da PNCC no Brasil na década de 1970, constitui uma trajetória relacionada, mas distinta.
+
+A linha de governo que a Fidelitas reivindica é a da missão estabelecida por **Faron em 1932**, continuada episcopalmente por **Perkowski** e transmitida posteriormente através dos Primazes da Igreja Vétero-Católica brasileira.
+
+Assim, a primeira linha do argumento canónico pode ser formulada de maneira simples:
+
+**Faron possuía originalmente jurisdição episcopal legítima; a perda canónica dessa jurisdição em 1931 não está juridicamente demonstrada; no ano seguinte, essa jurisdição estabeleceu formalmente a missão brasileira; e a Igreja brasileira conserva uma linha histórica de governo proveniente dessa missão.**
+
+<br>
+
+## 4. A jurisdição portuguesa e a sucessão apostólica
+
+A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente do mandato da **Fidelitas do Brasil e Exterior**.
+
+É esse mandato que constitui o título pelo qual a nossa Igreja exerce o governo episcopal e a missão pastoral no território português.
+
+A sucessão apostólica deve ser distinguida desta questão.
+
+A Ordem episcopal não cria, por si só, uma jurisdição territorial; assegura a continuidade sacramental do episcopado. A jurisdição determina quem possui o título legítimo para exercer concretamente esse ministério numa Igreja.
+
+Na nossa Igreja os dois elementos encontram-se unidos: existe uma autoridade eclesial que confere o mandato e existem bispos validamente ordenados para exercer o ministério recebido.
+
+A documentação integral das nossas linhas episcopais encontra-se na página de <u>[Sucessão Apostólica](/sucessao.html)</u>.
+
+A linha principal procede da **Igreja Vétero-Católica Polaca de Władysław M. Faron**, à qual se acrescentam três linhas complementares de sucessão episcopal:
+
+**Dom Carlos Duarte Costa;
+Dom Dominique Marie Varlet;
+Dom Arnold Harris Mathew.**
+
+A existência destas linhas múltiplas reforça documentalmente a continuidade sacramental do episcopado, mas o argumento de jurisdição permanece distinto: o título para o governo da Igreja portuguesa procede do mandato recebido da Fidelitas.
 
 <br>
 
@@ -72,13 +170,33 @@ Este argumento é subsidiário. Os acordos com Roma não criariam retroativament
 
 <br>
 
-## 6. A União de Scranton: comunhão, não constituição
+## 6. A União de Scranton e a eclesiologia da Igreja local
 
-A Fidelitas reconhece na **PNCC e na União de Scranton** uma expressão particularmente próxima da tradição católica e ultrajectina que deseja preservar. A aproximação a Scranton procura estabelecer plena comunhão com Igrejas de fé e eclesiologia convergentes, não obter a criação retroativa da Igreja brasileira.
+A relação com a **União de Scranton** possui uma natureza diferente.
 
-A própria história da PNCC confirma a distinção: a sua saída da União de Utrecht em 2003 não extinguiu a Igreja, o episcopado, os sacramentos ou a jurisdição que já possuía. A <u>[Declaração de Scranton e o seu comentário oficial](https://theunionofscranton.org/wp-content/uploads/2018/01/Official_Commentary_Declaration_of_Scranton_FINAL_PNCC_Synod_Oct_2010.pdf)</u> apresentam a nova União precisamente como continuidade da fé católica antiga e da eclesiologia local recebida de Utrecht.
+A Fidelitas reconhece na PNCC e na União de Scranton uma expressão contemporânea particularmente próxima da tradição católica e ultrajectina da qual historicamente procede.
 
-Consequentemente, a eventual receção da Fidelitas por Scranton será um ato de reconhecimento e plena comunhão entre Igrejas já existentes. A pendência desse processo não equivale a uma declaração de inexistência eclesial, invalidade sacramental ou ausência de jurisdição.
+A aproximação a Scranton procura a **plena comunhão entre Igrejas**, não a criação retroativa da jurisdição brasileira.
+
+Esta distinção é particularmente coerente com a própria eclesiologia oficial da União de Scranton.
+
+Os seus Estatutos afirmam que cada **Igreja local**, reunida em torno do seu bispo e da Eucaristia, é uma Igreja completa que realiza autonomamente a sua missão no lugar que lhe foi confiado. A mesma Igreja possui uma estrutura sinodal indispensável, integrando clero e leigos.
+
+A comunhão entre essas Igrejas, acrescenta o mesmo documento, não constitui uma **“super-diocese”** suprarregional ou universal, mas uma comunhão de bispos e Igrejas locais sinodalmente organizadas.
+
+<u>[PNCC e a eclesiologia da União de Scranton](https://theunionofscranton.org/wp-content/uploads/2018/03/The-PNCC-and-the-Declaration-and-Union-of-Scranton-for-Union-of-Scranton-Webiste.pdf)</u>
+
+Esta formulação apresenta uma proximidade evidente com o equilíbrio tradicional expresso pelo Cânone Apostólico 34: verdadeira autoridade do bispo na sua Igreja local, acompanhada de responsabilidade e comunhão sinodal com as restantes Igrejas.
+
+Este paralelismo não significa que a União de Scranton tenha emitido qualquer julgamento retroativo sobre a controvérsia de Faron em 1931. Não o fez.
+
+Significa, porém, que a interpretação eclesiológica sobre a qual assenta o nosso argumento — **a Igreja local possui verdadeira autoridade própria sem deixar por isso de necessitar da comunhão supralocal** — corresponde substancialmente à eclesiologia que a própria União de Scranton hoje afirma.
+
+Por isso, uma eventual plena comunhão com Scranton não constituiria a Igreja brasileira nem criaria retrospectivamente a sua história.
+
+Seria a restauração ou estabelecimento de uma relação de comunhão entre uma Igreja brasileira que reivindica continuidade própria e as Igrejas que hoje preservam institucionalmente a tradição da PNCC e de Scranton.
+
+A ausência atual dessa plena comunhão também não constitui, por si mesma, uma decisão judicial sobre a validade das Ordenações ou sobre a continuidade histórica da jurisdição brasileira.
 
 <br>
 
@@ -98,15 +216,44 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 
 ## 8. Síntese do argumento canónico
 
-A nossa posição pode ser resumida do seguinte modo:
+A nossa posição pode ser resumida em três níveis.
 
-1. **Origem canónica:** a missão brasileira de 1932 foi legitimamente estabelecida pela Igreja Vétero-Católica Polaca.
-2. **Continuidade:** não se identifica ato canónico que tenha extinguido essa realidade eclesial; a Fidelitas é a sua continuação e reorganização histórica, como também reconhecem estudos académicos e estruturas brasileiras que dela procederam.
-3. **Jurisdição portuguesa:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um mandato ordinário para exercer em Portugal o governo episcopal e a missão pastoral.
-4. **Ordem sacramental:** os seus bispos e clérigos possuem <u>[sucessão apostólica válida](/sucessao.html)</u> integrada numa Igreja real e governada sinodalmente.
-5. **Precedente ecuménico:** os acordos PNCC–Roma mostram que condições sacramentais objetivamente semelhantes podem fundamentar acordos concretos com a Fidelitas ao abrigo do cân. 844 §3, mediante o juízo da autoridade competente.
-6. **Garantia extraordinária:** em casos concretos de dúvida ou necessidade, permanece subsidiariamente o princípio da jurisdição suprida, tal como é recebido na tradição canónica e utilizado no ambiente vétero-romano.
+### Primeira linha — jurisdição ordinária e continuidade eclesial
 
-A **Igreja Vétero-Católica de Jerusalém** afirma, por isso, a sua identidade sem ambiguidade: **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e canonicamente constituída pela autoridade e pela tradição eclesial de que procede**.
+1. **Origem do episcopado:** Władysław M. Faron foi legitimamente eleito e consagrado bispo da Igreja na Polónia.
 
-<br><br><br><br>
+2. **Questão de 1931:** a Constituição própria da Igreja na Polónia atribuía ao Sínodo a autoridade suprema da Igreja e previa competência sinodal para a destituição episcopal. A mesma legislação não definia claramente a relação jurídica com a PNCC nos Estados Unidos. A documentação atualmente publicada não demonstra de maneira incontroversa que a suspensão proclamada em setembro de 1931 tenha correspondido a uma deposição realizada pelo órgão constitucionalmente competente segundo o procedimento previsto.
+
+3. **Consequência canónica:** por esse motivo, a perda da jurisdição de Faron não pode ser considerada juridicamente demonstrada apenas pela existência da rutura de 1931.
+
+4. **Missão brasileira:** em 1932, Faron confiou jurisdição missionária ao Pe. Theophilo Bartnicki no Brasil; esta missão adquiriu posteriormente continuidade episcopal através de Dom Jan Piotr Perkowski.
+
+5. **Continuidade do governo:** a tradição brasileira conserva uma sucessão de governo desde Perkowski e os Primazes posteriores até à atual Fidelitas, documentada detalhadamente na nossa <u>[página de história](/quem-somos.html)</u>.
+
+6. **Mandato português:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um mandato para exercer o governo episcopal e a missão pastoral em Portugal.
+
+7. **Ordem sacramental:** os bispos e clérigos possuem <u>[sucessão apostólica](/sucessao.html)</u>, cuja linha principal procede da Igreja Vétero-Católica Polaca de Faron e que é adicionalmente confirmada pelas linhas de Duarte Costa, Varlet e Arnold Mathew.
+
+8. **Eclesiologia:** esta compreensão da Igreja local — autoridade própria, sinodalidade e comunhão sem uma jurisdição universal que absorva as Igrejas particulares — encontra correspondência substancial nos princípios atualmente professados pela União de Scranton.
+
+### Segunda linha — precedente sacramental e pastoral
+
+Os acordos **PNCC–Roma** demonstram que uma Igreja da tradição vétero-católica, embora fora da jurisdição romana, pode ser reconhecida pela Santa Sé como realidade eclesial dotada de sacramentos válidos e beneficiar de disposições específicas ao abrigo do **cân. 844 §3**.
+
+A Fidelitas entende reunir objetivamente os elementos necessários para que semelhante exame possa ser solicitado à autoridade competente.
+
+### Terceira linha — jurisdição suprida
+
+Mesmo perante dúvida jurídica concreta acerca de determinadas faculdades, a tradição da *ecclesia supplet* e da *salus animarum* constitui uma garantia subsidiária para situações de erro comum, dúvida positiva e provável ou grave necessidade pastoral.
+
+Não constitui a origem habitual da Igreja nem substitui a sua jurisdição ordinária.
+
+<br>
+
+Assim, a **Igreja Vétero-Católica de Jerusalém** não fundamenta a sua posição apenas numa cadeia de consagrações episcopais nem afirma que um reconhecimento externo possa criar retroativamente a sua Igreja.
+
+A sua primeira reivindicação é de **continuidade jurisdicional**: uma Igreja local cuja autoridade procede da jurisdição episcopal de Władysław M. Faron, cuja perda canónica em 1931 não se encontra demonstrada de forma conclusiva; da missão formalmente constituída no Brasil em 1932; e da continuidade do governo eclesial que essa missão veio posteriormente a desenvolver.
+
+A essa primeira linha acrescentam-se, subsidiariamente, o precedente sacramental e pastoral **PNCC–Roma** e, em situações extraordinárias, a doutrina tradicional da **jurisdição suprida**.
+
+A Igreja afirma, por isso, a sua identidade como **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e consciente da necessidade permanente de comunhão com as demais Igrejas da tradição católica**.
