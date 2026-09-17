@@ -384,7 +384,7 @@ Bispo Vétero-Católico em exercício no país.
 
 
 
-251. **Dom Hélio Del Bivar (Hélio de Azevedo), 1962 d.C.** <br>
+251. **Dom Hélio Del Bivar (Hélio de Azevedo), 1965 d.C.** <br>
 
 
 
@@ -1706,14 +1706,14 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 123. Dom Rafael Linuesa Perez, 1977 d.C.
 
-Consagrado por Dom Hélio Del Bivar em 1977, sendo co-consagrantes, **Dom Wanderley Gonçalves de Almeida** e Dom Paolo Reale. Posteriormente Arcebispo da Igreja Vétero-Católica do Brasil.
+Consagrado por Dom Hélio Del Bivar em 1977, sendo co-consagrantes, **Dom Wanderley Gonçalves de Almeida**. Posteriormente Arcebispo da Igreja Vétero-Católica do Brasil.
 
 
 
 
 
 
-124. Dom José Carlos Teodoro, 1993 d.C.
+124. Dom José Carlos Teodoro, 1987 d.C.
 
 
 
