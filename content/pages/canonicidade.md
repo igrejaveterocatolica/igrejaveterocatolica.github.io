@@ -74,6 +74,8 @@ A questão anterior é esta:
 
 É nesse plano que deve ser examinada a crise de 1931.
 
+<br>
+
 
 ### A tese de Utrecht e a tradição da Igreja indivisa
 
@@ -113,6 +115,7 @@ A resposta ortodoxa introduz, contudo, uma precisão igualmente importante: a Ig
 
 É precisamente neste equilíbrio que deve ser situado o nosso argumento. Uma rutura de comunhão constitui uma ferida real na ordem da Igreja e deve procurar ser superada; mas, por si só, não demonstra automaticamente que uma Igreja local legitimamente constituída tenha sido extinta ou que o seu bispo tenha perdido a jurisdição que anteriormente possuía. Para essa conclusão é necessário demonstrar um ato canónico válido, praticado pela autoridade competente e segundo a ordem jurídica aplicável.
 
+<br>
 
 ### Nota histórica: Arnold Harris Mathew e os contactos com a Ortodoxia
 
@@ -153,7 +156,7 @@ Faron não assumiu originariamente o episcopado por iniciativa pessoal. Foi elei
 
 A controvérsia posterior não incidiu, portanto, sobre a legitimidade original da eleição e consagração de Faron, mas sobre a relação entre a autoridade própria da Igreja na Polónia e as estruturas gerais da PNCC nos Estados Unidos.
 
-
+<br>
 
 
 ### A Constituição própria da Igreja na Polónia
@@ -234,7 +237,7 @@ e
 **era necessário que a eventual destituição fosse realizada pelo órgão competente e segundo o procedimento previsto pela Constituição.**
 
 
-
+<br>
 
 ### A suspensão proclamada em 1931
 
@@ -333,7 +336,7 @@ Em **1932**, Faron confiou ao Pe. **Theophilo Bartnicki** autoridade para organi
 
 Em **3 de maio de 1934**, Faron consagrou **Dom Jan Piotr Perkowski** bispo-sufragâneo. A investigação histórica polaca identifica posteriormente a Igreja organizada por Perkowski no Brasil como continuação da missão iniciada por Bartnicki.
 
-
+<br>
 
 
 ### A situação de Perkowski em 1936
@@ -691,7 +694,7 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 A nossa posição pode ser resumida em três níveis.
 
 
-
+<br>
 
 ### Primeira linha — jurisdição ordinária e continuidade eclesial
 
@@ -736,7 +739,7 @@ A nossa posição pode ser resumida em três níveis.
 8. **Eclesiologia:** esta compreensão da Igreja local — autoridade própria, sinodalidade e comunhão sem uma jurisdição universal que absorva as Igrejas particulares — corresponde à matriz ultrajectina formulada pela Declaração de Utrecht, encontra importantes pontos de convergência no diálogo oficial entre a União de Utrecht e a Ortodoxia e permanece substancialmente presente nos princípios atualmente professados pela União de Scranton.
 
 
-
+<br>
 
 ### Segunda linha — precedente sacramental e pastoral
 
@@ -751,7 +754,7 @@ Os acordos **PNCC–Roma** demonstram que uma Igreja da tradição vétero-cató
 A Fidelitas entende reunir objetivamente os elementos necessários para que semelhante exame possa ser solicitado à autoridade competente.
 
 
-
+<br>
 
 ### Terceira linha — jurisdição suprida
 
