@@ -602,7 +602,7 @@ A data de abertura é relevante porque situa documentalmente uma pessoa jurídic
 
 
 
-Após Dom Rafael Linueza Perez, a tradição institucional conserva **Dom Paulo Pereira** como seu sucessor no governo da Igreja.
+Após Dom Rafael Linueza Perez, a tradição institucional conserva **Dom Paulo Pereira** como seu sucessor no governo da Igreja a partir de 1997.
 
 
 
@@ -877,7 +877,7 @@ Recebe o governo por renúncia de Dom Lírio.
 
 
 
-<strong>Dom Paolo Reale</strong><br>
+<strong>1978 - Dom Paolo Reale</strong><br>
 Recebe posteriormente a chefia da Igreja de Dom Hélio Del Bivar.
 <br><br>
 
@@ -891,7 +891,7 @@ Depois de exercer o Vicariato-Geral, é eleito Arcebispo em 28 de julho de 1988.
 
 
 
-<strong>Dom Paulo Pereira</strong><br>
+<strong>1997 - Dom Paulo Pereira</strong><br>
 Sucede a Dom Rafael Linueza no governo e é documentado contemporaneamente, no início do século XXI, como Arcebispo da Igreja Vétero-Católica.
 <br><br>
 
