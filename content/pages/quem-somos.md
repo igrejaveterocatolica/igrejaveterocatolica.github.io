@@ -884,7 +884,7 @@ Recebe posteriormente a chefia da Igreja de Dom Hélio Del Bivar.
 
 
 
-<strong>1988 — Dom Rafael Linueza Peres</strong><br>
+<strong>1988 — Dom Rafael Linueza Perez</strong><br>
 Depois de exercer o Vicariato-Geral, é eleito Arcebispo em 28 de julho de 1988.
 <br><br>
 
