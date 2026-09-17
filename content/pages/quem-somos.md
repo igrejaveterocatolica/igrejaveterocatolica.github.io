@@ -1007,16 +1007,11 @@ informa</a></u> publicamente encontrar-se num processo de **reaproximação** e 
 
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Sua Beatitude Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição donde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português. Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais da Igreja Vétero-Católica de Jerusalém** está disponível <u>[aqui](/canonicidade.html)</u>. <br>
+Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Sua Beatitude Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição de onde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português e <u><a href="/sucessao.html">sucessão apostólica</a></u>. 
 
+Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais** está disponível na página de <u>[canonicidade](/canonicidade.html)</u>. <br>
 
-
-
-
-
-
-
-A <u><a href="/sucessao.html">sucessão apostólica</a></u> da nossa igreja também deriva da Igreja Vétero-Católica do Brasil cujo ramo legítimo é a jurisdição **Fidelitas do Brasil e Exterior**. <br><br>
+Uma descrição detalhada da **origem e validade** de todas as linhagens episcopais da nossa igreja está disponível na página de <u><a href="/sucessao.html">sucessão apostólica</a></u>. <br><br>
 
 
 
