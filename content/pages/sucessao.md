@@ -342,15 +342,14 @@ A cadeia episcopal seguinte é conhecida documentalmente a partir de **Scipione 
 
 Consagrado Bispo em **29 de setembro de 1907**, em Utrecht, pelo Arcebispo
 **Gerardus Gul**, assistido pelos Bispos Johannes Jacobus van Thiel, de Haarlem,
-e Nicholas B. P. Spit, de Deventer, para a **Polish National Catholic Church (PNCC)**.
+e Nicholas B. P. Spit, de Deventer, para a **Polish National Catholic Church (PNCC)**. <br>
 
-A consagração de Francis Hodur constitui a transmissão formal da sucessão episcopal
-da Igreja Vétero-Católica de Utrecht para a Igreja Católica Nacional Polonesa.
+A consagração de Francis Hodur constitui a transmissão formal da sucessão episcopal da Igreja Vétero-Católica de Utrecht para a Igreja Católica Nacional Polaca.
 
 
 
 ### Linha Vétero-Católica Polaca
-249. **Bispo Władysław Marcin Faron, 1930 d.C.**
+249. **Bispo Władysław Marcin Faron, 1930 d.C.** <br>
 
 
 
@@ -362,7 +361,7 @@ da Polish National Catholic Church.
 
 
 
-250. **Bispo Jan Piotr Perkowski, 1934 d.C.**
+250. **Bispo Jan Piotr Perkowski, 1934 d.C.** <br>
 
 
 
@@ -384,74 +383,54 @@ Bispo Vétero-Católico em exercício no país.
 
 
 
-251. **Dom Lírio do Prado Fontes**
+
+251. **Dom Hélio Del Bivar (Hélio de Azevedo), 1962 d.C.** <br>
 
 
 
 
-Apresentado pela tradição histórica vétero-católica brasileira como Bispo pertencente
-à sucessão episcopal de **Dom Jan Piotr Perkowski** e como um dos responsáveis
-pela continuidade da estrutura episcopal vétero-católica no Brasil.
+Consagrado por **Dom Jan Piotr Perkowski**, tendo **Dom Lírio do Prado Fontes** como co-consagrante, posteriormente Arcebispo da Igreja Vétero-Católica do Brasil.
+
+
+
+252. **Dom Rafael Linueza Perez, 1977 d.C.** <br>
 
 
 
 
-
-
-252. **Dom Hélio Del Bivar (Hélio de Azevedo), c. 1962–1965 d.C.**
-
-
-
-
-Apresentado pela tradição vétero-católica brasileira como continuador da sucessão
-episcopal de **Dom Jan Piotr Perkowski**, direta ou indiretamente através de
-Dom Lírio do Prado Fontes.
-
-
-
-253. **Dom Rafael Linueza Peres, 1977 d.C.**
+Consagrado por **Dom Hélio Del Bivar** em 1977, sendo co-consagrantes, Dom Wanderley Gonçalves de Almeida e Dom Paolo Reale. Posteriormente Arcebispo da Igreja Vétero-Católica do Brasil.
 
 
 
 
-Sagrado Bispo em **1977**, vindo posteriormente a exercer funções de Arcebispo
-na tradição vétero-católica brasileira.
+253. **Dom José Carlos Teodoro, 1993 d.C.** <br>
 
 
 
 
-254. **Dom José Carlos Teodoro (c. 1987–1993 d.C.)**
+Consagrado por **Dom Rafael Linueza Perez**.
 
 
 
 
-Apresentado pelas genealogias vétero-católicas brasileiras como Bispo sagrado por
-**Dom Rafael Linueza Peres**.
+254. **Dom Paulo Pereira, 1997 d.C.** <br>
 
 
 
 
-255. **Dom Paulo Pereira, c. 1996–1998 d.C.**
+Sagrado por **Dom José Carlos Teodoro** e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**. <br>
+
+Dom Paulo Pereira encontra-se independentemente documentado, no final da década de 1990 e início da década de 2000, exercendo publicamente funções episcopais e realizando consagrações de outros Bispos no Brasil.
 
 
 
 
-Sucessor episcopal desta tradição vétero-católica brasileira
-e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**.
-
-Dom Paulo Pereira encontra-se independentemente documentado, no final da década
-de 1990 e início da década de 2000, exercendo publicamente funções episcopais
-e realizando consagrações de outros Bispos no Brasil.
+### Outras linhagens no Brasil
 
 
 
 
-### Continuação até à Igreja Vétero-Católica de Jerusalém em Portugal
-
-
-
-
-256. **Dom Aparecido Pereira, 2003 d.C.**
+255. **Dom Aparecido Pereira, 2003 d.C.**
 
 
 
@@ -462,23 +441,14 @@ linhas episcopais reunidas no episcopado de Dom Paulo Pereira.
 
 
 
-257. **Dom Rogério Ribeiro Campos, 2005 d.C.**
+256. **Dom Rogério Ribeiro Campos, 2005 d.C.**
 Sagrado Bispo em **2005** por **Dom Aparecido Pereira**, recebendo através deste
 a sucessão episcopal transmitida por Dom Paulo Pereira.
 
 
+#### Linhagem Vétero-Católica de Jerusalém em Portugal
 
-
-258. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
-
-
-
-
-
-
-
-
-259. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barboza da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+257. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
 
@@ -487,7 +457,16 @@ a sucessão episcopal transmitida por Dom Paulo Pereira.
 
 
 
-260. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barboza da Silva como coconsagrador, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
+258. **Dom Carlos Fonseca**, sagrado bispo a 24 de abril de 2023, na Capela das Almas em Lourosa, por Dom José Barboza da Silva; e posteriormente <u><a href="/img/decreto-dom-paulus-nunes.jpg">nomeado Arcebispo Primaz da Igreja Vétero-Católica de Jerusalém em Portugal</a></u> por <u><a href="/img/dom_paulus_nunes.png">Dom Paulus Nunes</a></u>, **Patriarca da Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e no Exterior**.
+
+
+
+
+
+
+
+
+259. **Dom Armando Vilela**, <u><a href="/img/bula_sagracao.jpg">sagrado bispo</a></u> a 12 de agosto de 2023 d.C., na Capela das Almas em Lourosa, por Dom Carlos Fonseca e tendo Dom José Barboza da Silva como coconsagrador, sendo posteriormente nomeado <u><a href="/img/decreto_chanceler.jpg">Bispo Auxiliar e Chanceler da Igreja Vétero-Católica de Jerusalém em Portugal</a></u>
 </details>
 
 <br><br>
@@ -1727,7 +1706,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 123. Dom Rafael Linuesa Perez, 1977 d.C.
 
-
+Consagrado por Dom Hélio Del Bivar em 1977, sendo co-consagrantes, **Dom Wanderley Gonçalves de Almeida** e Dom Paolo Reale. Posteriormente Arcebispo da Igreja Vétero-Católica do Brasil.
 
 
 
