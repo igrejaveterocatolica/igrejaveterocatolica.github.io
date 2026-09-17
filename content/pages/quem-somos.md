@@ -110,7 +110,7 @@ Décadas depois, Utrecht confirmou essa tendência ao ordenar mulheres e celebra
 ## A missão vétero-católica polaca no Brasil e a continuidade do governo (1932–presente)
 
 
-
+<center><img src="/img/wladyslaw_faron.png" height=400px><br>Bispo Władysław M. Faron em 1930</center>
 
 
 
