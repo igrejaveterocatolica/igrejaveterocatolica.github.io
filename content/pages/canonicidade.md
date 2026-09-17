@@ -256,4 +256,4 @@ A sua primeira reivindicação é de **continuidade jurisdicional**: uma Igreja 
 
 A essa primeira linha acrescentam-se, subsidiariamente, o precedente sacramental e pastoral **PNCC–Roma** e, em situações extraordinárias, a doutrina tradicional da **jurisdição suprida**.
 
-A Igreja afirma, por isso, a sua identidade como **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e consciente da necessidade permanente de comunhão com as demais Igrejas da tradição católica**.
+A Igreja afirma, por isso, a sua identidade como **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e consciente da necessidade permanente de comunhão com as demais Igrejas da tradição católica**. <br><br><br>
