@@ -255,7 +255,7 @@ A linha principal procede da **Igreja Vétero-Católica Polaca de Władysław M.
 
 
 **Dom Carlos Duarte Costa;
-Dom Dominique Marie Varlet;
+Joseph-René Vilatte;
 Dom Arnold Harris Mathew.**
 
 
@@ -382,7 +382,7 @@ A nossa posição pode ser resumida em três níveis.
 6. **Mandato português:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um mandato para exercer o governo episcopal e a missão pastoral em Portugal.
 
 
-7. **Ordem sacramental:** os bispos e clérigos possuem <u>[sucessão apostólica](/sucessao.html)</u>, cuja linha principal procede da Igreja Vétero-Católica Polaca de Faron e que é adicionalmente confirmada pelas linhas de Duarte Costa, Varlet e Arnold Mathew.
+7. **Ordem sacramental:** os bispos e clérigos possuem <u>[sucessão apostólica](/sucessao.html)</u>, cuja linha principal procede da Igreja Vétero-Católica Polaca de Faron e que é adicionalmente confirmada pelas linhas de Duarte Costa, Villate e Arnold Mathew.
 
 
 8. **Eclesiologia:** esta compreensão da Igreja local — autoridade própria, sinodalidade e comunhão sem uma jurisdição universal que absorva as Igrejas particulares — corresponde à matriz ultrajectina formulada pela Declaração de Utrecht, encontra importantes pontos de convergência no diálogo oficial entre a União de Utrecht e a Ortodoxia e permanece substancialmente presente nos princípios atualmente professados pela União de Scranton.
