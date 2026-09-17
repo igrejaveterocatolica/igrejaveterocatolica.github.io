@@ -311,7 +311,7 @@ Instalado no Brasil, **Dom Jan Piotr Perkowski** organizou uma estrutura eclesia
 
 
 
-Perkowski permaneceu à frente dessa Igreja até ao seu falecimento, em **1963**. A partir da sua administração episcopal desenvolve-se a linha de governo que a memória eclesial brasileira conserva através de **Dom Lírio Prado Fontes, Dom Hélio Del Bivar, Dom Paolo Reale, Dom Rafael Linueza Peres, Dom Paulo Pereira e Dom Paulus Nunes**.
+Perkowski permaneceu à frente dessa Igreja até ao seu falecimento, em **1963**. A partir da sua administração episcopal desenvolve-se a linha de governo que a memória eclesial brasileira conserva através de **Dom Lírio Prado Fontes, Dom Hélio Del Bivar, Dom Paolo Reale, Dom Rafael Linueza Perez, Dom Paulo Pereira e Dom Paulus Nunes**.
 
 
 
@@ -511,7 +511,7 @@ A história publicada conserva ainda a informação de que, nesse período, Hél
 
 
 
-### Dom Paolo Reale e Dom Rafael Linueza Peres
+### Dom Paolo Reale e Dom Rafael Linueza Perez
 
 
 
@@ -521,12 +521,12 @@ Por motivos de saúde, **Dom Hélio Del Bivar transmitiu posteriormente o govern
 
 
 
-Durante o governo de Dom Paolo, **Dom Rafael Linueza Peres** exerceu a função de Vigário-Geral.
+Durante o governo de Dom Paolo, **Dom Rafael Linueza Perez** exerceu a função de Vigário-Geral.
 
 
 
 
-Após o falecimento de Hélio, ocorrido em maio de **1988**, a tradição institucional regista que **Dom Rafael Linueza Peres foi eleito Arcebispo da Igreja Vétero-Católica em 28 de julho de 1988**, assumindo a chefia que vinha sendo exercida naquela estrutura.
+Após o falecimento de Hélio, ocorrido em maio de **1988**, a tradição institucional regista que **Dom Rafael Linueza Perez foi eleito Arcebispo da Igreja Vétero-Católica em 28 de julho de 1988**, assumindo a chefia que vinha sendo exercida naquela estrutura.
 
 
 
@@ -583,7 +583,7 @@ Jusbrasil — dados públicos provenientes da Receita Federal
 
 
 
-A data de abertura é relevante porque situa documentalmente uma pessoa jurídica com a denominação **Igreja Vétero-Católica no Brasil** precisamente no período correspondente aos governos de Hélio Del Bivar, Paolo Reale e Rafael Linueza Peres.
+A data de abertura é relevante porque situa documentalmente uma pessoa jurídica com a denominação **Igreja Vétero-Católica no Brasil** precisamente no período correspondente aos governos de Hélio Del Bivar, Paolo Reale e Rafael Linueza Perez.
 
 
 
@@ -597,12 +597,12 @@ A data de abertura é relevante porque situa documentalmente uma pessoa jurídic
 
 
 
-### Dom Rafael Linueza Peres a Dom Paulo Pereira
+### Dom Rafael Linueza Perez a Dom Paulo Pereira
 
 
 
 
-Após Dom Rafael Linueza Peres, a tradição institucional conserva **Dom Paulo Pereira** como seu sucessor no governo da Igreja.
+Após Dom Rafael Linueza Perez, a tradição institucional conserva **Dom Paulo Pereira** como seu sucessor no governo da Igreja.
 
 
 
@@ -1172,7 +1172,7 @@ relato contemporâneo do Pe. Bronisław Wojdyła sobre o reencontro com a comuni
 
 <li>
 <strong>História eclesial brasileira posterior a Perkowski:</strong>
-reconstituição publicada da sequência de governo Lírio Prado Fontes, Hélio Del Bivar, Paolo Reale e Rafael Linueza Peres.<br>
+reconstituição publicada da sequência de governo Lírio Prado Fontes, Hélio Del Bivar, Paolo Reale e Rafael Linueza Perez.<br>
 <u><a href="https://neyclaudio.wordpress.com/2011/05/23/historia-da-igreja-vetero-catolica-do-brasil-3/" target="_blank" rel="noopener noreferrer">Consultar reconstituição histórica</a></u>
 </li>
 
