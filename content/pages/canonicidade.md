@@ -481,7 +481,7 @@ A cadeia do argumento pode, por isso, ser formulada do seguinte modo:
 
 
 
-A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente do <a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a> da **Fidelitas do Brasil e Exterior**.
+A jurisdição da **Igreja Vétero-Católica de Jerusalém em Portugal** procede ordinariamente do <u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a></u> da **Fidelitas do Brasil e Exterior**.
 
 
 
@@ -723,7 +723,7 @@ A nossa posição pode ser resumida em três níveis.
 
 
 
-6. **Mandato português:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um <a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a> para exercer o governo episcopal e a missão pastoral em Portugal.
+6. **Mandato português:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um <u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a></u> para exercer o governo episcopal e a missão pastoral em Portugal.
 
 
 
