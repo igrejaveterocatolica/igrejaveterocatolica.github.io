@@ -662,7 +662,7 @@ A nossa posição pode ser resumida em três níveis.
 
 
 
-6. **Mandato português:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um mandato para exercer o governo episcopal e a missão pastoral em Portugal.
+6. **Mandato português:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um <a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a> para exercer o governo episcopal e a missão pastoral em Portugal.
 
 
 
