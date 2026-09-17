@@ -4,7 +4,7 @@ title: A Canonicidade da Igreja Vétero-Católica de Jerusalém
 ---
 <center><img src="/img/wladyslaw_faron.png" height=400px><br>Bispo Władysław M. Faron em 1930</center> <br>
 
-A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, com episcopado, clero, fiéis, vida sacramental, governo e disciplina próprios. Exerce a sua missão em Portugal por força do <a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a> recebido da **Fidelitas do Brasil e Exterior**, continuadora da tradição eclesial formada no Brasil a partir da missão confiada, em 1932, pelo **Bispo Władysław M. Faron**.
+A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, com episcopado, clero, fiéis, vida sacramental, governo e disciplina próprios. Exerce a sua missão em Portugal por força do <u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato</a></u> recebido da **Fidelitas do Brasil e Exterior**, continuadora da tradição eclesial formada no Brasil a partir da missão confiada, em 1932, pelo **Bispo Władysław M. Faron**.
 
 <br>
 
