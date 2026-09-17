@@ -22,9 +22,9 @@ Por isso, a pergunta principal não é se Roma, Utrecht ou Scranton já reconhec
 
 ## 2. Origem canónica da missão brasileira
 
-A presença vétero-católica polaca no Brasil teve início em **1932**, com a missão estabelecida em Ponta Grossa pelo Padre Theophilo Bartnicki. A ligação institucional à **Polish National Catholic Church (PNCC)** ficou formalmente documentada em **1938**, quando cinco paróquias brasileiras foram recebidas na sua comunhão. Embora a atividade missionária organizada tenha sido suspensa em 1939, a comunidade de Floresta, atual Barão de Cotegipe, permaneceu ativa e esteve na origem da reativação formal da missão brasileira pela PNCC em **1975**. Após a rutura administrativa ocorrida em 1979 e as posteriores reorganizações eclesiais, essa herança histórica e espiritual passou a ser preservada pela **Fidelitas do Brasil e Exterior**, que atualmente se compreende como continuadora da tradição vétero-católica polaca estabelecida no país.
+A presença vétero-católica polaca no Brasil teve início em **1932**, com a missão estabelecida em Ponta Grossa pelo Padre Theophilo Bartnicki. Esta missão continuou e passou a ser preservada pela **Fidelitas do Brasil e Exterior**, que atualmente se compreende como continuadora da tradição vétero-católica polaca estabelecida no país.
 
-Toda a cronologia da missão brasileira, bem como as fontes históricas, os estudos académicos e a documentação relativa à sua origem, desenvolvimento, ligação à PNCC, continuidade e reorganizações posteriores, encontra-se reunida e apresentada detalhadamente na nossa <u>[página de história](/quem-somos.html)</u>.
+Toda a cronologia da missão brasileira, bem como as fontes históricas, os estudos académicos e a documentação relativa à sua origem, desenvolvimento, continuidade e reorganizações posteriores, encontra-se reunida e apresentada detalhadamente na nossa <u>[página de história](/quem-somos.html)</u>.
 
 <br>
 
@@ -100,7 +100,7 @@ Esta garantia assume particular relevância perante a crise doutrinal, litúrgic
 
 A nossa posição pode ser resumida do seguinte modo:
 
-1. **Origem canónica:** a missão brasileira de 1938 foi recebida dentro da tradição vétero-católica polonesa da PNCC e à comunhão de Utrecht.
+1. **Origem canónica:** a missão brasileira de 1932 foi legitimamente estabelecida pela Igreja Vétero-Católica Polaca.
 2. **Continuidade:** não se identifica ato canónico que tenha extinguido essa realidade eclesial; a Fidelitas é a sua continuação e reorganização histórica, como também reconhecem estudos académicos e estruturas brasileiras que dela procederam.
 3. **Jurisdição portuguesa:** a Igreja Vétero-Católica de Jerusalém recebeu da Fidelitas um mandato ordinário para exercer em Portugal o governo episcopal e a missão pastoral.
 4. **Ordem sacramental:** os seus bispos e clérigos possuem <u>[sucessão apostólica válida](/sucessao.html)</u> integrada numa Igreja real e governada sinodalmente.
