@@ -449,10 +449,6 @@ Uma eventual aceitação pela União de Scranton teria, por isso, enorme import�
 
 A ausência atual dessa plena comunhão também não constitui, por si mesma, uma decisão judicial sobre a validade das Ordenações, a realidade sacramental ou a continuidade histórica da jurisdição brasileira. Do mesmo modo, uma futura comunhão não substituiria a demonstração histórica dessa continuidade.
 
-A cadeia do argumento pode, assim, ser formulada do seguinte modo:
-
-**jurisdição legitimamente recebida → missão brasileira → continuidade episcopal e de governo → constituição de uma comunhão eclesial internacional organizada → exercício colegial da autoridade → mandato às Igrejas e missões locais → procura da plena comunhão com outras Igrejas da mesma tradição.**
-
 É dentro desta estrutura que deve ser compreendido tanto o mandato conferido à **Igreja Vétero-Católica de Jerusalém em Portugal** como a aproximação institucional da Fidelitas à **União de Scranton**.
 
 <br>
