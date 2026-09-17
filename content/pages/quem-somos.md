@@ -467,7 +467,7 @@ Reconstituição histórica brasileira — sequência do governo episcopal poste
 
 
 
-Com o falecimento de Dom Jan Piotr Perkowski, a tradição histórica publicada regista que **Dom Lírio Prado Fontes assumiu o Governo Supremo da Igreja em 15 de agosto de 1963**.
+Com o falecimento de Dom Jan Piotr Perkowski, a tradição histórica publicada em várias fontes regista que **Dom Lírio Prado Fontes assumiu o Governo Supremo da Igreja em 15 de agosto de 1963**.
 
 
 
