@@ -30,8 +30,9 @@ A **25 de maio de 2023** foi elevado a **Arcebispo Primaz da Igreja Vétero Cat�
 
 ### Sucessão Apostólica
 
-A sucessão apostólica integra três linhas principais: <br><br>
+A sucessão apostólica integra uma linha principal e três linhas secundárias: <br><br>
 
+- **Linha Vétero-Católica Polaca** - origem em Utretch, transmissão Brasileira por Bispo Władysław Faron.
 - **Linha Síriaca de Antióquia / Vilatte** — origem síria "Jacobita", Patriarcado de Antióquia; transmissão ocidental por Arcebispo Joseph René Vilatte.
 - **Linha Vétero-Católica** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Bispo Arnold Harris Matthew. 
 - **Linha Romana/Duarte Costa** — fundador da Igreja Católica Apostólica Brasileira; transmissão por Bispo Salomão Barbosa Ferraz.
