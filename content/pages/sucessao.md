@@ -354,7 +354,7 @@ A consagração de Francis Hodur constitui a transmissão formal da sucessão ep
 
 
 
-Consagrado Bispo em **30 de janeiro de 1930** para a Diocese Polonesa da PNCC,
+Consagrado Bispo em **30 de janeiro de 1930** para a Diocese Polaca da PNCC,
 tendo como consagrante principal **Francis Hodur**, assistido por outros Bispos
 da Polish National Catholic Church.
 
