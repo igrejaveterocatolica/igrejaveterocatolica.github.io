@@ -4,8 +4,14 @@ title: A Canonicidade da Igreja Vétero-Católica de Jerusalém
 ---
 A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradição católica e ultrajectina, com episcopado, clero, fiéis, vida sacramental, governo e disciplina próprios. Exerce a sua missão em Portugal por força do mandato recebido da **Fidelitas do Brasil e Exterior**, continuadora da tradição eclesial formada no Brasil a partir da missão confiada, em 1932, pelo Bispo **Władysław M. Faron**.
 
+<br>
 
-Este argumento deve começar por uma distinção indispensável. **Ordem sacramental, jurisdição interna e comunhão ou reconhecimento externo não são a mesma realidade.**
+Apresenta-se um estudo técnico detalhado sobre a jurisdição canónica da Igreja, que visa demonstrar a existência de uma autoridade legítima sobre os fiéis. Este governo próprio, aliado à <u><a href="/sucessao.html">sucessão apostólica</a></u> válida, fundamenta a integridade dos sacramentos e dos atos canónicos desta comunidade.
+
+<br>
+
+
+Este argumento deve começar por uma distinção indispensável: **Ordem sacramental, jurisdição interna e comunhão ou reconhecimento externo não são a mesma realidade.**
 
 
 - A **Ordem sacramental** respeita à validade das ordenações e à continuidade do ministério episcopal e presbiteral.
