@@ -403,7 +403,7 @@ Consagrado por **Dom Hélio Del Bivar** em 1977, sendo co-consagrantes, Dom Wand
 
 
 
-253. **Dom José Carlos Teodoro, 1993 d.C.** <br>
+253. **Dom José Carlos Teodoro, 1987 d.C.** <br>
 
 
 
