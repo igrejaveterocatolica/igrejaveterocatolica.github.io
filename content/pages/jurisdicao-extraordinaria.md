@@ -36,15 +36,11 @@ Seria, por isso, teologicamente mais rigoroso falar de uma **crise na Igreja e n
 
 O seu critério fundamental é a **continuidade da Tradição**. Na perspectiva ultrajectina adotada neste estudo, existe uma crise eclesiológica propriamente dita quando surge uma divergência grave, persistente e institucionalmente relevante entre a fé, a constituição e a prática recebidas da Igreja antiga e aquilo que passa a ser ensinado, imposto, tolerado ou institucionalizado por determinadas autoridades ou estruturas eclesiais.
 
-O ponto de partida não é, portanto, a opinião individual. É a regra católica tradicional expressa por São Vicente de Lérins: *quod ubique, quod semper, quod ab omnibus*.
-
-A **Declaração de Utrecht de 1889** colocou expressamente esse princípio no fundamento da sua profissão eclesial, apelando à fé da Igreja indivisa e rejeitando desenvolvimentos considerados incompatíveis com ela.
+O ponto de partida não é, portanto, a opinião individual. É a regra católica tradicional expressa por São Vicente de Lérins: *quod ubique, quod semper, quod ab omnibus*. A **Declaração de Utrecht de 1889** colocou expressamente esse princípio no fundamento da sua profissão eclesial, apelando à fé da Igreja indivisa e rejeitando desenvolvimentos considerados incompatíveis com ela.
 
 <u><a href="https://www.utrechter-union.org/en/about-us/what-is-the-union-of-utrecht/the-declaration-of-utrecht/">União de Utrecht — <i>Declaration of Utrecht</i> (1889)</a></u>
 
-Assim, "tradicional" não significa simplesmente "antigo", e "inovação" não significa necessariamente heresia (embora qualquer tradicionalista deve suspeitar de toda e qualquer "inovação" em matéria de doutrina e liturgia). A disciplina pode mudar, a linguagem teológica pode desenvolver-se, a Igreja pode responder a circunstâncias históricas novas. O problema nasce quando se pretende apresentar como desenvolvimento aquilo que, depois de confronto com a Sagrada Escritura, Padres da Igreja, Concílios Ecuménicos recebidos e tradição canónica, parece constituir **mudança de princípio**.
-
-A questão que atravessa toda a crise moderna: desenvolvimento ou ruptura?
+Assim, "tradicional" não significa simplesmente "antigo", e "inovação" não significa necessariamente heresia (embora qualquer tradicionalista deve suspeitar de toda e qualquer "inovação" em matéria de doutrina e liturgia). A disciplina pode mudar, a linguagem teológica pode desenvolver-se, a Igreja pode responder a circunstâncias históricas novas. O problema nasce quando se pretende apresentar como desenvolvimento aquilo que, depois de confronto com a Sagrada Escritura, Padres da Igreja, Concílios Ecuménicos recebidos e tradição canónica, parece constituir **mudança de princípio**. A questão que atravessa toda a crise moderna: desenvolvimento ou ruptura?
 
 <br><br>
 
