@@ -662,261 +662,141 @@ A comunhão com outras Igrejas poderá reconhecer estes factos e regular os seus
 
 
 
-## 6. O precedente PNCC–Roma e o cân. 844: segunda linha de defesa
+## 6. A PNCC e o direito romano de 1983: corroboração da nossa jurisdição
 
-A primeira linha de defesa desenvolvida neste estudo procura demonstrar positivamente a existência da nossa própria jurisdição através da continuidade histórica da Igreja brasileira, da sucessão do seu governo e do mandato recebido da Fidelitas.
+A relação entre a **Polish National Catholic Church (PNCC)** e a Igreja Católica Romana oferece uma **corroboração externa dos fundamentos eclesiais e sacramentais da nossa jurisdição**.
 
-Existe, porém, uma **segunda linha de defesa**, independente da primeira.
+A sucessão apostólica válida, a realidade eclesial organizada, a ortodoxia doutrinal e a continuidade histórica da Fidelitas são os pressupostos desta secção, tratados nas páginas próprias. Examinamos aqui a consequência que deles decorre à luz do **Código de Direito Canónico romano de 1983 e dos acordos com a PNCC**, nossa matriz eclesial.
 
-Esta segunda linha parte não da nossa própria compreensão da continuidade jurisdicional, mas do **ordenamento canónico Romano de 1983 atualmente utilizado pela própria Igreja Católica Romana**.
+A relevância desta referência é particular: a Igreja Católica Romana dispõe de uma tradição teológica e jurídica desenvolvida e de critérios próprios para apreciar a validade sacramental. O reconhecimento de realidades eclesiais exteriores à sua plena comunhão tem, por isso, especial valor como confirmação externa dos fundamentos que invocamos.
 
-A questão pode formular-se da seguinte maneira:
-
-**como trata Roma uma Igreja separada da sua própria estrutura jurisdicional que, não obstante essa separação, conserva sucessão apostólica, episcopado e sacerdócio válidos, uma Eucaristia válida, os sete sacramentos e uma estrutura eclesial própria?**
-
-A relação entre a **Polish National Catholic Church (PNCC)** e a Igreja Católica Romana. É importante mencionar que a PNCC é a Igreja-matriz da atual União de Scranton e origem da nossa jurisdição canónica. Este caso fornece um precedente particularmente importante.
+**A tese desta secção é atual: os fundamentos eclesiais e sacramentais reconhecidos no caso PNCC estão presentes na Fidelitas e corroboram a existência da nossa jurisdição, incluindo a autoridade necessária ao exercício da Confissão.**
 
 <br>
 
-### 6.1. O reconhecimento romano da realidade eclesial e sacramental da PNCC
+### 6.1. O reconhecimento da realidade eclesial e sacramental da PNCC
 
-O diálogo oficial entre a **PNCC e a Igreja Católica Romana**, iniciado formalmente em 1984, produziu progressivamente um reconhecimento muito mais amplo do que a simples constatação de uma sucessão apostólica material.
-
-<u><a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/polish-national-catholic">
-USCCB — Polish National Catholic–Roman Catholic Dialogue
-</a></u>
-
-Já o relatório relativo aos primeiros anos do diálogo registava um acordo fundamental acerca dos **sete sacramentos da Igreja**, apesar de determinadas diferenças de prática que não eram consideradas suficientes para destruir a fé sacramental comum.
-
-A ***Joint Declaration on Unity*** de 2006 foi ainda mais explícita.
-
-O documento recorda que o diálogo havia chegado ao reconhecimento dos sete sacramentos e, depois de descrever as medidas concretas de comunicação sacramental entretanto adotadas, afirma que as duas Igrejas **reconhecem mutuamente o caráter eclesial e os sacramentos uma da outra**.
+A ***Joint Declaration on Unity***, de 17 de maio de 2006, publicada pela Conferência Episcopal dos Estados Unidos, regista o reconhecimento recíproco do caráter eclesial e dos sacramentos entre a PNCC e a Igreja Católica Romana. Recorda também o acordo alcançado no diálogo acerca dos sete sacramentos.
 
 <u><a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/joint-declaration-unity">
-PNCC–Roman Catholic Dialogue — <i>Joint Declaration on Unity</i>
+PNCC–Roman Catholic Dialogue — <i>Joint Declaration on Unity</i> (2006)
 </a></u>
 
-Esta posição não ficou limitada aos documentos históricos do diálogo.
-
-Na declaração conjunta ***On Unity and the Eucharist***, adotada em 2025 no quadragésimo aniversário do diálogo oficial, os representantes das duas Igrejas voltaram a declarar que, em virtude de uma **verdadeira e ininterrupta sucessão apostólica**, cada uma reconhece a validade dos sacramentos celebrados na outra.
-
-O mesmo documento reafirma que existe entre as duas Igrejas reconhecimento do respetivo caráter eclesial e dos sacramentos, apesar de ainda não existir plena comunhão.
+A declaração conjunta ***On Unity and the Eucharist***, de 21 de maio de 2025, reafirma esse reconhecimento e relaciona expressamente a validade dos sacramentos com a sucessão apostólica. Mantém, simultaneamente, o reconhecimento das divergências ainda existentes acerca do papel do Bispo de Roma.
 
 <u><a href="https://www.usccb.org/resources/Statement%20on%20Unity%20and%20Eucharist.pdf">
 PNCC–Roman Catholic Dialogue — <i>On Unity and the Eucharist</i> (2025)
 </a></u>
 
-Temos, portanto, um precedente particularmente claro: **para Roma, a separação jurisdicional da PNCC não destruiu a sua realidade enquanto Igreja sacramental, nem tornou os seus sacramentos meramente aparentes ou inválidos.**
+São documentos de uma comissão oficialmente mandatada para o diálogo, cujo alcance deve ser respeitado. A sua importância documental reside também nas medidas concretas de comunicação sacramental que registam.
+
+**O reconhecimento sacramental pode, portanto, coexistir com divergências eclesiológicas e com a ausência de plena comunhão.** Para o presente estudo, este é o ponto de partida da confirmação externa que procuramos.
 
 <br>
 
-### 6.2. A aplicação do cân. 844 §3 à PNCC
+### 6.2. O cân. 844 e a realidade sacramental que pressupõe
 
-O desenvolvimento mais importante para efeitos canónicos ocorreu na década de 1990.
+O **cân. 844 §3** permite a administração da Penitência, Eucaristia e Unção dos Enfermos aos membros das Igrejas orientais separadas que os solicitem espontaneamente e estejam devidamente dispostos. Estende esse regime aos membros de outras Igrejas cuja condição sacramental seja considerada equivalente pela Sé Apostólica.
 
-Em 1993, em resposta a uma consulta do Arcebispo William Keeler, então Presidente da Conferência Episcopal norte-americana, o Cardeal **Edward Cassidy**, Presidente do Pontifício Conselho para a Promoção da Unidade dos Cristãos, declarou que os membros da PNCC nos Estados Unidos e Canadá podiam receber de sacerdotes católicos romanos os sacramentos da **Penitência, Eucaristia e Unção dos Enfermos**, desde que os pedissem espontaneamente, estivessem devidamente dispostos e não existisse outro impedimento canónico.
+A declaração de 2006 regista que, em 1993, o Cardeal Edward Cassidy comunicou a aplicação desse regime aos membros da PNCC nos Estados Unidos e Canadá, observadas as condições indicadas.
 
-Esta decisão foi tomada expressamente à luz do **cân. 844 §3 do Código de Direito Canónico de 1983**.
-
-O cânone estabelece:
-
-> os ministros católicos administram licitamente os sacramentos da Penitência, Eucaristia e Unção dos Enfermos aos membros das Igrejas orientais que não estejam em plena comunhão com a Igreja Católica, se estes os pedirem espontaneamente e estiverem devidamente dispostos; **o mesmo vale para os membros de outras Igrejas que, no juízo da Sé Apostólica, se encontrem, no que respeita aos sacramentos, na mesma condição que aquelas Igrejas orientais.**
+No sentido inverso, o **cân. 844 §2** permite aos católicos romanos receber aqueles três sacramentos de ministros não católicos em cujas Igrejas sejam válidos, quando haja necessidade ou verdadeira utilidade espiritual, impossibilidade física ou moral de recorrer a um ministro católico e ausência de perigo de erro ou indiferentismo. A mesma declaração refere expressamente a aplicação deste parágrafo à receção de sacramentos na PNCC.
 
 <u><a href="https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann834-878_en.html">
 Código de Direito Canónico de 1983 — cân. 844
 </a></u>
 
-A importância desta aplicação à PNCC não deve ser subestimada.
-
-A PNCC não foi tratada simplesmente como uma comunidade cristã genérica abrangida pelo regime excecionalíssimo aplicável a outros cristãos em perigo de morte ou grave necessidade.
-
-Foi considerada, para efeitos do cân. 844 §3, **uma Igreja cuja condição sacramental permite um tratamento análogo àquele concedido às Igrejas orientais separadas**.
-
-As atuais orientações da Conferência Episcopal dos Estados Unidos continuam, por exemplo, a enumerar expressamente os membros da PNCC juntamente com os membros das Igrejas Ortodoxas e da Igreja Assíria do Oriente relativamente à receção da Eucaristia segundo o cân. 844 §3.
+**A disciplina de acesso aos sacramentos pressupõe aqui uma realidade sacramental válida na Igreja que os administra.** É essa realidade subjacente que interessa à nossa investigação sobre os fundamentos da jurisdição.
 
 <br>
 
-### 6.3. A reciprocidade: católicos romanos podem receber sacramentos na PNCC
+### 6.3. A Penitência e a autoridade necessária para absolver
 
-O precedente torna-se ainda mais significativo quando se considera o movimento inverso.
+A **Penitência** torna especialmente significativa esta análise.
 
-O **cân. 844 §2** estabelece que, quando exista necessidade ou verdadeira utilidade espiritual, seja evitado o perigo de erro ou indiferentismo e seja física ou moralmente impossível recorrer a um ministro católico, os fiéis católicos podem receber os sacramentos da **Penitência, Eucaristia e Unção dos Enfermos de ministros não católicos em cujas Igrejas esses sacramentos sejam válidos**.
-
-A ***Joint Declaration on Unity*** afirma expressamente que o cân. 844 §2 determina as condições segundo as quais **católicos romanos podem receber sacramentos na Polish National Catholic Church**.
-
-Não estamos, portanto, apenas perante uma autorização para que membros da PNCC recebam sacramentos de Roma.
-
-Existe também o reconhecimento de que um católico romano pode, nas condições previstas pelo próprio direito romano, recorrer ao ministério sacramental da PNCC.
-
-Isto é juridicamente muito significativo.
-
-O cân. 844 §2 não pode ser aplicado a qualquer comunidade cristã: exige expressamente que os sacramentos em questão sejam **válidos na Igreja do ministro não católico**.
-
-A aplicação deste princípio à PNCC pressupõe, consequentemente, o reconhecimento romano da validade objetiva da sua vida sacramental.
-
-<br>
-
-### 6.4. O significado particular da Penitência
-
-Entre os três sacramentos contemplados pelo cân. 844, a **Penitência** possui especial importância para a questão da jurisdição.
-
-A Eucaristia depende essencialmente da validade da Ordenação sacerdotal, da matéria, da forma e da intenção requeridas.
-
-A absolvição sacramental, porém, possui no próprio direito canónico romano um requisito adicional.
-
-O **cân. 966 §1** estabelece que:
-
-> para a válida absolvição dos pecados requer-se que o ministro, além do poder de Ordem, possua a faculdade de exercer esse poder relativamente aos fiéis a quem concede a absolvição.
+O **cân. 966 §1** exige, para a absolvição válida, que o sacerdote possua, além do poder recebido na Ordenação, a faculdade de o exercer relativamente aos fiéis que absolve. O §2 distingue a faculdade recebida pelo próprio direito daquela concedida pela autoridade competente.
 
 <u><a href="https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann959-997_en.html">
 Código de Direito Canónico de 1983 — cân. 966
 </a></u>
 
-Isto significa que o reconhecimento romano da **validade da Penitência celebrada na PNCC** possui consequências eclesiológicas mais profundas do que o simples reconhecimento da validade das suas Ordenações.
+A leitura conjunta destas disposições e da prática relativa à PNCC fundamenta a seguinte inferência: **o reconhecimento da sua Penitência pressupõe que, nessa vida eclesial, se encontram satisfeitas as condições de autoridade sacramental necessárias à absolvição; o reconhecimento das Ordens, isoladamente considerado, não esgota a questão.**
 
-Se Roma considerasse que os sacerdotes da PNCC possuem apenas o poder sacramental da Ordem, mas nenhuma autoridade ou faculdade eclesial suficiente para absolver, as suas absolvições não poderiam ser reconhecidas como válidas segundo os próprios princípios canónicos romanos.
+É neste sentido que o presente estudo encontra no caso PNCC uma confirmação da existência de autoridade eclesial efetiva fora da plena comunhão romana.
 
-Ao admitir, pelo contrário, que o sacramento da Penitência existe validamente na PNCC e que, nas condições previstas pelo cân. 844 §2, até um fiel católico romano pode recorrer a um ministro da PNCC, Roma reconhece necessariamente que existe nessa Igreja **uma verdadeira faculdade ou competência jurisdicional suficiente para o exercício válido do poder das chaves**.
+Os documentos citados não desenvolvem uma teoria completa sobre o fundamento jurídico dessa autoridade nas Igrejas separadas. A conclusão que deles retiramos deve, por isso, ser identificada como uma interpretação teológico-canónica fundamentada, e não como uma definição expressa desses documentos acerca da jurisdição da Fidelitas.
 
-Convém formular esta conclusão com precisão.
-
-Os documentos romanos consultados não dizem expressamente que os bispos e sacerdotes da PNCC possuem, segundo a terminologia técnica interna do Código latino, **"jurisdição ordinária"**.
-
-Não é necessário, porém, que utilizem essa expressão para que a consequência sacramental seja evidente.
-
-**Roma não reconhece apenas que os sacerdotes da PNCC são validamente ordenados; reconhece que podem administrar validamente um sacramento cuja própria teologia e disciplina romana exigem, além da Ordem, uma verdadeira faculdade para absolver.**
-
-Existe, portanto, pelo menos um reconhecimento funcional e sacramental de **verdadeira autoridade eclesial exercida dentro da PNCC sobre os seus fiéis e reconhecida como suficiente para produzir efeitos sacramentais objetivos**.
-
-Este facto é particularmente importante para o presente estudo porque demonstra que, na própria prática romana contemporânea, uma Igreja separada da jurisdição pontifícia imediata pode continuar a possuir não apenas Ordens e Eucaristia válidas, mas também uma vida sacramental que pressupõe verdadeiro exercício de autoridade eclesial.
+O argumento permanece substancial: **a ausência de uma nomeação ou delegação romana não basta, por si só, para demonstrar a inexistência de toda a autoridade necessária ao exercício válido do ministério sacramental numa Igreja separada.**
 
 <br>
 
-### 6.5. Igreja verdadeira sem plena comunhão com Roma
+### 6.4. O reconhecimento de uma realidade preexistente
 
-Este reconhecimento concreto da PNCC encontra-se em coerência com um princípio eclesiológico mais amplo da própria doutrina romana contemporânea.
+Quanto à realidade sacramental reconhecida, importa distinguir **reconhecimento declarativo** e **ato constitutivo**.
 
-A declaração ***Dominus Iesus***, n.º 17, afirma que as Igrejas que não se encontram em perfeita comunhão com Roma mas permanecem ligadas a ela por vínculos como a **sucessão apostólica e uma Eucaristia válida são verdadeiras Igrejas particulares**, nas quais a Igreja de Cristo permanece presente e operante.
+O diálogo com Roma não ordenou retroativamente os ministros da PNCC nem fez começar a sua vida sacramental na data dos acordos. A interpretação que sustentamos é que o reconhecimento incide sobre uma realidade já existente, da qual podem decorrer novas disposições de comunicação sacramental.
+
+Esta distinção tem consequências para a nossa argumentação. A existência objetiva de uma realidade eclesial não se confunde com a data em que outra Igreja a reconhece formalmente. Do mesmo modo, a disciplina que regula o acesso de fiéis aos sacramentos de outra Igreja deve distinguir-se dos fundamentos da validade desses sacramentos.
+
+**É a realidade reconhecida que fornece o termo de comparação para o nosso estudo.** A sua existência precede o reconhecimento externo; este permite confirmá-la a partir dos critérios do próprio enquadramento romano.
+
+<br>
+
+### 6.5. O fundamento eclesiológico: verdadeiras Igrejas fora da plena comunhão
+
+A declaração ***Dominus Iesus***, n.º 17, reconhece como **verdadeiras Igrejas particulares** as Igrejas que, embora sem perfeita comunhão com a Igreja Católica, conservam vínculos estreitos com ela, nomeadamente a sucessão apostólica e uma Eucaristia válida. Afirma que nelas a Igreja de Cristo está presente e atua.
+
+O documento mantém a doutrina romana acerca do primado e considera a falta de plena comunhão uma deficiência. Mesmo nesse enquadramento, reconhece verdadeira realidade eclesial nas Igrejas separadas a que se refere.
 
 <u><a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_po.html">
 Congregação para a Doutrina da Fé — <i>Dominus Iesus</i>, n.º 17
 </a></u>
 
-A Audiência Geral de **10 de maio de 2006** do Papa Bento XVI oferece igualmente uma formulação útil acerca da sucessão apostólica.
+O estudo aplica este princípio ao conjunto que considera constitutivo da nossa vida eclesial: **episcopado em sucessão apostólica válida, doutrina ortodoxa, vida eucarística e sacramental, fiéis, clero, hierarquia, estatutos e exercício estável do governo pastoral**.
 
-Bento XVI descreve a sucessão do ministério episcopal como continuidade do ministério apostólico e como instrumento histórico através do qual se preserva a Tradição e Cristo continua a agir sacramentalmente através dos ministros ordenados.
-
-<u><a href="https://www.vatican.va/content/benedict-xvi/pt/audiences/2006/documents/hf_ben-xvi_aud_20060510.html">
-Bento XVI — Audiência Geral de 10 de maio de 2006: <i>A Sucessão Apostólica</i>
-</a></u>
-
-Estes textos gerais não constituem, evidentemente, uma declaração de que qualquer comunidade que reivindique sucessão apostólica seja automaticamente uma verdadeira Igreja particular.
-
-Demonstram, porém, a estrutura teológica dentro da qual o precedente concreto da PNCC deve ser compreendido:
-
-**a ausência de plena comunhão jurisdicional com Roma não exclui necessariamente verdadeira sucessão apostólica, verdadeiro episcopado, verdadeiros sacramentos e verdadeira realidade eclesial.**
-
-No caso da PNCC, esta possibilidade teológica deixou de ser meramente abstrata e recebeu aplicação pastoral concreta.
+É nessa articulação entre sacramento, comunidade e governo pastoral que se situa a nossa tese sobre a jurisdição. O episcopado exerce-se numa Igreja concreta, cujo presbitério recebe missão para servir os fiéis.
 
 <br>
 
-### 6.6. A Nordic Catholic Church e a extensão do precedente à União de Scranton
+### 6.6. A aplicação atual à Fidelitas
 
-O desenvolvimento posterior da PNCC torna o precedente ainda mais relevante.
+O argumento assenta numa **paridade de fundamento**. A nossa leitura do caso PNCC identifica a autoridade necessária à vida sacramental com uma verdadeira realidade de Igreja, em que sucessão apostólica, fé sacramental e organização eclesial se encontram reunidas.
 
-A **Nordic Catholic Church (NCC)** nasceu sob a supervisão da PNCC e foi inicialmente constituída como uma estrutura extraterritorial ligada à Igreja norte-americana. Posteriormente tornou-se uma Igreja autónoma e, juntamente com a PNCC, integra atualmente a **União de Scranton**.
+A formulação é a seguinte:
 
-A própria Nordic Catholic Church declara oficialmente estar em **plena comunhão canónica com a PNCC** e afirma que as Igrejas da União de Scranton — PNCC e NCC — partilham a mesma identidade teológica fundamental.
+1. **Premissa de interpretação:** a verdadeira realidade eclesial, dotada de sucessão apostólica válida, doutrina ortodoxa e governo próprio, fundamenta uma autoridade capaz de prover ao exercício válido do ministério sacramental. Entendemos que o reconhecimento da PNCC, especialmente quanto à Penitência, corrobora este princípio.
+2. **Premissa relativa à Fidelitas:** esses elementos existem objetivamente na nossa Igreja — fiéis, clero, hierarquia, estatutos, governo pastoral, sucessão apostólica válida e conservação da fé — conforme o enquadramento desenvolvido nas restantes páginas.
+3. **Conclusão do estudo:** a Fidelitas possui atualmente verdadeira autoridade eclesial, incluindo a capacidade de conferir aos seus sacerdotes a missão e as faculdades necessárias ao exercício da Confissão.
 
-<u><a href="https://nordiccatholic.com/about-us/">
-Nordic Catholic Church — <i>About Us</i>
-</a></u>
+**A conclusão refere-se à jurisdição que já possuímos.** A sua aplicação resulta da presença dos fundamentos considerados, independentemente de um eventual acordo futuro.
 
-É especialmente relevante que a própria NCC afirme publicamente que:
+A primeira premissa exprime a interpretação teológico-canónica que sustentamos: os documentos citados não enunciam literalmente uma regra universal de suficiência com esta lista de requisitos. É pela leitura articulada da sua doutrina e da sua aplicação à PNCC que o estudo fundamenta a passagem para a Fidelitas.
 
-**a validade das Ordens e de todos os sacramentos da Polish National Catholic Church e da Nordic Catholic Church é reconhecida pela Igreja Católica Romana**, acrescentando que, nos termos do cân. 844 §§2–3, podem existir formas limitadas de participação sacramental.
-
-A Nordic Catholic Church entende, portanto, que o reconhecimento sacramental obtido historicamente pela sua Igreja-matriz possui consequências para ela enquanto Igreja integrante da mesma comunhão e sucessão eclesial.
-
-Esta afirmação deve, contudo, ser apresentada com a devida precisão documental.
-
-O reconhecimento da PNCC encontra-se diretamente documentado em fontes oficiais do diálogo romano e em decisões ligadas à Santa Sé.
-
-Quanto à Nordic Catholic Church, **é a própria NCC que afirma publicamente que esse reconhecimento se aplica igualmente aos seus sacramentos**.
-
-Não se deve, portanto, apresentar sem qualificação essa extensão como se estivéssemos a citar um decreto separado da Santa Sé que nomeasse expressamente a NCC.
-
-O que o seu caso demonstra, porém, é especialmente relevante para a nossa argumentação: **uma Igreja posteriormente organizada a partir da PNCC, partilhando a sua sucessão, comunhão e identidade eclesial, considera-se abrangida pela realidade sacramental reconhecida na sua Igreja-matriz.**
+A relação com a PNCC confere especial relevância a esta aplicação, pois a realidade eclesial reconhecida pertence à própria matriz da nossa Igreja.
 
 <br>
 
-### 6.7. O paralelo com a Fidelitas
+### 6.7. Em que sentido este reconhecimento nos alcança
 
-É neste ponto que o precedente se torna diretamente relevante para a **Fidelitas** e para a Igreja Vétero-Católica de Jerusalém em Portugal.
+Falamos de **reconhecimento indireto, em sentido substancial e argumentativo**: os critérios e as realidades reconhecidos no caso PNCC permitem corroborar a autoridade eclesial que existe na Fidelitas. Este é o sentido preciso em que sustentamos que o reconhecimento nos alcança já no presente.
 
-A argumentação não consiste em afirmar que o regime concedido à PNCC se estende automaticamente à Fidelitas.
+A afirmação distingue-se de uma declaração nominal da autoridade romana acerca da Fidelitas. O seu valor reside na coerência dos fundamentos: **a mesma natureza eclesial e sacramental reclama a mesma conclusão quanto à existência da autoridade que lhe é própria**.
 
-O próprio cân. 844 §3 exige, relativamente às Igrejas ocidentais não plenamente unidas a Roma, **um juízo da Sé Apostólica** acerca da sua condição sacramental.
+Por jurisdição entendemos aqui a autoridade efetiva de governo e de missão na Igreja. O bispo preside à comunidade, dirige a sua vida pastoral e confia aos presbíteros o ministério junto dos fiéis. Quanto à Confissão, a conclusão diz respeito à autoridade da Igreja para prover às faculdades dos seus ministros e ao exercício dessas faculdades pelos sacerdotes devidamente habilitados.
 
-Não podemos, portanto, substituir esse juízo por uma declaração unilateral nossa.
-
-A conclusão é diferente e mais precisa.
-
-Segundo a documentação apresentada nas secções anteriores deste estudo, a Fidelitas reivindica precisamente os elementos objetivos que tornaram possível o reconhecimento sacramental da PNCC:
-
-**sucessão apostólica histórica; episcopado e sacerdócio válidos; continuidade do ministério episcopal; fé nos sete sacramentos; Eucaristia válida; estrutura eclesial própria; e continuidade com uma tradição vétero-católica de matriz polaco-nacional.**
-
-Se estes elementos forem reconhecidos como demonstrados, então a Fidelitas apresenta **o mesmo género de questão canónica que Roma já enfrentou e resolveu favoravelmente no caso da PNCC**.
-
-Isto significa que um eventual diálogo com Roma não teria de começar pela hipótese de que a Fidelitas fosse uma simples associação religiosa sem sacramentos reconhecíveis.
-
-Existe um precedente específico para examinar uma Igreja vétero-católica ocidental, separada da jurisdição romana, dotada de sucessão apostólica e estrutura episcopal própria, e concluir que os seus sacramentos são verdadeiros e que é possível estabelecer uma forma limitada de comunicação sacramental ao abrigo do cân. 844.
-
-O precedente da Nordic Catholic Church, tal como esta própria o interpreta, reforça ainda mais esta conclusão: **o modelo PNCC não é necessariamente concebido como uma exceção histórica absolutamente intransmissível, mas como um reconhecimento associado a determinadas características objetivas de continuidade apostólica e sacramental.**
-
-A consequência que retiramos daqui é, portanto, deliberadamente limitada, mas importante:
-
-**a Fidelitas possui fundamentos objetivos para solicitar à autoridade romana um exame semelhante àquele que foi realizado relativamente à PNCC e, caso Roma reconhecesse a equivalência sacramental necessária, poderiam ser estabelecidas soluções pastorais análogas no âmbito do cân. 844 §§2–3.**
+A posição de Roma como referência externa torna esta corroboração especialmente significativa. O seu enquadramento jurídico admite efeitos sacramentais que pressupõem autoridade eclesial em Igrejas com as quais mantém divergências e não possui plena comunhão.
 
 <br>
 
-### 6.8. O verdadeiro alcance desta segunda linha de defesa
+### 6.8. Confiança dos fiéis e eventual diálogo futuro
 
-Esta segunda linha não substitui a primeira.
+**Os nossos fiéis podem encontrar neste argumento uma confirmação presente dos fundamentos da nossa jurisdição e da vida sacramental que dela depende.** A confiança na Confissão assenta na sucessão apostólica, na fé professada e no ministério exercido por sacerdotes que recebem missão e faculdades na nossa Igreja.
 
-Um eventual acordo com Roma **não criaria retroativamente a Fidelitas, não produziria a sua sucessão apostólica e não constituiria originalmente a sua jurisdição**.
+Um eventual diálogo com Roma poderia constituir um desenvolvimento futuro de interesse, permitindo explicitar convergências e examinar possíveis consequências pastorais. O alcance atual do argumento mantém-se independentemente dessa possibilidade.
 
-O precedente da PNCC demonstra precisamente o contrário.
+Tal diálogo teria de respeitar a nossa posição **antimodernista** e a nossa avaliação de que Roma atravessa uma crise doutrinal e disciplinar gravíssima. Na nossa perspetiva, as condições atuais exigiriam um exame próprio, sem presumir que reproduzem as das décadas de 1990 e 2000. As questões de fidelidade doutrinal e sacramental que marcaram as divergências entre a PNCC e Utrecht constituiriam também matéria relevante para essa reflexão; uma eventual comparação com posições romanas exigiria análise específica.
 
-Roma não criou os sacramentos da PNCC através do diálogo.
-
-**Reconheceu sacramentalmente uma realidade que já existia antes desse reconhecimento.**
-
-É precisamente por isso que o precedente é importante.
-
-Se os sacramentos da PNCC só tivessem começado a ser verdadeiros depois do acordo, não haveria propriamente reconhecimento; haveria constituição de uma nova realidade.
-
-O que ocorreu foi o reconhecimento de que uma Igreja separada de Roma já possuía **verdadeira sucessão apostólica, verdadeiras Ordens, verdadeira Eucaristia e os restantes sacramentos**, permitindo posteriormente tirar consequências pastorais dessa realidade.
-
-A Penitência torna este ponto especialmente claro.
-
-Ao reconhecer a validade da absolvição sacramental na PNCC, Roma reconhece necessariamente que a vida eclesial dessa Igreja contém **autoridade sacramental suficiente para exercer validamente o poder das chaves**, não se reduzindo a uma cadeia material de consagrações episcopais.
-
-A segunda linha de defesa pode, por isso, ser resumida da seguinte forma:
-
-**o próprio direito romano contemporâneo demonstra que uma Igreja separada da jurisdição romana pode conservar uma verdadeira realidade eclesial, sucessão apostólica, sacramentos válidos e autoridade sacramental suficiente para a Penitência; e o precedente concreto da PNCC demonstra que Roma pode reconhecer formalmente essa realidade e estabelecer com ela formas específicas de comunicação sacramental.**
-
-Segundo a argumentação desenvolvida neste estudo, a Fidelitas encontra-se objetivamente numa posição suficientemente análoga para que **um exame e um acordo do mesmo género sejam juridicamente concebíveis**, ainda que dependam necessariamente de uma futura decisão da autoridade romana.
-
-Esta é a nossa **segunda linha de defesa**.
-
-A primeira sustenta positivamente o nosso próprio título jurisdicional.
-
-A segunda demonstra que **o próprio sistema jurídico romano contemporâneo contém um precedente pelo qual uma Igreja numa posição sacramental comparável pode ser reconhecida como verdadeira Igreja eclesial e sacramental, incluindo quanto a um sacramento (a Penitência) cuja validade pressupõe verdadeira faculdade para absolver.**
-
-
-
-
+**O fundamento da conclusão permanece a realidade que a Fidelitas possui hoje: Igreja organizada, sucessão apostólica válida, fé ortodoxa e autoridade pastoral própria. O direito romano de 1983 e o caso PNCC oferecem, segundo a argumentação aqui desenvolvida, uma corroboração externa dessa realidade e da jurisdição necessária ao seu ministério sacramental.**
 
 
 <br>
