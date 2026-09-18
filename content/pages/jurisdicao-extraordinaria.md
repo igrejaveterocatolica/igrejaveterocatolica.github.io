@@ -54,63 +54,29 @@ A **Declaração de Utrecht de 1889** colocou expressamente esse princípio no f
 
 <u><a href="https://www.utrechter-union.org/en/about-us/what-is-the-union-of-utrecht/the-declaration-of-utrecht/">União de Utrecht — <i>Declaration of Utrecht</i> (1889)</a></u>
 
-Assim, «tradicional» não significa simplesmente «antigo», e «inovação» não significa necessariamente erro.
+Assim, «tradicional» não significa simplesmente «antigo», e «inovação» não significa necessariamente erro. A disciplina pode mudar, a linguagem teológica pode desenvolver-se, a Igreja pode responder a circunstâncias históricas novas. O problema nasce quando se pretende apresentar como desenvolvimento aquilo que, depois de confronto com a Sagrada Escritura, Padres da Igreja, Concílios Ecuménicos recebidos e tradição canónica, parece constituir **mudança de princípio**.
 
-A disciplina pode mudar.
-
-A linguagem teológica pode desenvolver-se.
-
-A Igreja pode responder a circunstâncias históricas novas.
-
-O problema nasce quando se pretende apresentar como desenvolvimento aquilo que, depois de confronto com Escritura, Padres, Concílios Ecuménicos recebidos e tradição canónica, parece constituir **mudança de princípio**.
-
-É esta questão — desenvolvimento ou ruptura — que atravessa toda a crise moderna.
+A questão que atravessa toda a crise moderna: desenvolvimento ou ruptura?
 
 <br><br>
 
 ### 2. Primeira fase da crise: Vaticano I e a questão da autoridade
 
-Do ponto de vista ultrajectino, a crise eclesiológica moderna não começa em Vaticano II.
-
-Um primeiro ponto decisivo encontra-se no **Concílio Vaticano I**, particularmente na constituição dogmática *Pastor aeternus* de 1870.
-
-A crítica não consiste em afirmar que Vaticano I ensinou que o Papa é infalível em tudo.
-
-Não ensinou.
-
-Também não consiste em afirmar que os bispos foram reduzidos formalmente a meros funcionários do Romano Pontífice.
-
-O próprio texto conciliar preserva a existência de verdadeira jurisdição episcopal dos bispos.
-
-A dificuldade ultrajectina é mais profunda.
+Do ponto de vista ultrajectino, a crise eclesiológica moderna não começa em Vaticano II. O primeiro ponto decisivo encontra-se no **Concílio Vaticano I**, particularmente na constituição dogmática *Pastor aeternus* de 1870. A crítica não consiste em afirmar que Vaticano I ensinou que o Papa é infalível em todo o magistério. Também não consiste em afirmar que os bispos foram reduzidos formalmente a meros funcionários do Romano Pontífice. O próprio texto conciliar preserva a existência de verdadeira jurisdição episcopal dos bispos. A dificuldade ultrajectina é mais profunda.
 
 *Pastor aeternus* definiu como pertencente à constituição divina da Igreja que a jurisdição do Romano Pontífice é verdadeiramente episcopal, ordinária e imediata sobre todos os pastores e fiéis, abrangendo não apenas fé e costumes, mas também disciplina e governo.
 
 <u><a href="https://www.vatican.va/content/pius-ix/en/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html">Concílio Vaticano I — <i>Pastor aeternus</i></a></u>
 
-Para a crítica ultrajectina, o problema não é a existência de uma primazia romana.
-
-A própria Declaração de Utrecht reconhece ao Bispo de Roma a primazia histórica de *primus inter pares*.
-
-O problema é transformar essa primazia numa **jurisdição episcopal própria, universal, ordinária e imediata dentro de todas as Igrejas locais**, simultaneamente com a jurisdição própria dos respectivos bispos.
-
-É precisamente aquilo que Utrecht qualificou como «episcopado universal» ou plenitude universal de poder.
+Para a crítica ultrajectina, o problema não é a existência de uma primazia romana. A própria Declaração de Utrecht reconhece ao Bispo de Roma a primazia histórica de *primus inter pares*. O problema é transformar essa primazia numa **jurisdição episcopal própria, universal, ordinária e imediata dentro de todas as Igrejas locais**, simultaneamente com a jurisdição própria dos respectivos bispos. É precisamente aquilo que Utrecht qualificou como "episcopado universal" ou plenitude universal de poder.
 
 <u><a href="https://www.utrechter-union.org/en/about-us/what-is-the-union-of-utrecht/the-declaration-of-utrecht/">Declaração de Utrecht — rejeição das definições de Vaticano I</a></u>
 
-A crítica encontrou uma convergência importante no Oriente cristão.
-
-O documento de **Alexandria de 2023**, resultado oficial do diálogo católico-ortodoxo, reconhece historicamente que a Ortodoxia considerou os ensinamentos de Vaticano I sobre jurisdição universal e infalibilidade uma grave divergência relativamente à tradição canónica dos Padres e dos Concílios, particularmente por obscurecerem a catolicidade própria de cada Igreja local.
+A crítica encontrou uma convergência importante no Oriente cristão: O documento de **Alexandria de 2023**, resultado oficial do diálogo católico-ortodoxo, reconhece historicamente que a Ortodoxia considerou os ensinamentos de Vaticano I sobre jurisdição universal e infalibilidade uma grave divergência relativamente à tradição canónica dos Padres e dos Concílios, particularmente por obscurecerem a catolicidade própria de cada Igreja local.
 
 <u><a href="https://www.christianunity.va/content/unitacristiani/fr/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/document-d-alexandrie---synodalite-et-primaute-au-deuxieme-mille.html">Comissão Internacional Católico-Ortodoxa — Documento de Alexandria (2023)</a></u>
 
-A crítica ortodoxa recebeu em São Justino Popović uma formulação ainda mais radical.
-
-Popović interpretou a infalibilidade papal como uma deslocação do centro da vida eclesial do Deus-Homem para o homem e chegou a qualificá-la como o «triunfo final do humanismo».
-
-Essa formulação representa a teologia de Popović e não deve ser apresentada como definição pan-ortodoxa.
-
-É, contudo, significativa como expressão de uma crítica cristológica e eclesiológica profundamente enraizada no Oriente.
+A crítica ortodoxa recebeu em São Justino Popović uma formulação ainda mais radical: Popović interpretou a infalibilidade papal como uma deslocação do centro da vida eclesial do Deus-Homem para o homem e chegou a qualificá-la como o "triunfo final do humanismo". Essa formulação representa a teologia de Popović e não deve ser apresentada como definição pan-ortodoxa, mas é significativa como expressão de uma crítica cristológica e eclesiológica profundamente enraizada no Oriente.
 
 <u><a href="https://www.diakonima.gr/2017/07/11/reflections-on-the-infallibility-of-european-man-part-ii-saint-justin-popovich/">São Justino Popović — <i>Reflections on the Infallibility of European Man</i></a></u>
 
@@ -124,29 +90,21 @@ A posição ultrajectina pode, portanto, resumir-se do seguinte modo:
 
 ### 3. A crise dentro da própria resistência anti-ultramontana
 
-A recusa de Vaticano I não garantia, contudo, por si só, fidelidade à Igreja antiga.
-
-É precisamente aqui que surge uma segunda fase da crise.
+A recusa de Vaticano I não garantia, contudo, por si só, fidelidade à Igreja antiga. É precisamente aqui que surge uma segunda fase da crise. 
 
 A pergunta torna-se:
 
 **aqueles que resistiram ao ultramontanismo conservaram sempre o próprio princípio da Tradição em nome do qual tinham resistido?**
 
-A história posterior da União de Utrecht mostra que a resposta não é simples.
+A história posterior da União de Utrecht mostra que a resposta não é simples. Um dos primeiros sinais desta tensão encontra-se em **Arnold Harris Mathew**, uma das origens episcopais da tradição vétero-romana da qual esta Igreja participa. 
 
-Um dos primeiros sinais desta tensão encontra-se em **Arnold Harris Mathew**, uma das origens episcopais da tradição vétero-romana da qual esta Igreja participa.
-
-Em 29 de dezembro de 1910, Mathew declarou a autonomia da Igreja que governava em Inglaterra e recusou qualquer sujeição jurisdicional aos corpos veterocatólicos continentais.
-
-A sua declaração fundamentava a separação numa acusação muito concreta: Utrecht e outros sectores veterocatólicos estariam a alterar doutrina, liturgia e disciplina recebidas.
+Em 29 de dezembro de 1910, Mathew declarou a autonomia da Igreja que governava em Inglaterra e recusou qualquer sujeição jurisdicional aos corpos veterocatólicos continentais. A sua declaração fundamentava a separação numa acusação muito concreta: Utrecht e outros sectores veterocatólicos estariam a alterar doutrina, liturgia e disciplina recebidas.
 
 Mathew menciona, entre outras matérias, mudanças na disciplina sacramental, na confissão, na veneração dos santos e das imagens, nos jejuns e na admissão à Comunhão.
 
 <u><a href="https://www.oldromancatholic.org.uk/beliefs/declaration-of-autonomy">Arnold Harris Mathew — <i>Declaration of Autonomy</i> (1910)</a></u>
 
-Esta declaração não prova que Mathew tivesse razão em todas as suas acusações.
-
-A sua ruptura envolveu igualmente conflitos de governo e de disciplina episcopal.
+Esta declaração não prova que Mathew tivesse razão em todas as suas acusações. A sua ruptura envolveu igualmente conflitos de governo e de disciplina episcopal.
 
 Mas demonstra que **a controvérsia acerca de uma deriva doutrinal de Utrecht já existia no início do século XX**, muito antes das transformações posteriores que tornariam o problema mais evidente.
 
@@ -160,33 +118,17 @@ A própria tradição vétero-romana contemporânea apresenta Mathew como defens
 
 Para a presente Igreja, o caso de **Władysław Marcin Faron** possui uma importância ainda maior, porque não pertence apenas a uma linha apostólica distante: encontra-se na história da própria jurisdição polaco-brasileira de onde reivindicamos continuidade.
 
-Faron foi eleito para governar a Igreja Nacional na Polónia e recebeu consagração episcopal de Franciszek Hodur em Scranton, em janeiro de 1930.
+Faron foi eleito para governar a Igreja Nacional na Polónia e recebeu consagração episcopal de Franciszek Hodur em Scranton, em janeiro de 1930. A crise de 1931 não foi simplesmente uma disputa de personalidades. Todos os factos desta crise estão analisados em detalhe na nossa página de <a href="/historia-detalhada.html">história</a> e na página de <a href="/canonicidade.html">canonicidade</a>.
 
-A crise de 1931 não foi simplesmente uma disputa de personalidades.
-
-O estudo histórico de Izydor Sadowski, baseado em correspondência, publicações e documentos de arquivo, conclui que a ruptura resultou de problemas não resolvidos de organização, competência e autoridade, chamando particularmente atenção para o carácter autoritário do governo de Hodur e para a indefinição da extensão da autoridade norte-americana sobre a Igreja na Polónia.
+Mas apresentamos aqui alguns elementos essenciais da crise: o estudo histórico de Izydor Sadowski, baseado em correspondência, publicações e documentos de arquivo, conclui que a ruptura resultou de problemas não resolvidos de organização, competência e autoridade, chamando particularmente atenção para o carácter autoritário do governo de Hodur e para a indefinição da extensão da autoridade norte-americana sobre a Igreja na Polónia.
 
 <u><a href="https://czasopisma.uksw.edu.pl/index.php/s/article/view/12999">Izydor Sadowski — <i>Polski Narodowy Kościół Katolicki: wewnętrzne i zewnętrzne warunki jego rozwoju</i>, Seminare 7 (1985), 177–220</a></u>
 
-A formulação atribuída a Faron é particularmente reveladora.
-
-Segundo Sadowski, Faron entendia a exigência de submissão à autoridade de Hodur como a imposição de **«um papa na América»**, acrescentando que «não queremos um papa».
-
-Sadowski observa imediatamente que Hodur, por seu lado, não pretendia abdicar do papel de «papa» dentro da sua organização.
-
-A expressão é polémica.
-
-Hodur não reivindicava a infalibilidade definida em Vaticano I nem se identificava literalmente com o Romano Pontífice.
-
-Contudo, a acusação de Faron revela a categoria eclesiológica em que ele próprio compreendia o conflito:
+A formulação atribuída a Faron é particularmente reveladora. Segundo Sadowski, Faron entendia a exigência de submissão à autoridade de Hodur como a imposição de **"um papa na América"**, acrescentando que "não queremos um papa". Sadowski observa imediatamente que Hodur, por seu lado, não pretendia abdicar do papel de "papa" dentro da sua organização. A expressão é obviamente polémica: Hodur não reivindicava a infalibilidade definida em Vaticano I nem se identificava literalmente com o Pontífice Romano. Contudo, a acusação de Faron revela a categoria eclesiológica em que ele próprio compreendia o conflito:
 
 **uma Igreja que nascera da rejeição de determinadas formas de centralização romana estava, segundo Faron, a reproduzir internamente uma autoridade supralocal capaz de intervir imediatamente sobre um bispo e uma Igreja local cuja autonomia e competências não estavam claramente definidas.**
 
-Este facto é particularmente importante porque a missão brasileira de 1932, da qual posteriormente deriva a continuidade aqui reivindicada, surge no contexto da estrutura governada por Faron.
-
-A necessidade, portanto, não cria a jurisdição de Faron.
-
-A questão jurídica posterior será antes determinar **se Faron perdeu validamente o ofício que já possuía**.
+Portanto fica claro que a crise de autoridade também existia nos ramos ultrajectinos do início do século.
 
 <br><br>
 
@@ -202,27 +144,11 @@ A atual **União de Scranton**, fundada em torno da PNCC, apresenta expressament
 
 <u><a href="https://theunionofscranton.org/declarationofscranton/">União de Scranton — <i>Declaration of Scranton</i></a></u>
 
-O significado histórico é importante.
+O significado histórico é importante. A crise moderna não pode ser representada simplesmente como: **Roma errou e Utrecht conservou sempre intacta a tradição.** Estes factos demonstram que a realidade é mais complexa. 
 
-A crise moderna não pode ser representada simplesmente como:
+O campo ultrajectino desenvolveu também tendências de inovação doutrinal e disciplinar. Daí resulta um princípio decisivo para todo este estudo: **nem centralização garante ortodoxia, nem sinodalidade garante ortodoxia.**
 
-**Roma errou e Utrecht conservou sempre intacta a tradição.**
-
-A realidade é mais complexa.
-
-O campo anti-ultramontano desenvolveu também tendências de inovação doutrinal e disciplinar.
-
-Daí resulta um princípio decisivo para todo este estudo:
-
-**nem centralização garante ortodoxia, nem sinodalidade garante ortodoxia.**
-
-A autoridade deve ser julgada dentro da Tradição.
-
-A sinodalidade deve ser julgada dentro da Tradição.
-
-A autonomia da Igreja local deve ser julgada dentro da Tradição.
-
-O critério não é simplesmente a forma institucional.
+Tudo tem de ser julgado dentro da tradição: autoridade, sinodalidade e autonomia da Igreja local. O critério não é simplesmente a forma institucional.
 
 <br><br>
 
@@ -236,69 +162,29 @@ O documento acusa determinadas correntes de relativizarem o dogma, subordinarem 
 
 <u><a href="https://www.vatican.va/content/pius-x/pt/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html">São Pio X — <i>Pascendi dominici gregis</i> (1907)</a></u>
 
-O facto é relevante independentemente de se aceitar integralmente a reconstrução do modernismo oferecida por Pio X.
-
-A própria autoridade romana reconhecia existir, no início do século XX, **uma grave crise doutrinal interna**.
+O facto é relevante independentemente de se aceitar integralmente a reconstrução do modernismo oferecida por Pio X. A própria autoridade romana reconhecia existir, no início do século XX, **uma grave crise doutrinal interna**.
 
 Em 1950, Pio XII voltou a advertir, em *Humani generis*, contra tendências que considerava capazes de produzir relativismo dogmático, falso irenismo e reformulações teológicas demasiado dependentes das categorias contemporâneas.
 
 <u><a href="https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html">Pio XII — <i>Humani generis</i> (1950)</a></u>
 
-Isto impede uma narrativa demasiado simples segundo a qual existiria uma Igreja Romana teologicamente estável até 1962 e uma súbita crise nascida exclusivamente do Concílio Vaticano II.
-
-A crise precede o Concílio.
-
-Vaticano II deve ser analisado como uma fase de **aprofundamento e expansão**, não necessariamente como origem absoluta.
+Isto impede uma narrativa demasiado simples segundo a qual existiria uma Igreja Romana teologicamente estável até 1962 e uma súbita crise nascida exclusivamente do Concílio Vaticano II. Vemos aqui nestes documentos que a crise precede o Concílio. Vaticano II deve ser analisado como uma fase de **aprofundamento e expansão**, não necessariamente como origem do problema.
 
 <br><br>
 
 ### 7. Vaticano II: aprofundamento da crise, não sua origem
 
-A crítica ultrajectina a Vaticano II distingue-se da crítica tradicionalista romana num ponto essencial.
+A crítica ultrajectina a Vaticano II distingue-se da crítica tradicionalista romana num ponto essencial: para grande parte do tradicionalismo romano, a estrutura eclesial anterior ao Concílio permanece fundamentalmente correcta e Vaticano II representa a grande ruptura.
 
-Para grande parte do tradicionalismo romano, a estrutura eclesial anterior ao Concílio permanece fundamentalmente correcta e Vaticano II representa a grande ruptura.
+Para a leitura ultrajectina, a crise eclesiológica já se manifestara em Vaticano I. O Concílio Vaticano II conserva integralmente as definições essenciais de 1870. Não corrige, portanto, a questão fundamental da jurisdição universal papal.
 
-Para a leitura ultrajectina, a crise eclesiológica já se manifestara em Vaticano I.
+Ao mesmo tempo, introduz uma nova relação da Igreja Romana com modernidade, ecumenismo, liberdade religiosa, outras religiões, colegialidade e linguagem pastoral. Por isso, pode dizer-se que: **Vaticano I é a ruptura eclesiológica mais fundamental; Vaticano II é uma crise mais extensa na sua manifestação concreta.**
 
-Vaticano II conserva integralmente as definições essenciais de 1870.
+Esta distinção é muito importante. Um católico romano posterior a Vaticano I podia continuar a viver litúrgica, disciplinar e moralmente de modo muito semelhante às gerações anteriores. A receção de Vaticano II acabaria por atingir muito mais directamente alguns dos elementos fundamentais da Igreja: a liturgia, a formação clerical, a catequese, a relação com outras religiões não-Cristãs, a disciplina matrimonial, a moral, a espiritualidade, e a própria forma de apresentar a identidade da Igreja.
 
-Não corrige a questão fundamental da jurisdição universal papal.
+A questão crítica não é simplesmente afirmar que cada palavra do Concílio é errada, mas sim: **onde existe legítimo desenvolvimento e onde aparece uma mudança de princípio?**
 
-Ao mesmo tempo, introduz uma nova relação da Igreja Romana com modernidade, ecumenismo, liberdade religiosa, outras religiões, colegialidade e linguagem pastoral.
-
-Por isso, pode dizer-se que:
-
-**Vaticano I é a ruptura eclesiológica mais fundamental; Vaticano II é uma crise mais extensa na sua manifestação concreta.**
-
-Esta distinção é importante.
-
-Um católico romano posterior a Vaticano I podia continuar a viver litúrgica, disciplinar e moralmente de modo muito semelhante às gerações anteriores.
-
-A receção de Vaticano II acabaria por atingir muito mais directamente:
-
-a liturgia;
-
-a formação clerical;
-
-a catequese;
-
-a relação com outras religiões;
-
-a disciplina matrimonial;
-
-a moral;
-
-a espiritualidade;
-
-e a própria forma de apresentar a identidade da Igreja.
-
-A questão crítica não é simplesmente afirmar que cada palavra do Concílio é errada.
-
-É perguntar:
-
-**onde existe legítimo desenvolvimento e onde aparece uma mudança de princípio?**
-
-Bento XVI reconheceu a existência desta dificuldade quando, em 2005, contrapôs uma «hermenêutica da descontinuidade e da ruptura» a uma «hermenêutica da reforma» na continuidade.
+Papa Bento XVI reconheceu a existência desta dificuldade quando, em 2005, contrapôs uma "hermenêutica da descontinuidade e da ruptura" a uma "hermenêutica da reforma" na continuidade.
 
 <u><a href="https://www.vatican.va/content/benedict-xvi/en/speeches/2005/december/documents/hf_ben_xvi_spe_20051222_roman-curia.html">Bento XVI — Discurso à Cúria Romana, 22 de dezembro de 2005</a></u>
 
@@ -308,161 +194,91 @@ A importância deste discurso é precisamente que a questão da **continuidade**
 
 ### 8. A receção pós-conciliar: liturgia, disciplina e transmissão
 
-A crise tornou-se particularmente visível depois de 1965.
+A crise tornou-se particularmente visível depois de 1965. A reforma litúrgica constitui o exemplo mais imediato e visível para os fiéis. O Concílio não ordenou apenas a eliminação do latim, do canto gregoriano ou de todo o património litúrgico anterior. A reforma que se sucedeu nas décadas seguintes alterou profundamente a experiência litúrgica do rito romano e foi acompanhada, em muitas regiões, por transformações ainda mais extensas praticadas em nome do chamado "espírito do Concílio" (tendo na verdade ido muito além do que os documentos do Concílio diziam).
 
-A reforma litúrgica constitui o exemplo mais imediato.
-
-O Concílio não ordenara simplesmente a eliminação do latim, do canto gregoriano ou de todo o património litúrgico anterior.
-
-Todavia, a reforma posterior alterou profundamente a experiência litúrgica do rito romano e foi acompanhada, em muitas regiões, por transformações ainda mais extensas praticadas em nome do chamado «espírito do Concílio».
-
-A crise não era reconhecida apenas pelos opositores do Concílio.
-
-Em 1972, Paulo VI utilizou a célebre imagem do «fumo de Satanás» penetrando no templo de Deus, descrevendo dúvida, incerteza e desorientação dentro da Igreja.
+A crise não era reconhecida apenas pelos opositores do Concílio. Em 1972, Paulo VI utilizou a célebre imagem do "fumo de Satanás" entrando no templo de Deus, descrevendo dúvida, incerteza e desorientação dentro da Igreja.
 
 <u><a href="https://www.vatican.va/content/paul-vi/it/homilies/1972/documents/hf_p-vi_hom_19720629.html">Paulo VI — Homilia de 29 de junho de 1972</a></u>
 
-A frase não deve ser transformada numa condenação de Vaticano II por Paulo VI.
-
-Ele permaneceu defensor do Concílio.
-
-O testemunho é importante porque demonstra que **uma grave perturbação pós-conciliar era reconhecida pelo próprio pontífice que presidia à sua implementação**.
-
-Ao mesmo tempo, o Ocidente conheceu uma enorme perda de prática e pertença religiosa.
+O testemunho é importante porque demonstra que **uma grave perturbação pós-conciliar era reconhecida pelo próprio pontífice que presidia à sua implementação**. Ao mesmo tempo, o Ocidente conheceu uma enorme perda de prática e pertença religiosa.
 
 Entre 2010 e 2020, por exemplo, o número de cristãos na Europa caiu cerca de 9%, enquanto a população sem filiação religiosa cresceu aproximadamente 37%; a desafiliação religiosa foi um dos principais motores da alteração.
 
 <u><a href="https://www.pewresearch.org/2025/06/09/religion-in-europe/">Pew Research Center — <i>Religion in Europe: 2010–2020</i></a></u>
 
-Estes números não provam que Vaticano II tenha causado a secularização.
-
-A crise social do cristianismo possui múltiplas causas.
-
-Mas constituem um indicador objectivo de **grave dificuldade de transmissão da fé**, precisamente durante o período em que as reformas eram apresentadas como renovação pastoral.
+Estes números não provam que Vaticano II tenha causado a secularização (a crise social do cristianismo possui múltiplas causas, entre elas o espírito revolucionário do liberalismo que é obviamente anterior ao Concílio), mas mostram que houve claramente um antes e um depois. Mas constituem um indicador objectivo de **grave dificuldade de transmissão da fé**, precisamente durante o período em que as reformas eram apresentadas como renovação pastoral.
 
 <br><br>
 
 ### 9. O tradicionalismo romano como testemunho interno da crise
 
-É neste contexto que surgem a FSSPX, a Resistência, a SSPV, movimentos sedevacantistas e a tradição sedeprivacionista.
+É neste contexto que surgem os movimentos tradicionalistas como a Fraternidade Sacerdotal São Pio X (FSSPX) e os movimentos sedevacantistas. 
 
-Estas correntes não devem ser confundidas com o ultrajectinismo.
+Estas correntes não devem ser confundidas com o ultrajectinismo, pois são um fenómeno pós-Concílio Vaticano II. Partem de uma eclesiologia romana fortemente influenciada pelo Vaticano I. Ou seja, são movimentos fundamentalmente **ultramontanos**.
 
-Partem normalmente de uma eclesiologia romana fortemente influenciada por Vaticano I.
-
-Mas precisamente por isso possuem valor comparativo.
-
-São movimentos que, **aceitando originalmente uma conceção da autoridade papal muito mais forte do que a vétero-romana**, chegaram ainda assim à conclusão de que a crise contemporânea exige formas extraordinárias de resistência, ministério e conservação da Tradição.
+Mas precisamente por isso possuem um valor comparativo importante. São movimentos que, **aceitando originalmente uma conceção da autoridade papal muito mais forte do que a vétero-romana e vétero-católica**, chegaram ainda assim à conclusão de que a crise contemporânea exige formas extraordinárias de resistência, ministério e conservação da Tradição.
 
 A FSSPX formula explicitamente a sua posição em termos de crise e estado de necessidade.
 
 <u><a href="https://sspx.org/en/do-priests-sspx-have-jurisdiction-31424">FSSPX — <i>Do priests of the SSPX have jurisdiction?</i></a></u>
 
-A **Society of Saint Pius V**, embora seguindo uma solução diferente para a crise da autoridade, começa o seu *Statement of Principles* afirmando que as transformações pós-Vaticano-II representam a culminação de uma penetração liberal e modernista já denunciada por São Pio X.
+A **Society of Saint Pius V (SSPV)**,um grupo que se formou a partir de antigos membros da FSSPX, embora seguindo uma solução diferente para a crise da autoridade, começa o seu *Statement of Principles* afirmando que as transformações pós-Vaticano-II representam a culminação de uma penetração liberal e modernista já denunciada por São Pio X.
 
 <u><a href="https://www.wcbohio.com/articles/sspv-statement-of-principles">SSPV — <i>Statement of Principles in a Time of Crisis</i></a></u>
 
-A existência destas escolas não demonstra que todas as respectivas conclusões sejam correctas.
-
-Demonstra, porém, que a percepção de uma crise extraordinária não é uma construção exclusiva da tradição vétero-romana.
+A percepção de uma crise extraordinária na igreja Latina não é uma construção exclusiva da tradição vétero-romana ou vétero-católica.
 
 <br><br>
 
 ### 10. Família, nulidades e a erosão prática da indissolubilidade
 
-Uma manifestação importante da crise contemporânea encontra-se na disciplina matrimonial.
+Uma manifestação importante da crise contemporânea encontra-se na disciplina matrimonial. Nas igrejas de tradição ultrajectina existe o divórcio, tal como existe nas igrejas ortodoxos e orientais. No entanto, temos de deixar claro o seguinte: uma **declaração de nulidade não é um divórcio**. O divórcio dissolve civilmente um vínculo reconhecido como válido. A nulidade declara que, por falta de algum elemento constitutivo, nunca existiu validamente o matrimónio em questão.
 
-A crítica deve ser formulada com cuidado.
+Esta diferença não pode ser ignorada. 
 
-Uma **declaração de nulidade não é um divórcio**.
-
-O divórcio dissolve civilmente um vínculo reconhecido como válido.
-
-A nulidade declara que, por falta de algum elemento constitutivo, nunca existiu validamente o matrimónio em questão.
-
-Esta diferença não pode ser obscurecida.
-
-Contudo, no período pós-conciliar ocorreu em alguns países uma extraordinária expansão das declarações de nulidade.
-
-Nos Estados Unidos, o número atingiu dezenas de milhares por ano e chegou a mais de sessenta mil no início da década de 1990.
+Contudo, no período pós-Vaticano II ocorreu em alguns países uma extraordinária expansão das declarações de nulidade. A título de exemplo, nos Estados Unidos, o número atingiu dezenas de milhares por ano e chegou a mais de sessenta mil no início da década de 1990.
 
 <u><a href="https://www.latimes.com/archives/la-xpm-1996-07-06-me-21673-story.html">Los Angeles Times — evolução histórica das declarações de nulidade nos Estados Unidos</a></u>
 
-Esta evolução tornou-se objecto de preocupação inclusive em sectores romanos.
-
-A crítica sedevacantista desenvolveu, naturalmente, uma leitura muito mais severa do fenómeno.
+Esta evolução tornou-se objecto de preocupação inclusive em sectores romanos. A crítica sedevacantista desenvolveu, naturalmente, uma leitura muito mais severa do fenómeno.
 
 <u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/annulments-in-the-conciliar-church/">Mark Pivarunas — <i>Annulments in the Conciliar Church</i></a></u>
 
-O argumento aqui adoptado é mais limitado.
-
-Não se afirma que todas as nulidades posteriores sejam falsas.
-
-Pergunta-se se a multiplicação extraordinária das declarações, a expansão de determinados fundamentos psicológicos e a posterior simplificação processual não contribuíram para produzir uma cultura eclesial em que **a estabilidade presumida do vínculo matrimonial perdeu parte da sua força pastoral**.
+O argumento aqui adoptado é mais limitado: Não se afirma que todas as nulidades posteriores sejam falsas. Pergunta-se se a multiplicação extraordinária das declarações, a expansão de determinados fundamentos psicológicos e a posterior simplificação processual não contribuíram para produzir uma cultura eclesial em que **a estabilidade presumida do vínculo matrimonial perdeu parte da sua força pastoral**.
 
 Francisco reformou os processos em *Mitis Iudex Dominus Iesus*, afirmando expressamente que pretendia facilitar a celeridade e não favorecer a nulidade.
 
 <u><a href="https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html">Francisco — <i>Mitis Iudex Dominus Iesus</i> (2015)</a></u>
 
-A questão crítica não é, portanto, se Roma aboliu formalmente a indissolubilidade.
-
-Não aboliu.
-
-A questão é se se formou progressivamente **uma distância entre a doutrina formal da indissolubilidade e a experiência pastoral concreta do matrimónio fracassado**.
+A questão crítica não é, portanto, se Roma aboliu formalmente a indissolubilidade. Parece evidente que se formou progressivamente **uma distância entre a doutrina formal da indissolubilidade e a experiência pastoral concreta do matrimónio fracassado**.
 
 <br><br>
 
 ### 11. <i>Amoris laetitia</i> e a necessária distinção entre disciplina e doutrina
 
-A questão de *Amoris laetitia* exige especial prudência.
+A questão de *Amoris laetitia* exige especial prudência. Esta Igreja não sustenta que a simples admissão de uma pessoa civilmente recasada à Comunhão, em qualquer hipótese, constitua necessariamente negação da indissolubilidade.
 
-Esta Igreja não sustenta que a simples admissão de uma pessoa civilmente recasada à Comunhão, em qualquer hipótese, constitua necessariamente negação da indissolubilidade.
+A tradição oriental conhece a *oikonomia* e distingue aplicação rigorosa da norma de determinadas soluções pastorais extraordinárias. No entanto não existe nas Igrejas ortodoxas e orientais uma cultura de divórcio e muito menos de "anulação" de matrimónios em massa como se verificou nas últimas décadas na jurisdição Romana. Num contexto secular já marcado por grande número de nulidades e por uma cultura social divorcista, o alargamento da integração sacramental não pode contribuir para **uma normalização prática da segunda união**, apesar de a indissolubilidade continuar formalmente afirmada.
 
-A tradição oriental conhece a *oikonomia* e distingue aplicação rigorosa da norma de determinadas soluções pastorais extraordinárias.
-
-Portanto, não seria coerente reduzir toda a controvérsia à fórmula:
-
-**«recasado comunga, logo a doutrina matrimonial foi abandonada».**
-
-A questão é mais profunda.
-
-Em 2023, o Dicastério para a Doutrina da Fé confirmou oficialmente que *Amoris laetitia* permite, em certos casos e depois de discernimento, o acesso à Reconciliação e à Eucaristia mesmo quando não se consegue observar a continência anteriormente proposta pela disciplina romana.
-
-<u><a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_pro_20230925_risposte-card-duka_po.html">Dicastério para a Doutrina da Fé — Respostas ao Cardeal Dominik Duka (2023)</a></u>
-
-A crítica aqui adoptada não consiste em negar toda a economia pastoral.
-
-Consiste em perguntar se, num contexto já marcado por grande número de nulidades e por uma cultura social divorcista, o alargamento da integração sacramental não pode contribuir para **uma normalização prática da segunda união**, apesar de a indissolubilidade continuar formalmente afirmada.
-
-A tradição oriental demonstra que misericórdia pastoral e indissolubilidade não são necessariamente incompatíveis.
-
-Mas demonstra também que uma economia verdadeiramente cristã deve conservar claramente o carácter excepcional e penitencial da solução.
+A tradição oriental demonstra que misericórdia pastoral e indissolubilidade não são necessariamente incompatíveis. Mas demonstra também que uma economia verdadeiramente cristã deve conservar claramente o carácter excepcional e penitencial da solução.
 
 <br><br>
 
 ### 12. Pachamama e os limites da inculturação
 
-Outra controvérsia de natureza distinta ocorreu durante o Sínodo da Amazónia de 2019.
+Outra controvérsia de natureza distinta ocorreu durante o Sínodo da Amazónia de 2019. As imagens posteriormente conhecidas como "Pachamama" foram utilizadas em eventos associados ao Sínodo e estiveram presentes em espaços eclesiais romanos.
 
-As imagens posteriormente conhecidas como «Pachamama» foram utilizadas em eventos associados ao Sínodo e estiveram presentes em espaços eclesiais romanos.
-
-Depois de algumas imagens terem sido retiradas de uma igreja e lançadas no Tibre, Francisco identificou-as como «estátuas da pachamama», mas afirmou expressamente que ali tinham estado **sem intenção idólatra**.
+Depois de algumas imagens terem sido retiradas de uma igreja e lançadas no Tibre, Francisco identificou-as como "estátuas da pachamama", mas afirmou expressamente que ali tinham estado **sem intenção idólatra**.
 
 <u><a href="https://www.vaticannews.va/en/pope/news/2019-10/pope-francis-comments-on-statues-stolen-from-church.html">Vatican News — Declarações de Francisco sobre as imagens da Pachamama</a></u>
 
-Por isso, não é rigoroso afirmar como facto que o Papa tenha pretendido praticar idolatria.
+E portanto questiona-se: **até onde pode ir a incorporação de símbolos provenientes de religiões não cristãs sem produzir objectivamente ambiguidade ou aparência de sincretismo?**
 
-A crítica teológica mais sólida é outra:
-
-**até onde pode ir a incorporação de símbolos provenientes de religiões não cristãs sem produzir objectivamente ambiguidade ou aparência de sincretismo?**
-
-A Igreja sempre conheceu inculturação.
-
-Elementos culturais pré-cristãos podem ser transformados e cristianizados.
-
-A dificuldade surge quando permanece obscuro se determinado símbolo foi realmente recebido num sentido cristão ou continua a transportar uma significação religiosa paralela.
+A Igreja sempre conheceu inculturação. Elementos culturais pré-cristãos podem ser transformados e cristianizados. A dificuldade surge quando permanece obscuro se determinado símbolo foi realmente recebido num sentido cristão ou continua a transportar uma significação religiosa paralela.
 
 O episódio é relevante para a presente investigação enquanto **sintoma da crescente indeterminação das fronteiras simbólicas do diálogo inter-religioso**.
+
+Devemos também aqui mencionar algumas polémicas anteriores como por exemplo os encontros de Assis e o beijo do Corão no Pontificado de João Paulo II.
 
 <br><br>
 
@@ -474,21 +290,13 @@ Foram aprovados ou promovidos textos relativos a bênçãos de casais, reavalia�
 
 <u><a href="https://www.dbk.de/presse/aktuelles/meldung/gemeinsame-konferenz-beraet-zum-fortgang-des-synodalen-weges">Conferência Episcopal Alemã — implementação das decisões do Caminho Sinodal</a></u>
 
-A própria Santa Sé considerou necessário intervir.
-
-Em julho de 2022 declarou que o Caminho Sinodal não possuía autoridade para obrigar bispos e fiéis a novas formas de governo nem a novas abordagens em matéria de doutrina e moral e advertiu que iniciativas unilaterais poderiam ferir a comunhão e ameaçar a unidade da Igreja.
+A própria Santa Sé considerou necessário intervir, embora sem grandes consequências práticas. Em julho de 2022 declarou que o Caminho Sinodal não possuía autoridade para obrigar bispos e fiéis a novas formas de governo nem a novas abordagens em matéria de doutrina e moral e advertiu que iniciativas unilaterais poderiam ferir a comunhão e ameaçar a unidade da Igreja.
 
 <u><a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/07/21/220721e.html">Santa Sé — Declaração sobre o Caminho Sinodal alemão (2022)</a></u>
 
-Este caso é particularmente significativo para uma eclesiologia ultrajectina.
+Este caso é particularmente significativo para uma eclesiologia ultrajectina. Demonstra que o problema não pode ser resolvido simplesmente por uma apologia da descentralização.
 
-Demonstra que o problema não pode ser resolvido simplesmente por uma apologia da descentralização.
-
-Uma estrutura local também pode pretender modificar aquilo que a Igreja universal recebeu.
-
-A conclusão permanece:
-
-**nem o facto de uma decisão ser papal a torna automaticamente desenvolvimento legítimo, nem o facto de uma decisão ser sinodal a torna automaticamente católica.**
+Uma estrutura local também pode pretender modificar aquilo que a Igreja universal recebeu. A conclusão permanece: **nem o facto de uma decisão ser papal a torna automaticamente desenvolvimento legítimo, nem o facto de uma decisão ser sinodal a torna automaticamente católica.**
 
 <br><br>
 
@@ -504,11 +312,7 @@ A própria declaração descreve a sua proposta como uma contribuição específ
 
 <u><a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231218_fiducia-supplicans_en.html">Dicastério para a Doutrina da Fé — <i>Fiducia supplicans</i></a></u>
 
-A objecção não pode ser formulada como se a Igreja não pudesse abençoar pecadores.
-
-A Igreja sempre abençoou pecadores.
-
-A questão é o **objecto da bênção**.
+A objecção não pode ser formulada como se a Igreja não pudesse abençoar pecadores. A Igreja sempre abençoou pecadores. A questão é o **objecto da bênção**.
 
 Existe diferença entre abençoar duas pessoas individualmente, pedindo a sua santificação e conversão, e identificar como destinatário da bênção o próprio **casal enquanto relação**.
 
@@ -522,15 +326,13 @@ Esta Igreja manifestou igualmente a sua posição própria através de ofício p
 
 <u><a href="/img/oficio_fiducia_supplicans.jpg">Ofício desta Igreja relativo a <i>Fiducia supplicans</i></a></u>
 
-A relevância deste episódio não consiste numa polémica isolada.
-
-Consiste em mostrar até que ponto a disputa contemporânea se tornou uma disputa sobre **o próprio significado de continuidade**.
+A relevância deste episódio não consiste numa polémica isolada. Consiste em mostrar até que ponto a disputa contemporânea se tornou uma disputa sobre **o próprio significado de continuidade**.
 
 <br><br>
 
 ### 15. Uma crise cumulativa e multidireccional
 
-O percurso histórico permite agora definir a crise de maneira mais completa.
+O percurso histórico permite agora definir a crise de maneira mais completa. 
 
 Ela não consiste simplesmente em:
 
