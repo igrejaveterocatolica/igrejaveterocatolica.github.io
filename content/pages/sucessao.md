@@ -2193,11 +2193,7 @@ Consagrado em 28 de abril de 1908 pelo Arcebispo Gerardus Gul de Utrecht, assist
 258. Dom Paulo Pereira, 1998 d.C.
 
 Sucessor episcopal da tradição vétero-católica brasileira
-e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**.
-
-Dom Paulo Pereira encontra-se independentemente documentado, no final da década
-de 1990 e início da década de 2000, exercendo publicamente funções episcopais
-e realizando consagrações de outros Bispos no Brasil.
+e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**. Foi sagrado *sub conditione* em 1998 por Bispo Lúcio Evandro Paneque de Oliveira.
 
 
 
