@@ -21,7 +21,7 @@ Este argumento deve começar por uma distinção indispensável: **Ordem sacrame
 - A **comunhão eclesial** respeita à relação entre Igrejas distintas e ao reconhecimento recíproco das respetivas autoridades, sacramentos e atos canónicos.
 
 
-Por isso, esta página não afirma que a Igreja portuguesa ou a Fidelitas sejam atualmente membros da Igreja Católica Romana, da União de Utrecht ou da União de Scranton. Também não presume um reconhecimento que só essas comunhões podem conceder. A tese defendida é própria e positiva: **existe uma Igreja brasileira historicamente identificável, dotada de continuidade sacramental, jurisdicional e institucional, conservada hoje pela Fidelitas, por cuja autoridade foi constituída a missão portuguesa.** O reconhecimento por outras comunhões é uma relação eclesial distinta; não é a fonte desta continuidade.
+Por isso, esta página não afirma que a Igreja portuguesa ou a Fidelitas sejam atualmente membros da Igreja Católica Romana ou da União de Utrecht. Também não presume um reconhecimento que só essas comunhões podem conceder. A tese defendida é própria e positiva: **existe uma Igreja brasileira historicamente identificável, dotada de continuidade sacramental, jurisdicional e institucional, conservada hoje pela Fidelitas, por cuja autoridade foi constituída a missão portuguesa.** O reconhecimento por outras comunhões é uma relação eclesial distinta; não é a fonte desta continuidade.
 
 
 Esta distinção impede que a ausência de plena comunhão com determinada Igreja seja indevidamente utilizada para negar a Ordem, a jurisdição ou a existência eclesial de outra.
