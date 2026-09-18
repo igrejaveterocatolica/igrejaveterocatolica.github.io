@@ -926,664 +926,220 @@ A terceira linha, examinada na secção seguinte, partirá de uma hipótese aind
 
 
 
-## 7. Jurisdição extraordinária e continuidade da vida sacramental: terceira linha de defesa
+## 7. Jurisdição extraordinária e continuidade sacramental: terceira linha subsidiária
 
-As secções anteriores desenvolveram já **duas linhas distintas de defesa** da nossa posição canónica.
 
-A **primeira linha de defesa** sustenta positivamente a existência de um verdadeiro título de jurisdição, derivado da continuidade histórica da Igreja brasileira, da sucessão do seu governo e do mandato recebido da Fidelitas.
+As secções anteriores apresentaram duas linhas de defesa. A primeira sustenta a existência de um título próprio de jurisdição, fundado na continuidade histórica da Igreja brasileira, na sucessão do seu governo e no mandato recebido da Fidelitas. A segunda observa que o próprio direito romano contemporâneo, nomeadamente o **cân. 844 do Código de Direito Canónico de 1983**, admite, em condições determinadas, uma realidade sacramental válida fora da plena comunhão com Roma.
 
-A **segunda linha de defesa** considera o próprio enquadramento canónico romano contemporâneo, particularmente o regime previsto pelo **cân. 844 do Código de Direito Canónico de 1983**. Como anteriormente demonstrado, o direito romano admite, em determinadas circunstâncias, comunicação sacramental com ministros de Igrejas que não se encontram em plena comunhão com Roma, desde que nelas sejam reconhecidos sacramentos válidos; o §3 estende ainda essa possibilidade, para além das Igrejas orientais, a membros de outras Igrejas que a Sé Apostólica julgue encontrarem-se, quanto aos sacramentos, em condição equivalente.
 
-A segunda linha procura, portanto, demonstrar que **o próprio ordenamento romano moderno contém instrumentos pelos quais Igrejas separadas da sua estrutura jurisdicional podem ser reconhecidas como verdadeiras realidades sacramentais**, tornando pelo menos concebível um enquadramento semelhante para uma Igreja que se encontre objetivamente numa posição comparável à nossa.
+Esta terceira linha é deliberadamente subsidiária. Pergunta apenas se uma deficiência, dúvida ou contestação acerca da jurisdição ordinária implicaria, por si só, a impossibilidade de manter a vida sacramental. As respostas dadas por vétero-romanos e por várias correntes tradicionalistas mostram que essa consequência não é automática.
 
-A presente secção constitui uma **terceira linha de defesa**, de natureza ainda mais subsidiária.
 
-A questão já não é aqui demonstrar diretamente a existência do nosso título ordinário, nem demonstrar a possibilidade de reconhecimento sacramental a partir do próprio direito romano contemporâneo.
-
-A questão é outra:
-
-**mesmo admitindo, para efeitos de argumentação, que pudesse existir alguma deficiência, dúvida ou contestação acerca da jurisdição ordinária de determinada comunidade ou ministro, seguir-se-ia daí necessariamente a impossibilidade de manter uma vida sacramental regular?**
-
-A experiência e a argumentação de numerosas comunidades tradicionalistas sugerem que não.
-
-Movimentos eclesiológicos profundamente diferentes: **vétero-romanos, FSSPX, Catholic Resistance, SSPV, sedevacantistas e sedeprivacionistas**, desenvolveram, por caminhos distintos, soluções destinadas a assegurar a continuidade do episcopado, do sacerdócio, da celebração da Eucaristia, da Penitência e da restante assistência pastoral em circunstâncias nas quais não fundamentam habitualmente o seu apostolado numa jurisdição territorial ordinária equivalente àquela que normalmente pertence a um bispo residencial ou a um pároco.
-
-Não significa isto que todas estas comunidades utilizem exatamente a mesma teoria canónica.
-
-Pelo contrário, importa distinguir a ***ecclesia supplet*** em sentido jurídico estrito de outros princípios extraordinários invocados por estas correntes, como a **necessidade**, a ***epikeia***, a equidade canónica, a cessação da força obrigatória de determinadas leis meramente eclesiásticas, as obrigações derivadas do direito divino e a máxima ***salus animarum suprema lex***.
-
-O elemento comum encontra-se noutro ponto:
-
-**a ausência ou contestação da jurisdição ordinária não é considerada, por estas correntes, suficiente para concluir que toda a vida sacramental de uma comunidade se torna impossível.**
+Estes exemplos não provam o título jurisdicional da nossa Igreja, nem as suas teorias devem ser confundidas entre si. Servem como **paralelos canónicos**: comunidades com eclesiologias muito diferentes distinguem a inexistência de jurisdição ordinária da possibilidade de recorrer, em atos concretos, a mecanismos extraordinários destinados a evitar a privação sacramental dos fiéis.
 
 Esta garantia assume particular relevância perante a **crise doutrinal, litúrgica e disciplinar** causada pelo crescente **modernismo** que se desenvolveu no período do **Concílio Vaticano II** e décadas seguintes até ao presente. **A nossa Igreja reconhece este problema**, ainda que não rejeite indiscriminadamente tudo quanto foi então afirmado ou praticado neste concílio, mas não recebe como vinculativos os desenvolvimentos que considere incompatíveis com a Tradição Apostólica, com a fé católica recebida e com a continuidade doutrinal da Igreja (ver por exemplo o seguinte <u>[ofício de 2023](/img/oficio_fiducia_supplicans.jpg)</u> relativo ao polémico *Fiducia Supplicans*).
 
 <br>
 
-### 7.1. Jurisdição suprida em sentido estrito e outros princípios extraordinários
 
-Antes de considerar estes exemplos, é necessário estabelecer uma distinção terminológica.
+### 7.1. Jurisdição suprida e outros princípios extraordinários
 
-No **Código de Direito Canónico de 1917**, o cân. 209 estabelecia:
 
-> *In errore communi aut in dubio positivo et probabili sive iuris sive facti, iurisdictionem supplet Ecclesia pro foro tum externo tum interno.*
+O **cân. 209 do Código de 1917** estabelecia que, em erro comum ou dúvida positiva e provável, de direito ou de facto, a Igreja supria a jurisdição para os foros externo e interno. O princípio permanece no **cân. 144 §1 do Código de 1983**, agora formulado como suplência do poder executivo de governo.
 
-Ou seja, em caso de **erro comum** ou de **dúvida positiva e provável, de direito ou de facto**, a Igreja supre a jurisdição tanto para o foro externo como para o interno.
-
-O princípio permanece no Código de 1983. O **cân. 144 §1** determina que, em erro comum de facto ou de direito e em dúvida positiva e provável de direito ou de facto, a Igreja supre o poder executivo de governo para o foro externo e interno.
 
 <u><a href="https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann129-144_en.html">
-Código de Direito Canónico de 1983 — cân. 144 </a></u>
+Código de Direito Canónico de 1983 — cân. 144</a></u>
 
-A tradição canónica prevê ainda outros regimes extraordinários, nomeadamente em **perigo de morte**, nos quais determinadas faculdades podem ser exercidas por sacerdotes que normalmente não as possuem.
 
-Estes casos não devem ser simplesmente confundidos com o cân. 209 ou com o atual cân. 144. O perigo de morte, por exemplo, é regulado por outras normas específicas.
+Esta ***ecclesia supplet*** em sentido técnico não deve ser confundida com o perigo de morte, a necessidade, a ***epikeia***, a equidade canónica, a cessação da obrigação de uma lei meramente eclesiástica ou a máxima ***salus animarum suprema lex***. São fundamentos distintos, embora algumas correntes os articulem entre si.
 
-Da mesma forma, ***epikeia***, equidade canónica, estado de necessidade e cessação da obrigação de uma lei eclesiástica não são tecnicamente sinónimos de ***ecclesia supplet***.
 
-Esta distinção é importante porque as correntes que examinaremos recorrem a combinações diferentes destes princípios.
+A conclusão relevante é limitada: a tradição canónica conhece situações em que a falta do modo ordinário de concessão de uma faculdade não torna necessariamente impossível o ato que essa faculdade deveria servir. Mas nenhum desses mecanismos cria, por si só, uma diocese, uma paróquia, um Ordinário territorial ou um ofício estável. **A jurisdição extraordinária pode ser invocada para atos determinados; não se converte automaticamente em jurisdição ordinária.**
 
-A tese relevante para o presente estudo é, portanto, mais ampla do que uma aplicação mecânica de um único cânone:
-
-**a tradição canónica conhece situações nas quais a ausência do mecanismo ordinário de concessão de uma faculdade ou jurisdição não implica necessariamente a impossibilidade absoluta do ato eclesial que essa faculdade deveria servir.**
-
-A jurisdição extraordinária não cria automaticamente um ofício.
-
-**Não confere, por si mesma, um título ordinário de governo onde esse título não exista.**
-
-Não transforma automaticamente uma capela numa paróquia canónica, um superior sacerdotal num Ordinário territorial ou uma associação de clérigos numa diocese.
-
-Pode, porém, segundo as diferentes construções que examinaremos, fornecer ou justificar aquilo que seja necessário para determinados atos concretos, evitando que uma circunstância eclesial extraordinária produza a paralisação da vida sacramental.
 
 <br>
+
 
 ### 7.2. A tradição vétero-romana
 
-Embora a nossa continuidade jurisdicional proceda principalmente do **movimento vétero-católico conservador de matriz polaco-nacional**, historicamente ligado à PNCC e hoje particularmente representado pela tradição da União de Scranton, a nossa Igreja reivindica igualmente uma **proximidade histórica, sacramental, litúrgica e doutrinal com o movimento vétero-romano**.
 
-Esta relação não resulta apenas de uma afinidade contemporânea.
+A tradição vétero-romana tem interesse especial pela sua proximidade histórica, litúrgica e sacramental com a nossa Igreja, incluindo a linha episcopal de **Arnold Harris Mathew**. Essa afinidade não substitui, contudo, a origem principal da nossa jurisdição, situada na continuidade da Igreja brasileira de matriz polaco-nacional e no mandato da Fidelitas.
 
-Possui também uma expressão concreta na nossa sucessão apostólica, uma vez que **uma das linhas episcopais recebidas pelo nosso episcopado remonta ao Bispo Arnold Harris Mathew**, figura fundamental para o desenvolvimento histórico da tradição vétero-romana.
 
-A nossa identificação com esta corrente não se limita, porém, à genealogia episcopal.
+O ***Canonical Old Roman Catholic Clerical Directory*** recorre à jurisdição suprida e a outros princípios para explicar a continuidade do ministério sacramental sem reconhecimento da hierarquia romana. O **Old Roman Apostolate** apresenta posição semelhante, associando a *supplied jurisdiction* à grave necessidade e à continuidade pastoral.
 
-Reconhecemos igualmente importantes afinidades com a sua defesa da **liturgia católica tradicional, da continuidade doutrinal e da preservação da fé e disciplina recebidas perante inovações consideradas incompatíveis com a tradição católica**.
-
-É neste contexto de proximidade e identificação eclesial que assume particular relevância a maneira como jurisdições da tradição **vétero-romana** abordam o problema da jurisdição em circunstâncias extraordinárias.
-
-O ***Canonical Old Roman Catholic Clerical Directory***, por exemplo, aborda explicitamente o problema da liceidade dos sacramentos ministrados por clérigos vétero-romanos perante o direito romano contemporâneo e recorre à jurisdição suprida e a outros princípios canónicos para explicar a possibilidade de continuação do ministério sacramental apesar da ausência de reconhecimento canónico pela hierarquia romana.
 
 <u><a href="https://oldromancatholicdirectory.com/canonical-liceity/">
-Old Roman Catholic Directory — <i>Canonical Liceity</i> </a></u>
+Old Roman Catholic Directory — <i>Canonical Liceity</i></a></u>
 
-O **Old Roman Apostolate** formula esta posição ainda mais diretamente, declarando aderir ao princípio da **supplied jurisdiction** como mecanismo destinado a permitir a continuação válida do ministério sacramental em situação de grave necessidade e desordem eclesial.
 
 <u><a href="https://oldroman.org/2025/03/13/the-old-roman-apostolate-a-manifesto-of-fidelity-to-the-catholic-tradition/">
-Old Roman Apostolate — <i>The Old Roman Apostolate: A Manifesto of Fidelity to the Catholic Tradition</i> </a></u>
+Old Roman Apostolate — <i>The Old Roman Apostolate: A Manifesto of Fidelity to the Catholic Tradition</i></a></u>
 
-A posição vétero-romana apresenta, portanto, para o presente estudo, mais do que um simples paralelo externo.
 
-Constitui o testemunho de uma **tradição eclesial com a qual mantemos vínculos históricos e sacramentais e com cuja orientação litúrgica e doutrinal reconhecemos afinidades substanciais**, embora a fonte principal da nossa jurisdição própria permaneça a continuidade da Igreja brasileira de matriz polaco-nacional e o mandato recebido da Fidelitas.
+Este paralelo mostra como uma tradição eclesial próxima da nossa distingue a contestação da jurisdição ordinária da invalidade global da vida sacramental.
 
-O exemplo vétero-romano introduz já a distinção fundamental desta terceira linha de defesa:
-
-**uma eventual ausência ou contestação de jurisdição ordinária não equivale necessariamente à impossibilidade de administrar validamente os sacramentos quando a tradição canónica forneça mecanismos extraordinários adequados à situação.**
 
 <br>
 
-### 7.3. O tradicionalismo católico romano como termo de comparação
 
-Depois do precedente vétero-romano, importa considerar um segundo conjunto de experiências provenientes do **tradicionalismo católico romano**.
+### 7.3. O tradicionalismo romano como termo de comparação
 
-A referência a estas comunidades é particularmente significativa porque elas partem de pressupostos eclesiológicos substancialmente diferentes dos nossos.
 
-A nossa tradição é fundamentalmente **vétero-católica e ultrajectina**.
+A **FSSPX**, a *Catholic Resistance*, a **SSPV** e as correntes sedevacantistas e sedeprivacionistas nasceram no tradicionalismo romano e partem de uma conceção da primazia pontifícia diferente da eclesiologia vétero-católica e ultrajectina. Não existe identidade doutrinal ou dependência institucional entre essas comunidades e a nossa Igreja.
 
-A FSSPX, a *Catholic Resistance*, a SSPV e as diferentes correntes sedevacantistas e sedeprivacionistas nasceram, pelo contrário, no interior do tradicionalismo romano e conservam, embora de maneiras diferentes, uma conceção consideravelmente mais forte da primazia e das prerrogativas pontifícias.
 
-Não existe, portanto, identidade eclesiológica nem dependência institucional entre estas comunidades e a nossa Igreja.
+É precisamente essa diferença que torna útil a comparação: mesmo em ambientes mais centralizados em Roma desenvolveram-se teorias para explicar a continuidade do apostolado e dos sacramentos quando não existe uma missão territorial ordinária recebida pelos canais habituais.
 
-Precisamente por isso, constituem um termo de comparação particularmente interessante.
-
-Se comunidades que partem de uma eclesiologia **mais centralizada e mais dependente da jurisdição pontifícia** conseguem, dentro dos seus próprios pressupostos, explicar como uma vida sacramental estável pode continuar sem que os seus bispos e sacerdotes possuam jurisdição territorial ordinária recebida pelos canais habituais, então esses exemplos possuem evidente interesse para a questão subsidiária aqui examinada.
 
 <br>
 
-### 7.4. A Fraternidade Sacerdotal São Pio X
 
-A **Fraternidade Sacerdotal São Pio X (FSSPX)** constitui provavelmente o exemplo contemporâneo mais explícito desta argumentação.
+### 7.4. A FSSPX e os desenvolvimentos de julho de 2026
 
-A sua posição deve ser claramente distinguida da eclesiologia ultrajectina.
 
-A FSSPX professa formalmente a doutrina do **Concílio Vaticano I** acerca da primazia e da infalibilidade pontifícia. Sustenta, contudo, que a infalibilidade possui objeto e condições determinados e que nem todo ato doutrinal, disciplinar, litúrgico ou prudencial de um Papa beneficia automaticamente dessa garantia.
+A **Fraternidade Sacerdotal São Pio X (FSSPX)** reconhece que os seus sacerdotes não possuem a jurisdição territorial ordinária de párocos e bispos residenciais. A sua argumentação tradicional sustenta que a necessidade espiritual dos fiéis pode justificar uma autoridade extraordinária e, nos atos que exigem faculdade jurisdicional, uma jurisdição suprida.
 
-Consequentemente, considera possível resistir a determinadas orientações da autoridade eclesiástica quando as julgue incompatíveis com a Tradição, sem daí concluir que a própria instituição do Papado ou a primazia pontifícia devam ser rejeitadas.
-
-Existe, neste ponto, uma **proximidade prática**, embora não uma identidade doutrinal, com algumas preocupações históricas do ultrajectinismo: ambas as perspetivas recusam identificar automaticamente todo ato proveniente da autoridade romana com uma decisão irreformável.
-
-Os fundamentos eclesiológicos utilizados para chegar a essa conclusão permanecem, contudo, diferentes.
-
-Para a questão que nos ocupa, o ponto mais relevante encontra-se na própria descrição que a FSSPX faz da sua jurisdição.
-
-A Fraternidade afirma expressamente que os seus sacerdotes não recebem jurisdição através dos meios ordinários da hierarquia territorial e que o estado de necessidade justificaria o exercício do ministério **mesmo sem jurisdição ordinária**, recorrendo para os atos que dela necessitam àquilo que designa como jurisdição suprida.
 
 <u><a href="https://sspx.org/en/do-priests-sspx-have-jurisdiction-31424">
-FSSPX — <i>Do Priests of the SSPX Have Jurisdiction?</i> </a></u>
+FSSPX — <i>Do Priests of the SSPX Have Jurisdiction?</i></a></u>
 
-A exposição do Bispo **Bernard Tissier de Mallerais**, publicada pela própria FSSPX, é ainda mais explícita.
-
-O texto afirma diretamente:
-
-**“Your traditional priests [...] have no ordinary authority, but an extraordinary authority which is a supplied authority.”**
-
-A argumentação distingue jurisdição ordinária de jurisdição extraordinária, afirmando que os sacerdotes tradicionais não receberam normalmente dos bispos diocesanos um rebanho sobre o qual governar, mas que a necessidade espiritual dos fiéis originaria uma jurisdição extraordinariamente suprida.
 
 <u><a href="https://sspx.org/en/supplied-jurisdiction-traditional-priests-30452">
-FSSPX — <i>Supplied Jurisdiction and Traditional Priests</i> </a></u>
+FSSPX — <i>Supplied Jurisdiction and Traditional Priests</i></a></u>
 
-A mesma exposição caracteriza essa jurisdição como **pessoal e não territorial**.
 
-Os sacerdotes não se tornam, por esse motivo, párocos territoriais no sentido canónico ordinário. Os bispos da FSSPX não se tornam automaticamente Ordinários residenciais e os seus superiores não recebem simplesmente a jurisdição que pertenceria à hierarquia territorial.
+Os acontecimentos de **julho de 2026** deram nova atualidade a esta controvérsia:
 
-Tissier chega a afirmar que, nos vários níveis da estrutura tradicional, existe apenas um **poder suprido e não um poder ordinário**, rejeitando expressamente a ideia de que dessa situação resulte a constituição de uma nova Igreja paralela.
 
-A distinção pode, portanto, formular-se assim:
+* Em **1 de julho**, em Écône, a FSSPX consagrou Pascal Schreiber, Michael Goldade, Michel Poinsinet de Sivry e Marc Hanappier como bispos auxiliares, sem mandato pontifício e, segundo a sua própria declaração, **“sem jurisdição”**.
 
-**a jurisdição extraordinária não converte a inexistência de um título ordinário de jurisdição na aquisição desse mesmo título; permite, segundo a argumentação da FSSPX, que a jurisdição necessária seja fornecida nos atos exigidos pela necessidade espiritual dos fiéis.**
+* Em **2 de julho**, o Dicastério para a Doutrina da Fé afirmou que as consagrações configuraram o delito de cisma, declarou os ministros da FSSPX sujeitos às consequências canónicas correspondentes e advertiu que os seus sacramentos são ilícitos e que a Penitência por eles administrada e os matrimónios por eles assistidos são inválidos.
 
-Esta posição é particularmente relevante para o presente estudo.
+* Em **9 de julho**, a FSSPX contestou essa conclusão. Quanto à Penitência, reconheceu a falta de jurisdição ordinária, mas invocou necessidade, dúvida positiva, erro comum e analogia do direito para defender a suplência; quanto ao matrimónio, invocou a impossibilidade moral de recorrer à forma ordinária.
 
-A FSSPX mantém há décadas uma vida eclesial organizada, com bispos, sacerdotes, seminários, priorados, capelas, formação do clero e administração regular dos sacramentos.
 
-Ao mesmo tempo, a própria Fraternidade reconhece que não possui sobre esses fiéis a jurisdição territorial ordinária própria de párocos e bispos residenciais.
+<u><a href="https://fsspx.news/en/news/general-house-statement-following-episcopal-consecrations-59913">
+FSSPX — <i>General House Statement Following the Episcopal Consecrations</i> (1 de julho de 2026)</a></u>
 
-A ausência desta jurisdição ordinária **não é negada**.
 
-Aquilo que se nega é que essa ausência implique necessariamente a impossibilidade de uma vida sacramental regular.
+<u><a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260702_nota-esplicativa-fsspx_it.html">
+Dicastério para a Doutrina da Fé — <i>Nota esplicativa</i> (2 de julho de 2026)</a></u>
 
-Temos, portanto, um precedente particularmente significativo: **mesmo dentro de uma eclesiologia fortemente papal e centralizada, a inexistência das faculdades ordinariamente concedidas pela hierarquia não é considerada suficiente para produzir a paralisação da vida sacramental.**
 
-<br>
+<u><a href="https://fsspx.news/en/news/what-make-decree-dicastery-doctrine-faith-july-2-2026-60049">
+FSSPX — resposta à nota do Dicastério (9 de julho de 2026)</a></u>
 
-### 7.5. A Catholic Resistance e a SSPX – Marian Corps
 
-A mesma problemática encontra continuidade nos movimentos geralmente agrupados sob a designação de **Catholic Resistance**.
+O episódio não resolve a disputa a favor de nenhuma das partes. Torna, porém, muito clara a distinção estudada nesta secção: Roma e a FSSPX concordam que a Ordem sacerdotal não basta para certos atos; divergem sobre se, nas circunstâncias alegadas, a faculdade necessária é extraordinariamente suprida. As consagrações mostram igualmente que, na própria descrição da FSSPX, a plenitude da Ordem episcopal pode ser transmitida sem que daí resulte jurisdição ordinária.
 
-Estes movimentos desenvolveram-se sobretudo a partir das controvérsias internas da FSSPX acerca das relações com Roma e da possibilidade de uma regularização canónica, particularmente a partir da crise interna ocorrida em torno de 2012.
-
-Entre eles encontra-se a **Society of Saint Pius X – Marian Corps (SSPX-MC)**, cujos próprios materiais se identificam explicitamente com a ***Catholic Resistance*** e remetem para uma declaração doutrinal da Resistance.
-
-<u><a href="https://sspxmc.com/">
-Society of Saint Pius X – Marian Corps </a></u>
-
-A *Resistance* procura conservar aquilo que entende ter sido a posição tradicional anterior da FSSPX, designadamente a necessidade de continuar o apostolado e a administração dos sacramentos independentemente de uma regularização com a hierarquia romana quando essa regularização seja considerada incompatível com a preservação da Tradição.
-
-Para o presente estudo, não é necessário atribuir à SSPX-MC uma teoria autónoma de jurisdição suprida tão desenvolvida quanto aquela formulada pela própria FSSPX.
-
-O elemento relevante é mais simples.
-
-Também aqui encontramos **sacerdotes, capelas, fiéis e atividade sacramental regular fora do enquadramento territorial ordinário**, sem que dessa ausência de jurisdição territorial se deduza a obrigação de cessar o apostolado.
-
-A importância da *Catholic Resistance* é, portanto, principalmente prática: demonstra a persistência, dentro do próprio ambiente ***Recognize and Resist***, da convicção de que uma situação extraordinária de necessidade pode exigir a continuação do ministério sacramental mesmo quando não existe uma missão canónica ordinária concedida pela hierarquia territorial.
 
 <br>
 
-### 7.6. A Society of Saint Pius V
 
-Historicamente anterior à atual *Catholic Resistance*, mas proveniente do mesmo ambiente tradicionalista, encontra-se a **Society of Saint Pius V (SSPV)**.
+### 7.5. Outros paralelos tradicionalistas
 
-A SSPV surgiu em 1983 da separação entre a FSSPX e sacerdotes norte-americanos posteriormente conhecidos como **"The Nine"**.
 
-Não deve, portanto, ser apresentada simplesmente como parte da *Resistance* surgida várias décadas depois.
+Os restantes exemplos podem ser apresentados de forma sintética:
 
-A sua posição acerca da autoridade pontifícia exige igualmente maior precisão.
 
-A declaração de princípios da SSPV reconhece expressamente a existência de diferentes opiniões entre tradicionalistas acerca da legitimidade da hierarquia contemporânea.
+* A ***Catholic Resistance***, incluindo a **Society of Saint Pius X – Marian Corps (SSPX-MC)**, prolonga a ideia de que a necessidade pode exigir a continuação do apostolado fora da normalidade jurisdicional, sem formular necessariamente uma teoria autónoma tão desenvolvida quanto a da FSSPX.
 
-A Sociedade afirma considerar uma **opinião teológica legítima** a tese segundo a qual alguém que professe publicamente aquilo que designa como “religião conciliar” não possui legitimamente autoridade na Igreja; declara, contudo, que **não reivindica autoridade para resolver definitivamente essa questão**, reconhecendo que uma solução definitiva e autoritativa pertence ao Magistério da Igreja.
+  <u><a href="https://sspxmc.com/">Society of Saint Pius X – Marian Corps</a></u>
 
-<u><a href="https://www.wcbohio.com/articles/sspv-statement-of-principles">
-Society of Saint Pius V — <i>Statement of Principles in a Time of Crisis</i> </a></u>
+* A **Society of Saint Pius V (SSPV)**, formada em 1983 a partir dos sacerdotes conhecidos como *The Nine*, admite entre os tradicionalistas diferentes opiniões sobre a legitimidade da hierarquia contemporânea, mas declara não possuir autoridade para decidir definitivamente essa controvérsia. Apesar dessa incerteza, mantém vida sacerdotal e sacramental própria.
 
-Esta posição coloca a SSPV numa situação peculiar.
+  <u><a href="https://www.wcbohio.com/articles/sspv-statement-of-principles">Society of Saint Pius V — <i>Statement of Principles in a Time of Crisis</i></a></u>
 
-Não corresponde simplesmente ao ***Recognize and Resist*** clássico da FSSPX, porque coloca muito mais profundamente em questão a legitimidade da hierarquia contemporânea.
+* A sedevacantista **Congregation of Mary Immaculate Queen (CMRI)** sustenta que, durante uma prolongada vacância da Sé, a necessidade dos fiéis pode fundamentar a jurisdição exigida para atos sacramentais concretos, sem transformar os seus sacerdotes em párocos ou os seus bispos em Ordinários territoriais.
 
-Mas também não deve ser descrita, sem qualificação, como uma organização que pretenda ter autoridade própria para definir dogmaticamente a vacância da Sé Apostólica.
+  <u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/the-question-of-jurisdiction-when-the-chair-of-peter-is-vacant/">Mark Pivarunas — <i>The Question of Jurisdiction During an Interregnum</i></a></u>
 
-Para o presente estudo, interessa sobretudo a consequência prática.
+* O Pe. **Anthony Cekada** distingue a missão legítima de administrar sacramentos da jurisdição exigida para alguns deles. A sua defesa do ministério tradicionalista combina necessidade, dever sacerdotal, direito divino, *epikeia* e finalidade das leis eclesiásticas, insistindo que isso não cria jurisdição territorial ordinária.
 
-Apesar desta profunda incerteza ou contestação acerca da autoridade ordinária, **a SSPV não conclui que daí deva seguir-se a interrupção do sacerdócio, da celebração da Missa ou da vida sacramental**.
+  <u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/traditional-priests-legitimate-sacraments/">Anthony Cekada — <i>Traditional Priests, Legitimate Sacraments</i></a></u>
 
-A SSPV funciona, assim, como uma ponte histórica entre o ambiente da FSSPX e as correntes sedevacantistas propriamente ditas.
+* O **sedeprivacionismo** ligado à **Tese de Cassiciacum** estabelece um limite especialmente rigoroso: os bispos tradicionalistas não integram, por esse facto, a hierarquia de jurisdição, embora a necessidade possa justificar a continuação da missão sacramental.
 
-A própria evolução dos antigos “Nine” demonstra essa diversidade: do mesmo ambiente surgiram posteriormente posições sedevacantistas explícitas e, através de alguns dos seus antigos membros, importantes desenvolvimentos da **Tese de Cassiciacum**.
+  <u><a href="https://thethesis.us/articles/little-catechism/">Nicolás E. Despósito — <i>The Little Catechism on the Thesis</i></a></u>
 
-<br>
 
-### 7.7. O sedevacantismo: a CMRI e a jurisdição durante uma Sé vacante
+Neste último ambiente, a distinção entre ***Missio*** e ***Sessio*** é particularmente útil. A *Missio* designa a missão sacramental extraordinária — pregar, celebrar e administrar os sacramentos —; a *Sessio*, a posse de um ofício hierárquico com jurisdição ordinária. A necessidade poderia justificar a primeira sem produzir a segunda.
 
-A questão torna-se ainda mais significativa quando passamos às comunidades **explicitamente sedevacantistas**.
 
-A sua inclusão no presente estudo é particularmente útil porque estas correntes normalmente não procuram resolver o problema diminuindo a importância teológica do Papado.
+A revista ***Sodalitium*** exprime preocupação semelhante ao admitir, em tese, jurisdição ***per modum actus*** para um ato requerido pela necessidade, recusando que daí nasçam dioceses, paróquias, tribunais ou poder legislativo geral.
 
-Pelo contrário, muitas partem de uma compreensão particularmente forte da primazia e da infalibilidade pontifícia.
 
-A **Congregation of Mary Immaculate Queen (CMRI)** constitui um exemplo particularmente claro.
+<u><a href="https://www.sodalitium.biz/sodalitium_pdf/52.pdf">
+<i>Sodalitium</i>, n.º 52 — jurisdição extraordinária e Comissão Canónica da FSSPX</a></u>
 
-Segundo esta corrente, a Sé Apostólica encontra-se atualmente vacante. Surge então um problema inevitável:
-
-**se a Sé Apostólica permanece vacante e a autoridade ordinária capaz de conceder normalmente determinadas faculdades não se encontra disponível, como pode continuar a vida sacramental?**
-
-O Bispo **Mark Pivarunas**, da CMRI, aborda diretamente esta questão no estudo ***The Question of Jurisdiction During an Interregnum***.
-
-<u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/the-question-of-jurisdiction-when-the-chair-of-peter-is-vacant/">
-Mark Pivarunas — <i>The Question of Jurisdiction During an Interregnum</i> </a></u>
-
-Pivarunas começa por reconhecer que, mesmo em circunstâncias normais, nem todos os bispos possuem jurisdição ordinária e nem todos os sacerdotes possuem todas as faculdades necessárias para a administração de determinados sacramentos.
-
-Recorre depois a moralistas e canonistas tradicionais para sustentar que, existindo verdadeira necessidade por parte dos fiéis, sacerdotes sem as faculdades normalmente exigidas podem recorrer à jurisdição suprida para administrar os sacramentos.
-
-A característica particularmente relevante deste argumento é que **não transforma automaticamente os sacerdotes sedevacantistas em párocos nem os bispos sedevacantistas em Ordinários territoriais**.
-
-A jurisdição necessária seria fornecida extraordinariamente em razão da necessidade.
-
-Encontramos, portanto, novamente a distinção central desta secção:
-
-**a ausência de jurisdição ordinária permanece; aquilo que se afirma é que essa ausência não pode ser interpretada de maneira a tornar impossível a vida sacramental quando os fiéis se encontram em verdadeira necessidade.**
-
-O contraste com a FSSPX é esclarecedor.
-
-A FSSPX sustenta que existe um Papa, mas que a crise eclesial impede o recurso normal à jurisdição ordinária.
-
-A CMRI considera a Sé Apostólica vacante.
-
-Apesar de partirem de respostas opostas acerca da identidade da autoridade suprema, ambas chegam a uma conclusão semelhante quanto à questão pastoral:
-
-**a impossibilidade de obter normalmente jurisdição não significa que os fiéis devam ficar privados dos sacramentos.**
 
 <br>
 
-### 7.8. Anthony Cekada: obrigação sacerdotal, necessidade e direito divino
 
-Uma das formulações mais desenvolvidas da posição sedevacantista encontra-se no estudo do Pe. **Anthony Cekada**, ***Traditional Priests, Legitimate Sacraments***.
+### 7.6. Convergência e limites da comparação
 
-<u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/traditional-priests-legitimate-sacraments/">
-Anthony Cekada — <i>Traditional Priests, Legitimate Sacraments</i> </a></u>
 
-Cekada começa por distinguir duas questões que considera frequentemente confundidas:
+As correntes referidas discordam profundamente sobre o Papado, a situação da Sé Romana, os limites da resistência e a origem da autoridade extraordinária. Não devem ser artificialmente harmonizadas, nem a sua existência demonstra que todas as suas teorias estejam corretas.
 
-1. a **deputação legítima ou missão para administrar os sacramentos**;
-2. a **jurisdição propriamente dita**, exigida para determinados atos.
 
-A sua argumentação não se limita à simples aplicação do cânone relativo à ***ecclesia supplet***.
+Existe, contudo, uma convergência relevante: **a falta de jurisdição ordinária não é tratada, por si só, como destruição necessária de toda a vida sacramental**. Para evitar essa consequência, as diferentes escolas invocam, com alcances diversos, *ecclesia supplet*, necessidade, *epikeia*, equidade, direito divino, *salus animarum* ou jurisdição *per modum actus*.
 
-Segundo Cekada, a própria Ordenação impõe aos sacerdotes determinadas obrigações de direito divino relativamente à administração dos sacramentos.
 
-Quando aqueles que possuem ordinariamente a ***cura animarum*** não cumprem essa função e os fiéis se encontram numa situação de grave necessidade espiritual, essa obrigação pode recair sobre outros sacerdotes.
+Esta convergência não constitui um precedente jurídico vinculativo. É um **paralelo doutrinal e histórico** que permite separar duas perguntas:
 
-Cekada recorre, por isso, a princípios relativos:
 
-* à **grave necessidade comum**;
-* à obrigação sacerdotal derivada do direito divino;
-* à ***epikeia***;
-* à finalidade das leis eclesiásticas;
-* à cessação da obrigação de determinadas leis meramente humanas quando a sua aplicação se torne nociva ao próprio fim da lei;
-* e à necessidade de garantir aos fiéis os meios espirituais necessários.
+1. determinado ministro possui jurisdição ordinária?
+2. se não a possui, ficam necessariamente inválidos todos os atos para os quais alguma faculdade jurisdicional seja exigida?
 
-A questão torna-se particularmente importante relativamente à **Penitência**, para a qual a tradição latina exige jurisdição além do poder de Ordem.
 
-Segundo esta construção, em situação extraordinária a jurisdição necessária para a absolvição pode ser fornecida diretamente para o ato requerido pela necessidade pastoral.
+A resposta negativa à primeira pergunta não determina automaticamente a resposta à segunda. Também não autoriza a criação de uma jurisdição ordinária paralela.
 
-Mais uma vez, a consequência não é a criação automática de jurisdição ordinária.
-
-O sacerdote não se transforma num pároco territorial nem o bispo num Ordinário residencial.
-
-O argumento é antes este:
-
-**uma lei destinada a ordenar o exercício normal do ministério não pode ser interpretada de modo a tornar absolutamente impossível aquilo que uma obrigação superior exige para o bem espiritual dos fiéis.**
 
 <br>
 
-### 7.9. O sedeprivacionismo e a Tese de Cassiciacum
 
-A distinção entre **continuidade sacramental** e **jurisdição ordinária de governo** torna-se ainda mais explícita entre os autores ligados à **Tese de Cassiciacum**, normalmente designados como sedeprivacionistas.
+### 7.7. Movimentos que procuram restaurar jurisdição ordinária
 
-Esta corrente é especialmente útil para o presente estudo precisamente porque estabelece limites particularmente rigorosos ao poder dos bispos tradicionalistas.
 
-No ***Little Catechism on the Thesis***, o Pe. **Nicolás E. Despósito** afirma expressamente que os bispos sedevacantistas **não possuem ligação com a hierarquia de jurisdição** e, consequentemente, não possuem o poder próprio para tomar decisões jurídicas em nome da Igreja universal.
+Outros grupos respondem a uma questão diferente: não procuram apenas justificar atos sacramentais numa situação extraordinária, mas **constituir, identificar ou restaurar uma autoridade suprema** da qual voltaria a proceder jurisdição ordinária. Devem por isso ser mencionados separadamente:
 
-<u><a href="https://thethesis.us/articles/little-catechism/">
-Nicolás E. Despósito — <i>The Little Catechism on the Thesis</i> </a></u>
 
-Contudo, a mesma exposição sustenta imediatamente que o apostolado dos sacerdotes e bispos tradicionais **não só é justificável como necessário** em razão da grave necessidade espiritual dos fiéis.
+* A **Igreja Palmariana** afirma que Clemente Domínguez y Gómez foi eleito diretamente por Cristo em 1978 como Gregório XVII, fazendo decorrer dessa pretensão uma nova sucessão pontifícia.
 
-Se os titulares ordinários dos ofícios não exercem a missão da Igreja, os sacerdotes e bispos fiéis devem, segundo esta posição, continuar extraordinariamente a pregação da Fé e a administração dos sacramentos.
+  <u><a href="https://www.palmarianchurch.org/frequent-questions/">Igreja Palmariana — <i>Frequent Questions</i></a></u>
 
-A justificação apresentada é precisamente a necessidade de impedir que os fiéis sejam privados dos meios moralmente necessários à salvação, recorrendo à máxima ***salus animarum suprema lex***.
+* O conclavista **Vatican in Exile** afirma que uma eleição extraordinária produziu David Bawden como Michael I em 1990 e, após a sua morte, Rogelio Martinez como Michael II em 2023.
 
-A distinção pode formular-se de maneira particularmente clara:
+  <u><a href="https://www.vaticaninexile.com/">Vatican in Exile</a></u>
 
-**uma coisa é possuir a Ordem episcopal ou sacerdotal e exercer extraordinariamente a missão sacramental da Igreja; outra é possuir um ofício que confira jurisdição ordinária de governo.**
+* O projeto **Unam Sanctam** propõe a reunião de um **Concílio Geral Imperfeito** para restaurar uma cabeça visível da Igreja, da qual voltaria a fluir jurisdição ordinária.
 
-A primeira pode continuar extraordinariamente.
+  <u><a href="https://www.unamsanctam.org/pt/home">Unam Sanctam</a></u>
 
-A segunda exige um título jurídico próprio.
+
+A validade destas pretensões não precisa de ser resolvida aqui. Elas pertencem a uma categoria distinta: procuram restaurar a normalidade jurisdicional, enquanto a presente linha estuda mecanismos extraordinários na sua ausência ou contestação.
+
 
 <br>
 
-### 7.10. *Missio* sem *Sessio*: os limites da jurisdição extraordinária
 
-Esta distinção recebeu uma formulação particularmente útil no ambiente sedeprivacionista através da diferença entre ***Missio*** e ***Sessio***.
+### 7.8. Aplicação subsidiária ao nosso caso
 
-A ***Missio*** corresponde à continuação da missão sacramental: pregar, celebrar, administrar os sacramentos, formar sacerdotes e garantir aquilo que seja necessário à continuidade da vida cristã.
+A posição da **Igreja Vétero-Católica de Jerusalém em Portugal** assenta, em primeiro lugar, na existência de um título ordinário concreto, derivado da continuidade histórica da Igreja brasileira, da sucessão do seu governo e do mandato recebido da Fidelitas. A segunda linha confirma que a separação da jurisdição romana não elimina necessariamente a realidade eclesial, a validade dos sacramentos ou a existência das faculdades necessárias para os administrar.
 
-A ***Sessio*** corresponde à posse efetiva de um ofício hierárquico e ao exercício da jurisdição ordinária de governo própria desse ofício.
+A terceira linha deve ser compreendida no contexto mais amplo da **crise doutrinal, litúrgica e disciplinar generalizada que afeta a Igreja**. Não estamos apenas perante dúvidas jurídicas ocasionais ou irregularidades isoladas, mas perante uma situação eclesial extraordinária, na qual a difusão do modernismo, a desorientação doutrinal, a progressiva marginalização da liturgia tradicional e a erosão de práticas recebidas da Tradição dificultam, e em determinadas circunstâncias tornam moralmente impossível, o recurso seguro às estruturas ordinárias.
 
-Segundo esta conceção, uma situação de necessidade pode justificar extraordinariamente a primeira **sem criar automaticamente a segunda**.
+A **Fidelitas** procura conservar a ortodoxia doutrinal, a continuidade sacramental, a liturgia tradicional e a disciplina católica recebida. Isto não significa uma rejeição indiscriminada de tudo quanto foi afirmado pelo **Concílio Vaticano II**, nem a negação de todos os atos da hierarquia romana contemporânea. Significa, porém, que a Igreja não pode receber como vinculativas doutrinas, práticas ou orientações que considere incompatíveis com a Tradição Apostólica e com a fé católica anteriormente professada. Entre os sinais desta crise encontram-se documentos e desenvolvimentos como a ***Fiducia Supplicans***, as restrições impostas à liturgia tradicional e o abandono ou destruição progressiva de tradições doutrinais, litúrgicas e disciplinares profundamente enraizadas na vida da Igreja.
 
-A mesma preocupação aparece em estudos publicados pela revista ***Sodalitium***, historicamente ligada ao ambiente da Tese de Cassiciacum.
+É perante este **estado geral de necessidade e exceção eclesial** que a terceira linha adquire o seu verdadeiro significado. Ainda que alguém contestasse o título ordinário da Fidelitas, ou levantasse dúvidas concretas acerca da extensão ou do exercício de determinadas faculdades, essa contestação não produziria automaticamente a invalidade da sua vida sacramental. A necessidade, a ***epikeia***, a analogia do direito, a ***salus animarum*** e as diferentes formas de jurisdição extraordinária reconhecidas pela tradição canónica destinam-se precisamente a impedir que uma crise prolongada prive os fiéis dos meios necessários à conservação da fé e à salvação das almas.
 
-No dossier publicado em ***Sodalitium*, n.º 52**, a propósito da Comissão Canónica da FSSPX, é examinada criticamente a possibilidade de transformar jurisdição extraordinária em verdadeiro poder habitual de governo.
+Estes princípios assumem especial relevância nos atos para os quais, além do poder de Ordem, se requer uma faculdade específica, como sucede na **absolvição sacramental**. Perante uma dúvida acerca das faculdades ordinárias, a situação objetiva de necessidade oferece um fundamento subsidiário para sustentar que a faculdade requerida é suprida ou concedida extraordinariamente para os atos pastorais necessários. A dúvida jurídica não deve, portanto, converter-se numa fonte de angústia para os fiéis nem levá-los a presumir a ineficácia dos sacramentos que recebem.
 
-<u><a href="https://www.sodalitium.biz/sodalitium_pdf/52.pdf"> <i>Sodalitium</i>, n.º 52 — jurisdição extraordinária e Comissão Canónica da FSSPX </a></u>
+A jurisdição extraordinária não constitui originariamente a Fidelitas, não produz a sua sucessão de governo e não substitui o mandato português. Também não necessita de o fazer, porque a nossa posição principal é que esses títulos já existem. A sua função é outra: **oferecer uma garantia canónica subsidiária de continuidade e eficácia sacramental enquanto perdurar a situação extraordinária da Igreja**, especialmente quando sejam levantadas dúvidas acerca de atos concretos ou das faculdades necessárias para os praticar.
 
-A posição aí defendida admite a possibilidade de jurisdição ***per modum actus***, isto é, **recebida para o ato concreto enquanto subsista a necessidade que justifica essa intervenção**.
-
-Recusa, porém, que dessa suplência possa ser deduzida automaticamente a existência de:
-
-* dioceses canonicamente constituídas;
-* paróquias ordinárias;
-* Ordinários territoriais;
-* tribunais permanentes com jurisdição equivalente à da hierarquia ordinária;
-* poder legislativo geral;
-* ou uma estrutura paralela possuidora de toda a ***potestas regiminis*** própria da Igreja hierárquica.
-
-Esta prudência é especialmente importante para a nossa própria tese.
-
-Permite formular o princípio da seguinte maneira:
-
-**a jurisdição suprida é essencialmente uma jurisdição de necessidade; não constitui, só por si, um título constitutivo de ofício eclesiástico.**
-
-É precisamente por isso que o exemplo sedeprivacionista possui grande interesse.
-
-Pode sustentar-se simultaneamente que determinados bispos **não possuem jurisdição ordinária de governo** e que, não obstante, a sua atividade sacramental permanece necessária e pode beneficiar da jurisdição extraordinária requerida para atos concretos.
-
-<br>
-
-### 7.11. Convergência entre posições eclesiológicas profundamente diferentes
-
-Chegamos, assim, a uma convergência particularmente significativa.
-
-Os **vétero-romanos** recorrem à jurisdição suprida, à necessidade pastoral, à equidade canónica e à *salus animarum* para explicar a continuidade do ministério sacramental em circunstâncias extraordinárias.
-
-A **FSSPX** reconhece expressamente que os seus sacerdotes não possuem ordinariamente a jurisdição territorial própria dos párocos e bispos residenciais, mas sustenta que recebem uma autoridade extraordinária ou suprida em razão do estado de necessidade.
-
-A **Catholic Resistance**, incluindo a SSPX-MC, prolonga a mesma lógica fundamental de necessidade e de continuidade do apostolado fora da estrutura territorial ordinária.
-
-A **SSPV** coloca de maneira muito mais profunda em questão a legitimidade da hierarquia contemporânea, sem reivindicar autoridade para resolver definitivamente a controvérsia acerca da Sé Apostólica, mantendo apesar disso uma vida sacerdotal e sacramental própria.
-
-A **CMRI e outros sedevacantistas** consideram a Sé Apostólica vacante, mas sustentam que essa vacância não pode impedir a Igreja de fornecer aos sacerdotes aquilo que seja necessário à administração dos sacramentos.
-
-Autores como **Anthony Cekada** fundamentam a continuidade do ministério ainda mais diretamente na obrigação sacerdotal, no direito divino, na grave necessidade, na *epikeia* e na cessação de leis meramente eclesiásticas quando a aplicação destas impediria o próprio fim para o qual foram estabelecidas.
-
-Finalmente, os **sedeprivacionistas** estabelecem talvez a distinção mais rigorosa de todas: negam que os bispos tradicionalistas possuam, pelo simples facto da necessidade, jurisdição ordinária de governo, mas consideram legítima e necessária a continuação extraordinária da missão sacramental e admitem a jurisdição necessária ***per modum actus***.
-
-Estas correntes discordam profundamente acerca:
-
-* da natureza e extensão da autoridade pontifícia;
-* da situação atual da Sé Romana;
-* da possibilidade e dos limites da resistência;
-* da situação canónica da hierarquia contemporânea;
-* da origem imediata da jurisdição extraordinária;
-* e da amplitude dos atos que essa jurisdição pode justificar.
-
-Não devem, portanto, ser artificialmente harmonizadas.
-
-Contudo, precisamente porque partem de pressupostos tão diferentes, a sua convergência quanto à questão que nos ocupa possui particular importância:
-
-**a ausência de jurisdição ordinária não é considerada, por estas correntes, suficiente, por si só, para tornar impossível uma vida sacramental estável e contínua.**
-
-A jurisdição extraordinária não se transforma por isso em jurisdição ordinária.
-
-**Não confere, por si mesma, um título ordinário de governo onde esse título não exista.**
-
-Mas existem fortes precedentes, provenientes de escolas eclesiológicas muito diferentes, para sustentar que **uma deficiência ou ausência de jurisdição ordinária não representa necessariamente um impedimento absoluto à vida sacramental e à atividade pastoral normal de uma comunidade**.
-
-A questão deve, portanto, ser dividida em duas proposições distintas:
-
-**1. determinado bispo ou sacerdote possui jurisdição ordinária?**
-
-e
-
-**2. na ausência dessa jurisdição ordinária, fica necessariamente impossibilitado de praticar validamente todos os atos sacramentais para os quais a jurisdição seja necessária?**
-
-A segunda conclusão **não decorre automaticamente da primeira**.
-
-É precisamente para responder a esta distância que as diferentes correntes invocam, consoante os seus próprios pressupostos, a ***ecclesia supplet***, a jurisdição ***per modum actus***, a necessidade, a ***epikeia***, a equidade canónica, a cessação da lei e a ***salus animarum***.
-
-A existência histórica destas comunidades também possui algum valor demonstrativo de ordem prática.
-
-Durante décadas, comunidades que não fundamentam habitualmente o seu apostolado numa jurisdição territorial ordinária comparável à de uma diocese continuaram a manter **bispos, sacerdotes, seminários, capelas, culto público, administração dos sacramentos e assistência pastoral regular aos fiéis**.
-
-A existência dessa atividade não demonstra, por si só, que todas as teorias canónicas utilizadas para a justificar estejam corretas.
-
-Demonstra, contudo, que dentro do próprio universo católico tradicional existe uma vasta tradição argumentativa segundo a qual **a falta de jurisdição ordinária não conduz necessariamente à extinção da vida eclesial ou sacramental**.
-
-<br>
-
-### 7.12. Nota sobre os movimentos que reivindicam ou procuram restaurar jurisdição ordinária própria
-
-Devem ser distinguidos dos exemplos anteriores determinados movimentos que procuram resolver o problema da autoridade através de uma solução **constitutiva**.
-
-Nestes casos, o argumento não consiste principalmente em explicar como pode continuar uma vida sacramental **sem jurisdição ordinária**.
-
-Procura-se antes demonstrar que uma verdadeira autoridade pontifícia dotada de jurisdição ordinária **foi restaurada, permaneceu noutro lugar ou pode ser novamente constituída**.
-
-Estes casos pertencem, portanto, a uma questão diferente e encontram-se fora do núcleo da presente terceira linha de defesa.
-
-<br>
-
-#### 7.12.1. A Igreja Palmariana
-
-Um exemplo particularmente evidente é a chamada **Igreja Católica Palmariana**.
-
-A sua solução para o problema da autoridade não consiste numa teoria de jurisdição meramente suprida.
-
-Segundo a própria Igreja Palmariana, após a morte de Paulo VI em 1978, **Clemente Domínguez y Gómez teria sido diretamente eleito Papa por Jesus Cristo**, assumindo o nome de Gregório XVII.
-
-O próprio site oficial palmariano responde à questão acerca da legitimidade do seu Papa afirmando que esta procede da sua **eleição direta por Nosso Senhor Jesus Cristo em 6 de agosto de 1978**. Sustenta ainda que Gregório XVII foi o sucessor legítimo de Paulo VI e que a sucessão pontifícia continuou posteriormente em El Palmar de Troya.
-
-<u><a href="https://www.palmarianchurch.org/frequent-questions/">
-Igreja Palmariana — <i>Frequent Questions</i> </a></u>
-
-Temos, portanto, uma solução essencialmente **mística e constitutiva**.
-
-O problema da falta de jurisdição ordinária seria resolvido não pela simples suplência, mas pela afirmação de que Cristo teria diretamente constituído um novo Romano Pontífice e transferido para ele a autoridade suprema da Igreja.
-
-Independentemente da apreciação teológica desta pretensão, trata-se claramente de uma questão diferente daquela analisada nas secções anteriores.
-
-<br>
-
-#### 7.12.2. O conclavismo e o Vatican in Exile
-
-Outro tipo de solução encontra-se nos movimentos habitualmente designados como **conclavistas**.
-
-Estes movimentos partem geralmente da premissa sedevacantista de que a Sé Apostólica se encontra vacante, mas consideram insuficiente conservar indefinidamente uma Igreja sem Papa.
-
-Procuram, por isso, demonstrar que em determinadas circunstâncias extraordinárias o direito de eleger um novo Romano Pontífice pode regressar a um corpo eleitoral diferente daquele que normalmente exerceria essa função.
-
-Um exemplo conhecido é o movimento **Vatican in Exile**.
-
-Segundo a sua própria narrativa, um grupo de católicos reuniu-se em 16 de julho de 1990 e elegeu **David Bawden**, que adotou o nome de **Papa Michael**. O movimento justifica essa eleição alegando que os eleitores ordinários se encontravam indisponíveis e que a Igreja deve conservar sempre a possibilidade de prover a si própria de uma cabeça visível.
-
-<u><a href="https://www.vaticaninexile.com/">
-Vatican in Exile </a></u>
-
-Após a morte de Michael I em 2022, o movimento organizou nova eleição.
-
-Segundo o seu próprio relatório, um conclave reuniu-se em Viena em julho de 2023 e, em **29 de julho de 2023**, elegeu Rogelio Martinez, que adotou o nome de **Michael II**.
-
-A estrutura do argumento é, portanto, essencialmente diferente daquela examinada anteriormente.
-
-O Vatican in Exile não pretende permanecer indefinidamente dependente de jurisdição meramente suprida.
-
-Pretende demonstrar que uma eleição extraordinária produziu um **verdadeiro Romano Pontífice**, do qual pode novamente proceder jurisdição ordinária.
-
-Naturalmente, isto desloca o problema para uma questão anterior:
-
-**quem possui autoridade para convocar semelhante eleição, quem constitui o corpo eleitoral e com que fundamento se pode considerar que o direito de eleger o Papa foi devolvido a esse corpo?**
-
-Os próprios movimentos conclavistas procuram responder a estas objeções.
-
-A validade das suas respostas constitui, porém, uma discussão diferente e encontra-se fora do âmbito da presente secção.
-
-<br>
-
-#### 7.12.3. Unam Sanctam e a proposta de um Concílio Geral Imperfeito
-
-Uma terceira abordagem, próxima do problema conclavista mas juridicamente distinta, encontra-se no projeto **Unam Sanctam**.
-
-<u><a href="https://www.unamsanctam.org/pt/home">
-Unam Sanctam </a></u>
-
-A Unam Sanctam não propõe simplesmente que um pequeno grupo privado se reúna e declare um conclave.
-
-A sua argumentação recorre à doutrina do chamado **Concílio Geral Imperfeito**.
-
-Com base sobretudo em autores como São Roberto Belarmino e Caetano, sustenta que, em circunstâncias extremas nas quais a Igreja se encontre sem uma cabeça capaz de convocar um concílio perfeito, os bispos poderiam reunir-se extraordinariamente para **prover a Igreja de uma cabeça visível**. A própria exposição da Unam Sanctam afirma que um concílio imperfeito poderia bastar para restaurar um chefe visível autêntico, “do qual a jurisdição indubitavelmente fluiria”.
-
-A sua solução é, portanto, igualmente **restauracionista**.
-
-Não consiste em transformar a jurisdição suprida numa condição permanente da Igreja.
-
-Procura encontrar um mecanismo extraordinário através do qual possa ser restaurada uma autoridade pontifícia certa e, com ela, o funcionamento normal da jurisdição ordinária.
-
-Por essa razão, embora possua afinidades com o problema tratado pelos conclavistas, a proposta de um Concílio Geral Imperfeito deve ser distinguida de um conclave privado propriamente dito.
-
-<br>
-
-#### 7.12.4. Uma categoria diferente
-
-Igreja Palmariana, conclavismo e propostas de restauração da autoridade através de um Concílio Imperfeito encontram-se, portanto, **fora do núcleo da presente argumentação**.
-
-Os movimentos anteriormente examinados procuram, em diferentes graus, responder à pergunta:
-
-**como pode continuar a vida sacramental quando não existe ou não pode ser obtida normalmente a jurisdição ordinária?**
-
-Os movimentos agora referidos procuram responder a uma pergunta diferente:
-
-**como pode ser constituída, identificada ou restaurada uma autoridade suprema da qual volte a proceder jurisdição ordinária?**
-
-No primeiro caso, a questão central é a **jurisdição extraordinária na ausência de normalidade jurisdicional**.
-
-No segundo, a questão é a **restauração da própria normalidade jurisdicional**.
-
-A validade das pretensões palmarianas, conclavistas ou restauracionistas não necessita, portanto, de ser resolvida para efeitos do presente estudo.
-
-<br>
-
-### 7.13. Aplicação subsidiária ao nosso caso
-
-No caso da **Igreja Vétero-Católica de Jerusalém em Portugal**, toda a análise anterior possui uma função deliberadamente **subsidiária**.
-
-A nossa posição principal não consiste em afirmar que a nossa Igreja existe ou exerce habitualmente o seu ministério apenas mediante jurisdição suprida.
-
-Pelo contrário, a primeira linha de defesa desenvolvida neste estudo sustenta a existência de uma **continuidade jurisdicional histórica concreta**, culminando no mandato recebido da Fidelitas.
-
-A segunda linha acrescenta que o próprio direito romano contemporâneo, particularmente através do **cân. 844 do Código de 1983**, admite uma realidade sacramental válida em Igrejas que não se encontram em plena comunhão jurisdicional com Roma e contempla expressamente a possibilidade de outras Igrejas serem julgadas, quanto aos sacramentos, em condição equivalente à das Igrejas orientais separadas.
-
-A presente terceira linha parte de uma hipótese ainda mais subsidiária.
-
-**Mesmo admitindo, *ad argumentandum*, que o nosso título ordinário fosse contestado, ou que existisse relativamente a determinado ato uma deficiência, dúvida ou insuficiência jurisdicional, não se seguiria daí automaticamente a impossibilidade ou invalidade geral da nossa vida sacramental.**
-
-Os exemplos anteriormente examinados constituem fortes indícios de que, **mesmo entre correntes que não fundamentam habitualmente a sua atividade numa jurisdição territorial ordinária e que partem de pressupostos eclesiológicos muito diferentes dos nossos, essa ausência não é considerada um problema insuperável para a continuidade da vida eclesial e sacramental**.
-
-Os vétero-romanos recorrem à jurisdição suprida e à necessidade.
-
-A FSSPX reconhece expressamente possuir autoridade extraordinária em vez de jurisdição territorial ordinária.
-
-A *Catholic Resistance* continua o apostolado fora da normalidade jurisdicional.
-
-A SSPV mantém uma vida sacramental apesar de considerar profundamente problemática a questão da autoridade contemporânea.
-
-Os sedevacantistas procuram explicar a continuidade dos sacramentos durante uma prolongada vacância da Sé Apostólica.
-
-Os sedeprivacionistas chegam a negar expressamente que os seus bispos possuam jurisdição ordinária de governo, admitindo simultaneamente a necessidade da missão sacramental e, quando exigida, jurisdição extraordinária para atos concretos.
-
-Isto não converte a inexistência de um título ordinário na aquisição desse título.
-
-Demonstra algo mais limitado, mas particularmente importante:
-
-**a falta ou contestação da jurisdição ordinária não implica necessariamente a paralisação da vida sacramental, porque a tradição canónica conhece mecanismos extraordinários destinados precisamente a impedir que determinadas deficiências jurídicas produzam a privação dos bens espirituais necessários aos fiéis.**
-
-A nossa posição é, além disso, diferente da situação assumida por muitos destes grupos.
-
-**Nós não partimos da afirmação de que não possuímos jurisdição ordinária.**
-
-Partimos da posição positiva de que essa jurisdição existe através da continuidade da Igreja brasileira e do mandato recebido da Fidelitas.
-
-Consequentemente, a jurisdição extraordinária não cria retroativamente a Fidelitas.
-
-Não cria a sucessão do seu governo.
-
-Não constitui o mandato português.
-
-Não transforma automaticamente os nossos ministros em titulares de ofícios que nunca receberam.
-
-**O título ordinário e a suplência extraordinária permanecem juridicamente distintos.**
-
-A terceira linha intervém apenas quando, relativamente a algum ato concreto, pudesse existir uma deficiência ou dúvida suscetível de ser abrangida pelos mecanismos extraordinários reconhecidos pela tradição canónica.
-
-<br>
-
-### 7.14. As três linhas de defesa
-
-A posição desenvolvida neste estudo fica, assim, estruturada em **três linhas de defesa distintas e cumulativas**.
-
-A **primeira linha de defesa** procura demonstrar positivamente a existência da nossa jurisdição ordinária através da continuidade histórica da Igreja brasileira, da sucessão do seu governo e do mandato recebido da Fidelitas.
-
-A **segunda linha de defesa** demonstra que, mesmo a partir do ordenamento canónico romano contemporâneo, o **cân. 844 do Código de 1983** reconhece que a ausência de plena comunhão jurídica com Roma não elimina necessariamente a realidade sacramental de uma Igreja. O próprio direito romano contempla a validade sacramental fora da sua estrutura jurisdicional imediata e admite, em certas condições, comunicação sacramental com essas Igrejas.
-
-A **terceira linha de defesa**, desenvolvida na presente secção, vai ainda mais longe na hipótese subsidiária:
-
-**mesmo que se contestasse a existência ou extensão da jurisdição ordinária relativamente a determinados atos, não se seguiria daí automaticamente a impossibilidade ou invalidade geral da vida sacramental da comunidade.**
-
-As três linhas não devem ser confundidas.
-
-**A primeira afirma um título ordinário próprio.**
-
-**A segunda demonstra a possibilidade de reconhecimento sacramental mesmo a partir do enquadramento jurídico romano contemporâneo.**
-
-**A terceira demonstra que, mesmo na hipótese subsidiária de deficiência ou contestação jurisdicional, a tradição canónica não considera necessariamente destruída a continuidade da vida sacramental.**
-
-Esta terceira linha não substitui, portanto, as duas anteriores.
-
-Funciona como uma **garantia subsidiária final**.
-
-A nossa autoridade não depende primordialmente de jurisdição suprida; mas, mesmo na hipótese de uma deficiência concreta, **essa deficiência não teria necessariamente como consequência a paralisação da assistência sacramental aos fiéis**.
-
-A estrutura da argumentação pode, por isso, resumir-se numa fórmula simples:
-
-**jurisdição ordinária como fundamento principal; reconhecimento sacramental como confirmação externa possível; jurisdição extraordinária e necessidade como garantia subsidiária da continuidade sacramental.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+As três linhas convergem, assim, numa conclusão pastoralmente segura: a Igreja reivindica jurisdição ordinária por título próprio; a experiência da PNCC demonstra que uma Igreja separada de Roma pode possuir verdadeira realidade sacramental e faculdades eclesiais próprias; e, mesmo perante contestação ou dúvida, o estado de necessidade e os mecanismos extraordinários reconhecidos pela tradição canónica impedem que os fiéis sejam abandonados ou privados da confiança moral na validade dos sacramentos que recebem.
 
 
 
@@ -1635,45 +1191,11 @@ A estrutura da argumentação pode, por isso, resumir-se numa fórmula simples:
 ### Segunda linha — precedente sacramental e pastoral
 
 
+Os entendimentos **PNCC–Roma** não criaram os sacramentos da PNCC nem conferiram aos seus ministros a autoridade necessária para os administrar. Reconheceram uma realidade eclesial e sacramental que a PNCC já possuía em virtude da sua sucessão apostólica, da continuidade do seu episcopado e da sua própria ordem eclesial.
 
+Este reconhecimento é particularmente significativo no caso da **Penitência**. Ao admitir que, nas condições previstas pelo **cân. 844 §2**, os fiéis católicos romanos podem receber esse sacramento de ministros da PNCC, a autoridade romana reconhece necessariamente que as absolvições administradas nessa Igreja não procedem apenas do poder de Ordem, mas também de uma faculdade ou competência jurisdicional suficiente para o exercício válido do poder das chaves. O acordo não concedeu essa faculdade à PNCC: reconheceu que ela já existe no interior da sua própria realidade eclesial. O **cân. 844 §3** regula, no sentido inverso, a possibilidade de os membros da PNCC receberem esses sacramentos de ministros romanos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Os acordos **PNCC–Roma** demonstram que uma Igreja da tradição vétero-católica, embora fora da jurisdição romana, pode ser reconhecida pela Santa Sé como realidade eclesial dotada de sacramentos válidos e beneficiar de disposições específicas ao abrigo do **cân. 844 §3**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A Fidelitas entende reunir objetivamente os elementos necessários para que semelhante exame possa ser solicitado à autoridade competente.
-
-
-
-
-
-
+O valor deste precedente para a **Fidelitas** não consiste, portanto, em propor que se procure um acordo semelhante com Roma. Perante a crise generalizada da Igreja, semelhante aproximação pode não ser considerada necessária, prudente ou sequer desejável. O valor do precedente é principalmente probatório: demonstra que, segundo os próprios critérios romanos, uma Igreja separada da jurisdição pontifícia pode conservar não apenas Ordens válidas, mas também uma estrutura eclesial dotada das faculdades necessárias para a administração válida dos sacramentos. Um eventual reconhecimento externo apenas declararia e regularia os efeitos de uma realidade preexistente; não a constituiria nem seria a fonte da sua jurisdição.
 
 
 <br>
@@ -1683,39 +1205,7 @@ A Fidelitas entende reunir objetivamente os elementos necessários para que seme
 
 ### Terceira linha — jurisdição suprida
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mesmo perante dúvida jurídica concreta acerca de determinadas faculdades, a tradição da *ecclesia supplet* e da *salus animarum* constitui uma garantia subsidiária para situações de erro comum, dúvida positiva e provável ou grave necessidade pastoral.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Não constitui a origem habitual da Igreja nem substitui a sua jurisdição ordinária.
+Mesmo perante uma dúvida concreta acerca de determinadas faculdades, a garantia subsidiária aqui invocada não assenta primariamente nas hipóteses comuns de erro ou dúvida previstas pela legislação canónica. Assenta na existência de uma crise generalizada e prolongada na Igreja, causada pela difusão do modernismo e pela consequente dificuldade (ou, em certas circunstâncias, impossibilidade moral) de recorrer com segurança às estruturas ordinárias para conservar integralmente a fé e receber os sacramentos. É perante este estado de necessidade que a nossa Igreja e as diferentes correntes mencionadas recorrem, segundo construções jurídicas distintas, à necessidade, à *epikeia*, à analogia do direito, à *salus animarum* e à jurisdição extraordinária exigida por atos concretos. Estes princípios não constituem a origem habitual da Igreja nem substituem a jurisdição ordinária que ela reivindica; explicam subsidiariamente a continuidade da missão sacramental enquanto perdurar a situação extraordinária.
 
 
 <br>
