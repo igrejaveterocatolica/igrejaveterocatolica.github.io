@@ -9,23 +9,15 @@ title: A Nossa Fé & História
       <img src="/img/his_beatitude_dom_paulus_nunes.png" alt="S.B. Patriarca Dom Paulus Nunes" style="max-width:180px; width:100%; border-radius:50%; margin-bottom:16px;">
       <h3 style="margin:0; color:#1c2e4a;">S.B. Patriarca Dom Paulus Nunes</h3>
       <p style="margin:8px 0 18px 0;"><strong>Governo Patriarcal Fidelitas</strong></p>
-      <p style="margin:0;">A Conferência Internacional de Bispos de 2018 confirmou colegialmente o exercício do governo patriarcal.</p>
+      <p style="margin:0;">Patriarca da Comunhão Fidelitas.</p>
     </div>
 
-    <div style="flex:1 1 320px; min-width:320px; display:flex; flex-direction:column; justify-content:center; gap:14px; padding:10px 0;">
-      <div style="background:#162947; color:#fff; text-align:center; padding:16px 20px; border-radius:12px; font-weight:700; font-size:1.1em;">Governo Patriarcal</div>
-      <div style="text-align:center; color:#cfc7bc; font-size:1.4em; line-height:1;">│</div>
-      <div style="border:1.5px solid #b44a43; color:#162947; text-align:center; padding:16px 20px; border-radius:12px; font-weight:700; font-size:1.05em;">Primazias nacionais</div>
-      <div style="text-align:center; color:#cfc7bc; font-size:1.4em; line-height:1;">│</div>
-      <div style="border:1.5px solid #d3ad5b; color:#162947; text-align:center; padding:16px 20px; border-radius:12px; font-weight:700; font-size:1.05em;">Arquidioceses e dioceses</div>
-      <div style="text-align:center; color:#cfc7bc; font-size:1.4em; line-height:1;">│</div>
-      <div style="border:1.5px solid #5a8a73; color:#162947; text-align:center; padding:16px 20px; border-radius:12px; font-weight:700; font-size:1.05em;">Comunidades, clero e fiéis</div>
-    </div>
+   
 
-    <div style="flex:1 1 230px; min-width:230px; text-align:center; padding:20px; background:#fdfaf6; border:1.5px solid #b44a43; border-radius:16px;">
+   <div style="flex:1 1 230px; min-width:230px; text-align:center; padding:20px; background:#fdfaf6; border:1.5px solid #b44a43; border-radius:16px;">
       <img src="/img/cruz-jersusalem.png" alt="Cruz de Jerusalém" style="max-width:90px; margin-bottom:10px;">
       <h3 style="margin:0; color:#b44a43; font-size:2em;">Portugal</h3>
-      <p style="margin:8px 0 4px 0;"><u>Primazia</u> sob<br><strong>Dom Carlos Fonseca</strong></p>
+      <p style="margin:8px 0 4px 0;"><strong>S. Exa. Revma. Arcebispo Primaz <br>Dom Carlos Fonseca</strong></p>
       <img src="/img/dom_carlos_fonseca.png" alt="Dom Carlos Fonseca" style="max-width:140px; width:100%; border-radius:50%; margin-top:14px;">
     </div>
   </div>
