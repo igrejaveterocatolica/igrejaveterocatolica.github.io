@@ -2,11 +2,11 @@
 slug: quem-somos
 title: A Nossa Fé & História
 ---
-<div style="margin: 30px 0 40px 0;"><div style="display:flex; flex-wrap:wrap; gap:24px; align-items:stretch; justify-content:space-between;"><div style="flex:1 1 260px; min-width:260px; text-align:center; padding:20px; background:#f7f4ef; border-radius:16px;"><img src="/img/his_beatitude_dom_paulus_nunes.png" alt="S.B. Patriarca Dom Paulus Nunes" style="max-width:180px; width:100%; border-radius:50%; margin-bottom:16px;"><h3 style="margin:0; color:#1c2e4a;">S.B. Patriarca Dom Paulus Nunes</h3><p style="margin:8px 0 18px 0;"><strong>Governo Patriarcal Fidelitas</strong></p><p style="margin:0;">Patriarca da Comunhão Fidelitas.</p></div><div style="flex:1 1 230px; min-width:230px; text-align:center; padding:20px; background:#fdfaf6; border:1.5px solid #b44a43; border-radius:16px;">
+<div style="margin: 30px 0 40px 0;"><div style="display:flex; flex-wrap:wrap; gap:24px; align-items:stretch; justify-content:space-between;"><div style="flex:1 1 260px; min-width:260px; text-align:center; padding:20px; background:#f7f4ef; border-radius:16px;"><img src="/img/his_beatitude_dom_paulus_nunes.png" alt="S.B. Patriarca Dom Paulus Nunes" style="max-width:180px; width:100%; border-radius:50%; margin-bottom:16px;"><h3 style="margin:0; color:#1c2e4a;">S.B. Patriarca Dom Paulus Nunes</h3><p style="margin:8px 0 18px 0;"><strong>Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior</strong></p></div><div style="flex:1 1 230px; min-width:230px; text-align:center; padding:20px; background:#fdfaf6; border:1.5px solid #b44a43; border-radius:16px;">
       <img src="/img/logo.png" alt="Cruz de Jerusalém" style="max-width:90px; margin-bottom:10px;">
       <h3 style="margin:0; color:#b44a43; font-size:2em;">Portugal</h3>
       <p style="margin:8px 0 4px 0;"><strong>S. Exa. Revma. Arcebispo Primaz <br>Dom Carlos Fonseca</strong></p>
-      <img src="/img/dom_carlos_fonseca.png" alt="Dom Carlos Fonseca" style="max-width:140px; width:100%; border-radius:50%; margin-top:14px;">
+      <img alt="Retrato de Dom Carlos Fonseca, Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal, usando veste dourada, colar clerical e solidéu magenta." src="./img/dom-carlos-fonseca.png" width="160" style="max-width:140px; width:100%; border-radius:50%; margin-top:14px;">
     </div>
   </div>
 </div>
