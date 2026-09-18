@@ -2,6 +2,12 @@
 slug: quem-somos
 title: A Nossa Fé & História
 ---
+<br>
+
+A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja católica de tradição vétero-católica, integrada na comunhão da **Igreja Apostólica Vétero-Católica Fidelitas de Jerusalém no Brasil e Exterior**. Em Portugal, encontra-se sob o governo pastoral de **Dom Carlos Fonseca, Arcebispo Primaz**, em comunhão com **Sua Beatitude Dom Paulus Nunes**, Patriarca dos Fidelitas do Brasil e Exterior. <br><br>
+
+## Quem Somos
+
 <div style="margin: 30px 0 40px 0;"><div style="display:flex; flex-wrap:wrap; gap:24px; align-items:stretch; justify-content:space-between;"><div style="flex:1 1 260px; min-width:260px; text-align:center; padding:20px; background:#f7f4ef; border-radius:16px;"><img alt="Emblema heráldico cristão em forma de cruz vermelha com contorno dourado, apresentando ao centro uma cruz latina branca sobre um coração azul; no topo, uma pequena cruz dourada; à esquerda, um cálice e um cibório dourados; à direita, uma espiga de trigo dourada. Fundo branco e composição simétrica, sem texto." src="/img/fidelitas_cross.png" style="max-width:110px; margin-bottom:10px;"><br><img src="/img/his_beatitude_dom_paulus_nunes.png" alt="S.B. Patriarca Dom Paulus Nunes" style="max-width:180px; width:100%; border-radius:50%; margin-bottom:16px;"><h3 style="margin:0; color:#1c2e4a;">S.B. Patriarca Dom Paulus Nunes</h3><p style="margin:8px 0 18px 0;"><strong>Patriarca dos Fidelitas de Jerusalém no Brasil e Exterior</strong></p></div><div style="flex:1 1 230px; min-width:230px; text-align:center; padding:20px; background:#fdfaf6; border:1.5px solid #b44a43; border-radius:16px;">
       <img src="/img/logo.png" alt="Cruz de Jerusalém" style="max-width:90px; margin-bottom:10px;">
       <h3 style="margin:0; color:#b44a43; font-size:2em;">Portugal</h3>
@@ -10,10 +16,6 @@ title: A Nossa Fé & História
     </div>
   </div>
 </div>
-
-A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja católica de tradição vétero-católica, integrada na comunhão da **Igreja Apostólica Vétero-Católica do Brasil — Fidelitas**. Em Portugal, encontra-se sob o governo pastoral de **Dom Carlos Fonseca, Arcebispo Primaz**, em comunhão com **Sua Beatitude Dom Paulus Nunes**, Patriarca dos Fidelitas do Brasil e Exterior. <br><br>
-
-## Quem Somos
 
 A nossa identidade é **católica na fé, apostólica na sucessão e ultrajectina na eclesiologia**.
 
