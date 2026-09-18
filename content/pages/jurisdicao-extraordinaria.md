@@ -20,7 +20,9 @@ Afirma-se antes que:
 
 A questão fundamental pode, por isso, formular-se deste modo:
 
-**se surgir dúvida ou contestação acerca de algum elemento concreto da jurisdição ordinária, segue-se daí necessariamente a impossibilidade de conservar uma vida sacramental válida e legítima?**
+**se surgir dúvida ou contestação acerca de algum elemento concreto da jurisdição ordinária, segue-se daí necessariamente a impossibilidade de conservar uma vida sacramental válida e legítima?** 
+
+<br>
 
 A resposta sustentada neste estudo é negativa.
 
