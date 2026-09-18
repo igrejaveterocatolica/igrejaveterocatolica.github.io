@@ -22,7 +22,7 @@ A **resposta** oferecida pela tradição vétero-romana (da qual também fazemos
 <br>
 
 
-### 7.1. Jurisdição suprida e outros princípios extraordinários
+### 1. Jurisdição suprida e outros princípios extraordinários
 
 
 O **cân. 209 do Código de 1917** estabelecia que, em erro comum ou dúvida positiva e provável, de direito ou de facto, a Igreja supria a jurisdição para os foros externo e interno. O princípio permanece no **cân. 144 §1 do Código de 1983**, agora formulado como suplência do poder executivo de governo.
@@ -41,7 +41,7 @@ A conclusão relevante é limitada: a tradição canónica conhece situações e
 <br>
 
 
-### 7.2. A tradição vétero-romana
+### 2. A tradição vétero-romana
 
 
 A tradição vétero-romana tem interesse especial pela sua proximidade histórica, litúrgica e sacramental com a nossa Igreja, incluindo a linha episcopal de **Arnold Harris Mathew**. Essa afinidade não substitui, contudo, a origem principal da nossa jurisdição, situada na continuidade da Igreja brasileira de matriz polaco-nacional e no mandato da Fidelitas.
@@ -64,7 +64,7 @@ Este paralelo mostra como uma tradição eclesial próxima da nossa distingue a 
 <br>
 
 
-### 7.3. O tradicionalismo romano como termo de comparação
+### 3. O tradicionalismo romano como termo de comparação
 
 
 A **FSSPX**, a *Catholic Resistance*, a **SSPV** e as correntes sedevacantistas e sedeprivacionistas nasceram no tradicionalismo romano e partem de uma conceção da primazia pontifícia diferente da eclesiologia vétero-católica e ultrajectina. Não existe identidade doutrinal ou dependência institucional entre essas comunidades e a nossa Igreja.
@@ -76,7 +76,7 @@ A **FSSPX**, a *Catholic Resistance*, a **SSPV** e as correntes sedevacantistas 
 <br>
 
 
-### 7.4. A FSSPX e os desenvolvimentos de julho de 2026
+### 4. A FSSPX e os desenvolvimentos de julho de 2026
 
 
 A **Fraternidade Sacerdotal São Pio X (FSSPX)** reconhece que os seus sacerdotes não possuem a jurisdição territorial ordinária de párocos e bispos residenciais. A sua argumentação tradicional sustenta que a necessidade espiritual dos fiéis pode justificar uma autoridade extraordinária e, nos atos que exigem faculdade jurisdicional, uma jurisdição suprida.
@@ -118,7 +118,7 @@ O episódio não resolve a disputa a favor de nenhuma das partes. Torna, porém,
 <br>
 
 
-### 7.5. Outros paralelos tradicionalistas
+### 5. Outros paralelos tradicionalistas
 
 
 Os restantes exemplos podem ser apresentados de forma sintética:
@@ -158,7 +158,7 @@ A revista ***Sodalitium*** exprime preocupação semelhante ao admitir, em tese,
 <br>
 
 
-### 7.6. Convergência e limites da comparação
+### .6. Convergência e limites da comparação
 
 
 As correntes referidas discordam profundamente sobre o Papado, a situação da Sé Romana, os limites da resistência e a origem da autoridade extraordinária. Não devem ser artificialmente harmonizadas, nem a sua existência demonstra que todas as suas teorias estejam corretas.
@@ -180,7 +180,7 @@ A resposta negativa à primeira pergunta não determina automaticamente a respos
 <br>
 
 
-### 7.7. Movimentos que procuram restaurar jurisdição ordinária
+### 7. Movimentos que procuram restaurar jurisdição ordinária
 
 
 Outros grupos respondem a uma questão diferente: não procuram apenas justificar atos sacramentais numa situação extraordinária, mas **constituir, identificar ou restaurar uma autoridade suprema** da qual voltaria a proceder jurisdição ordinária. Devem por isso ser mencionados separadamente:
@@ -205,7 +205,7 @@ A validade destas pretensões não precisa de ser resolvida aqui. Elas pertencem
 <br>
 
 
-### 7.8. Aplicação subsidiária ao nosso caso
+### 8. Aplicação subsidiária ao nosso caso
 
 A posição da **Igreja Vétero-Católica de Jerusalém em Portugal** assenta, em primeiro lugar, na existência de um título ordinário concreto, derivado da continuidade histórica da Igreja brasileira, da sucessão do seu governo e do mandato recebido da Fidelitas. A segunda linha confirma que a separação da jurisdição romana não elimina necessariamente a realidade eclesial, a validade dos sacramentos ou a existência das faculdades necessárias para os administrar.
 
