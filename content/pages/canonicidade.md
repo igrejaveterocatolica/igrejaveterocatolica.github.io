@@ -232,6 +232,36 @@ Este facto é juridicamente relevante porque demonstra continuidade do sujeito e
 
 Deste modo, o argumento não exige afirmar que Faron continuou em situação regular **dentro da PNCC de Hodur**. Afirma algo diferente: tendo recebido legitimamente o governo da Igreja polaca, e não estando demonstrada uma privação constitucionalmente válida desse ofício, a comunidade que permaneceu sob a sua autoridade conservou uma base objetiva para considerar que o governo episcopal continuava nela.
 
+<p>
+A independência institucional da estrutura governada por Faron não é apenas
+uma inferência posterior. Poucos dias depois da rutura de setembro de 1931,
+a própria <i>Chancelaria da Cúria Episcopal</i> publicou em
+<i>Polska Odrodzona</i> uma declaração expressa:
+<strong>“Zawiadamiamy, że jesteśmy obecnie organizacją samodzielną i
+niezależną administracyjnie od zaoceanu”</strong> — isto é,
+“Informamos que somos atualmente uma organização autónoma e
+administrativamente independente de além-mar”.
+</p>
+
+<p>
+A mesma declaração esclarecia que os antigos irmãos continuariam a ser
+considerados espiritualmente unidos, mas <strong>“organizacyjnie
+niezależnych”</strong> — organizacionalmente independentes — e acrescentava
+que a Igreja passava a dispor do seu próprio Conselho da Igreja ou
+Consistório, do seu próprio Seminário e da sua Constituição já existente.
+O comunicado identificava expressamente essa Igreja como o
+<strong>Kościół Katolicki Polsko-Narodowy</strong> sob a jurisdição de
+<strong>Władysław M. Faron, Ordinário para toda a Polónia</strong>, e era
+assinado pelo Pe. Jan Perkowski, Chanceler do Consistório.
+</p>
+
+<p>
+<u><a href="https://www.jbc.bj.uj.edu.pl/Content/897476">
+<i>Polska Odrodzona</i>, ano IX, n.º 18, Zamość, 15 de setembro de 1931,
+“Z Kancelarji Kurji Biskupiej”
+</a></u>
+</p>
+
 
 <br>
 
