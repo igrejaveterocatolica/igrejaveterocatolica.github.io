@@ -8,7 +8,7 @@ A **Igreja Vétero-Católica de Jerusalém em Portugal** é uma Igreja de tradi�
 
 <br>
 
-Apresenta-se um estudo técnico detalhado sobre a jurisdição canónica da Igreja, que visa demonstrar a existência de uma autoridade ordinária legítima sobre os fiéis. Este governo próprio, aliado à <u><a href="/sucessao.html">sucessão apostólica</a></u> válida, fundamenta a integridade de todos os sacramentos e dos atos canónicos desta comunidade.
+Apresenta-se um estudo técnico detalhado sobre a autoridade canónica da Igreja, que visa demonstrar a existência de uma **jurisdição ordinária legítima sobre os seus fiéis**. Este governo próprio, aliado à <u><a href="/sucessao.html">sucessão apostólica</a></u> válida, fundamenta a integridade de todos os sacramentos e dos atos canónicos desta comunidade.
 
 <br>
 
