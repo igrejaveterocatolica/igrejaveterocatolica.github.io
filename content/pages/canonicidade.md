@@ -594,7 +594,7 @@ A Fidelitas declarou ter solicitado adesão à **União de Scranton** e aguarda 
 A admissão numa união de Igrejas é um ato de comunhão e reconhecimento recíproco. Não é a fonte retroativa da Ordem, da jurisdição interna ou da existência histórica da Igreja recebida. A União de Scranton não criou a PNCC nem a Nordic Catholic Church pela mera declaração de comunhão; de modo semelhante, uma futura receção da Fidelitas reconheceria e regularia uma relação entre Igrejas já constituídas.
 
 
-Por isso, o processo de aproximação não constitui admissão de falta de canonicidade. Demonstra antes a vontade de superar uma separação histórica e de integrar a continuidade eclesial da Fidelitas numa comunhão internacional formal. Enquanto o processo não estiver concluído, não se afirma pertença jurídica atual à União; mas essa situação não decide contra a validade das Ordenações, dos sacramentos, do governo interno ou da continuidade da jurisdição brasileira.
+Por isso, o processo de reaproximação a Scranton não constitui admissão de falta de canonicidade, pelo contrário demonstra antes a vontade de superar uma separação histórica face à PNCC e de estender a comunhão Fidelitas (que já integra diversas comunidades a nível internacional) a uma rede mais alargada de Igrejas que partilham a mesma doutrina tradicional e a mesma origem. Essa situação não decide contra a validade das Ordenações, dos sacramentos, do governo interno ou da continuidade da jurisdição brasileira.
 
 
 <u>[PNCC e a eclesiologia da União de Scranton](https://theunionofscranton.org/wp-content/uploads/2018/03/The-PNCC-and-the-Declaration-and-Union-of-Scranton-for-Union-of-Scranton-Webiste.pdf)</u>
