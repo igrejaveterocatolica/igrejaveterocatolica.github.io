@@ -54,6 +54,6 @@ Na disciplina pastoral, mantemos os sete sacramentos e seguimos a tradição ant
 - **celibato opcional** para os clérigos;
 - acompanhamento e discernimento pastoral de **divorciados recasados** que desejem receber os sacramentos.
 
-A nossa posição doutrinal procura conservar a fé católica tradicional, rejeitando o modernismo e evoluções teológicas recentes incompatíveis com a Tradição Apostólica, tais como a legitimação do casamento gay e a ordenação de mulheres, mantendo-nos fiéis à lei natural, à Sagrada Escritura e à imutabilidade da moral cristã face às tendências do mundo.
+A nossa posição doutrinal procura conservar a fé católica tradicional, **rejeitando o modernismo** e evoluções teológicas recentes incompatíveis com a Tradição Apostólica, tais como a legitimação de uniões entre pessoas do mesmo sexo e a ordenação de mulheres, mantendo-nos fiéis à lei natural, à Sagrada Escritura e à imutabilidade da moral cristã face às tendências do mundo.
 
 <br><br>
