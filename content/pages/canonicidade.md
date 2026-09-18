@@ -588,7 +588,7 @@ A Conferência de 2018 não constitui a origem da Fidelitas. Confirma colegialme
 ### Relação com a União de Scranton
 
 
-A Fidelitas declarou ter solicitado adesão à **União de Scranton** e aguardar a correspondente resposta formal. Esse pedido deve ser interpretado segundo a eclesiologia professada pelas próprias partes: não como solicitação para que Scranton crie uma Igreja inexistente, mas como procura de **plena comunhão entre duas realidades eclesiais**.
+A Fidelitas declarou ter solicitado adesão à **União de Scranton** e aguarda a correspondente resposta formal. Esse pedido deve ser interpretado segundo a eclesiologia professada pelas próprias partes: não como solicitação para que Scranton crie uma Igreja inexistente, mas como procura de **plena comunhão entre duas realidades eclesiais**.
 
 
 A admissão numa união de Igrejas é um ato de comunhão e reconhecimento recíproco. Não é a fonte retroativa da Ordem, da jurisdição interna ou da existência histórica da Igreja recebida. A União de Scranton não criou a PNCC nem a Nordic Catholic Church pela mera declaração de comunhão; de modo semelhante, uma futura receção da Fidelitas reconheceria e regularia uma relação entre Igrejas já constituídas.
