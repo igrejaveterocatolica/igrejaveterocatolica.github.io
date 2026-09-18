@@ -4,13 +4,9 @@ title: Crise eclesial, necessidade e jurisdição extraordinária
 ---
 <br><br>
 
-O estudo apresentado na página de <u><a href="/canonicidade.html">canonicidade</a></u> sustentou, como tese principal, a existência de um **título próprio de jurisdição ordinária**, fundado na continuidade histórica da Igreja brasileira de matriz polaco-nacional, na sucessão do seu governo e no mandato eclesiástico atualmente recebido da Fidelitas.
+O estudo apresentado na página de <u><a href="/canonicidade.html">canonicidade</a></u> sustentou, como tese principal, a existência de um **título próprio de jurisdição ordinária**, fundado na continuidade histórica da Igreja brasileira de matriz polaco-nacional, na sucessão do seu governo e no mandato eclesiástico atualmente recebido da Fidelitas. **Essa tese permanece a posição principal desta Igreja.** A presente investigação ocupa um plano diferente. Pretende determinar quais as consequências canónicas de uma **situação geral de crise eclesial** e, subsidiariamente, quais os mecanismos através dos quais a tradição católica preserva a missão sacramental quando o funcionamento ordinário das estruturas de autoridade se encontra gravemente comprometido, contestado ou materialmente inacessível.
 
-Essa tese permanece a posição principal desta Igreja.
-
-A presente investigação ocupa um plano diferente. Pretende determinar quais as consequências canónicas de uma **situação geral de crise eclesial** e, subsidiariamente, quais os mecanismos através dos quais a tradição católica preserva a missão sacramental quando o funcionamento ordinário das estruturas de autoridade se encontra gravemente comprometido, contestado ou materialmente inacessível.
-
-Não se afirma, portanto, que a jurisdição desta Igreja tenha nascido de uma situação extraordinária.
+Não se afirma, portanto, que a jurisdição desta Igreja tenha nascido de uma situação extraordinária. 
 
 Afirma-se antes que:
 
