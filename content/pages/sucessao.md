@@ -384,7 +384,7 @@ Bispo Vétero-Católico em exercício no país.
 
 
 
-251. **Dom Hélio Del Bivar (Hélio de Azevedo), 1965 d.C.** <br>
+251. **Dom Hélio Del Bivar (Hélio de Azevedo), 1962 d.C.** <br>
 
 
 
