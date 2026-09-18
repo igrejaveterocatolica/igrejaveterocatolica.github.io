@@ -28,23 +28,13 @@ A resposta sustentada neste estudo é negativa.
 
 ### 1. O que se entende por «crise da Igreja»
 
-A expressão «crise da Igreja» deve ser empregada com precisão.
+A expressão «crise da Igreja» deve ser empregada com precisão. Não significa que a Igreja enquanto Corpo de Cristo possa deixar de existir, perder a sua missão divina ou ser vencida definitivamente pelo erro. A indefectibilidade exclui semelhante conclusão. Significa antes que **estruturas eclesiais, autoridades, Igrejas locais e amplos sectores da comunidade cristã podem atravessar períodos prolongados de grave desordem doutrinal, eclesiológica, disciplinar, litúrgica e pastoral**, nos quais a transmissão integral da fé e da ordem recebidas se torna extraordinariamente difícil.
 
-Não significa que a Igreja enquanto Corpo de Cristo possa deixar de existir, perder a sua missão divina ou ser vencida definitivamente pelo erro. A indefectibilidade exclui semelhante conclusão.
+Seria, por isso, teologicamente mais rigoroso falar de uma **crise na Igreja e nas suas estruturas históricas**, embora por brevidade se utilize também a expressão tradicional "crise da Igreja". Esta crise não é definida primariamente pelo número de abusos disciplinares, pela indignidade pessoal dos ministros, por preferências litúrgicas ou pela simples existência de desacordo com determinada autoridade.
 
-Significa antes que **estruturas eclesiais, autoridades, Igrejas locais e amplos sectores da comunidade cristã podem atravessar períodos prolongados de grave desordem doutrinal, eclesiológica, disciplinar, litúrgica e pastoral**, nos quais a transmissão integral da fé e da ordem recebidas se torna extraordinariamente difícil.
+O seu critério fundamental é a **continuidade da Tradição**. Na perspectiva ultrajectina adotada neste estudo, existe uma crise eclesiológica propriamente dita quando surge uma divergência grave, persistente e institucionalmente relevante entre a fé, a constituição e a prática recebidas da Igreja antiga e aquilo que passa a ser ensinado, imposto, tolerado ou institucionalizado por determinadas autoridades ou estruturas eclesiais.
 
-Seria, por isso, teologicamente mais rigoroso falar de uma **crise na Igreja e nas suas estruturas históricas**, embora por brevidade se utilize também a expressão tradicional «crise da Igreja».
-
-Esta crise não é definida primariamente pelo número de abusos disciplinares, pela indignidade pessoal dos ministros, por preferências litúrgicas ou pela simples existência de desacordo com determinada autoridade.
-
-O seu critério fundamental é a **continuidade da Tradição**.
-
-Na perspectiva ultrajectina adotada neste estudo, existe uma crise eclesiológica propriamente dita quando surge uma divergência grave, persistente e institucionalmente relevante entre a fé, a constituição e a prática recebidas da Igreja antiga e aquilo que passa a ser ensinado, imposto, tolerado ou institucionalizado por determinadas autoridades ou estruturas eclesiais.
-
-O ponto de partida não é, portanto, a opinião individual.
-
-É a regra católica tradicional expressa por São Vicente de Lérins: *quod ubique, quod semper, quod ab omnibus*.
+O ponto de partida não é, portanto, a opinião individual. É a regra católica tradicional expressa por São Vicente de Lérins: *quod ubique, quod semper, quod ab omnibus*.
 
 A **Declaração de Utrecht de 1889** colocou expressamente esse princípio no fundamento da sua profissão eclesial, apelando à fé da Igreja indivisa e rejeitando desenvolvimentos considerados incompatíveis com ela.
 
