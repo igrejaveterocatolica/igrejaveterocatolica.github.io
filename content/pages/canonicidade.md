@@ -13,11 +13,11 @@ O presente estudo tem uma finalidade simultaneamente canónica e pastoral. Procu
 <br>
 
 
-Este argumento deve começar por uma distinção indispensável: **Ordem sacramental, jurisdição interna e comunhão ou reconhecimento externo não são a mesma realidade.**
+Este argumento deve começar por uma distinção indispensável: **Ordem sacramental, jurisdição própria e comunhão ou reconhecimento externo não são a mesma realidade.**
 
 
 - A **Ordem sacramental** respeita à validade das ordenações e à continuidade do ministério episcopal e presbiteral.
-- A **jurisdição interna** respeita ao título pelo qual uma Igreja confere ofícios, organiza circunscrições e governa os seus fiéis segundo o seu próprio direito.
+- A **jurisdição própria** respeita ao título pelo qual uma Igreja confere ofícios, organiza circunscrições e governa os seus fiéis segundo o seu próprio direito.
 - A **comunhão eclesial** respeita à relação entre Igrejas distintas e ao reconhecimento recíproco das respetivas autoridades, sacramentos e atos canónicos.
 
 
@@ -621,7 +621,7 @@ A Conferência de 2018 não constitui a origem da Fidelitas. Confirma colegialme
 A Fidelitas declarou ter solicitado adesão à **União de Scranton** e aguarda a correspondente resposta formal. Esse pedido deve ser interpretado segundo a eclesiologia professada pelas próprias partes: não como solicitação para que Scranton crie uma Igreja inexistente, mas como procura de **plena comunhão entre duas realidades eclesiais**.
 
 
-A admissão numa união de Igrejas é um ato de comunhão e reconhecimento recíproco. Não é a fonte retroativa da Ordem, da jurisdição interna ou da existência histórica da Igreja recebida. A União de Scranton não criou a PNCC nem a Nordic Catholic Church pela mera declaração de comunhão; de modo semelhante, uma futura receção da Fidelitas reconheceria e regularia uma relação entre Igrejas já constituídas.
+A admissão numa união de Igrejas é um ato de comunhão e reconhecimento recíproco. Não é a fonte retroativa da Ordem, da jurisdição própria ou da existência histórica da Igreja recebida. A União de Scranton não criou a PNCC nem a Nordic Catholic Church pela mera declaração de comunhão; de modo semelhante, uma futura receção da Fidelitas reconheceria e regularia uma relação entre Igrejas já constituídas.
 
 
 Por isso, o processo de reaproximação a Scranton não constitui admissão de falta de canonicidade, pelo contrário demonstra antes a vontade de superar uma separação histórica face à PNCC e de estender a comunhão Fidelitas (que já integra diversas comunidades a nível internacional) a uma rede mais alargada de Igrejas que partilham a mesma doutrina tradicional e a mesma origem. Essa situação não decide contra a validade das Ordenações, dos sacramentos, do governo interno ou da continuidade da jurisdição brasileira.
