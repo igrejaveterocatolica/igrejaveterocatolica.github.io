@@ -362,61 +362,29 @@ Por isso, para efeitos deste estudo, pode propor-se a seguinte definição:
 
 **por crise eclesial entende-se uma situação histórica prolongada em que surge divergência grave, cumulativa e institucionalmente relevante entre a fé, a constituição, a moral e a prática recebidas da Igreja antiga e aquilo que determinadas autoridades ou estruturas passam a ensinar, impor, permitir ou praticar, produzindo simultaneamente conflito acerca dos critérios de continuidade, incerteza acerca da autoridade e enfraquecimento da capacidade de transmitir integralmente a fé e a vida sacramental.**
 
-A crise assim definida é teológica antes de ser canónica.
-
-Mas produz inevitavelmente uma questão jurídica.
+A crise assim definida é teológica antes de ser canónica, mas produz inevitavelmente uma questão jurídica.
 
 <br><br>
 
 ### 16. Da crise doutrinal ao problema jurídico
 
-Uma crise doutrinal não extingue automaticamente qualquer ofício.
+Uma crise doutrinal não extingue automaticamente qualquer ofício. 
+Nem todo o erro é heresia. Nem toda a heresia material equivale imediatamente a heresia formal. Nem todo o acto ilegítimo produz perda de jurisdição.
 
-Nem todo o erro é heresia.
-
-Nem toda a heresia material equivale imediatamente a heresia formal.
-
-Nem todo o acto ilegítimo produz perda de jurisdição.
-
-A tradição canónica distingue cuidadosamente:
-
-erro;
-
-pertinácia;
-
-delito;
-
-comunhão;
-
-ofício;
-
-e consequências jurídicas externas.
+A tradição canónica distingue cuidadosamente: erro, pertinácia, delito, comunhão, ofício, e consequências jurídicas externas.
 
 Contudo, a própria tradição reconhece uma profunda incompatibilidade entre defecção pública da fé e posse normal de um ofício eclesiástico.
 
-O antigo cân. 188 §4 do Código de 1917 considerava a defecção pública da fé como causa de vacância *ipso facto* de determinados ofícios.
+O antigo cân. 188 §4 do Código de 1917 considerava a defecção pública da fé como causa de vacância *ipso facto* de determinados ofícios. O actual cân. 194 conserva o princípio, embora exija declaração da autoridade competente para execução da remoção.
 
-O actual cân. 194 conserva o princípio, embora exija declaração da autoridade competente para execução da remoção.
+É precisamente aqui que surge o problema clássico do **Papa herético**. 
 
-É precisamente aqui que surge o problema clássico do **Papa herético**.
+O direito romano estabelece simultaneamente que a defecção pública da fé é incompatível com o ofício e que **a Primeira Sé não é julgada por ninguém**. 
+O Código actual não fornece um procedimento plenamente desenvolvido para resolver a hipótese extrema de um Romano Pontífice que viesse a incorrer formal e manifestamente em heresia. A tradição teológica ofereceu soluções diferentes. Caetano atribuiu papel relevante a uma intervenção ministerial da Igreja.
 
-O direito romano estabelece simultaneamente que a defecção pública da fé é incompatível com o ofício e que **a Primeira Sé não é julgada por ninguém**.
+São Roberto Belarmino defendeu que o pontífice manifestamente herético deixaria pelo próprio facto de ser Papa, porque deixaria de pertencer à Igreja da maneira necessária para poder ser sua cabeça. Suárez procurou integrar a incompatibilidade com a necessidade de uma declaração eclesial. Não existe, portanto, uma única teoria clássica acerca do mecanismo.
 
-O Código actual não fornece um procedimento plenamente desenvolvido para resolver a hipótese extrema de um Romano Pontífice que viesse a incorrer formal e manifestamente em heresia.
-
-A tradição teológica ofereceu soluções diferentes.
-
-Caetano atribuiu papel relevante a uma intervenção ministerial da Igreja.
-
-São Roberto Belarmino defendeu que o pontífice manifestamente herético deixaria pelo próprio facto de ser Papa, porque deixaria de pertencer à Igreja da maneira necessária para poder ser sua cabeça.
-
-Suárez procurou integrar a incompatibilidade com a necessidade de uma declaração eclesial.
-
-Não existe, portanto, uma única teoria clássica acerca do mecanismo.
-
-Mas existe um princípio comum:
-
-**o ofício existe para servir a fé; a autoridade não pode tornar verdadeira uma heresia simplesmente por possuir autoridade.**
+Mas existe um princípio comum: **o ofício existe para servir a fé; a autoridade não pode tornar verdadeira uma heresia simplesmente por possuir autoridade.**
 
 É este princípio, e não uma aplicação sedevacantista automática, que interessa ao presente estudo.
 
@@ -428,7 +396,7 @@ A tradição católica nunca ensinou uma obediência absolutamente ilimitada a q
 
 O princípio apostólico permanece:
 
-**«Importa obedecer antes a Deus do que aos homens.»**
+**"Importa obedecer antes a Deus do que aos homens."**
 
 São Tomás de Aquino explica que a obediência vincula enquanto o superior actua dentro da sua competência e não ordena contra uma autoridade superior, sobretudo contra Deus.
 
@@ -440,9 +408,7 @@ e:
 
 **a ordem pode ser cumprida sem violar uma obrigação superior?**
 
-Este ponto tem relevância directa para Mathew, Faron, Lefebvre e outras figuras historicamente muito diferentes.
-
-A questão moral da resistência não cria automaticamente jurisdição.
+Este ponto tem relevância directa para Mathew, Faron, Lefebvre e outras figuras historicamente muito diferentes. A questão moral da resistência não cria automaticamente jurisdição.
 
 Mas pode explicar por que a submissão a determinada autoridade deixa, em circunstâncias excepcionais, de constituir obrigação moral.
 
@@ -466,53 +432,25 @@ Significa:
 
 A ordem canónica reconhece princípios relacionados.
 
-O cân. 19 refere os princípios gerais do direito aplicados com equidade canónica.
-
-O cân. 1752 encerra o Código de 1983 recordando que a **salvação das almas deve ser sempre a lei suprema na Igreja**.
+O cân. 19 refere os princípios gerais do direito aplicados com equidade canónica. O cân. 1752 encerra o Código de 1983 recordando que a **salvação das almas deve ser sempre a lei suprema na Igreja**.
 
 <u><a href="https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib7-cann1732-1752_en.html">Código de Direito Canónico de 1983 — cân. 1752</a></u>
 
-Esta máxima não autoriza qualquer ministro a ignorar o direito sempre que considere pastoralmente conveniente fazê-lo.
-
-A *salus animarum* não é uma licença para anarquia.
-
-É o princípio que impede que a lei eclesiástica seja interpretada de modo suicidário, isto é, de forma a destruir a finalidade sobrenatural para a qual existe.
+Esta máxima não autoriza qualquer ministro a ignorar o direito sempre que considere pastoralmente conveniente fazê-lo. A *salus animarum* não é uma licença para anarquia. É o princípio que impede que a lei eclesiástica seja interpretada de modo suicidário, isto é, de forma a destruir a finalidade sobrenatural para a qual existe.
 
 <br><br>
 
 ### 19. A necessidade não cria automaticamente validade
 
-Esta distinção é absolutamente central.
+Esta distinção é absolutamente central. 
 
-A necessidade pode:
+A necessidade pode: excluir culpa, reduzir ou excluir pena, justificar a cessação da obrigação de uma lei meramente eclesiástica, permitir dispensa, ou activar uma faculdade extraordinária prevista pelo direito.
 
-excluir culpa;
+Mas não se segue daí que a necessidade, por si só, **crie toda e qualquer potestade necessária à validade de um acto**. 
 
-reduzir ou excluir pena;
+Licitude, imputabilidade e validade são categorias diferentes. Um acto pode ser válido e ilícito. Pode ser inválido mas realizado sem culpa grave. Pode ser materialmente proibido mas não penalmente imputável.
 
-justificar a cessação da obrigação de uma lei meramente eclesiástica;
-
-permitir dispensa;
-
-ou activar uma faculdade extraordinária prevista pelo direito.
-
-Mas não se segue daí que a necessidade, por si só, **crie toda e qualquer potestade necessária à validade de um acto**.
-
-Licitude, imputabilidade e validade são categorias diferentes.
-
-Um acto pode ser válido e ilícito.
-
-Pode ser inválido mas realizado sem culpa grave.
-
-Pode ser materialmente proibido mas não penalmente imputável.
-
-A *epikeia* também não transforma automaticamente uma ausência de poder numa posse positiva de poder.
-
-Se uma norma apenas proíbe determinado acto, a necessidade pode eventualmente fazer cessar a obrigação.
-
-Mas se determinado acto exige para a própria validade uma faculdade constitutiva, é necessário responder a outra pergunta:
-
-**de onde provém a faculdade?**
+A *epikeia* também não transforma automaticamente uma ausência de poder numa posse positiva de poder. Se uma norma apenas proíbe determinado acto, a necessidade pode eventualmente fazer cessar a obrigação. Mas se determinado acto exige para a própria validade uma faculdade constitutiva, é necessário responder a outra pergunta: **de onde provém a faculdade?**
 
 É aqui que se torna indispensável distinguir necessidade de verdadeira **jurisdição suprida**.
 
@@ -526,57 +464,24 @@ O princípio permanece no cân. 144 do Código de 1983, agora formulado como sup
 
 <u><a href="https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann129-144_en.html">Código de Direito Canónico de 1983 — cân. 144</a></u>
 
-Isto é *Ecclesia supplet* em sentido técnico.
-
-A Igreja fornece juridicamente uma potestade ou faculdade que faltava ao ministro em determinadas circunstâncias.
+Isto é *Ecclesia supplet* em sentido técnico. A Igreja fornece juridicamente uma potestade ou faculdade que faltava ao ministro em determinadas circunstâncias. 
 
 Os fundamentos expressamente previstos são:
+**erro comum de facto ou de direito** e **dúvida positiva e provável de direito ou de facto.**
 
-**erro comum de facto ou de direito;**
+A "necessidade" em abstracto não aparece simplesmente como terceiro fundamento independente no cân. 144. 
 
-e
-
-**dúvida positiva e provável de direito ou de facto.**
-
-A «necessidade» em abstracto não aparece simplesmente como terceiro fundamento independente no cân. 144.
-
-Por isso é metodologicamente incorrecto fundir sem distinção:
-
-*ecclesia supplet*;
-
-perigo de morte;
-
-necessidade;
-
-*epikeia*;
-
-equidade;
-
-e *salus animarum*.
-
-Todos podem relacionar-se.
-
-Mas são institutos distintos.
+Por isso é metodologicamente incorrecto fundir sem distinção: *ecclesia supplet*, perigo de morte, necessidade, *epikeia*, equidade, e *salus animarum*. Todos podem relacionar-se, mas são institutos distintos.
 
 <br><br>
 
 ### 21. Perigo de morte e outras faculdades extraordinárias
 
-O próprio Código demonstra esta diversidade.
+O próprio Código demonstra esta diversidade. O cân. 976 estabelece que qualquer sacerdote pode absolver válida e licitamente um penitente em perigo de morte, mesmo sem possuir normalmente a faculdade para ouvir confissões. Aqui não é necessário demonstrar erro comum ou dúvida positiva e provável. A própria lei concede extraordinariamente a faculdade.
 
-O cân. 976 estabelece que qualquer sacerdote pode absolver válida e licitamente um penitente em perigo de morte, mesmo sem possuir normalmente a faculdade para ouvir confissões.
+No matrimónio, o cân. 1116 permite, quando o assistente competente não pode estar presente ou ser procurado sem grave incómodo, que os nubentes contraiam validamente apenas perante testemunhas nas condições definidas pela norma. O direito conhece ainda mecanismos extraordinários em matéria de dispensas, censuras e outros actos de governo.
 
-Aqui não é necessário demonstrar erro comum ou dúvida positiva e provável.
-
-A própria lei concede extraordinariamente a faculdade.
-
-No matrimónio, o cân. 1116 permite, quando o assistente competente não pode estar presente ou ser procurado sem grave incómodo, que os nubentes contraiam validamente apenas perante testemunhas nas condições definidas pela norma.
-
-O direito conhece ainda mecanismos extraordinários em matéria de dispensas, censuras e outros actos de governo.
-
-A conclusão é importante:
-
-**o ordenamento eclesiástico possui elasticidade interna destinada a impedir que a impossibilidade de funcionamento das estruturas ordinárias prive os fiéis dos bens espirituais necessários.**
+A conclusão é importante: **o ordenamento eclesiástico possui elasticidade interna destinada a impedir que a impossibilidade de funcionamento das estruturas ordinárias prive os fiéis dos bens espirituais necessários.**
 
 Mas essa elasticidade assume formas jurídicas diferentes.
 
@@ -616,15 +521,7 @@ Um estudo mais extenso de D. Bernard Tissier de Mallerais procura defender aquil
 
 A tese é mais ampla do que o simples cân. 144 e recorre também à necessidade, equidade e princípios gerais do direito.
 
-Precisamente por isso é discutível.
-
-Mas constitui um estudo importante, porque formula expressamente a distinção entre:
-
-**autoridade ordinária, que a FSSPX reconhece não possuir sobre os fiéis em sentido territorial;**
-
-e
-
-**autoridade extraordinária, que considera necessária para responder às necessidades espirituais produzidas pela crise.**
+Precisamente por isso é discutível. Mas constitui um estudo importante, porque formula expressamente a distinção entre: **autoridade ordinária, que a FSSPX reconhece não possuir sobre os fiéis em sentido territorial** e **autoridade extraordinária, que considera necessária para responder às necessidades espirituais produzidas pela crise.**
 
 Esta distinção tem particular valor comparativo para o presente estudo.
 
@@ -638,17 +535,9 @@ A sua posição é ainda mais marcada pela ideia de que uma progressiva acomoda�
 
 <u><a href="https://sspxmc.com/">Society of Saint Pius X – Marian Corps</a></u>
 
-Nem todos os grupos da Resistência possuem uma teoria canónica sistemática idêntica.
+Nem todos os grupos da Resistência possuem uma teoria canónica sistemática idêntica. O seu interesse para esta investigação é sobretudo histórico. Mostram como a tese de necessidade pode produzir sucessivas estruturas de resistência quando a comunidade entende que a autoridade imediatamente superior já não protege suficientemente a tradição.
 
-O seu interesse para esta investigação é sobretudo histórico.
-
-Mostram como a tese de necessidade pode produzir sucessivas estruturas de resistência quando a comunidade entende que a autoridade imediatamente superior já não protege suficientemente a tradição.
-
-Este facto constitui simultaneamente uma força e um aviso.
-
-A necessidade pode ser real.
-
-Mas, se não existirem critérios objectivos, pode também ser invocada indefinidamente para justificar uma cadeia interminável de novas separações.
+Este facto constitui simultaneamente uma força e um aviso. A necessidade pode ser real, mas, se não existirem critérios objectivos, pode também ser invocada indefinidamente para justificar uma cadeia interminável de novas separações.
 
 <br><br>
 
@@ -660,19 +549,15 @@ O seu *Statement of Principles in a Time of Crisis* identifica Vaticano II como 
 
 <u><a href="https://www.wcbohio.com/articles/sspv-statement-of-principles">Society of Saint Pius V — <i>Statement of Principles in a Time of Crisis</i></a></u>
 
-A SSPV é relevante porque não depende da mesma construção institucional da FSSPX e admite a existência de diferentes opiniões dentro do tradicionalismo acerca da actual situação da Sé Romana.
+A SSPV é relevante porque não depende da mesma construção institucional da FSSPX e admite a existência de diferentes opiniões dentro do tradicionalismo acerca da actual situação da Sé Romana. Ainda assim, mantém apostolado sacerdotal e sacramental próprio.
 
-Ainda assim, mantém apostolado sacerdotal e sacramental próprio.
-
-Isto reforça o dado comparativo:
-
-**mesmo onde a jurisdição ordinária é considerada ausente, duvidosa ou materialmente inacessível, não se conclui necessariamente que toda a actividade sacramental deve cessar.**
+Isto reforça o dado comparativo: **mesmo onde a jurisdição ordinária é considerada ausente, duvidosa ou materialmente inacessível, não se conclui necessariamente que toda a actividade sacramental deve cessar.**
 
 <br><br>
 
 ### 26. O sedevacantismo: Pivarunas e Cekada
 
-A escola sedevacantista enfrenta o problema de maneira diferente.
+A escola sedevacantista enfrenta o problema de maneira diferente. 
 
 Se a Sé de Roma se encontra vacante durante período prolongado, como podem os sacramentos e o apostolado continuar quando não existe a autoridade ordinária normalmente necessária para atribuir diversas faculdades?
 
@@ -680,31 +565,19 @@ D. **Mark Pivarunas**, da Congregation of Mary Immaculate Queen, trata directame
 
 <u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/the-question-of-jurisdiction-when-the-chair-of-peter-is-vacant/">Mark A. Pivarunas — <i>The Question of Jurisdiction During a Vacancy of the Holy See</i></a></u>
 
-O argumento combina necessidade dos fiéis, doutrina moral clássica e jurisdição suprida.
-
-O Pe. **Anthony Cekada** desenvolveu uma defesa relacionada em *Traditional Priests, Legitimate Sacraments*.
-
-O texto distingue entre a falta de uma missão ordinária e a obrigação moral de administrar sacramentos quando os fiéis se encontram em grave necessidade, recorrendo à teologia moral anterior ao Concílio e a princípios de *epikeia* e direito divino.
+O argumento combina necessidade dos fiéis, doutrina moral clássica e jurisdição suprida. O Pe. **Anthony Cekada** desenvolveu uma defesa relacionada em *Traditional Priests, Legitimate Sacraments*. O texto distingue entre a falta de uma missão ordinária e a obrigação moral de administrar sacramentos quando os fiéis se encontram em grave necessidade, recorrendo à teologia moral anterior ao Concílio e a princípios de *epikeia* e direito divino.
 
 <u><a href="https://cmri.org/articles-on-the-traditional-catholic-faith/traditional-priests-legitimate-sacraments/">Anthony Cekada — <i>Traditional Priests, Legitimate Sacraments</i></a></u>
 
-Estas conclusões não devem ser aceites automaticamente.
-
-Particularmente, a passagem entre obrigação moral de prestar assistência e existência jurídica da faculdade necessária para a validade continua a exigir demonstração.
-
-Mas são estudos relevantes precisamente porque procuram responder directamente ao problema que este texto coloca.
+Estas conclusões não devem ser aceites automaticamente. Particularmente, a passagem entre obrigação moral de prestar assistência e existência jurídica da faculdade necessária para a validade continua a exigir demonstração. Mas são estudos relevantes precisamente porque procuram responder directamente ao problema que este texto coloca.
 
 <br><br>
 
 ### 27. O sedeprivacionismo e a Tese de Cassiciacum
 
-A tradição **sedeprivacionista**, associada à Tese de Cassiciacum de D. Guérard des Lauriers, oferece talvez a distinção mais rigorosa entre missão extraordinária e posse de jurisdição ordinária.
+A tradição **sedeprivacionista**, associada à Tese de Cassiciacum de D. Guérard des Lauriers, oferece talvez a distinção mais rigorosa entre missão extraordinária e posse de jurisdição ordinária. Segundo esta escola, a crise contemporânea não autoriza os bispos tradicionalistas a declararem-se automaticamente membros da hierarquia ordinária.
 
-Segundo esta escola, a crise contemporânea não autoriza os bispos tradicionalistas a declararem-se automaticamente membros da hierarquia ordinária.
-
-A Tese distingue cuidadosamente a continuidade material das estruturas de designação e a ausência formal de determinada autoridade.
-
-O Pe. **Nicolás E. Despósito** apresenta actualmente uma das exposições mais sistemáticas dessa posição.
+A Tese distingue cuidadosamente a continuidade material das estruturas de designação e a ausência formal de determinada autoridade. O Pe. **Nicolás E. Despósito** apresenta actualmente uma das exposições mais sistemáticas dessa posição.
 
 <u><a href="https://thethesis.us/articles/little-catechism/">Nicolás E. Despósito — <i>The Little Catechism on the Thesis</i></a></u>
 
@@ -712,43 +585,25 @@ O Most Holy Trinity Seminary reúne ainda diversos estudos sobre a apostolicidad
 
 <u><a href="https://mostholytrinityseminary.org/articles/">Most Holy Trinity Seminary — estudos sobre a Tese de Cassiciacum</a></u>
 
-Esta escola é particularmente importante porque resiste à tentação de confundir actividade sacramental extraordinária com jurisdição territorial ordinária.
+Esta escola é particularmente importante porque resiste à tentação de confundir actividade sacramental extraordinária com jurisdição territorial ordinária. 
 
 A distinção pode ser resumida através das categorias **Missio** e **Sessio**:
-
 a *Missio* refere-se à continuação extraordinária da missão apostólica e sacramental;
-
 a *Sessio* corresponde à posse de um verdadeiro ofício hierárquico dotado de jurisdição ordinária.
 
-A necessidade poderia justificar a primeira sem automaticamente produzir a segunda.
-
-Para o presente estudo, esta distinção possui valor metodológico muito elevado.
+A necessidade poderia justificar a primeira sem automaticamente produzir a segunda. Para o presente estudo, esta distinção possui valor metodológico muito elevado.
 
 <br><br>
 
 ### 28. <i>Sodalitium</i> e a crítica aos tribunais extraordinários da FSSPX
 
-A revista ***Sodalitium*** oferece ainda um exemplo útil de debate interno ao próprio tradicionalismo.
-
-O número 52, publicado em 2000, dedica um extenso dossier à comissão canónica e aos tribunais organizados pela FSSPX.
-
-O dossier reproduz documentação da própria Fraternidade e desenvolve depois uma crítica sedeprivacionista à extensão da jurisdição que a FSSPX entende possuir.
+A revista ***Sodalitium*** oferece ainda um exemplo útil de debate interno ao próprio tradicionalismo. O número 52, publicado em 2000, dedica um extenso dossier à comissão canónica e aos tribunais organizados pela FSSPX. O dossier reproduz documentação da própria Fraternidade e desenvolve depois uma crítica sedeprivacionista à extensão da jurisdição que a FSSPX entende possuir.
 
 <u><a href="https://www.sodalitium.biz/sodalitium_pdf/52.pdf"><i>Sodalitium</i>, n.º 52 — dossier sobre os tribunais canónicos da FSSPX</a></u>
 
-Esta controvérsia é extraordinariamente útil.
+Esta controvérsia é extraordinariamente útil pois mostra que mesmo dentro do tradicionalismo existe uma distinção entre: **jurisdição suprida <i>per modum actus</i>, necessária para determinado acto** e **criação de estruturas que se comportam como tribunais, dioceses ou autoridades ordinárias permanentes.**
 
-Mostra que mesmo dentro do tradicionalismo existe uma distinção entre:
-
-**jurisdição suprida <i>per modum actus</i>, necessária para determinado acto;**
-
-e
-
-**criação de estruturas que se comportam como tribunais, dioceses ou autoridades ordinárias permanentes.**
-
-A crítica de *Sodalitium* sustenta que a segunda conclusão não decorre automaticamente da primeira.
-
-Este estudo partilha essa prudência.
+A crítica de *Sodalitium* sustenta que a segunda conclusão não decorre automaticamente da primeira. Este estudo partilha essa prudência.
 
 <br><br>
 
@@ -766,21 +621,9 @@ A controvérsia tornou-se ainda mais interessante quando D. **Juan Ignacio Arrie
 
 Portanto, este episódio não deve ser utilizado para afirmar simplesmente que Roma «resolveu» ou que a FSSPX «resolveu» a questão.
 
-É mais útil como demonstração da diferença entre vários títulos possíveis:
+É mais útil como demonstração da diferença entre vários títulos possíveis: jurisdição ordinária, faculdade concedida directamente, revogação dessa faculdade, dúvida positiva e provável, e jurisdição suprida.
 
-jurisdição ordinária;
-
-faculdade concedida directamente;
-
-revogação dessa faculdade;
-
-dúvida positiva e provável;
-
-e jurisdição suprida.
-
-A situação da FSSPX continua, em todo o caso, substancialmente diferente da tese desta Igreja.
-
-A própria FSSPX afirma que os seus novos bispos não receberam jurisdição territorial ordinária.
+A situação da FSSPX continua, em todo o caso, substancialmente diferente da tese desta Igreja. A própria FSSPX afirma que os seus novos bispos não receberam jurisdição territorial ordinária.
 
 <br><br>
 
@@ -807,11 +650,7 @@ Os restantes exemplos usam argumentos jurídicos:
   <u><a href="https://www.unamsanctam.org/pt/home">Unam Sanctam</a></u>
 
 
-Estas soluções pertencem a uma categoria diferente da presente investigação
-
-A sua existência, contudo, revela novamente a percepção comum do problema:
-
-**uma Igreja não pode viver indefinidamente apenas de actos extraordinários sem enfrentar a questão da autoridade ordinária.**
+Estas soluções pertencem a uma categoria diferente da presente investigação. A sua existência, contudo, revela novamente a percepção comum do problema: **uma Igreja não pode viver indefinidamente apenas de actos extraordinários sem enfrentar a questão da autoridade ordinária.**
 
 Uma emergência pode prolongar-se. Mas uma estrutura eclesial estável exige finalmente uma teoria estável do ofício, sucessão e jurisdição.
 
@@ -819,135 +658,15 @@ Uma emergência pode prolongar-se. Mas uma estrutura eclesial estável exige fin
 
 ### 31. Convergência entre escolas que discordam profundamente
 
-As escolas estudadas discordam sobre matérias fundamentais.
+As escolas estudadas discordam sobre matérias fundamentais. Os vétero-romanos não aceitam a eclesiologia ultramontana, a FSSPX reconhece a autoridade papal contemporânea e resiste a determinados actos, a Resistência acusa a própria FSSPX de comprometer a resistência, a SSPV mantém uma posição diferente acerca da hierarquia contemporânea, os sedevacantistas concluem pela vacância da Sé, os sedeprivacionistas distinguem entre ocupação material e autoridade formal.
 
-Os vétero-romanos não aceitam a eclesiologia ultramontana.
+Estas posições não podem ser artificialmente harmonizadas. A sua existência também não prova que todas estejam correctas. Existe, contudo, uma convergência importante: **nenhuma delas considera que a ausência ou contestação da jurisdição territorial ordinária implique necessariamente o desaparecimento de toda a missão sacramental.**
 
-A FSSPX reconhece a autoridade papal contemporânea e resiste a determinados actos.
-
-A Resistência acusa a própria FSSPX de comprometer a resistência.
-
-A SSPV mantém uma posição diferente acerca da hierarquia contemporânea.
-
-Os sedevacantistas concluem pela vacância da Sé.
-
-Os sedeprivacionistas distinguem entre ocupação material e autoridade formal.
-
-Estas posições não podem ser artificialmente harmonizadas.
-
-A sua existência também não demonstra que todas estejam correctas.
-
-Existe, contudo, uma convergência importante:
-
-**nenhuma delas considera que a ausência ou contestação da jurisdição territorial ordinária implique necessariamente o desaparecimento de toda a missão sacramental.**
-
-Para evitar essa consequência, recorrem, com diferentes alcances, a:
-
-*ecclesia supplet*;
-
-necessidade;
-
-*epikeia*;
-
-equidade canónica;
-
-direito divino;
-
-*salus animarum*;
-
-erro comum;
-
-dúvida positiva e provável;
-
-perigo de morte;
-
-ou jurisdição *per modum actus*.
-
-Esta convergência não constitui precedente jurídico vinculativo.
-
-É um **paralelo doutrinal e histórico**.
+Para evitar essa consequência, recorrem, com diferentes alcances, a: *ecclesia supplet*, necessidade, *epikeia*, equidade canónica, direito divino, *salus animarum*, erro comum, dúvida positiva e provável, perigo de morte, ou jurisdição *per modum actus*.
 
 <br><br>
 
-### 32. O limite essencial da comparação
-
-A convergência referida não autoriza uma conclusão indiscriminada.
-
-Deve conservar-se sempre a diferença entre duas perguntas:
-
-**determinado ministro possui jurisdição ordinária?**
-
-e
-
-**se não a possui, ficam necessariamente inválidos todos os actos nos quais alguma faculdade jurisdicional é necessária?**
-
-A resposta negativa à primeira pergunta não determina automaticamente a resposta à segunda.
-
-Mas o inverso também é verdadeiro:
-
-a existência de jurisdição extraordinária para determinados actos **não cria automaticamente um Ordinário, uma diocese, uma paróquia, um tribunal ou uma Igreja particular**.
-
-A jurisdição extraordinária é normalmente funcional e limitada.
-
-A jurisdição ordinária é estrutural e deriva de um ofício.
-
-Esta distinção deve permanecer absolutamente clara.
-
-<br><br>
-
-### 33. Aplicação ao caso de Faron
-
-Esta conclusão possui especial importância relativamente a Faron.
-
-A tese principal não deve ser:
-
-**Faron perdeu a jurisdição e a necessidade criou outra em seu lugar.**
-
-Deve ser:
-
-**Faron recebeu um verdadeiro ofício; a questão é determinar se esse ofício foi posteriormente perdido de maneira juridicamente válida.**
-
-Se a perda não for demonstrada, não existe necessidade de recorrer a uma ficção de jurisdição extraordinária para explicar os actos seguintes.
-
-A necessidade desempenha função diferente.
-
-Pode explicar:
-
-por que a obediência a Hodur podia ser contestada;
-
-por que a ruptura de comunhão não significava necessariamente abandono da Igreja;
-
-e por que Faron podia considerar-se obrigado a continuar a missão pastoral.
-
-Mas o título positivo deve continuar a ser procurado na **jurisdição anteriormente recebida**.
-
-<br><br>
-
-### 34. Aplicação à missão brasileira
-
-O mesmo vale para a missão brasileira.
-
-Se Faron possuía ainda autoridade em 1932 e conferiu jurisdição missionária a Teofil Bartnicki, a origem da missão não necessita de ser construída mediante *Ecclesia supplet*.
-
-Existe um acto positivo de autoridade.
-
-A questão posterior, já identificada no estudo sobre a canonicidade, é determinar juridicamente:
-
-como a missão dependente se tornou autónoma;
-
-qual era o mecanismo de sucessão do governo;
-
-e de que maneira essa jurisdição chegou às estruturas posteriores.
-
-Essa é uma investigação acerca de **jurisdição ordinária**.
-
-A jurisdição extraordinária pode ser relevante para actos concretos praticados durante períodos de dúvida ou transição.
-
-Não deve ser usada para evitar a pergunta histórica principal.
-
-<br><br>
-
-### 35. Aplicação subsidiária à Igreja Vétero-Católica de Jerusalém em Portugal
+### 32. Aplicação subsidiária à Igreja Vétero-Católica de Jerusalém em Portugal
 
 A posição da **Igreja Vétero-Católica de Jerusalém em Portugal** assenta, em primeiro lugar, na existência de um título ordinário concreto, derivado da continuidade histórica da Igreja brasileira, da sucessão do seu governo e do mandato recebido da Fidelitas.
 
@@ -955,73 +674,27 @@ Essa continua a ser a tese principal.
 
 A crise anteriormente demonstrada fornece, contudo, o contexto teológico no qual deve ser compreendida a separação das diferentes estruturas de comunhão que marcam a nossa história.
 
-A tradição ultrajectina já contestava, desde Vaticano I, que a comunhão jurídica com Roma fosse por si só o critério absoluto da catolicidade.
-
-Mathew sustentou posteriormente que a fidelidade à tradição podia exigir autonomia perante Utrecht.
-
-Faron interpretou a ingerência de Hodur como uma reprodução do próprio problema de centralização ao qual o movimento nacional e veterocatólico pretendia reagir.
-
-A ruptura posterior da PNCC com Utrecht confirmou que uma estrutura historicamente anti-ultramontana podia também afastar-se, segundo parte dos seus próprios membros, da fé e moral da Igreja antiga.
-
-A crise contemporânea de Roma, entretanto, produziu no interior da própria tradição ultramontana movimentos que recorreram a necessidade, resistência, *epikeia* e jurisdição suprida para preservar o ministério sacramental.
+A tradição ultrajectina já contestava, desde Vaticano I, que a comunhão jurídica com Roma fosse por si só o critério absoluto da catolicidade. Mathew sustentou posteriormente que a fidelidade à tradição podia exigir autonomia perante Utrecht. Faron interpretou a ingerência de Hodur como uma reprodução do próprio problema de centralização ao qual o movimento nacional e veterocatólico pretendia reagir. A ruptura posterior da PNCC com Utrecht confirmou que uma estrutura historicamente anti-ultramontana podia também afastar-se, segundo parte dos seus próprios membros, da fé e moral da Igreja antiga. A crise contemporânea de Roma, entretanto, produziu no interior da própria tradição ultramontana movimentos que recorreram a necessidade, resistência, *epikeia* e jurisdição suprida para preservar o ministério sacramental.
 
 O quadro histórico é, portanto, convergente.
 
-Não no sentido de que todos estes movimentos tenham a mesma eclesiologia.
-
-Mas no sentido de que **a fidelidade material à Tradição pode entrar historicamente em conflito com a submissão às estruturas ordinárias que anteriormente serviam essa mesma Tradição**.
+Não no sentido de que todos estes movimentos tenham a mesma eclesiologia. Mas no sentido de que **a fidelidade material à Tradição pode entrar historicamente em conflito com a submissão às estruturas ordinárias que anteriormente serviam essa mesma Tradição**.
 
 <br><br>
 
-### 36. A verdadeira função da jurisdição extraordinária no nosso caso
+### 33. A verdadeira função da jurisdição extraordinária no nosso caso
 
-A jurisdição extraordinária não constitui originariamente a Fidelitas.
+A jurisdição extraordinária não constitui originariamente a Fidelitas. Não cria a sucessão do governo brasileir, nem produz o mandato português, nem transforma esta Igreja numa diocese. Nem necessita de desempenhar qualquer dessas funções, porque a nossa posição principal é que já existe um título ordinário próprio.
 
-Não cria a sucessão do governo brasileiro.
+A sua função é subsidiária. Ela demonstra que o direito e a tradição da Igreja possuem mecanismos destinados a impedir que defeitos concretos de faculdade, situações de dúvida ou impossibilidade material das estruturas ordinárias produzam automaticamente a extinção da vida sacramental.
 
-Não produz o mandato português.
-
-Não transforma esta Igreja numa diocese.
-
-Nem necessita de desempenhar qualquer dessas funções, porque a nossa posição principal é que já existe um título ordinário próprio.
-
-A sua função é subsidiária.
-
-Ela demonstra que o direito e a tradição da Igreja possuem mecanismos destinados a impedir que defeitos concretos de faculdade, situações de dúvida ou impossibilidade material das estruturas ordinárias produzam automaticamente a extinção da vida sacramental.
-
-Por isso, se alguém levantasse dúvida positiva e juridicamente fundada acerca da existência ou extensão de determinada faculdade concreta, seria necessário investigar, acto a acto:
-
-se existe faculdade ordinária;
-
-se existe faculdade delegada;
-
-se opera erro comum;
-
-se existe dúvida positiva e provável;
-
-se a própria lei concede faculdade extraordinária;
-
-se existe perigo de morte;
-
-se se aplica forma extraordinária;
-
-ou, apenas subsidiariamente, se necessidade e *epikeia* permitem afastar determinada obrigação disciplinar.
-
-Esta metodologia é mais segura do que utilizar «estado de necessidade» como explicação universal.
+Por isso, se alguém levantasse dúvida positiva e juridicamente fundada acerca da jurisdição ordinária do nosso ministério, temos amplo antecedente entre os tradicionalistas de justificação da continuação da sua jurisdição por meios extraordinários.
 
 <br><br>
 
 ### 37. A Penitência
 
-A Penitência é o caso em que a distinção assume maior relevância.
-
-O sacerdote recebe através da Ordem o poder sacramental sacerdotal.
-
-Contudo, o direito latino exige ainda, para a validade da absolvição, faculdade para exercer esse poder relativamente aos penitentes.
-
-Por isso, se existir dúvida acerca da faculdade ordinária de determinado sacerdote, não basta afirmar genericamente:
-
-**«há crise, portanto a confissão é válida».**
+A Penitência é um dos casos em que a distinção assume maior relevância. O sacerdote recebe através da Ordem o poder sacramental sacerdotal. Contudo, o direito latino (e também o direito canónico oriental) exige ainda, para a validade da absolvição, faculdade para exercer esse poder relativamente aos penitentes. Por isso, se existir dúvida acerca da faculdade ordinária de determinado sacerdote, não basta afirmar genericamente: **"há crise, portanto a confissão é válida".** No entanto a
 
 A análise deve seguir uma ordem juridicamente disciplinada:
 
@@ -1035,105 +708,40 @@ depois, se opera uma faculdade extraordinária prevista pela própria lei, como 
 
 e apenas posteriormente analisar argumentos extraordinários mais amplos de necessidade.
 
-Esta disciplina evita transformar a pastoral numa presunção jurídica ilimitada.
+Esta disciplina evita transformar a pastoral numa presunção jurídica ilimitada. No entanto, se a crise tiver efetivamente a dimensão que os tradicionalistas entendem que tem, fica demonstrada a
 
 <br><br>
 
 ### 38. Uma Igreja permanente não pode viver apenas de uma emergência permanente
 
-Há ainda uma conclusão eclesiológica importante.
+Há ainda uma conclusão eclesiológica importante. Uma comunidade que durante gerações possui: bispos, sínodos, constituições, clero, missões, procedimentos de eleição, sucessão regular de governo, e estruturas permanentes, já não pode ser explicada adequadamente apenas através da categoria de **jurisdição extraordinária ocasional**.
 
-Uma comunidade que durante gerações possui:
+A emergência pode durar muito tempo. Mas uma estrutura estável exige uma explicação estável da autoridade. É precisamente neste ponto que a presente Igreja se distingue de muitos movimentos tradicionalistas romanos.
 
-bispos;
+Não pretendemos permanecer indefinidamente numa situação em que cada acto depende de uma ficção de suplência. Reivindicamos uma **ordem jurisdicional própria**, cuja história e títulos são objecto do estudo principal de canonicidade.
 
-sínodos;
-
-constituições;
-
-clero;
-
-missões;
-
-procedimentos de eleição;
-
-sucessão regular de governo;
-
-e estruturas permanentes,
-
-já não pode ser explicada adequadamente apenas através da categoria de **jurisdição extraordinária ocasional**.
-
-A emergência pode durar muito tempo.
-
-Mas uma estrutura estável exige uma explicação estável da autoridade.
-
-É precisamente neste ponto que a presente Igreja se distingue de muitos movimentos tradicionalistas romanos.
-
-Não pretendemos permanecer indefinidamente numa situação em que cada acto depende de uma ficção de suplência.
-
-Reivindicamos uma **ordem jurisdicional própria**, cuja história e títulos são objecto do estudo principal de canonicidade.
-
-A jurisdição extraordinária serve para explicar os limites do argumento adversário e para responder subsidiariamente a dúvidas concretas.
-
-Não substitui a jurisdição ordinária.
+A jurisdição extraordinária serve para explicar os limites do argumento adversário e para responder subsidiariamente a dúvidas concretas. Não substitui a jurisdição ordinária.
 
 <br><br>
 
 ### 39. Conclusão
 
-A crise da Igreja contemporânea não constitui um simples slogan polémico.
+A crise da Igreja contemporânea não constitui um simples slogan polémico. Do ponto de vista ultrajectino, a sua primeira dimensão moderna aparece na redefinição da autoridade papal em Vaticano I. A resistência a 1870 não impediu, contudo, que a própria União de Utrecht conhecesse uma progressiva transformação doutrinal e disciplinar, criticada precocemente por Arnold Harris Mathew e posteriormente confirmada, em matérias importantes, pela ruptura da PNCC e formação da União de Scranton. 
 
-Do ponto de vista ultrajectino, a sua primeira dimensão moderna aparece na redefinição da autoridade papal em Vaticano I.
+Dentro da Igreja Romana, o modernismo foi reconhecido como crise pela própria autoridade muito antes de Vaticano II. Vaticano II não constitui, por isso, a origem absoluta da crise, mas amplia extraordinariamente o campo no qual se torna controvertida a relação entre desenvolvimento e continuidade.
 
-A resistência a 1870 não impediu, contudo, que a própria União de Utrecht conhecesse uma progressiva transformação doutrinal e disciplinar, criticada precocemente por Arnold Harris Mathew e posteriormente confirmada, em matérias importantes, pela ruptura da PNCC e formação da União de Scranton.
+A receção pós-conciliar levou o problema à liturgia, disciplina, família, moral e transmissão da fé. As controvérsias contemporâneas relativas a *Amoris laetitia*, Pachamama, Caminho Sinodal alemão e *Fiducia supplicans* mostram que o problema da continuidade não desapareceu; tornou-se ainda mais agudo.
 
-Dentro da Igreja Romana, o modernismo foi reconhecido como crise pela própria autoridade muito antes de Vaticano II.
+Perante esta situação, diferentes escolas tradicionalistas desenvolveram respostas incompatíveis: a tradição vétero-romana, 
+a FSSP, a Resistência, a SSPV, o sedevacantismo, e o sedeprivacionismo.
 
-Vaticano II não constitui, por isso, a origem absoluta da crise, mas amplia extraordinariamente o campo no qual se torna controvertida a relação entre desenvolvimento e continuidade.
-
-A receção pós-conciliar levou o problema à liturgia, disciplina, família, moral e transmissão da fé.
-
-As controvérsias contemporâneas relativas a *Amoris laetitia*, Pachamama, Caminho Sinodal alemão e *Fiducia supplicans* mostram que o problema da continuidade não desapareceu; tornou-se ainda mais agudo.
-
-Perante esta situação, diferentes escolas tradicionalistas desenvolveram respostas incompatíveis:
-
-a tradição vétero-romana;
-
-a FSSPX;
-
-a Resistência;
-
-a SSPV;
-
-o sedevacantismo;
-
-e o sedeprivacionismo.
-
-Nenhuma destas escolas constitui por si só autoridade jurídica para esta Igreja.
-
-Mas o seu conjunto oferece um corpo considerável de reflexão acerca da questão que aqui interessa:
+Nenhuma destas escolas constitui por si só autoridade jurídica para esta Igreja. Mas o seu conjunto oferece um corpo considerável de reflexão acerca da questão que aqui interessa:
 
 **o que acontece à missão sacramental quando a ordem jurisdicional ordinária se encontra em crise?**
 
-A tradição canónica oferece uma resposta necessariamente diferenciada.
-
-Nem todo o acto praticado fora da normalidade jurisdicional é válido.
-
-Nem todo o acto é inválido.
-
-Nem toda a necessidade cria potestade.
-
-Nem toda a falta de jurisdição ordinária destrói o ministério.
-
 Existem mecanismos concretos de suplência, faculdades extraordinárias, excepções por perigo, formas extraordinárias, equidade e *epikeia*.
 
-A conclusão correcta não é, portanto:
-
-**«a crise cria automaticamente jurisdição».**
-
-É antes:
-
-**«a crise pode produzir situações nas quais as normas e estruturas ordinárias deixam de conseguir realizar a finalidade para a qual existem; nessas situações, a própria tradição jurídica da Igreja conhece mecanismos extraordinários destinados a impedir que a salvação das almas e a vida sacramental sejam destruídas pela impossibilidade de funcionamento da ordem normal».**
+Conclui-se então o seguinte: **"a crise pode produzir situações nas quais as normas e estruturas ordinárias deixam de conseguir realizar a finalidade para a qual existem; nessas situações, a própria tradição jurídica da Igreja conhece mecanismos extraordinários destinados a impedir que a salvação das almas e a vida sacramental sejam destruídas pela impossibilidade de funcionamento da ordem normal".**
 
 Aplicado ao nosso caso, isto significa três coisas.
 
@@ -1143,13 +751,7 @@ Aplicado ao nosso caso, isto significa três coisas.
 
 **Terceiro:** mesmo se alguém levantasse uma dúvida concreta acerca da extensão ou exercício de determinada faculdade, seria juridicamente incorrecto concluir imediatamente pela invalidade global da vida sacramental.
 
-A dúvida deve ser analisada segundo o acto concreto e segundo todos os títulos jurídicos ordinários e extraordinários reconhecidos pela tradição da Igreja.
-
-Esta terceira linha não substitui a demonstração histórica da nossa canonicidade.
-
-Torna-a, porém, mais completa.
-
-E sobretudo impede que uma eventual controvérsia jurídica seja indevidamente transformada numa fonte de angústia sacramental para os fiéis.
+A dúvida deve ser analisada segundo o acto concreto e segundo todos os títulos jurídicos ordinários e extraordinários reconhecidos pela tradição da Igreja. Esta terceira linha não substitui a demonstração histórica da nossa canonicidade. Torna-a, porém, mais completa, e sobretudo **impede que uma eventual controvérsia jurídica seja indevidamente transformada numa fonte de angústia sacramental para os fiéis**.
 
 A **salvação das almas**, e não a destruição da confiança na graça sacramental por defeitos jurídicos presumidos, permanece a lei suprema da Igreja.
 
