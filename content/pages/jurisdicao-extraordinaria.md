@@ -42,7 +42,7 @@ A **Declaração de Utrecht de 1889** colocou expressamente esse princípio no f
 
 <u><a href="https://www.utrechter-union.org/en/about-us/what-is-the-union-of-utrecht/the-declaration-of-utrecht/">União de Utrecht — <i>Declaration of Utrecht</i> (1889)</a></u>
 
-Assim, «tradicional» não significa simplesmente «antigo», e «inovação» não significa necessariamente erro. A disciplina pode mudar, a linguagem teológica pode desenvolver-se, a Igreja pode responder a circunstâncias históricas novas. O problema nasce quando se pretende apresentar como desenvolvimento aquilo que, depois de confronto com a Sagrada Escritura, Padres da Igreja, Concílios Ecuménicos recebidos e tradição canónica, parece constituir **mudança de princípio**.
+Assim, "tradicional" não significa simplesmente "antigo", e "inovação" não significa necessariamente heresia (embora qualquer tradicionalista deve suspeitar de toda e qualquer "inovação" em matéria de doutrina e liturgia). A disciplina pode mudar, a linguagem teológica pode desenvolver-se, a Igreja pode responder a circunstâncias históricas novas. O problema nasce quando se pretende apresentar como desenvolvimento aquilo que, depois de confronto com a Sagrada Escritura, Padres da Igreja, Concílios Ecuménicos recebidos e tradição canónica, parece constituir **mudança de princípio**.
 
 A questão que atravessa toda a crise moderna: desenvolvimento ou ruptura?
 
