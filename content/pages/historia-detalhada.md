@@ -1745,31 +1745,8 @@ informa</a></u> publicamente encontrar-se num processo de **reaproximação** e 
 
 
 ## A Igreja Vétero Católica de Jerusalém em Portugal
-Em Portugal, a Igreja Vétero Católica de Jerusalém, sob o Arcebispo Primaz Dom Carlos Fonseca, encontra‑se em plena comunhão com Sua Beatitude Dom Paulus Nunes, Patriarca dos **Fidelitas do Brasil e Exterior**, jurisdição de onde deriva o <strong><u><a href="/img/decreto-dom-paulus-nunes.jpg">mandato canónico</a></u></strong> para o território português e <u><a href="/sucessao.html">sucessão apostólica</a></u>. 
 
-
-Uma análise mais detalhada sobre a **canonicidade, continuidade eclesial e fundamentos jurisdicionais** está disponível na página de <u>[canonicidade](/canonicidade.html)</u>. <br>
-
-
-Uma descrição detalhada da **origem e validade** de todas as linhagens episcopais da nossa igreja está disponível na página de <u><a href="/sucessao.html">sucessão apostólica</a></u>. <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A nossa identidade teológica é o **Ultrajectinismo**: *rejeitamos a infalibilidade papal*, que consideramos ser o derradeiro triunfo do **humanismo** e uma *ofensa a Nosso Senhor Jesus Cristo*, **Rei do Universo**. Preservamos integralmente a fé católica tradicional, incluindo as solenidades da Imaculada Conceição e Assunção de Maria que fazem parte do nosso calendário litúrgico, *devoções com forte implantação entre o povo da nação Portuguesa desde tempos imemoriais*.
-
+Em Portugal, a Igreja Vétero Católica de Jerusalém foi eregida por decreto de S.B. o Patriarca Dom Paulus Nunes, que em 2023 nomeou o Dom Carlos Fonseca como Arcebispo Primaz de Portugal.
 
 
 
