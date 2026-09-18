@@ -1049,4 +1049,4 @@ O pedido de adesão à União de Scranton não constitui pedido de criação ou 
 
 A Igreja afirma, por isso, a sua identidade como **católica na fé, apostólica na sucessão, ultrajectina na eclesiologia, sinodal no governo e canonicamente constituída na continuidade da jurisdição recebida**. O reconhecimento externo e a plena comunhão são relações entre Igrejas; não são a fonte da existência eclesial de uma delas.
 
-
+<br><br> <br><br>
