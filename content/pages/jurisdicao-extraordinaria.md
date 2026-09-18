@@ -25,7 +25,7 @@ Reforçamos que no caso da Igreja Vétero Católica de Jerusalém em Portugal, e
 
 <br><br>
 
-### 1 Método e hierarquia das fontes
+### 1. Método e hierarquia das fontes
 
 Uma demonstração séria deve distinguir quatro planos. O primeiro é o facto histórico: o que determinado Concílio, Papa, sínodo ou comunidade decidiu; que reformas foram promulgadas; que rupturas de comunhão ocorreram; que efeitos pastorais são mensuráveis. O segundo é a avaliação teológica: se esse facto constitui desenvolvimento, prudência discutível, ambiguidade ou ruptura com a tradição recebida. O terceiro é a consequência canónica: se a crise afecta um ofício, uma faculdade, a licitude ou a validade de um acto. O quarto é a aplicação pastoral: o que deve fazer concretamente um ministro ou um fiel.
 
@@ -41,7 +41,7 @@ O argumento é cumulativo. Nenhum episódio isolado prova toda a crise; nenhuma 
 
 <br><br>
 
-### 2 Indefectibilidade e crise nas estruturas da Igreja
+### 2. Indefectibilidade e crise nas estruturas da Igreja
 
 A indefectibilidade significa que a Igreja de Cristo não deixará de existir, não perderá definitivamente a fé e não será vencida pelas portas do inferno. Não significa que cada autoridade, Igreja local, organismo ou maioria eclesiástica seja em todos os tempos preservado de erro grave, abuso ou colapso disciplinar. A própria história refuta essa leitura. A crise ariana atingiu extensos sectores do episcopado; o Grande Cisma do Ocidente produziu obediências concorrentes; sedes ficaram vagas durante perseguições; Igrejas locais sobreviveram sob governos hostis ou sem contacto regular com centros ordinários.
 
@@ -52,7 +52,7 @@ São Vicente de Lérins fornece uma regra de discernimento: conservar aquilo que
 
 <br><br>
 
-### 3 O critério ultrajectino da constituição da Igreja
+### 3. O critério ultrajectino da constituição da Igreja
 
 A eclesiologia do primeiro milénio articula primazia, sinodalidade e integridade da Igreja local. O cânone apostólico 34 exprime esta reciprocidade: os bispos de uma nação reconhecem aquele que é primeiro e nada de maior fazem sem ele, mas o primeiro nada faz sem o consentimento de todos. O cânone 6 de Niceia pressupõe antigas jurisdições regionais; os cânones conciliares mostram uma Igreja ordenada por sedes, sínodos, metropolitas e patriarcados, não por uma administração episcopal imediata de um único bispo sobre todos os fiéis.
 
@@ -63,7 +63,7 @@ A Declaração de Utrecht de 1889 assumiu explicitamente a fé da Igreja antiga 
 
 <br><br>
 
-### 4 Vaticano I como primeira ruptura eclesiológica moderna
+### 4. Vaticano I como primeira ruptura eclesiológica moderna
 
 A constituição Pastor aeternus declarou que o Romano Pontífice possui poder de jurisdição ordinário, imediato e verdadeiramente episcopal sobre todos os pastores e fiéis, não apenas em fé e moral, mas também em disciplina e governo. A constituição acrescenta que esta potestade não prejudica a jurisdição ordinária e imediata dos bispos. A resposta romana é, portanto, que as duas jurisdições coexistem sem absorção.
 
@@ -76,7 +76,7 @@ Por isso, este estudo chama a Vaticano I uma ruptura eclesiológica. Esta é uma
 
 <br><br>
 
-### 5 A crise também no campo anti ultramontano
+### 5. A crise também no campo anti ultramontano
 
 Rejeitar o ultramontanismo não garante fidelidade. A regra da tradição julga Roma, mas julga igualmente Utrecht e cada Igreja local. Esta simetria é essencial: caso contrário, o ultrajectinismo tornar-se-ia simples nacionalismo eclesiástico.
 
@@ -89,7 +89,7 @@ A evolução posterior da União de Utrecht confirmou que o problema não era im
 
 <br><br>
 
-### 6 O modernismo antes de Vaticano II
+### 6. O modernismo antes de Vaticano II
 
 A crise dentro da Igreja Romana é anterior a 1962. Pascendi dominici gregis, de São Pio X, descreveu o modernismo como um sistema capaz de dissolver o dogma na experiência religiosa e de operar no interior das instituições católicas. Humani generis, de Pio XII, voltou a advertir contra relativismo dogmático, falso irenismo e desprezo pela linguagem escolástica e pelas definições recebidas. Mesmo quem discorde de aspectos dessas análises deve reconhecer o facto decisivo: a própria autoridade romana julgava existir uma ameaça doutrinal interna, extensa e organizada.
 
@@ -98,7 +98,7 @@ Isto impede duas simplificações. A primeira é a narrativa progressista segund
 
 <br><br>
 
-### 7 Vaticano II e a mudança de princípio
+### 7. Vaticano II e a mudança de princípio
 
 O Concílio Vaticano II deve ser julgado texto a texto. A crítica tradicionalista perde força quando afirma que cada frase é herética; a defesa conciliar perde força quando chama desenvolvimento a toda a mudança. A pergunta correcta é se existe continuidade de princípio.
 
@@ -115,7 +115,7 @@ Bento XVI reconheceu oficialmente a existência do conflito quando contrapôs, e
 
 <br><br>
 
-### 8 A recepção pós conciliar como prova cumulativa
+### 8. A recepção pós conciliar como prova cumulativa
 
 Depois de 1965, a crise tornou-se visível na vida quotidiana. Paulo VI falou em 1972 do fumo de Satanás que entrara no templo de Deus e descreveu dúvida, incerteza e inquietação. O testemunho não prova a interpretação tradicionalista inteira, mas elimina a tese de que apenas adversários externos perceberam uma perturbação grave.
 
@@ -134,7 +134,7 @@ Fiducia supplicans, de 2023, manteve verbalmente a doutrina do matrimónio e pro
 
 <br><br>
 
-### 9 Definição e verificação da crise
+### 9. Definição e verificação da crise
 
 Por crise eclesial entende-se, neste estudo, uma situação prolongada em que autoridades e estruturas extensas deixam de assegurar de modo fiável a continuidade entre a fé recebida e o ensino, culto, disciplina ou prática que promovem, produzindo simultaneamente conflito sobre os critérios de tradição, enfraquecimento da transmissão e privação espiritual dos fiéis.
 
@@ -152,7 +152,7 @@ A conclusão não é que toda a autoridade contemporânea seja nula nem que todo
 
 <br><br>
 
-### 10 Ordem jurisdição faculdade validade e liceidade
+### 10. Ordem jurisdição faculdade validade e liceidade
 
 O rigor começa pelo vocabulário. A Ordem sagrada imprime carácter e confere capacidade sacramental. A jurisdição ou poder de governo ordena pessoas e actos na sociedade eclesial. Uma faculdade é uma habilitação jurídica para exercer validamente ou licitamente determinado poder em certas matérias. Validade responde à pergunta se o acto sacramental ou jurídico existe; liceidade responde se foi praticado conforme a lei.
 
@@ -163,7 +163,7 @@ O poder ordinário está ligado por lei a um ofício; o poder delegado é conced
 
 <br><br>
 
-### 11 O direito divino e a finalidade da lei eclesiástica
+### 11. O direito divino e a finalidade da lei eclesiástica
 
 Cristo confiou à Igreja a palavra, o sacrifício, o perdão dos pecados e a santificação dos fiéis. A lei eclesiástica existe para ordenar essa missão, não para a tornar impossível. Nenhuma norma humana pode ser interpretada como se o legislador tivesse querido que a falta, corrupção ou inacessibilidade das estruturas ordinárias privasse indefinidamente os fiéis dos meios de salvação.
 
@@ -174,7 +174,7 @@ O mesmo direito reconhece que os fiéis têm direito a receber dos pastores os b
 
 <br><br>
 
-### 12 Necessidade e epikeia na tradição moral
+### 12. Necessidade e epikeia na tradição moral
 
 São Tomás de Aquino ensina que a lei humana é formulada para o que acontece ordinariamente. Se surgir um caso em que observar a letra seja contrário ao bem comum pretendido pelo legislador, não se deve seguir a letra. A epikeia é virtude anexa à justiça porque realiza a intenção superior da lei quando a formulação universal falha num caso excepcional. Na Suma Teológica, I II, questão 96, artigo 6, e II II, questão 120, esta doutrina recebe formulação clássica.
 
@@ -187,7 +187,7 @@ Também é indispensável reconhecer o que a epikeia não faz. Se uma lei apenas
 
 <br><br>
 
-### 13 A necessidade reconhecida pelo direito positivo
+### 13. A necessidade reconhecida pelo direito positivo
 
 O direito romano contemporâneo é aqui testemunho particularmente valioso, embora não seja a única fonte nem a autoridade constitutiva de uma Igreja ultrajectina. As suas normas revelam como uma tradição fortemente hierárquica reconhece que a necessidade altera a aplicação ordinária da lei.
 
@@ -204,7 +204,7 @@ Nenhum destes cânones isoladamente concede uma jurisdição universal a qualque
 
 <br><br>
 
-### 14 Ecclesia supplet em sentido próprio
+### 14. Ecclesia supplet em sentido próprio
 
 O cânone 209 do Código de 1917 e o cânone 144 do Código de 1983 exprimem o instituto técnico da suplência. Os títulos são erro comum e dúvida positiva e provável, de direito ou de facto. Dúvida positiva não é mera ignorância; deve assentar em razões objectivas. Dúvida provável é aquela que um argumento prudente e juridicamente sério torna sustentável, ainda que a opinião contrária seja também provável.
 
@@ -217,7 +217,7 @@ O cânone 144 não deve, contudo, ser transformado numa teoria total. Ele supre 
 
 <br><br>
 
-### 15 O argumento jurídico cumulativo
+### 15. O argumento jurídico cumulativo
 
 A demonstração pode ser formulada como um silogismo alargado.
 
@@ -238,7 +238,7 @@ O carácter inequívoco da conclusão reside nesta convergência. Quem rejeitass
 
 <br><br>
 
-### 16 Critérios objectivos da jurisdição extraordinária
+### 16. Critérios objectivos da jurisdição extraordinária
 
 Para impedir abuso, a necessidade deve ser verificada por critérios cumulativos.
 
@@ -267,7 +267,7 @@ Estes critérios tornam a tese verificável. Não basta que o ministro declare e
 
 <br><br>
 
-### 17 Aplicação por sacramento e por acto
+### 17. Aplicação por sacramento e por acto
 
 No Baptismo, a jurisdição não é requisito de validade. Em necessidade, qualquer pessoa pode baptizar com água, fórmula trinitária e intenção de fazer o que a Igreja faz. A disciplina deve ordenar e registar o acto, mas não pode monopolizar a graça baptismal.
 
@@ -275,13 +275,35 @@ Na Eucaristia, a validade depende essencialmente da Ordem sacerdotal válida, ma
 
 Na Confirmação, o bispo é ministro ordinário. Um presbítero precisa da faculdade prevista pelo direito para conferir validamente no sistema latino. A suplência do cânone 144 estende-se expressamente às faculdades dos cânones 882 e 883. Um bispo validamente consagrado não depende de nova potência sacramental para confirmar, embora o exercício esteja sujeito à ordem eclesial.
 
-Na Penitência, a Ordem é necessária mas não suficiente no direito latino: o cânone 966 exige faculdade para a validade. É aqui que a argumentação deve ser mais disciplinada. Verifica-se primeiro se existe faculdade ordinária ou delegada; depois, faculdade concedida pela própria lei; depois, erro comum ou dúvida positiva e provável; depois, perigo de morte; e só então a argumentação mais ampla de necessidade e missão extraordinária. A faculdade concedida por Francisco aos sacerdotes da FSSPX em 2015 e prolongada em Misericordia et misera, embora ligada a um caso diverso, constitui reconhecimento oficial de que o bem dos penitentes pode justificar uma faculdade ampla apesar de irregularidade institucional.
+Na Penitência, a Ordem é necessária mas não suficiente no direito latino: o cânone 966 exige faculdade para a validade. É aqui que a argumentação deve ser mais disciplinada. Verifica-se primeiro se existe faculdade ordinária ou delegada; depois, faculdade concedida pela própria lei; depois, erro comum ou dúvida positiva e provável; depois, perigo de morte; e só então a argumentação mais ampla de necessidade e missão extraordinária.
+
+O caso da FSSPX deve ser exposto na sua totalidade. Francisco concedeu aos seus sacerdotes, em 2015, faculdade para absolver válida e licitamente durante o Jubileu da Misericórdia. Em *Misericordia et misera*, n.º 12, declarou pessoalmente prolongá-la para além do Jubileu, «até que sejam tomadas novas disposições». A concessão demonstrou oficialmente que o bem dos penitentes podia justificar uma faculdade geral apesar da irregularidade institucional. Não se pode, porém, citar hoje essa concessão como se nada tivesse ocorrido depois.
+
+Em 1 de Julho de 2026, a FSSPX realizou quatro consagrações episcopais sem mandato pontifício. No dia seguinte, o Dicastério para a Doutrina da Fé publicou dois textos diferentes. O decreto declarou que os bispos consagrantes e consagrados tinham incorrido em excomunhão. A nota explicativa foi mais longe: qualificou os ministros da FSSPX como cismáticos e afirmou que a Penitência por eles administrada e o Matrimónio por eles assistido eram inválidos. No foro externo, esta é desde então a posição oficial publicamente comunicada pela Santa Sé e deve ser registada sem subterfúgios.
+
+Outra questão, juridicamente distinta, é saber se a nota produziu validamente a revogação da faculdade papal de 2016. O decreto penal não menciona essa faculdade, não revoga *Misericordia et misera* e não declara inválidas as confissões. A afirmação de invalidade aparece apenas na nota explicativa. Esta não se apresenta como lei, decreto geral executório, rescrito de revogação ou decisão pontifícia, nem invoca aprovação do Papa *in forma specifica*. A expressão de Francisco — «até que sejam tomadas novas disposições» — permitia certamente uma alteração posterior; não dispensa, porém, a identificação da autoridade competente e da forma jurídica pela qual a alteração é efectuada.
+
+É por isso que diversos canonistas contestaram, não a intenção manifestada pelo Dicastério, mas a suficiência jurídica do instrumento. Invocaram os cânones 18, 20 e 21, segundo os quais normas restritivas se interpretam estritamente, a revogação deve ser expressa, directamente incompatível ou resultar de uma reordenação integral da matéria, e, em caso de dúvida, não se presume. Invocaram ainda os cânones 36, 46, 47 e 73: um acto administrativo restritivo recebe interpretação estrita; não cessa apenas porque terminou a autoridade de quem o concedeu; a revogação deve provir de autoridade competente e ser legitimamente comunicada; e, se a concessão for juridicamente qualificada como rescrito ou favor, não é revogada por lei contrária salvo disposição expressa. Finalmente, os artigos 30 e 31 de *Praedicate Evangelium* estabelecem que um Dicastério não pode emitir leis ou decretos gerais com força de lei, nem derrogar prescrições do direito universal, sem aprovação pontifícia *in forma specifica*, e exigem que matérias graves e extraordinárias sejam submetidas ao Romano Pontífice. A nota de 2 de Julho não torna pública essa aprovação.
+
+Há, portanto, duas leituras romanas possíveis. A primeira considera a nota uma «nova disposição» bastante para fazer cessar a faculdade, seja por competência própria do Dicastério, seja por mandato papal pressuposto. A segunda sustenta que uma nota explicativa sem cláusula revogatória e sem aprovação pontifícia específica não pode extinguir uma faculdade concedida pessoalmente por Carta Apostólica. A primeira corresponde ao efeito pretendido e proclamado pela Santa Sé; a segunda possui fundamento textual e canónico sério. O resultado mínimo é uma dúvida positiva e provável de direito. E esse resultado não é irrelevante: o cânone 144 §§1–2 determina precisamente que, na dúvida positiva e provável de direito ou de facto, a Igreja supre a faculdade requerida pelo cânone 966. Assim, mesmo dentro do sistema romano, a declaração de invalidade não encerra automaticamente a questão; pode criar o próprio *dubium iuris* ao qual a lei associa suplência.
+
+Esta conclusão deve permanecer prudente. Não autoriza a afirmar simplesmente que Roma nada retirou, nem torna supérflua a procura de um confessor cuja faculdade seja incontroversa. Demonstra, porém, que também não é exacto afirmar, sem análise, que a concessão de 2016 foi inequivocamente abolida. Para a tese deste estudo, o episódio é particularmente expressivo: quando a própria autoridade produz uma declaração de invalidade por instrumento cuja competência e eficácia são seriamente discutidas, a necessidade dos fiéis e a suplência em dúvida provável deixam de ser hipóteses abstractas.
 
 Na Unção dos Enfermos, qualquer sacerdote a administra validamente. A necessidade e o pedido razoável do fiel têm particular peso, sobretudo quando não há acesso seguro a outro ministro.
 
 Na Ordem, somente um bispo validamente consagrado pode ordenar validamente. O mandato ou licença exigidos pelo direito dizem respeito à ordem e liceidade e podem envolver graves penas, mas não criam o poder sacramental do bispo. Consagrações sem mandato exigem necessidade proporcionalmente extrema, porque afectam a constituição visível da Igreja e podem perpetuar divisões. Não se justificam pela mera utilidade de uma comunidade; exigem risco sério de extinção da sucessão e impossibilidade de solução ordinária.
 
 No Matrimónio, os esposos são ministros na tradição latina, mas a forma canónica e a competência do assistente podem afectar a validade. Devem examinar-se delegação, suplência do cânone 144 aplicada ao cânone 1111 e forma extraordinária do cânone 1116. A assistência irregular não deve ser banalizada, porque a estabilidade do vínculo, a liberdade dos nubentes, os impedimentos e os registos exigem particular diligência.
+
+Há uma consequência prática especialmente importante para os antigos fiéis romanos. Desde *Omnium in mentem*, de 2009, o cânone 1117 já não isenta da forma canónica quem abandonou formalmente a Igreja Romana. Se pelo menos um dos nubentes foi baptizado na Igreja Católica ou nela recebido depois do baptismo, Roma considera-o vinculado à forma canónica mesmo que actualmente professe pertencer a uma Igreja vétero-católica, ortodoxa, protestante ou independente. O abandono, a apostasia, a heresia, o cisma, a excomunhão ou a passagem pública para outra comunhão não eliminam, por si mesmos, essa obrigação.
+
+Consequentemente, se um antigo fiel romano contrair matrimónio perante um ministro desta Igreja, sem delegação romana, sem dispensa válida da forma e sem se verificarem os pressupostos da forma extraordinária do cânone 1116 ou da suplência aplicável, a ordem jurídica romana não reconhecerá o matrimónio originário como válido. Basta que um dos nubentes esteja abrangido pelo cânone 1117. Se a outra parte não for baptizada, deve ainda considerar-se o impedimento de disparidade de culto do cânone 1086; se for baptizada mas pertencer a uma comunhão não romana, aplicam-se também as normas dos matrimónios mistos.
+
+Nos matrimónios mistos, o cânone 1127 §2 permite ao Ordinário local da parte católica dispensar da forma em casos individuais quando graves dificuldades impedem a sua observância e se conserva alguma forma pública de celebração. Esta via não se aplica automaticamente quando ambos os nubentes, embora antigos romanos, continuam a ser juridicamente considerados católicos; em qualquer caso, a dispensa exige recurso prévio à autoridade romana competente e, ordinariamente, as condições do cânone 1125. Para alguém que abandonou Roma e pretende casar numa Igreja independente sem regressar à disciplina romana, a obtenção da dispensa é, na prática, normalmente muito difícil e pode tornar-se praticamente impossível. Não se deve, portanto, construir a segurança dos nubentes sobre a esperança de uma dispensa que provavelmente não será concedida.
+
+A situação é diferente quando nenhum dos nubentes foi alguma vez baptizado na Igreja Católica nem nela recebido. Nesse caso, a forma canónica romana não os vincula. Roma reconhecerá, em princípio, o matrimónio celebrado segundo a forma válida da Igreja ou comunidade a que pertencem, ou segundo a forma civil competente, desde que haja consentimento matrimonial verdadeiro, capacidade para casar e ausência de impedimento dirimente. Se ambos forem baptizados, o matrimónio válido é sacramental; se um ou ambos não forem baptizados, pode existir verdadeiro matrimónio natural. Por isso, fora da presença de um antigo fiel romano, não surge *a priori* o mesmo problema de forma, embora permaneça necessária a investigação de liberdade, consentimento, baptismo, vínculos anteriores e impedimentos.
+
+Deve ainda distinguir-se não reconhecimento originário e impossibilidade definitiva de validação. Um matrimónio que Roma considere nulo por defeito de forma pode posteriormente ser convalidado mediante nova prestação do consentimento em forma canónica, nos termos do cânone 1160, ou ser sanado na raiz pela autoridade competente, nos termos dos cânones 1161 a 1165, se o consentimento perseverar e estiverem preenchidos os demais requisitos. Assim, a formulação exacta não é que Roma jamais o poderá validar, mas que não reconhecerá como válido o vínculo originariamente contraído sem a forma, dispensa ou título extraordinário que o seu direito exige.
 
 Nos actos de governo, a prudência deve ser máxima. Um acto necessário e determinado pode beneficiar de suplência per modum actus. Daí não decorre automaticamente poder para erigir dioceses, julgar universalmente, dissolver vínculos ou criar uma hierarquia paralela ilimitada. Quanto mais o acto se aproxima de legislação, jurisdição judicial estável ou poder sobre terceiros não consentidores, mais forte deve ser o título ordinário.
 
