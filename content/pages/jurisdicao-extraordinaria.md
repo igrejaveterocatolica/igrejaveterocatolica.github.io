@@ -72,6 +72,8 @@ A posição ultrajectina pode, portanto, resumir-se do seguinte modo:
 
 **Vaticano I não é simplesmente um problema disciplinar; representa uma alteração da relação entre primazia, episcopado, conciliaridade e Igreja local.**
 
+<br>
+
 É neste sentido que constitui a primeira grande fase da crise moderna da autoridade.
 
 <br><br>
