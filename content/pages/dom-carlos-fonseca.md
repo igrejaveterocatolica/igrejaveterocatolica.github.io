@@ -34,7 +34,7 @@ A sucessão apostólica integra uma linha principal e três linhas secundárias:
 
 - **Linha Vétero-Católica Polaca** - origem em Utretch, transmissão Brasileira por Bispo Władysław Faron.
 - **Linha Síriaca de Antióquia / Vilatte** — origem síria "Jacobita", Patriarcado de Antióquia; transmissão ocidental por Arcebispo Joseph René Vilatte.
-- **Linha Vétero-Católica** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Bispo Arnold Harris Matthew. 
+- **Linha Vétero-Romana** — tradição Vétero‑Católica / Old Catholic; desenvolvimento Vétero‑Romano; transmissão por Bispo Arnold Harris Matthew. 
 - **Linha Romana/Duarte Costa** — fundador da Igreja Católica Apostólica Brasileira; transmissão por Bispo Salomão Barbosa Ferraz.
 <br><br>
 
