@@ -1,6 +1,6 @@
 ---
 slug: jurisdicao-extraordinaria
-title: jurisdicao-extraordinaria
+title: Jurisdição Extraordinária e a Salvaguarda da Vida Sacramental
 ---
 
 O estudo na página de <a href="/canonicidade.html">canonicidade</a> apresentou duas linhas de defesa. A primeira sustenta a existência de um título próprio de jurisdição, fundado na continuidade histórica da Igreja brasileira, na sucessão do seu governo e no mandato recebido da Fidelitas. A segunda observa que o próprio direito romano contemporâneo, nomeadamente o **cân. 844 do Código de Direito Canónico de 1983**, admite, em condições determinadas, uma realidade sacramental plenamente válida fora da comunhão com Roma.
