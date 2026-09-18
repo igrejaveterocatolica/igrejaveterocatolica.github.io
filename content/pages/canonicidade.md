@@ -246,7 +246,7 @@ administrativamente independente de além-mar”.
 <p>
 A mesma declaração esclarecia que os antigos irmãos continuariam a ser
 considerados espiritualmente unidos, mas <strong>“organizacyjnie
-niezależnych”</strong> — organizacionalmente independentes — e acrescentava
+niezależnych”</strong>, organizacionalmente independentes, e acrescentava
 que a Igreja passava a dispor do seu próprio Conselho da Igreja ou
 Consistório, do seu próprio Seminário e da sua Constituição já existente.
 O comunicado identificava expressamente essa Igreja como o
