@@ -986,21 +986,32 @@ A própria FSSPX afirma que os seus novos bispos não receberam jurisdição ter
 
 Existe ainda uma categoria distinta de movimentos tradicionalistas.
 
-Em vez de se limitarem a justificar actos sacramentais extraordinários, procuram **restaurar uma autoridade suprema da qual voltaria a proceder jurisdição ordinária**.
+Em vez de se limitarem a justificar actos sacramentais extraordinários, procuram **restaurar uma autoridade suprema da qual voltaria a proceder jurisdição ordinária**. Os meios que usam para justificar essa restauração é que tipicamente são de cariz extraordinário. Podemos identificar em linhas gerais dois tipos de justificação: mística e jurídica.
 
-O conclavismo constitui o exemplo mais evidente.
+Vejamos alguns exemplos:
 
-Outros grupos desenvolveram teorias de eleição papal extraordinária, concílio imperfeito ou sucessão pontifícia alternativa.
+* A **Igreja Palmariana** afirma que Clemente Domínguez y Gómez foi eleito diretamente por Cristo em 1978 como Gregório XVII, fazendo decorrer dessa pretensão uma nova sucessão pontifícia. É possivelmente o principal exemplo de uma comunidade restauracionista de cariz místico.
 
-Estas soluções pertencem a uma categoria diferente da presente investigação.
+  <u><a href="https://www.palmarianchurch.org/frequent-questions/">Igreja Palmariana — <i>Frequent Questions</i></a></u>
+
+Os restantes exemplos usam argumentos jurídicos:
+
+* O conclavista **Vatican in Exile** afirma que uma eleição extraordinária produziu David Bawden como Michael I em 1990 e, após a sua morte, Rogelio Martinez como Michael II em 2023.
+
+  <u><a href="https://www.vaticaninexile.com/">Vatican in Exile</a></u>
+
+* O projeto **Unam Sanctam** propõe a reunião de um **Concílio Geral Imperfeito** para restaurar uma cabeça visível da Igreja, da qual voltaria a fluir jurisdição ordinária.
+
+  <u><a href="https://www.unamsanctam.org/pt/home">Unam Sanctam</a></u>
+
+
+Estas soluções pertencem a uma categoria diferente da presente investigação
 
 A sua existência, contudo, revela novamente a percepção comum do problema:
 
 **uma Igreja não pode viver indefinidamente apenas de actos extraordinários sem enfrentar a questão da autoridade ordinária.**
 
-Uma emergência pode prolongar-se.
-
-Mas uma estrutura eclesial estável exige finalmente uma teoria estável do ofício, sucessão e jurisdição.
+Uma emergência pode prolongar-se. Mas uma estrutura eclesial estável exige finalmente uma teoria estável do ofício, sucessão e jurisdição.
 
 <br><br>
 
