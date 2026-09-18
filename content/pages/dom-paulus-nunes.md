@@ -24,7 +24,7 @@ Em pouco tempo tornou-se expoente do catolicismo independente no Brasil e exteri
 
 ### Sucessão Apostólica
 
-A sucessão apostólica integra uma linha principal e três linhas secundárias: <br><br>
+A sucessão apostólica integra uma linha principal e duas linhas secundárias: <br><br>
 
 - **Linha Vétero-Católica Polaca** - origem em Utretch, transmissão Brasileira por Bispo Władysław Faron.
 - **Linha Síriaca de Antióquia / Vilatte** — origem síria "Jacobita", Patriarcado de Antióquia; transmissão ocidental por Arcebispo Joseph René Vilatte.
