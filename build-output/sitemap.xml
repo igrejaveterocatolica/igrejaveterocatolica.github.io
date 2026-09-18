@@ -62,6 +62,12 @@
       </url>
     
       <url>
+        <loc>https://igrejacatolicajerusalem.pt/jurisdicao-extraordinaria.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+      <url>
         <loc>https://igrejacatolicajerusalem.pt/ordem-terceira-de-s-domingos.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
