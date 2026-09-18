@@ -80,15 +80,9 @@ A posição ultrajectina pode, portanto, resumir-se do seguinte modo:
 
 ### 3. A crise dentro da própria resistência anti-ultramontana
 
-A recusa de Vaticano I não garantia, contudo, por si só, fidelidade à Igreja antiga. É precisamente aqui que surge uma segunda fase da crise. 
+A recusa de Vaticano I não garantia, contudo, por si só, fidelidade à Igreja antiga. É precisamente aqui que surge uma segunda fase da crise. A pergunta torna-se: **aqueles que resistiram ao ultramontanismo conservaram sempre o próprio princípio da Tradição em nome do qual tinham resistido?**
 
-A pergunta torna-se:
-
-**aqueles que resistiram ao ultramontanismo conservaram sempre o próprio princípio da Tradição em nome do qual tinham resistido?**
-
-A história posterior da União de Utrecht mostra que a resposta não é simples. Um dos primeiros sinais desta tensão encontra-se em **Arnold Harris Mathew**, uma das origens episcopais da tradição vétero-romana da qual esta Igreja participa. 
-
-Em 29 de dezembro de 1910, Mathew declarou a autonomia da Igreja que governava em Inglaterra e recusou qualquer sujeição jurisdicional aos corpos veterocatólicos continentais. A sua declaração fundamentava a separação numa acusação muito concreta: Utrecht e outros sectores veterocatólicos estariam a alterar doutrina, liturgia e disciplina recebidas.
+A história posterior da União de Utrecht mostra que a resposta não é simples. Um dos primeiros sinais desta tensão encontra-se em **Arnold Harris Mathew**, uma das origens episcopais da tradição vétero-romana da qual esta Igreja participa. Em 29 de dezembro de 1910, Mathew declarou a autonomia da Igreja que governava em Inglaterra e recusou qualquer sujeição jurisdicional aos corpos veterocatólicos continentais. A sua declaração fundamentava a separação numa acusação muito concreta: Utrecht e outros sectores veterocatólicos estariam a alterar doutrina, liturgia e disciplina recebidas.
 
 Mathew menciona, entre outras matérias, mudanças na disciplina sacramental, na confissão, na veneração dos santos e das imagens, nos jejuns e na admissão à Comunhão.
 
