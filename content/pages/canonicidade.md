@@ -946,7 +946,7 @@ A questão é outra:
 
 A experiência e a argumentação de numerosas comunidades tradicionalistas sugerem que não.
 
-Movimentos eclesiológicos profundamente diferentes — **vétero-romanos, FSSPX, Catholic Resistance, SSPV, sedevacantistas e sedeprivacionistas** — desenvolveram, por caminhos distintos, soluções destinadas a assegurar a continuidade do episcopado, do sacerdócio, da celebração da Eucaristia, da Penitência e da restante assistência pastoral em circunstâncias nas quais não fundamentam habitualmente o seu apostolado numa jurisdição territorial ordinária equivalente àquela que normalmente pertence a um bispo residencial ou a um pároco.
+Movimentos eclesiológicos profundamente diferentes: **vétero-romanos, FSSPX, Catholic Resistance, SSPV, sedevacantistas e sedeprivacionistas**, desenvolveram, por caminhos distintos, soluções destinadas a assegurar a continuidade do episcopado, do sacerdócio, da celebração da Eucaristia, da Penitência e da restante assistência pastoral em circunstâncias nas quais não fundamentam habitualmente o seu apostolado numa jurisdição territorial ordinária equivalente àquela que normalmente pertence a um bispo residencial ou a um pároco.
 
 Não significa isto que todas estas comunidades utilizem exatamente a mesma teoria canónica.
 
