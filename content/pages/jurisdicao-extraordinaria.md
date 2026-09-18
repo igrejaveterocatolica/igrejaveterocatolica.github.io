@@ -28,9 +28,9 @@ A resposta sustentada neste estudo é negativa.
 
 <br><br>
 
-### 1. O que se entende por «crise da Igreja»
+### 1. O que se entende por "crise da Igreja"
 
-A expressão «crise da Igreja» deve ser empregada com precisão. Não significa que a Igreja enquanto Corpo de Cristo possa deixar de existir, perder a sua missão divina ou ser vencida definitivamente pelo erro. A indefectibilidade exclui semelhante conclusão. Significa antes que **estruturas eclesiais, autoridades, Igrejas locais e amplos sectores da comunidade cristã podem atravessar períodos prolongados de grave desordem doutrinal, eclesiológica, disciplinar, litúrgica e pastoral**, nos quais a transmissão integral da fé e da ordem recebidas se torna extraordinariamente difícil.
+A expressão "crise da Igreja" deve ser empregada com precisão. Não significa que a Igreja enquanto Corpo de Cristo possa deixar de existir, perder a sua missão divina ou ser vencida definitivamente pelo erro. A indefectibilidade exclui semelhante conclusão. Significa antes que **estruturas eclesiais, autoridades, Igrejas locais e amplos sectores da comunidade cristã podem atravessar períodos prolongados de grave desordem doutrinal, eclesiológica, disciplinar, litúrgica e pastoral**, nos quais a transmissão integral da fé e da ordem recebidas se torna extraordinariamente difícil.
 
 Seria, por isso, teologicamente mais rigoroso falar de uma **crise na Igreja e nas suas estruturas históricas**, embora por brevidade se utilize também a expressão tradicional "crise da Igreja". Esta crise não é definida primariamente pelo número de abusos disciplinares, pela indignidade pessoal dos ministros, por preferências litúrgicas ou pela simples existência de desacordo com determinada autoridade.
 
