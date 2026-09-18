@@ -1125,7 +1125,7 @@ Igreja dos Velhos Católicos do Brasil — memória histórica dos Primazes
 
 
 
-<center><img src="/img/his_beatitude_dom_paulus_nunes.png" height=400px><br>Sua Beatitude, Dom Paulus Nunes, Patriarca dos Vétero Católicos Fidelitas e de Jerusalém no Brasil e Exterior</center> <br>
+<center><img src="/img/his_beatitude_dom_paulus_nunes.png" height=243px><br>Sua Beatitude, Dom Paulus Nunes, Patriarca dos Vétero Católicos Fidelitas e de Jerusalém no Brasil e Exterior</center> <br>
 
 
 
