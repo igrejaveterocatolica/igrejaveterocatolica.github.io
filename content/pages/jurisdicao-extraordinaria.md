@@ -220,3 +220,5 @@ Estes princípios assumem especial relevância nos atos para os quais, além do 
 A jurisdição extraordinária não constitui originariamente a Fidelitas, não produz a sua sucessão de governo e não substitui o mandato português. Também não necessita de o fazer, porque a nossa posição principal é que esses títulos já existem. A sua função é outra: **oferecer uma garantia canónica subsidiária de continuidade e eficácia sacramental enquanto perdurar a situação extraordinária da Igreja**, especialmente quando sejam levantadas dúvidas acerca de atos concretos ou das faculdades necessárias para os praticar.
 
 As três linhas convergem, assim, numa conclusão pastoralmente segura: a Igreja reivindica jurisdição ordinária por título próprio; a experiência da PNCC demonstra que uma Igreja separada de Roma pode possuir verdadeira realidade sacramental e faculdades eclesiais próprias; e, mesmo perante contestação ou dúvida, o estado de necessidade e os mecanismos extraordinários reconhecidos pela tradição canónica impedem que os fiéis sejam abandonados ou privados da confiança moral na validade dos sacramentos que recebem.
+
+<br><br> <br><br>
