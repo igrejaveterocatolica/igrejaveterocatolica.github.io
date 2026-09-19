@@ -18,6 +18,8 @@ O estudo sustenta duas conclusões. A primeira é que existe uma crise eclesial 
 
 A segunda conclusão é jurídica e pastoral. Uma crise desta natureza pode produzir verdadeira necessidade espiritual: os fiéis ficam física ou moralmente privados de pastores que lhes transmitam integralmente a fé e lhes ministrem os sacramentos segundo a tradição recebida. Quando essa necessidade é grave, objectiva e persistente, a tradição católica não obriga a que a missão sacramental cesse. Pelo contrário, o direito divino, a equidade, a finalidade salvífica da lei, as faculdades concedidas pelo próprio direito e a suplência da Igreja convergem para conferir um título extraordinário real, limitado aos actos necessários ao bem das almas.
 
+Importa formular desde já uma consequência central deste estudo. **A disponibilidade meramente física de um ministro dotado de jurisdição ordinária não elimina o estado de necessidade quando o recurso a esse ministro é moralmente imprudente por expor o fiel a grave perigo para a fé, a moral ou a vida sacramental.** A tradição canónica reconhece que uma pessoa pode estar não apenas fisicamente, mas também moralmente impossibilitada de recorrer ao ministro ordinário. Portanto, se a crise é suficientemente grave e generalizada para que a assistência ordinária já não possa ser procurada com segurança de consciência e sem sério risco de assimilação de doutrina, moral ou culto contrários à tradição recebida, **esse ministro deve considerar-se, para efeitos da necessidade, moralmente indisponível**. O fiel não está obrigado a colocar a sua fé em perigo para satisfazer a forma ordinária da disciplina e pode procurar assistência sacramental junto de outro ministro validamente ordenado, idóneo e fiel à tradição. Nos sacramentos em que a validade exige, além da Ordem, uma faculdade positiva, essa faculdade deve provir do título extraordinário concretamente aplicável: da própria lei, da suplência da Igreja, da dúvida positiva e provável, do perigo de morte ou, nos casos extremos em que os canais ordinários deixaram efectivamente de cumprir a sua finalidade, da missão extraordinária da Igreja para o bem das almas.
+
 Esta conclusão não significa que a palavra crise produza, por si só, uma diocese, um tribunal universal ou uma jurisdição territorial ordinária. Também não significa que todo o acto praticado por qualquer clérigo independente seja válido ou lícito. Significa algo mais preciso e mais sólido: onde a ordem comum deixou de proporcionar efectivamente os bens espirituais que existe para servir, e onde se verificam os requisitos objectivos da necessidade, a Igreja quer suprir o que humanamente falta para os actos necessários. A jurisdição extraordinária não nasce da vontade privada do ministro. Nasce da missão da Igreja, da necessidade dos fiéis e da vontade jurídica da própria Igreja, interpretada segundo a sua lei suprema, a salvação das almas.
 
 Reforçamos que no caso da Igreja Vétero Católica de Jerusalém em Portugal, esta argumentação permanece subsidiária. A tese principal continua a ser a existência de jurisdição ordinária por título próprio, fundada na continuidade histórica da Igreja brasileira de matriz polaco nacional, na sucessão do seu governo e no mandato eclesiástico recebido da Fidelitas. A jurisdição extraordinária não cria essa continuidade nem a substitui. Demonstra, porém, que uma dúvida concreta sobre algum elemento do título ordinário não autoriza a conclusão de que toda a vida sacramental seja inválida ou ilegítima.
@@ -150,6 +152,8 @@ Os elementos estão presentes. A controvérsia sobre a primazia vem desde 1870 e
 
 A conclusão não é que toda a autoridade contemporânea seja nula nem que todos os fiéis estejam obrigados a aderir à mesma explicação da crise. É que existe base objectiva suficiente para formar certeza moral de uma desordem eclesial extraordinária. Essa certeza é bastante para passar à questão jurídica: que sucede quando o sistema ordinário já não oferece, sem sério perigo para a fé, os bens espirituais que existe para proporcionar?
 
+A resposta que orienta a Parte II deve ser explicitada desde já. **Quando recorrer à estrutura ordinária implica, segundo um juízo prudente fundado em razões objectivas, grave perigo para a conservação da fé, essa estrutura tornou-se moralmente inacessível para o fiel concreto.** A existência material de igrejas, sacerdotes e sacramentos nas proximidades não destrói a necessidade se a sua utilização habitual exigir exposição séria ao erro doutrinal, moral ou litúrgico que precisamente constitui a crise demonstrada. Neste sentido, um confessor fisicamente próximo mas moralmente inacessível não elimina o estado de necessidade mais do que eliminaria um confessor situado num lugar que o fiel não pudesse alcançar.
+
 
 <br><br>
 
@@ -205,6 +209,8 @@ O cânone 1323 exclui pena quando alguém age por necessidade ou grave incómodo
 
 O cânone 844 vai ainda mais longe como testemunho eclesiológico. Permite que, em necessidade ou verdadeira vantagem espiritual, um católico fisicamente ou moralmente impossibilitado de procurar ministro católico receba Penitência, Eucaristia e Unção de ministros não católicos de Igrejas nas quais esses sacramentos são válidos, afastado o perigo de erro ou indiferentismo. A norma mostra que a comunhão jurídica imperfeita não extingue o valor dos sacramentos nem o dever de atender à necessidade espiritual.
 
+Este reconhecimento da impossibilidade moral possui importância decisiva. **O direito não identifica disponibilidade sacramental com mera proximidade física.** Um ministro pode existir, celebrar publicamente e encontrar-se geograficamente próximo e, apesar disso, não constituir uma alternativa moralmente acessível para determinado fiel. Se o recurso a esse ministro implicar exposição grave e habitual a doutrina, disciplina ou culto que a consciência católica prudentemente formada julga contrário à fé recebida, a impossibilidade é real ainda que não seja material. É precisamente por isso que a objecção «há uma paróquia próxima, logo não existe necessidade» é insuficiente. A pergunta canonicamente relevante é se existe **acesso seguro e moralmente possível** aos bens espirituais, e não simplesmente se existe um ministro dentro de determinada distância geográfica.
+
 Nenhum destes cânones isoladamente concede uma jurisdição universal a qualquer ministro. Em conjunto, demonstram um princípio indisputável: a ordem canónica foi construída para ceder, suprir ou alargar faculdades quando a sua aplicação ordinária frustraria o bem espiritual que protege.
 
 
@@ -250,7 +256,7 @@ Para impedir abuso, a necessidade deve ser verificada por critérios cumulativos
 
 1. Deve existir necessidade espiritual grave, não mera preferência estética, conveniência ou hostilidade pessoal.
 
-2. A assistência ordinária deve ser física ou moralmente inacessível. A impossibilidade moral existe quando recorrer ao ministro disponível exporia razoavelmente o fiel a doutrina gravemente errónea, culto contrário à consciência católica formada, escândalo sério ou abandono da tradição.
+2. A assistência ordinária deve ser física ou moralmente inacessível. A impossibilidade moral existe quando recorrer ao ministro disponível exporia razoavelmente o fiel a doutrina gravemente errónea, culto contrário à consciência católica formada, escândalo sério ou abandono da tradição. **Nessas circunstâncias, a proximidade física do ministro não destrói a necessidade: para efeitos do dever de procurar assistência sacramental ordinária, ele encontra-se moralmente indisponível. O fiel não é obrigado a pôr em grave risco a própria fé ou a formação cristã da sua família para poder receber os sacramentos.**
 
 3. O bem procurado deve ser necessário ou muito importante: perdão sacramental, Eucaristia, Unção, Matrimónio, Confirmação, formação cristã, sepultura e governo mínimo da comunidade.
 
@@ -282,6 +288,10 @@ Na Eucaristia, a validade depende essencialmente da Ordem sacerdotal válida, ma
 Na Confirmação, o bispo é ministro ordinário. Um presbítero precisa da faculdade prevista pelo direito para conferir validamente no sistema latino. A suplência do cânone 144 estende-se expressamente às faculdades dos cânones 882 e 883. Um bispo validamente consagrado não depende de nova potência sacramental para confirmar, embora o exercício esteja sujeito à ordem eclesial.
 
 Na Penitência, a Ordem é necessária mas não suficiente no direito latino: o cânone 966 exige faculdade para a validade. É aqui que a argumentação deve ser mais disciplinada. Verifica-se primeiro se existe faculdade ordinária ou delegada; depois, faculdade concedida pela própria lei; depois, erro comum ou dúvida positiva e provável; depois, perigo de morte; e só então a argumentação mais ampla de necessidade e missão extraordinária.
+
+Deve acrescentar-se, porém, uma consequência pastoral decisiva. **Se a crise eclesial generalizada torna moralmente imprudente o recurso habitual aos confessores da estrutura ordinária, não é razoável responder ao fiel que a necessidade não existe simplesmente porque há sacerdotes fisicamente disponíveis.** Um confessor cuja assistência não possa ser procurada sem sério perigo para a integridade da fé é, nesse sentido, moralmente inacessível. O fiel pode legitimamente procurar outro sacerdote validamente ordenado que ofereça assistência sacramental conforme à fé recebida.
+
+A questão seguinte já não é, portanto, se o fiel tinha obrigação de procurar o confessor moralmente inacessível, mas **qual o título que fornece ao segundo sacerdote a faculdade necessária para absolver validamente**. É aqui que operam, conforme o caso, a faculdade ordinária ou delegada própria desta Igreja, a faculdade concedida pela lei, a suplência em erro comum ou dúvida positiva e provável, o perigo de morte ou, no limite de uma crise extraordinária que torne persistentemente inoperantes os canais ordinários, a missão extraordinária da Igreja para que o perdão sacramental não se torne moralmente inacessível aos fiéis. O estado de necessidade não transforma a Ordem em jurisdição universal; mas impede igualmente que a falta ou inacessibilidade do canal ordinário seja utilizada para tornar impossível aquilo que a Igreja recebeu de Cristo para a salvação das almas.
 
 O caso da FSSPX deve ser exposto na sua totalidade. Francisco concedeu aos seus sacerdotes, em 2015, faculdade para absolver válida e licitamente durante o Jubileu da Misericórdia. Em *Misericordia et misera*, n.º 12, declarou pessoalmente prolongá-la para além do Jubileu, «até que sejam tomadas novas disposições». A concessão demonstrou oficialmente que o bem dos penitentes podia justificar uma faculdade geral apesar da irregularidade institucional. Não se pode, porém, citar hoje essa concessão como se nada tivesse ocorrido depois.
 
@@ -328,7 +338,9 @@ Quarta objecção. Uma necessidade que dura décadas deixa de ser extraordinári
 
 Quinta objecção. O ministério independente é necessariamente cismático. Resposta: cisma exige recusa culpável da comunhão e da autoridade legítima, não simples separação material nem resistência fundada. A perspectiva ultrajectina não reconhece como divinamente necessária a submissão à jurisdição universal definida em 1870. Além disso, a tradição distingue desobediência, irregularidade, censura e cisma. A intenção de conservar fé, sacramentos e unidade segundo a constituição antiga é incompatível com a vontade de fundar uma religião privada.
 
-Sexta objecção. Os fiéis podem procurar paróquias romanas, ortodoxas ou de Utrecht; não há necessidade. Resposta: a impossibilidade canónica pode ser moral. Se a assistência disponível exigir participação habitual em doutrina, moral ou culto que a consciência católica prudentemente julga contrário à tradição, o simples facto de existir um edifício próximo não elimina a necessidade. O próprio cânone 844 reconhece impossibilidade moral como categoria relevante.
+Sexta objecção. Os fiéis podem procurar paróquias romanas, ortodoxas ou de Utrecht; não há necessidade. Resposta: esta objecção confunde disponibilidade física com disponibilidade moral. A impossibilidade canónica pode ser moral. **Se recorrer habitualmente à assistência disponível expõe prudentemente o fiel, os seus filhos ou a sua família a doutrina, moral ou culto que existem razões graves e objectivas para considerar contrários à tradição católica recebida, esse recurso deixa de constituir uma alternativa moralmente exigível.** O simples facto de existir uma igreja próxima, um sacerdote ordenado ou uma celebração sacramental acessível geograficamente não elimina a necessidade. O próprio direito romano reconhece a impossibilidade moral como categoria relevante.
+
+Consequentemente, quando a crise é generalizada e precisamente as estruturas ordinárias estão envolvidas na desordem que produz o perigo para a fé, **não se pode exigir ao fiel que procure primeiro essas mesmas estruturas e comprometa prudentemente a sua fé para só depois se admitir a existência da necessidade.** Um ministro fisicamente disponível mas moralmente inacessível deve considerar-se indisponível para efeitos da necessidade pastoral. Nessas circunstâncias, o fiel pode procurar um ministro validamente ordenado, doutrinalmente seguro e apto a prestar a assistência necessária, sem que essa escolha constitua mera preferência ou espírito de separação.
 
 Sétima objecção. O critério da tradição conduz ao juízo privado. Resposta: todo o discernimento envolve juízo, inclusive a decisão de obedecer. O antídoto não é obediência cega, mas critérios públicos: Escritura, Padres, Concílios recebidos, liturgia histórica, cânones e consenso moral. O juízo permanece falível e deve ser sinodal, documentado e corrigível.
 
@@ -351,6 +363,31 @@ A crise da FSSPX em 2026 tornou estas distinções ainda mais claras. Depois de 
 
 Para a tese ultrajectina, o episódio não é fundamento de jurisdição; é um teste de coerência. Uma faculdade concedida pelo Papa pode ser alterada por acto posterior competente. Quem pretenda continuar depois disso precisa de demonstrar outro título real e não apenas repetir a concessão anterior. A controvérsia confirma a necessidade de analisar cada acto e de não transformar emergência em slogan.
 
+#### Nota sobre grupos Restauracionistas
+
+Outros grupos respondem a uma questão diferente: não procuram apenas justificar atos sacramentais numa situação extraordinária, mas constituir, identificar ou restaurar uma autoridade suprema da qual voltaria a proceder jurisdição ordinária. Existem essencialmente dois tipos de argumentos: jurídico e místico. Devem por isso ser mencionados separadamente:
+
+
+* A Igreja Palmariana afirma que Clemente Domínguez y Gómez foi eleito diretamente por Cristo em 1978 como Gregório XVII, fazendo decorrer dessa pretensão uma nova sucessão pontifícia.
+
+É um exemplo de um grupo que recorre argumentos místicos para justificar a restauração de uma jurisdição ordinária plena no âmbito antimodernista.
+
+  <u><a href="https://www.palmarianchurch.org/frequent-questions/">Igreja Palmariana — <i>Frequent Questions</i></a></u>
+
+Em seguida apresentamos duas abordagens que usam argumentos do foro jurídico-canónico:
+
+* O conclavista Vatican in Exile afirma que uma eleição extraordinária produziu David Bawden como Michael I em 1990 e, após a sua morte, Rogelio Martinez como Michael II em 2023.
+
+  <u><a href="https://www.vaticaninexile.com/">Vatican in Exile</a></u>
+
+* O projeto Unam Sanctam propõe a reunião de um Concílio Geral Imperfeito para restaurar uma cabeça visível da Igreja, da qual voltaria a fluir jurisdição ordinária.
+
+  <u><a href="https://www.unamsanctam.org/pt/home">Unam Sanctam</a></u>
+
+
+A validade destas pretensões não precisa de ser resolvida aqui. Elas pertencem a uma categoria distinta: procuram restaurar a normalidade jurisdicional, enquanto a presente linha estuda mecanismos extraordinários na sua ausência ou contestação.
+
+A relevância desta nota está em mostrar que a crise de jurisdição pode receber duas respostas distintas: restaurar primeiro uma autoridade ordinária suprema ou justificar a continuidade sacramental por vias extraordinárias enquanto essa autoridade permanece ausente ou contestada. A presente investigação segue a segunda via, mas a existência dessas propostas confirma que o problema da origem e continuidade da jurisdição é real e reconhecido por correntes muito diferentes.
 
 <br><br>
 
@@ -374,7 +411,13 @@ Se alguém levantar dúvida positiva e juridicamente fundada sobre a extensão d
 
 No contexto demonstrado, os fiéis que procuram esta Igreja não o fazem apenas por proximidade. Procuram continuidade de fé, moral, culto e disciplina que julgam gravemente ameaçada em estruturas romanas e veterocatólicas contemporâneas. A impossibilidade é, em muitos casos, moral: receber os sacramentos noutro lugar implicaria submeter a formação da família e da consciência a princípios considerados contrários à Igreja antiga.
 
+Esta conclusão deve ser tomada no seu sentido pleno. **Se esse perigo é grave, objectivo e suficientemente generalizado, a existência física de confessores ou outros ministros pertencentes às estruturas ordinárias não elimina a necessidade.** Não seria coerente demonstrar primeiro que a crise compromete de modo profundo e institucional a transmissão da fé e exigir depois que o fiel recorra precisamente às estruturas afectadas por essa crise como condição para poder invocar necessidade. A prudência sobrenatural não obriga a procurar os sacramentos por um caminho que exponha seriamente a fé ao dano que se pretende evitar.
+
+Assim, para o fiel que, por razões objectivas e prudentemente avaliadas, não pode recorrer em segurança de consciência à assistência sacramental ordinária, **a situação é canonicamente análoga, quanto à necessidade, à ausência prática de ministro acessível**. Ele pode procurar assistência junto dos ministros desta Igreja ou de outro ministro católico validamente ordenado e seguro na fé. A questão jurídica subsequente consiste apenas em determinar qual o título de faculdade aplicável ao acto concreto; não em negar a necessidade pelo simples facto de existir materialmente outro sacerdote.
+
 Quando estes fiéis pedem os sacramentos a ministros validamente ordenados de uma comunidade histórica, existe um bem espiritual objectivo, um pedido livre, uma aparência pública de missão e, ao menos, dúvida positiva e provável sobre a extensão de faculdades contestadas. A Igreja não pode querer que o fiel perca o sacramento por uma controvérsia que ele não tem meios de resolver. Nos actos abrangidos pelo cânone 144 ou por institutos análogos, a suplência opera em favor das almas; nos actos cuja validade provém da Ordem, a necessidade sustenta a liceidade extraordinária; nos casos de perigo ou grave incómodo, aplicam-se as faculdades que o próprio direito reconhece.
+
+No caso da Penitência, isto significa concretamente que o fiel não está obrigado a recorrer a um confessor moralmente inacessível para evitar uma suposta falta de necessidade; estabelecida a impossibilidade moral, pode procurar outro sacerdote idóneo, devendo a validade da absolvição ser fundada na faculdade ordinária ou extraordinária que opere no caso.
 
 Isto permite uma formulação forte: deixando em suspenso, apenas para argumentar, o título ordinário reivindicado, existe título extraordinário suficiente para os actos sacramentais necessários sempre que se verifiquem concretamente os critérios de necessidade, idoneidade, pedido dos fiéis, proporcionalidade e faculdade positiva aplicável. Não é lícito concluir da contestação institucional para a invalidade global.
 
@@ -403,6 +446,10 @@ Desta crise não decorre automaticamente qualquer poder. Decorre a necessidade d
 Por isso, a jurisdição extraordinária é certa no seu princípio e delimitada no seu exercício. É certa porque a Igreja não pode abandonar as almas quando falham os meios ordinários. É delimitada porque só alcança o que a necessidade exige e não cria, por si, um ofício ordinário. Esta dupla afirmação evita tanto o legalismo que deixaria os fiéis sem sacramentos como a anarquia que permitiria a qualquer pessoa declarar-se autoridade.
 
 Aplicada à Igreja Vétero Católica de Jerusalém em Portugal, a conclusão é a seguinte. A jurisdição ordinária por continuidade histórica e mandato próprio permanece a tese principal. Subsidiariamente, se uma faculdade concreta for seriamente contestada, a crise objectiva, a necessidade dos fiéis, o carácter público e estável do ministério, a Ordem válida e os títulos de suplência ou faculdade previstos pela tradição fornecem jurisdição extraordinária para os actos necessários. A contestação de um título não equivale à inexistência de todos os títulos; a irregularidade alegada não equivale a invalidade universal; e a dúvida jurídica não deve ser convertida em terror sacramental.
+
+Deve, finalmente, afastar-se uma possível ambiguidade. **A crise demonstrada neste estudo não é compatível com a resposta simplista segundo a qual não existe estado de necessidade porque continuam a existir igrejas, bispos, sacerdotes e confessores dotados de jurisdição ordinária.** Se essas mesmas estruturas participam objectivamente da crise e o recurso a elas expõe o fiel a sério perigo de deformação da fé, da moral, do culto ou da formação cristã da família, a sua disponibilidade física não constitui disponibilidade moral. Para o fiel que prudentemente não pode recorrer-lhes, é como se não existisse, para aquele efeito concreto, um ministro ordinário acessível.
+
+Daqui decorre uma consequência prática directa. **O fiel não tem obrigação de comprometer prudentemente a sua fé para receber um sacramento de um ministro ordinariamente competente. Pode procurar um ministro validamente ordenado e fiel à tradição.** Nos actos em que a Ordem basta para a validade, a necessidade justifica o exercício extraordinário nos limites indicados. Nos actos que exigem também faculdade, como a Penitência e determinadas formas de assistência matrimonial, a Igreja fornece essa faculdade pelo título concretamente aplicável — ordinário, delegado, legal, suprido ou extraordinário — porque a lei e a jurisdição existem para tornar possível a missão sacramental da Igreja, não para a extinguir precisamente quando os canais normais se tornaram moralmente inacessíveis.
 
 A lei existe para a graça, a autoridade para a verdade e a jurisdição para o cuidado das almas. Quando o funcionamento ordinário deixa de realizar esses fins, a própria tradição da Igreja abre o caminho extraordinário necessário para que a missão de Cristo não seja interrompida.
 
