@@ -476,38 +476,38 @@ A lei existe para a graça, a autoridade para a verdade e a jurisdição para o 
 
 9. Pio XII, Humani generis, 12 de Agosto de 1950, https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
 
-10. Concílio Vaticano II, Lumen gentium, Dignitatis humanae, Unitatis redintegratio, Nostra aetate e Sacrosanctum concilium, https://www.vatican.va/archive/hist_councils/ii_vatican_council/
+10. <a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/">Concílio Vaticano II, Lumen gentium, Dignitatis humanae, Unitatis redintegratio, Nostra aetate e Sacrosanctum concilium</a>
 
 11. Paulo VI, Homilia de 29 de Junho de 1972, https://www.vatican.va/content/paul-vi/it/homilies/1972/documents/hf_p-vi_hom_19720629.html
 
-12. Bento XVI, Discurso à Cúria Romana, 22 de Dezembro de 2005, https://www.vatican.va/content/benedict-xvi/en/speeches/2005/december/documents/hf_ben_xvi_spe_20051222_roman-curia.html
+12. <a href="https://www.vatican.va/content/benedict-xvi/en/speeches/2005/december/documents/hf_ben_xvi_spe_20051222_roman-curia.html">Bento XVI, Discurso à Cúria Romana, 22 de Dezembro de 2005</a>
 
-13. Comissão Internacional Mista para o Diálogo Teológico entre a Igreja Católica Romana e a Igreja Ortodoxa, Synodality and Primacy in the Second Millennium and Today, Alexandria, 2023, https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/document-d-alexandrie---synodalite-et-primaute-au-deuxieme-mille.html
+13. <a href="https://www.christianunity.va/content/unitacristiani/en/dialoghi/sezione-orientale/chiese-ortodosse-di-tradizione-bizantina/commissione-mista-internazionale-per-il-dialogo-teologico-tra-la/documenti-di-dialogo/document-d-alexandrie---synodalite-et-primaute-au-deuxieme-mille.html">Comissão Internacional Mista para o Diálogo Teológico entre a Igreja Católica Romana e a Igreja Ortodoxa, Synodality and Primacy in the Second Millennium and Today, Alexandria, 2023</a>
 
 14. Código de Direito Canónico de 1917, especialmente cânones 188 §4 e 209.
 
 15. Código de Direito Canónico de 1983, especialmente cânones 10, 14, 17 a 19, 129 a 144, 213, 843 a 844, 966, 976, 986, 1079 a 1080, 1111, 1116, 1323 a 1324, 1335, 1357 e 1752, https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html
 
-16. Francisco, Mitis Iudex Dominus Iesus, 15 de Agosto de 2015, https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html
+16. <u><a href="https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html">Francisco, Mitis Iudex Dominus Iesus, 15 de Agosto de 2015</a></u>
 
-17. Francisco, Amoris laetitia, 19 de Março de 2016, https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html
+17. <a href="https://www.vatican.va/content/francesco/pt/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html">Francisco, Amoris laetitia, 19 de Março de 2016</a>
 
-18. Francisco, Misericordia et misera, 20 de Novembro de 2016, n.º 12, https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html
+18. <a href="https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html">Francisco, Misericordia et misera, 20 de Novembro de 2016, n.º 12</a>
 
-19. Pontifícia Comissão Ecclesia Dei, Carta sobre faculdades matrimoniais para fiéis da FSSPX, 27 de Março de 2017, https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/04/04/170404d.html
+19. <a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2017/04/04/170404d.html">Pontifícia Comissão Ecclesia Dei, Carta sobre faculdades matrimoniais para fiéis da FSSPX, 27 de Março de 2017</a>
 
-20. Santa Sé, Declaração sobre o Caminho Sinodal alemão, 21 de Julho de 2022, https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/07/21/220721e.html
+20. <a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/07/21/220721e.html">Santa Sé, Declaração sobre o Caminho Sinodal alemão, 21 de Julho de 2022</a>
 
-21. Dicastério para a Doutrina da Fé, Fiducia supplicans, 18 de Dezembro de 2023, https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231218_fiducia-supplicans_en.html
+21. <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231218_fiducia-supplicans_en.html">Dicastério para a Doutrina da Fé, Fiducia supplicans, 18 de Dezembro de 2023</a>
 
-22. Leão XIV, Carta ao Superior Geral da FSSPX, 29 de Junho de 2026, https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/06/30/260630b.html
+22. <a href="https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/06/30/260630b.html">Leão XIV, Carta ao Superior Geral da FSSPX, 29 de Junho de 2026</a>
 
-23. Dicastério para a Doutrina da Fé, Decreto e Nota explicativa sobre a FSSPX, 2 de Julho de 2026, https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260702_decreto-scomunica-fsspx_it.html e https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260702_nota-esplicativa-fsspx_it.html
+23. Dicastério para a Doutrina da Fé, <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260702_decreto-scomunica-fsspx_it.html">Decreto</a> e <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260702_nota-esplicativa-fsspx_it.html">Nota explicativa</a> sobre a FSSPX, 2 de Julho de 2026
 
-24. Arnold Harris Mathew, Declaration of Autonomy, 1910, https://www.oldromancatholic.org.uk/beliefs/declaration-of-autonomy
+24. <a href="https://www.oldromancatholic.org.uk/beliefs/declaration-of-autonomy">Arnold Harris Mathew, Declaration of Autonomy, 1910</a>
 
-25. União de Scranton, Declaration of Scranton, https://theunionofscranton.org/declarationofscranton/
-
+25. <a href="https://theunionofscranton.org/declarationofscranton/
+">União de Scranton, Declaration of Scranton</a>
 
 <br><br>
 
