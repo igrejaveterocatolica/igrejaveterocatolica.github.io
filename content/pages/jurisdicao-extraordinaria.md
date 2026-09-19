@@ -4,7 +4,7 @@ title: Crise eclesial, necessidade e jurisdição extraordinária
 ---
 ### Uma defesa tradicionalista e ultrajectina da continuidade sacramental para o bem das almas
 
-<center><img src="/img/la-salette.png"><br>Aparição de La Salette 23 anos antes do Concílio Vaticano I</center><br>
+<center><img src="/img/la-salette.png"><br>Aparições de Nossa Senhora de La Salette, 23 anos antes do Concílio Vaticano I.</center><br>
 
 ### Introdução
 
