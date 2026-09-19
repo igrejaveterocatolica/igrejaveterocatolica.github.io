@@ -551,9 +551,9 @@ A lei existe para a graça, a autoridade para a verdade e a jurisdição para o 
 
 44. John P. Beal, James A. Coriden e Thomas J. Green, editores, New Commentary on the Code of Canon Law, comentários aos cânones 19, 144, 213, 843, 966, 976, 1116 e 1752.
 
-45. Izydor Sadowski, Polski Narodowy Kościół Katolicki wewnętrzne i zewnętrzne warunki jego rozwoju, Seminare 7, 1985, páginas 177 a 220, https://czasopisma.uksw.edu.pl/index.php/s/article/view/12999
+45. <a href="https://czasopisma.uksw.edu.pl/index.php/s/article/view/12999">Izydor Sadowski, Polski Narodowy Kościół Katolicki wewnętrzne i zewnętrzne warunki jego rozwoju, Seminare 7, 1985, páginas 177 a 220</a>
 
-46. Pew Research Center, Religion in Europe 2010 to 2020, 2025, https://www.pewresearch.org/religion/2025/06/09/religion-in-europe/
+46. <a href="https://www.pewresearch.org/religion/2025/06/09/religion-in-europe/">Pew Research Center, Religion in Europe 2010 to 2020, 2025</a>
 
 
 <br><br>
@@ -570,9 +570,9 @@ A lei existe para a graça, a autoridade para a verdade e a jurisdição para o 
 
 51. Nicolás E. Despósito, The Little Catechism on the Thesis, https://thethesis.us/articles/little-catechism/
 
-52. Sodalitium, número 52, dossier sobre a comissão canónica e os tribunais da FSSPX, https://www.sodalitium.biz/sodalitium_pdf/52.pdf
+52. <a href="https://www.sodalitium.biz/sodalitium_pdf/52.pdf">Sodalitium, número 52, dossier sobre a comissão canónica e os tribunais da FSSPX</a>
 
-53. Canonical Old Roman Catholic Clerical Directory, Canonical Liceity, https://oldromancatholicdirectory.com/canonical-liceity/
+53. <a href="https://oldromancatholicdirectory.com/canonical-liceity/">Canonical Old Roman Catholic Clerical Directory, Canonical Liceity</a>
 
 <br><br><br><br>
 
