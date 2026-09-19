@@ -4,7 +4,7 @@ title: Crise eclesial, necessidade e jurisdição extraordinária
 ---
 ### Uma defesa tradicionalista e ultrajectina da continuidade sacramental para o bem das almas
 
-<br><br>
+<img src="/img/la-salette.png"><br>
 
 ### Introdução
 
