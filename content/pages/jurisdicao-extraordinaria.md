@@ -326,7 +326,7 @@ Nos actos de governo, a prudência deve ser máxima. Um acto necessário e deter
 
 <br><br>
 
-### 18 Objecções principais
+### 18. Objecções principais
 
 Primeira objecção. O cânone 144 menciona apenas erro comum e dúvida positiva e provável, não necessidade. Resposta: é verdade, e por isso necessidade e suplência não devem ser confundidas. A necessidade faz cessar ou flexibiliza certas obrigações e cria o caso que requer protecção; a faculdade positiva vem do cânone 144 quando há erro ou dúvida, de outras normas quando há perigo ou grave incómodo, ou do princípio superior da missão da Igreja nos casos extremos não previstos. O argumento é cumulativo, não uma leitura extensiva arbitrária de um único cânone.
 
@@ -349,7 +349,7 @@ Oitava objecção. A tese permite tribunais e estruturas paralelas ilimitadas. R
 
 <br><br>
 
-### 19 O testemunho comparativo das escolas tradicionalistas
+### 19. O testemunho comparativo das escolas tradicionalistas
 
 A tradição vétero romana, a FSSPX, a Resistência, a SSPV, o sedevacantismo e o sedeprivacionismo discordam em pontos fundamentais. A convergência entre elas não prova automaticamente nenhuma solução. Prova, contudo, que o problema não nasce de conveniência exclusiva desta Igreja: escolas que aceitam premissas eclesiológicas opostas reconheceram que a crise pode exigir continuidade sacramental fora do funcionamento ordinário.
 
@@ -396,7 +396,7 @@ A relevância desta nota está em mostrar que a crise de jurisdição pode receb
 
 <br><br>
 
-### 20 A prioridade do título ordinário
+### 20. A prioridade do título ordinário
 
 A Igreja Vétero Católica de Jerusalém em Portugal não se apresenta como capela improvisada por necessidade pós conciliar. A sua tese principal assenta na continuidade histórica da Igreja brasileira de matriz polaco nacional, na sucessão do governo, na transmissão episcopal, nas constituições e no mandato recebido da Fidelitas. Esses elementos devem ser demonstrados no estudo próprio de canonicidade por documentos de eleição, consagração, incorporação, sucessão e competência.
 
@@ -405,7 +405,7 @@ Uma comunidade que possui bispos, sínodos, constituições, clero, missões, pr
 
 <br><br>
 
-### 21 O título subsidiário extraordinário
+### 21. O título subsidiário extraordinário
 
 Se alguém levantar dúvida positiva e juridicamente fundada sobre a extensão de uma faculdade, a pergunta não é se toda a Igreja deixa de existir. Deve perguntar-se: qual é o acto; qual o poder sacramental necessário; qual a faculdade exigida; que título ordinário existe; e, subsidiariamente, que título extraordinário opera.
 
@@ -424,7 +424,7 @@ Isto permite uma formulação forte: deixando em suspenso, apenas para argumenta
 
 <br><br>
 
-### 22 Disciplina necessária para tornar credível a tese
+### 22. Disciplina necessária para tornar credível a tese
 
 A defesa da jurisdição extraordinária impõe obrigações mais rigorosas, não menos rigorosas. A Igreja deve manter registos completos de baptismos, confirmações, matrimónios, ordens e óbitos; investigar liberdade e impedimentos matrimoniais; documentar faculdades e nomeações; conservar arquivos de sucessão; formar confessores; distinguir foro interno e externo; e prever revisão sinodal de actos controversos.
 
