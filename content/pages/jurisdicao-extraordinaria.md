@@ -4,7 +4,7 @@ title: Crise eclesial, necessidade e jurisdição extraordinária
 ---
 ### Uma defesa tradicionalista e ultrajectina da continuidade sacramental para o bem das almas
 
-<center><img alt="Ilustração de Nossa Senhora de La Salette diante de duas crianças, acompanhada pela citação 'Roma perderá a fé e tornar-se-á a sede do Anticristo' e a data 19 de Setembro de 1846." src="/img/la-salette.png"><br>Aparições de Nossa Senhora de La Salette, 23 anos antes do Concílio Vaticano I.</center><br>
+<center><img alt="Ilustração de Nossa Senhora de La Salette diante de duas crianças, acompanhada pela citação 'Roma perderá a fé e tornar-se-á a sede do Anticristo' e a data 19 de Setembro de 1846." src="/img/la-salette.png" height=400px><br>Aparições de Nossa Senhora de La Salette, 23 anos antes do Concílio Vaticano I.</center><br>
 
 ### Introdução
 
