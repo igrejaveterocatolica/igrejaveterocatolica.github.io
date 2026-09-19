@@ -862,7 +862,7 @@ footer h5 {
     font-weight: 600;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: #9a7a3a;
+    color: var(--secondary-color);
 }
 
 .christ-centered h2 {
@@ -876,21 +876,29 @@ footer h5 {
     margin: 0 auto 18px;
     font-size: 1.25rem;
     line-height: 1.7;
-    font-weight: 500;
+    font-weight: 400;
 }
 
-.christ-centered-content > p:not(.christ-centered-intro) {
+.christ-centered-body {
     max-width: 760px;
     margin: 0 auto;
     font-size: 1.05rem;
     line-height: 1.8;
 }
 
+.christ-centered-body p {
+    margin-bottom: 12px;
+}
+
+.christ-centered-body p:last-child {
+    margin-bottom: 0;
+}
+
 .christ-centered blockquote {
     max-width: 620px;
     margin: 35px auto 0;
     padding: 25px 30px;
-    border-left: 3px solid #9a7a3a;
+    border-left: 3px solid var(--secondary-color);
     background: rgba(255, 255, 255, 0.65);
     text-align: left;
 }
@@ -919,6 +927,10 @@ footer h5 {
 
     .christ-centered-intro {
         font-size: 1.1rem;
+    }
+
+    .christ-centered-body {
+        font-size: 1rem;
     }
 
     .christ-centered blockquote {
