@@ -840,4 +840,92 @@ footer h5 {
     margin-right: 6px;
 }
 
+/* =========================================
+   CRISTO NO CENTRO
+   ========================================= */
 
+.christ-centered {
+    padding: 70px 20px;
+    background: #faf8f3;
+    text-align: center;
+}
+
+.christ-centered-content {
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.christ-centered-kicker {
+    display: inline-block;
+    margin-bottom: 12px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #9a7a3a;
+}
+
+.christ-centered h2 {
+    margin: 0 0 22px;
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 1.15;
+}
+
+.christ-centered-intro {
+    max-width: 760px;
+    margin: 0 auto 18px;
+    font-size: 1.25rem;
+    line-height: 1.7;
+    font-weight: 500;
+}
+
+.christ-centered-content > p:not(.christ-centered-intro) {
+    max-width: 760px;
+    margin: 0 auto;
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+.christ-centered blockquote {
+    max-width: 620px;
+    margin: 35px auto 0;
+    padding: 25px 30px;
+    border-left: 3px solid #9a7a3a;
+    background: rgba(255, 255, 255, 0.65);
+    text-align: left;
+}
+
+.christ-centered blockquote p {
+    margin: 0 0 8px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.35rem;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+.christ-centered blockquote cite {
+    display: block;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 600;
+    color: #777;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+    .christ-centered {
+        padding: 50px 18px;
+    }
+
+    .christ-centered-intro {
+        font-size: 1.1rem;
+    }
+
+    .christ-centered blockquote {
+        padding: 20px;
+    }
+
+    .christ-centered blockquote p {
+        font-size: 1.2rem;
+    }
+}

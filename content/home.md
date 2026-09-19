@@ -6,6 +6,12 @@ hero_button_text: Ver Horários das Missas
 hero_button_link: "#missas"
 clarification_title: Nota de Clarificação Institucional
 communities_title: Comunidades
+christ_kicker: "O centro da nossa fé"
+christ_title: "Jesus Cristo"
+christ_intro: "Jesus Cristo, Filho de Deus, Salvador do mundo e Rei do Universo, é o centro da nossa fé, da Igreja e da nossa missão."
+christ_body: "Enraizados na Sagrada Escritura e na Tradição Apostólica, procuramos viver e anunciar o Evangelho, celebrando nos Sacramentos a presença de Cristo no meio da sua Igreja."
+christ_scripture: "«Eu sou o Caminho, a Verdade e a Vida.»"
+christ_scripture_reference: "João 14,6"
 ---
 
 A **Primeira Igreja Apostólica Vétero Católica de Jerusalém em Portugal** constitui o ramo legítimo e oficial em território português da *Igreja Apostólica Vétero Católica do Brasil Fidelitas*, conforme o <u><strong><a href="/img
