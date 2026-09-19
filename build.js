@@ -193,6 +193,13 @@ function buildHomepage() {
     hero_button_text: frontmatter.hero_button_text || "",
     hero_button_link: frontmatter.hero_button_link || "#",
 
+    christ_kicker: frontmatter.christ_kicker || "",
+    christ_title: frontmatter.christ_title || "",
+    christ_intro: frontmatter.christ_intro || "",
+    christ_body: frontmatter.christ_body || "",
+    christ_scripture: frontmatter.christ_scripture || "",
+    christ_scripture_reference: frontmatter.christ_scripture_reference || "",
+
     clarification_title: frontmatter.clarification_title || "",
     clarification_body: applyAltsToHTML(marked.parse(body)),
 
@@ -221,7 +228,7 @@ function buildHomepage() {
     footer_civil_note: settings.footer_civil_note,
 
     footer_links: footerLinksHTML
-  });
+});
 
   fs.writeFileSync("./build-output/index.html", html);
   console.log("✔ Homepage generated");
