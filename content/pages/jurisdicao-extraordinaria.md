@@ -374,7 +374,7 @@ Outros grupos respondem a uma questão diferente: não procuram apenas justifica
 
   <u><a href="https://www.palmarianchurch.org/frequent-questions/">Igreja Palmariana — <i>Frequent Questions</i></a></u>
 
-Em seguida apresentamos duas abordagens que usam argumentos do foro jurídico-canónico:
+Em seguida apresentamos três abordagens que usam argumentos do foro jurídico-canónico:
 
 * O conclavista Vatican in Exile afirma que uma eleição extraordinária produziu David Bawden como Michael I em 1990 e, após a sua morte, Rogelio Martinez como Michael II em 2023.
 
@@ -383,6 +383,9 @@ Em seguida apresentamos duas abordagens que usam argumentos do foro jurídico-ca
 * O projeto Unam Sanctam propõe a reunião de um Concílio Geral Imperfeito para restaurar uma cabeça visível da Igreja, da qual voltaria a fluir jurisdição ordinária.
 
   <u><a href="https://www.unamsanctam.org/pt/home">Unam Sanctam</a></u>
+
+<a id="restauracionismo-st-louis"></a>
+* O movimento anglicano continuante nascido do **Congresso de St. Louis de 1977** apresenta uma terceira modalidade de argumento restauracionista. Não sustenta que a necessidade extraordinária crie, por si mesma, nova jurisdição ordinária, mas que a Igreja Anglicana tradicional e a sua jurisdição preexistente continuaram apesar da alegada ruptura das estruturas oficiais. A [Afirmação de St. Louis](https://anglicancatholic.org/mt-content/uploads/2020/10/the-affirmation-of-st.-louis.pdf) declarou que os anteriores governos eclesiásticos se tinham tornado profundamente comprometidos e que seria necessário reorganizar a disciplina eclesial para continuar a mesma Igreja. Os participantes colocaram-se sob a jurisdição do Bispo Albert Chambers e a **Anglican Catholic Church** sustenta que, nas consagrações de Denver de 1978, Chambers expandiu e devolveu essa jurisdição aos novos bispos. Trata-se, portanto, de uma pretensão de **continuidade e restauração do exercício da jurisdição ordinária**, e não de transformação da jurisdição extraordinária em ordinária. A fundamentação é apresentada na [história oficial da ACC](https://anglicancatholic.org/about-us/) e desenvolvida também neste [estudo canónico sobre a sucessão de Chambers](https://anglican.ink/2022/01/27/the-bestowal-of-episcopal-orders-the-case-of-the-anglican-catholic-church/).
 
 
 A validade destas pretensões não precisa de ser resolvida aqui. Elas pertencem a uma categoria distinta: procuram restaurar a normalidade jurisdicional, enquanto a presente linha estuda mecanismos extraordinários na sua ausência ou contestação.
