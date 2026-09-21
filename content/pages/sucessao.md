@@ -1686,7 +1686,7 @@ O sagrante principal foi Dom Barry Frank Peachey.
 
 
 
-121. Arcebispo James F. A. Lashley, 1932 d.C.
+121. Arcebispo James Francis Augustine Lashley, 1932 d.C.
 
 
 
