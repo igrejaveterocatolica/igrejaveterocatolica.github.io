@@ -442,13 +442,28 @@ linhas episcopais reunidas no episcopado de Dom Paulo Pereira.
 
 
 256. **Dom Rogério Ribeiro Campos, 2005 d.C.**
-Sagrado Bispo em **2005** por **Dom Aparecido Pereira**, recebendo através deste
-a sucessão episcopal transmitida por Dom Paulo Pereira.
+<a href="https://freisdecaridadeebenevolencia.blogspot.com/2014/10/linhas-de-sucessao-apostolicas-do-bispo.html">Sagrado</a> por Arcebispo Michael (J. Paul A. Boucher) da Igreja Católica Carismática no 26 de junho de 2005, tendo **Dom José Carlos Teodoro** e **Dom Aparecido Pereira** como coconsagrantes. 
+
+<details>
+<summary>Detalhes sobre consagração de Dom Rogério Ribeiro Campos</summary>
+
+Posteriormente, Dom Rogério Ribeiro Campos foi eleito e nomeado como Bispo-Presidente da Comunhão Anglicana Independente Mundial para o periodo 2 de Junho de 2008 até 6 de Dezembro de 2009, e foi também recebido e nomeado Bispo-prelado pela Igreja Anglicana Tradicional do Brasil (IATB) e Comunhão Anglicana Independente (The Anglican Independent Communion Worldwide – AICW) em 07 de Dezembro de 2009.
+
+A **Igreja Anglicana Tradicional do Brasil (IATB)** entende-se como jurisdição canónica inserida no movimento anglicano continuante e na lógica de continuidade eclesial afirmada em St. Louis. Nesse enquadramento, a receção de Dom Rogério Ribeiro Campos como **Bispo-Prelado** constitui também um reconhecimento institucional da validade e canonicidade do seu episcopado. <br>
+
+Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php).
+</details>
 
 
 #### Linhagem Vétero-Católica de Jerusalém em Portugal
 
 257. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+
+<details>
+<summary>Detalhes sobre a consagração de Dom José Barboza da Silva</summary>
+
+A sagração de Dom José Barboza ocorreu no âmbito da **Igreja Anglicana Tradicional do Brasil (IATB)**, inserida no movimento das jurisdições anglicanas continuantes surgidas para preservar a fé, a disciplina e a ordem sacramental tradicionais perante alterações consideradas incompatíveis com a tradição recebida, aplicando-se assim a mesma lógica de continuidade eclesial formulada no Congresso de St. Louis. Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php). Na sagração de Dom José participou ainda, como co-consagrador *in absentia*, Dom Barry Burrus, bispo da *Catholic Anglican Church*, jurisdição que deriva canonicamente da *Anglican Catholic Church* constituída a partir de St. Louis. Consideramos legítima essa continuidade porque a ACC nasceu de uma comunidade eclesial organizada que, perante uma situação considerada de grave necessidade, se colocou sob a jurisdição do Bispo Albert Chambers, o qual, nas consagrações de Denver de 1978, transmitiu o episcopado e devolveu essa jurisdição aos novos bispos, com participação e assentimento de outros hierarcas, fundamento exposto na [história oficial da ACC](https://anglicancatholic.org/about-us/) e no [estudo canónico de Sarah Wagner-Wassen](https://anglican.ink/2022/01/27/the-bestowal-of-episcopal-orders-the-case-of-the-anglican-catholic-church/). Assim, embora Dom Barry Burrus não tenha transmitido sacramentalmente a Ordem por estar ausente, o seu assentimento acrescenta uma garantia jurisdicional independente; por isso, segundo estes pressupostos, consideramos a sagração de Dom José Barboza não apenas sacramentalmente válida, mas também canonicamente válida.
+</details>
 
 
 
@@ -1252,7 +1267,11 @@ O sagrante principal foi Dom Barry Frank Peachey.
 261. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por **Dom Rui Costa Barbosa**, tendo Dom Rogério Ribeiro Campos e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
 
+<details>
+<summary>Detalhes sobre a consagração de Dom José Barboza da Silva</summary>
 
+A sagração de Dom José Barboza ocorreu no âmbito da **Igreja Anglicana Tradicional do Brasil (IATB)**, inserida no movimento das jurisdições anglicanas continuantes surgidas para preservar a fé, a disciplina e a ordem sacramental tradicionais perante alterações consideradas incompatíveis com a tradição recebida, aplicando-se assim a mesma lógica de continuidade eclesial formulada no Congresso de St. Louis. Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php). Na sagração de Dom José participou ainda, como co-consagrador *in absentia*, Dom Barry Burrus, bispo da *Catholic Anglican Church*, jurisdição que deriva canonicamente da *Anglican Catholic Church* constituída a partir de St. Louis. Consideramos legítima essa continuidade porque a ACC nasceu de uma comunidade eclesial organizada que, perante uma situação considerada de grave necessidade, se colocou sob a jurisdição do Bispo Albert Chambers, o qual, nas consagrações de Denver de 1978, transmitiu o episcopado e devolveu essa jurisdição aos novos bispos, com participação e assentimento de outros hierarcas, fundamento exposto na [história oficial da ACC](https://anglicancatholic.org/about-us/) e no [estudo canónico de Sarah Wagner-Wassen](https://anglican.ink/2022/01/27/the-bestowal-of-episcopal-orders-the-case-of-the-anglican-catholic-church/). Assim, embora Dom Barry Burrus não tenha transmitido sacramentalmente a Ordem por estar ausente, o seu assentimento acrescenta uma garantia jurisdicional independente; por isso, segundo estes pressupostos, consideramos a sagração de Dom José Barboza não apenas sacramentalmente válida, mas também canonicamente válida.
+</details>
 
 
 
@@ -1748,9 +1767,17 @@ e realizando consagrações de outros Bispos no Brasil.
 
 127. **Dom Rogério Ribeiro Campos**, 2005 d.C.
 
+<a href="https://freisdecaridadeebenevolencia.blogspot.com/2014/10/linhas-de-sucessao-apostolicas-do-bispo.html">Sagrado</a> por Arcebispo Michael (J. Paul A. Boucher) da Igreja Católica Carismática no 26 de junho de 2005, tendo **Dom José Carlos Teodoro** e **Dom Aparecido Pereira** como coconsagrantes. 
 
+<details>
+<summary>Detalhes sobre consagração de Dom Rogério Ribeiro Campos</summary>
 
+Posteriormente, Dom Rogério Ribeiro Campos foi eleito e nomeado como Bispo-Presidente da Comunhão Anglicana Independente Mundial para o periodo 2 de Junho de 2008 até 6 de Dezembro de 2009, e foi também recebido e nomeado Bispo-prelado pela Igreja Anglicana Tradicional do Brasil (IATB) e Comunhão Anglicana Independente (The Anglican Independent Communion Worldwide – AICW) em 07 de Dezembro de 2009.
 
+A **Igreja Anglicana Tradicional do Brasil (IATB)** entende-se como jurisdição canónica inserida no movimento anglicano continuante e na lógica de continuidade eclesial afirmada em St. Louis. Nesse enquadramento, a receção de Dom Rogério Ribeiro Campos como **Bispo-Prelado** constitui também um reconhecimento institucional da validade e canonicidade do seu episcopado. <br>
+
+Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php).
+</details>
 
 
 
@@ -1760,6 +1787,12 @@ e realizando consagrações de outros Bispos no Brasil.
 
 
 128. **Dom José Barboza da Silva**, <u><a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a></u> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
+
+<details>
+<summary>Detalhes sobre a consagração de Dom José Barboza da Silva</summary>
+
+A sagração de Dom José Barboza ocorreu no âmbito da **Igreja Anglicana Tradicional do Brasil (IATB)**, inserida no movimento das jurisdições anglicanas continuantes surgidas para preservar a fé, a disciplina e a ordem sacramental tradicionais perante alterações consideradas incompatíveis com a tradição recebida, aplicando-se assim a mesma lógica de continuidade eclesial formulada no Congresso de St. Louis. Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php). Na sagração de Dom José participou ainda, como co-consagrador *in absentia*, Dom Barry Burrus, bispo da *Catholic Anglican Church*, jurisdição que deriva canonicamente da *Anglican Catholic Church* constituída a partir de St. Louis. Consideramos legítima essa continuidade porque a ACC nasceu de uma comunidade eclesial organizada que, perante uma situação considerada de grave necessidade, se colocou sob a jurisdição do Bispo Albert Chambers, o qual, nas consagrações de Denver de 1978, transmitiu o episcopado e devolveu essa jurisdição aos novos bispos, com participação e assentimento de outros hierarcas, fundamento exposto na [história oficial da ACC](https://anglicancatholic.org/about-us/) e no [estudo canónico de Sarah Wagner-Wassen](https://anglican.ink/2022/01/27/the-bestowal-of-episcopal-orders-the-case-of-the-anglican-catholic-church/). Assim, embora Dom Barry Burrus não tenha transmitido sacramentalmente a Ordem por estar ausente, o seu assentimento acrescenta uma garantia jurisdicional independente; por isso, segundo estes pressupostos, consideramos a sagração de Dom José Barboza não apenas sacramentalmente válida, mas também canonicamente válida.
+</details>
 
 
 
@@ -2212,7 +2245,17 @@ e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**. Foi sagr
 
 260. **Dom Rogério Ribeiro Campos, 2005 d.C.**
 
+<a href="https://freisdecaridadeebenevolencia.blogspot.com/2014/10/linhas-de-sucessao-apostolicas-do-bispo.html">Sagrado</a> por Arcebispo Michael (J. Paul A. Boucher) da Igreja Católica Carismática no 26 de junho de 2005, tendo **Dom José Carlos Teodoro** e **Dom Aparecido Pereira** como coconsagrantes. 
 
+<details>
+<summary>Detalhes sobre consagração de Dom Rogério Ribeiro Campos</summary>
+
+Posteriormente, Dom Rogério Ribeiro Campos foi eleito e nomeado como Bispo-Presidente da Comunhão Anglicana Independente Mundial para o periodo 2 de Junho de 2008 até 6 de Dezembro de 2009, e foi também recebido e nomeado Bispo-prelado pela Igreja Anglicana Tradicional do Brasil (IATB) e Comunhão Anglicana Independente (The Anglican Independent Communion Worldwide – AICW) em 07 de Dezembro de 2009.
+
+A **Igreja Anglicana Tradicional do Brasil (IATB)** entende-se como jurisdição canónica inserida no movimento anglicano continuante e na lógica de continuidade eclesial afirmada em St. Louis. Nesse enquadramento, a receção de Dom Rogério Ribeiro Campos como **Bispo-Prelado** constitui também um reconhecimento institucional da validade e canonicidade do seu episcopado. <br>
+
+Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php).
+</details>
 
 
 
@@ -2225,6 +2268,11 @@ e posteriormente **Arcebispo Primaz dos Vétero-Católicos do Brasil**. Foi sagr
 
 261. **Dom José Barboza da Silva**, <a href="https://anglicanotradicional.blogspot.com/2008/02/sagraes-episcopais-na-igreja-anglicana.html?m=1">sagrado bispo</a> em 27 de janeiro de 2008, em Curitiba, por Dom Rui Costa Barbosa, tendo **Dom Rogério Ribeiro Campos** e Dom Ricardo Souza como co-sagrantes; posteriormente Bispo Auxiliar da Igreja Vétero-Católica de Jerusalém em Portugal.
 
+<details>
+<summary>Detalhes sobre a consagração de Dom José Barboza da Silva</summary>
+
+A sagração de Dom José Barboza ocorreu no âmbito da **Igreja Anglicana Tradicional do Brasil (IATB)**, inserida no movimento das jurisdições anglicanas continuantes surgidas para preservar a fé, a disciplina e a ordem sacramental tradicionais perante alterações consideradas incompatíveis com a tradição recebida, aplicando-se assim a mesma lógica de continuidade eclesial formulada no Congresso de St. Louis. Importa recordar que o Anglicanismo procede historicamente de uma hierarquia episcopal cuja canonicidade anterior à Reforma é indisputada; a separação de Roma tornou controversa a continuidade dessa autoridade, devendo distinguir-se essa questão da controvérsia específica sobre a validade das Ordens anglicanas. Significativamente, em 1922 o Patriarcado Ecuménico de Constantinopla [reconheceu as Ordens anglicanas](https://www.anglicanhistory.org/orders/) como possuindo a mesma validade das Ordens romanas, vétero-católicas e arménias, reconhecendo assim a realidade do seu episcopado e a eficácia das ordenações realizadas dentro da sua própria estrutura eclesial, embora sem integrar a Comunhão Anglicana na ordem canónica ortodoxa. Em 2008, a IATB apresentava-se já como uma estrutura eclesial organizada, com autoridade episcopal, dioceses e [relações intereclesiais próprias](https://www.anglicanatradicional.com.br/concordats.php). Na sagração de Dom José participou ainda, como co-consagrador *in absentia*, Dom Barry Burrus, bispo da *Catholic Anglican Church*, jurisdição que deriva canonicamente da *Anglican Catholic Church* constituída a partir de St. Louis. Consideramos legítima essa continuidade porque a ACC nasceu de uma comunidade eclesial organizada que, perante uma situação considerada de grave necessidade, se colocou sob a jurisdição do Bispo Albert Chambers, o qual, nas consagrações de Denver de 1978, transmitiu o episcopado e devolveu essa jurisdição aos novos bispos, com participação e assentimento de outros hierarcas, fundamento exposto na [história oficial da ACC](https://anglicancatholic.org/about-us/) e no [estudo canónico de Sarah Wagner-Wassen](https://anglican.ink/2022/01/27/the-bestowal-of-episcopal-orders-the-case-of-the-anglican-catholic-church/). Assim, embora Dom Barry Burrus não tenha transmitido sacramentalmente a Ordem por estar ausente, o seu assentimento acrescenta uma garantia jurisdicional independente; por isso, segundo estes pressupostos, consideramos a sagração de Dom José Barboza não apenas sacramentalmente válida, mas também canonicamente válida.
+</details>
 
 
 
