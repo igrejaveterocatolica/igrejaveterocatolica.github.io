@@ -29,24 +29,10 @@ A história dos Vétero‑Católicos não pode ser compreendida sem reconhecer o
 
 
 
-Em **1145**, o Papa Eugénio III outorgou ao Capítulo da Catedral de Utrecht o direito perpétuo de eleger os seus próprios bispos sempre que a sé estivesse vacante. Este privilégio foi reafirmado pelo IV Concílio de Latrão (1215), consolidando o direito capitular de eleição, exercido dentro da ordem canónica da época. <br><br>
+No século XII, a Igreja de Utrecht já exercia um direito próprio de participação na eleição dos seus bispos. A tradição documental atribuiu a **1145** um privilégio de Conrado III, posteriormente confirmado pelo **Papa Eugénio III**, que reconheceria esse direito a determinados capítulos de Utrecht. O **IV Concílio de Latrão (1215)** enquadrou essa prática na disciplina canónica geral das eleições episcopais, regulando a eleição e confirmação dos prelados e prevendo disposições específicas para eleitos de regiões distantes, incluindo os situados fora da Itália.<br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mais tarde, em **1520**, o Papa Leão X promulgou a bula *Debitum Pastoralis*, que estabelecia que nenhum clérigo ou leigo de Utrecht poderia ser julgado por tribunais eclesiásticos externos, incluindo Roma. Qualquer processo desse tipo seria considerado nulo de pleno direito. Esta proteção jurídica reforçou a autonomia da Sé e tornou‑se um elemento central nos conflitos posteriores. <br><br>
+Mais tarde, em **1520**, o Papa Leão X promulgou a bula *Debitum Pastoralis*, tradicionalmente conhecida em Utrecht como **Privilégio Leonino**, que reforçou as garantias jurisdicionais da Igreja de Utrecht, protegendo os seus membros contra determinadas citações e processos perante tribunais eclesiásticos externos e declarando inválidos os procedimentos contrários ao privilégio. Esta proteção tornou-se posteriormente um importante fundamento jurídico nas controvérsias relativas à autonomia da Sé de Utrecht.
+<br><br>
 
 
 
@@ -390,7 +376,7 @@ Estudo académico — “A Igreja Antigo Católica em Ponta Grossa (1932–1934)
 
 
 
-
+<center><img src="/img/dom_perkowski.png" height=400px><br>Bispo Jan Piotr Perkowski em 1934</center> <br>
 
 
 
