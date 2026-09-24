@@ -376,7 +376,7 @@ Estudo académico — “A Igreja Antigo Católica em Ponta Grossa (1932–1934)
 
 
 
-<center><img src="/img/dom_perkowski.png" height=400px><br>Bispo Jan Piotr Perkowski em 1934</center> <br>
+<center><img src="/img/dom_perkowski.png" height=400px><br>Bispo Jan Piotr Perkowski em 1934, posteriormente viria a ser o primeiro Arcebispo Primaz da Igreja Vétero Católica do Brasil</center> <br>
 
 
 
