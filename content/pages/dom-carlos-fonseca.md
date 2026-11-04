@@ -26,6 +26,8 @@ Posteriormente, a **24 de abril de 2023**, recebeu a ordenação sacerdotal e a 
 
 A **25 de maio de 2023** foi elevado a **Arcebispo Primaz da Igreja Vétero Católica de Jerusalém em Portugal** por <u><a href="/img/decreto-dom-paulus-nunes.jpg">decreto</a></u> de **Sua Beatitude o Patriarca Dom Paulus Nunes** da **Igreja Vétero Católica Fidelitas e de Jerusalém no Brasil e Exterior**.
 
+A **7 de janeiro de 2024**, foi-lhe conferido o título de <a href="/img/sagracao_episcopal_carlos_fonseca_1.jpg"><u>**Doutor em Filosofia Clássica (honoris causa)**</u></a> pelo **Instituto de Teologia e Filosofia São João da Cruz**, em reconhecimento do seu trabalho académico nas áreas da Teologia, Filosofia e Ciências da Religião.
+
 É autor de *A Relação com Deus de Geração em Geração* e *As Últimas Palavras de Deus*, obras que procuram despertar consciências para os desafios sociais do quotidiano e para a dinâmica espiritual entre a busca do Divino e o afastamento de Deus. <br><br>
 
 ### Sucessão Apostólica
