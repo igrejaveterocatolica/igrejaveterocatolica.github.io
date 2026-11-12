@@ -941,3 +941,51 @@ footer h5 {
         font-size: 1.2rem;
     }
 }
+
+/* Arquivo de eventos */
+.agenda-page .agenda-arquivo {
+    max-width: 900px;
+    margin: 40px auto 0;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    background: var(--light-bg);
+}
+
+.agenda-page .agenda-arquivo > summary {
+    padding: 18px 25px;
+    cursor: pointer;
+    color: var(--primary-color);
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+}
+
+.agenda-page .agenda-arquivo > summary:hover {
+    background: rgba(184, 146, 67, 0.1);
+}
+
+.agenda-page .agenda-arquivo > summary:focus-visible {
+    outline: 3px solid var(--secondary-color);
+    outline-offset: 3px;
+}
+
+.agenda-page .agenda-arquivo[open] > summary {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.agenda-page .agenda-arquivo > .agenda-list {
+    padding: 25px;
+}
+
+.agenda-page .agenda-vazia {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+    color: #555;
+}
+
+@media (max-width: 768px) {
+    .agenda-page .agenda-arquivo > .agenda-list {
+        padding: 15px;
+    }
+}
