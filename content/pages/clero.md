@@ -34,5 +34,15 @@ title: O Nosso Clero
     </div>
 </div>
 
+<br><br>
+
+<div class="clero-header">
+    <img src="./img/diacono_lgp.png" width="160" style="border-radius: 6px;">
+    <div>
+        <h2 style="margin: 0;">Rev. Diác. Luís Galego Pinto, TOP (Ir. Tomás Aurélio)</h2>
+        <h3 style="margin: 0;">Diácono</h3>
+    </div>
+</div>
+
 
 <br><br> <br><br>
